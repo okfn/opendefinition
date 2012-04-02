@@ -86,3 +86,7 @@ The license must not place restrictions on other works that are distributed alon
 
 *Comment: this is taken directly from item 9 of the OSD.*
 
+### 12.  THE LICENSE MUST NOT IMPOSE ADDITIONAL RESTRICTIONS
+The license must not place any additional restrictions or conditions on the access, use, reuse or redistribution of the data other than those explicitly described under this definition.
+
+*Comment: This clause is intended to clarify that presence of restrictions not specifically permitted above make a license non-open. Such restrictions are usually one or more of onerous, vague, unnecessary (for example, requiring following an unrelated law), and always harmful to compatibility among open licenses.*
