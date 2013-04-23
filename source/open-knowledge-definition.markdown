@@ -42,7 +42,9 @@ in a convenient and modifiable form.
 *Comment: This can be summarized as 'social' openness - not only are
 you allowed to get the work but you can get it. 'As a whole' prevents
 the limitation of access by indirect means, for example by only allowing
-access to a few items of a database at a time.*
+access to a few items of a database at a time. An example of 'reasonable 
+reproduction cost' is the cost of a blank DVD required to 
+distribute a complete database.*
 
 ### 2. Redistribution
 
