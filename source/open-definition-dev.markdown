@@ -1,4 +1,4 @@
-# Open Knowledge Definition
+# Open Definition
 Version 1.2dev
 
 ## Terminology
