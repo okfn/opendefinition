@@ -25,19 +25,25 @@ Approach:
 * Store licenses as markdown files
 * Store licenses in `/licenses/`
 
-      # conformant licenses
-      /licenses/conformant/{license-id}/{license-full-name}.md  
-      # licenses under review
-      /licenses/inreview/{license-id}/{license-full-name}.md
-      /licenses/nonconformant/{license-id}/{license-full-name}.md
+        # conformant licenses
+        /licenses/conformant/{license-id}/{license-full-name}.md  
+        # licenses under review
+        /licenses/inreview/{license-id}/{license-full-name}.md
+        # non-conformant licenses
+        /licenses/nonconformant/{license-id}/{license-full-name}.md
+* The process is for license texts to go into inreview to start with and then
+  get moved to the appropriate location upon a decision by the Advisory Council
 
 Notes:
 
 * license-id should be a short url-usable name e.g. odc-pddl or cc-zero
-* Do not put a version in the license name unless is a differentiating factor (e.g. gpl-v3.md)
-  * We use github revisions to track changes (and you can use github tags if needed)
+* Do not put a version in the license name unless is a differentiating factor
+  (e.g. gpl-v3.md)
+  * We use github revisions to track changes (and you can use github tags if
+    needed)
 
-Example, suppose we were storing the Open Data Commons Public Domain Dedication and License.
+Example, suppose we were storing the Open Data Commons Public Domain Dedication
+and License.
 
     /licenses/odc-pddl/public-domain-dedication-license.md
 
