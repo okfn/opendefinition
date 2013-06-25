@@ -45,5 +45,5 @@ Notes:
 Example, suppose we were storing the Open Data Commons Public Domain Dedication
 and License.
 
-    /licenses/odc-pddl/public-domain-dedication-license.md
+    /licenses/conformant/odc-pddl/public-domain-dedication-license.md
 
