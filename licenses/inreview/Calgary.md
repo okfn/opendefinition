@@ -1,4 +1,4 @@
-City of Calgary - Open Data Catalogue Terms of Use
+Open Data Catalogue Terms of Use [City of Calgary]
 ====
 
 Acceptance of Terms
