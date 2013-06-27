@@ -50,17 +50,17 @@ Definitions
 ----
 In this licence, the terms below have the following meanings:
 
-"Information"
-: means information resources protected by copyright or other information that is offered for use under the terms of this licence.
+"Information"  
+means information resources protected by copyright or other information that is offered for use under the terms of this licence.
 
-"Information Provider"
-: means Her Majesty the Queen in right of Canada.
+"Information Provider"  
+means Her Majesty the Queen in right of Canada.
 
-"Personal Information"
-: means “personal information” as defined in section 3 of the Privacy Act, R.S.C. 1985, c. P-21.
+"Personal Information"  
+means “personal information” as defined in section 3 of the Privacy Act, R.S.C. 1985, c. P-21.
 
-"You"
-: means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.
+"You"  
+means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.
 
 Versioning
 ----
