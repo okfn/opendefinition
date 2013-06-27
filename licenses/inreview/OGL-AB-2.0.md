@@ -5,6 +5,7 @@ You are encouraged to use the Information that is available under this licence w
 Using Information under this licence
 ----
 1\. Use of any Information indicates your acceptance of the terms below.  
+
 2\. The Information Provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below.  
 
 You are free to:
@@ -38,11 +39,13 @@ Non-endorsement
 No warranty
 ----
 8\. The Information is licensed “as is”, and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law.  
+
 9\. The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage.  
 
 Governing Law
 ----
 10\. This licence is governed by the laws of the province of Alberta and the applicable laws of Canada.   
+
 11\. Legal proceedings related to this licence may only be brought in the courts of Alberta.  
 
 Definitions
