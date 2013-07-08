@@ -26,11 +26,11 @@ Approach:
 * Store licenses in `/licenses/`
 
         # conformant licenses
-        /licenses/conformant/{license-id}/{license-full-name}.md  
+        /licenses/conformant/{license-short-name}.md  
         # licenses under review
-        /licenses/inreview/{license-id}/{license-full-name}.md
+        /licenses/inreview/{license-short-name}.md
         # non-conformant licenses
-        /licenses/nonconformant/{license-id}/{license-full-name}.md
+        /licenses/nonconformant/{license-short-name}.md
 * The process is for license texts to go into inreview to start with and then
   get moved to the appropriate location upon a decision by the Advisory Council
 
