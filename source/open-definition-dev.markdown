@@ -17,8 +17,8 @@ is derived.
 The term **work** will be used to denote the item or piece of knowledge
 which is being transferred.
 
-The term **package** may also be used to denote a collection of works. Of
-course such a package may be considered a work in itself.
+The term **package** will be used to denote a collection of works. A
+package may be considered a work in itself.
 
 The term **license** refers to the legal terms under which the work is
 made available. Where no license has been made this should be interpreted
