@@ -5,14 +5,14 @@ Version 1.2dev
 
 The term **knowledge** is taken to include:
 
-  1. Content such as music, films, books
-  2. Data be it scientific, historical, geographic or otherwise
-  3. Government and other administrative information
+ 1. Content such as music, films, images, texts
+ 2. Data be it scientific, historical, geographic, administrative or
+   otherwise
 
 Software is excluded despite its obvious centrality because it is
 already adequately addressed by previous work, including the [Open Source
-Definition](http://www.opensource.org/docs/osd) (OSD), upon which this
-document is modeled.
+Definition](http://www.opensource.org/docs/osd), from which this document
+is derived.
 
 The term **work** will be used to denote the item or piece of knowledge
 which is being transferred.
@@ -20,7 +20,7 @@ which is being transferred.
 The term **package** may also be used to denote a collection of works. Of
 course such a package may be considered a work in itself.
 
-The term **license** refers to the legal license under which the work is
+The term **license** refers to the legal terms under which the work is
 made available. Where no license has been made this should be interpreted
 as referring to the resulting default legal conditions under which the
 work is available (for example copyright).
@@ -39,12 +39,12 @@ without charge. The **work** must also be available in a convenient and
 modifiable form. The **license** may require the work to be available
 in a convenient and modifiable form.
 
-*Comment: This can be summarized as 'social' openness - not only are
-you allowed to get the work but you can get it. 'As a whole' prevents
-the limitation of access by indirect means, for example by only allowing
-access to a few items of a database at a time. An example of 'reasonable 
-reproduction cost' is the cost of a blank DVD required to 
-distribute a complete database.*
+*Comment: This can be summarized as 'social' openness - not only are you
+allowed to use, modify, and share the work but you can get it. 'As a whole'
+prevents the limitation of access by indirect means, for example by only
+allowing access to a few items of a database at a time. An example of
+'reasonable reproduction cost' is the cost of blank media or bandwidth
+required to distribute a complete database.*
 
 ### 2. Redistribution
 
@@ -58,44 +58,41 @@ other fee for such sale or distribution.
 The **license** must allow for modifications and derivative works and
 must allow them to be distributed under the terms of the original work.
 
-*Comment: Note that this clause does not prevent the use of 'viral'
-or share-alike licenses that require redistribution of modifications
-under the same terms as the original.*
+*Comment: Note that this clause does not prevent the use of 'copyleft'
+or share-alike licenses that require any distribution of modifications
+to be under the same terms as the original.*
 
 ### 4. Absence of Technological Restriction
 
 The **work** must be provided in such a form that there are no
 technological obstacles to the performance of the above activities. This
-can be achieved by the provision of the work in an open data format,
-i.e. one whose specification is publicly and freely available and which
-places no restrictions monetary or otherwise upon its use. The **license**
+can be achieved by the provision of the work in an open format, i.e. one
+whose specification is publicly and freely available and which places
+no restrictions monetary or otherwise upon its use. The **license**
 may prohibit technological restrictions.
 
 ### 5. Attribution
 
-The **license** may require as a condition for redistribution and re-use
-the attribution of the contributors and creators to the work. If this
-condition is imposed it must not be onerous. For example if attribution
-is required a list of those requiring attribution should accompany
-the **work**.
+The **license** may require providing attribution to the creators of the
+work as a condition for redistribution and re-use. If this condition is
+imposed it must not be onerous. For example if attribution is required
+a list of those requiring attribution should accompany the **work**.
 
 ### 6. Integrity
 
 The **license** may require as a condition for the work being distributed
-in modified form that the resulting work carry a different name or
-version number from the original work.
+in modified form that the resulting work carry a different name or version
+number from the original work.
 
 ### 7. No Discrimination Against Persons or Groups
 
-The **license** must not discriminate against any person or group
-of persons.
+The **license** must not discriminate against any person or group of
+persons.
 
 *Comment: In order to get the maximum benefit from the process, the
 maximum diversity of persons and groups should be equally eligible to
-contribute to open knowledge. Therefore we forbid any open-knowledge
-license from locking anybody out of the process.*
-
-*Comment: this is taken directly from item 5 of the OSD.*
+contribute to open knowledge. Therefore we forbid any open license from
+locking anybody out of the process.*
 
 ### 8. No Discrimination Against Fields of Endeavor
 
@@ -107,8 +104,6 @@ from being used in a business, or from being used for genetic research.
 traps that prevent open material from being used commercially. We want
 commercial users to join our community, not feel excluded from it.*
 
-*Comment: this is taken directly from item 6 of the OSD.*
-
 ### 9. Distribution of License
 
 The rights attached to the **work** must apply to all to whom it is
@@ -118,8 +113,6 @@ by those parties.
 *Comment: This clause is intended to forbid closing up knowledge by
 indirect means such as requiring a non-disclosure agreement.*
 
-*Comment: this is taken directly from item 7 of the OSD.*
-
 ### 10. License Must Not Be Specific to a Package
 
 The rights attached to the **work** must not depend on the work being part
@@ -127,8 +120,6 @@ of a particular package. If the work is extracted from that package and
 used or distributed within the terms of the work's license, all parties
 to whom the work is redistributed should have the same rights as those
 that are granted in conjunction with the original package.
-
-*Comment: this is taken directly from item 8 of the OSD.*
 
 ### 11. License Must Not Restrict the Distribution of Other Works
 
@@ -139,8 +130,6 @@ not insist that all other works distributed on the same medium are open.
 *Comment: Distributors of open knowledge have the right to make their
 own choices. Note that 'share-alike' licenses are conformant since those
 provisions only apply if the whole forms a single work.*
-
-*Comment: this is taken directly from item 9 of the OSD.*
 
 ### 12. License Must Not Impose Additional Restrictions
 
