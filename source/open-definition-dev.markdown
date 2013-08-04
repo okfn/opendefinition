@@ -5,9 +5,9 @@ Version 1.2dev
 
 The term **knowledge** is taken to include:
 
- 1. Content such as music, films, images, texts
- 2. Data be it scientific, historical, geographic, administrative or
-   otherwise
+  1. Content such as music, films, images, texts
+  2. Data be it scientific, historical, geographic, administrative or
+     otherwise
 
 Software is excluded despite its obvious centrality because it is
 already adequately addressed by previous work, including the [Open Source
