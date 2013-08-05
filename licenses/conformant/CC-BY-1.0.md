@@ -19,7 +19,7 @@ CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
 CONDITIONS.
 
 1\. **Definitions**
- <ol style="list-style-type:lower-alpha">
+ <ol type="a">
  <li><b>"Collective Work"</b> means a work, such as a periodical issue, anthology or
  encyclopedia, in which the Work in its entirety in unmodified form, along
  with a number of other contributions, constituting separate and
@@ -58,7 +58,7 @@ applicable laws.
 hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the
 duration of the applicable copyright) license to exercise the rights in the
 Work as stated below:
- <ol style="list-style-type:lower-alpha">
+ <ol type="a">
  <li>to reproduce the Work, to incorporate the Work into one or more
  Collective Works, and to reproduce the Work as incorporated in the
  Collective Works;</li>
@@ -82,7 +82,7 @@ reserved.
 
 4\. **Restrictions.** The license granted in Section 3 above is expressly made
 subject to and limited by the following restrictions:  
- <ol style="list-style-type:lower-alpha">
+ <ol type="a">
   <li>You may distribute, publicly display, publicly perform, or publicly
   digitally perform the Work only under the terms of this License, and You
   must include a copy of, or the Uniform Resource Identifier for, this
@@ -122,11 +122,11 @@ subject to and limited by the following restrictions:
  </ol>
 
 5\. **Representations, Warranties and Disclaimer**
- <ol style="list-style-type:lower-alpha">
+ <ol type="a">
   <li>By offering the Work for public release under this License, Licensor
   represents and warrants that, to the best of Licensor's knowledge after
   reasonable inquiry:
-  <ol style="list-style-type:lower-roman">
+  <ol type="i">
    <li>Licensor has secured all rights in the Work necessary to grant the
        license rights hereunder and to permit the lawful exercise of the
        rights granted hereunder without You having any obligation to pay
@@ -154,7 +154,7 @@ EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF
 LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
 
 7\. **Termination**
- <ol style="list-style-type:lower-alpha">
+ <ol type="a">
   <li>This License and the rights granted hereunder will terminate
       automatically upon any breach by You of the terms of this License.
       Individuals or entities who have received Derivative Works or Collective
@@ -173,7 +173,7 @@ LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
  </ol>
 
 8\. **Miscellaneous**
- <ol style="list-style-type:lower-alpha">
+ <ol type="a">
    <li>Each time You distribute or publicly digitally perform the Work or a
        Collective Work, the Licensor offers to the recipient a license to the
        Work on the same terms and conditions as the license granted to You under
@@ -198,19 +198,4 @@ LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
        without the mutual written agreement of the Licensor and You.</li>
  </ol>
       
-Creative Commons is not a party to this License, and makes no warranty
-whatsoever in connection with the Work. Creative Commons will not be liable to
-You or any party on any legal theory for any damages whatsoever, including
-without limitation any general, special, incidental or consequential damages
-arising in connection to this license. Notwithstanding the foregoing two (2)
-sentences, if Creative Commons has expressly identified itself as the Licensor
-hereunder, it shall have all rights and obligations of Licensor.
-Except for the limited purpose of indicating to the public that the Work is
-licensed under the CCPL, neither party will use the trademark "Creative
-Commons" or any related trademark or logo of Creative Commons without the prior
-written consent of Creative Commons. Any permitted use will be in compliance
-with Creative Commons' then-current trademark usage guidelines, as may be
-published on its website or otherwise made available upon request from time to
-time.
 
-Creative Commons may be contacted at http://creativecommons.org/.
