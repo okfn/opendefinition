@@ -34,7 +34,7 @@ open **license**:
 ### 1. Access
 
 The **work** shall be available as a whole and at no more than a
-reasonable reproduction cost, preferably downloading via the Internet
+reasonable reproduction cost, preferably downloadable via the Internet
 without charge. The **work** must also be available in a convenient and
 modifiable form. The **license** may require the work to be available
 in a convenient and modifiable form.
