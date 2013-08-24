@@ -130,7 +130,10 @@ conditions:
 
 ### 1. License
 
-The work is available under an open license, as defined above.
+The work is available under an open license, as defined above, and 
+recipients of the work are clearly and unambigously notified of the 
+license. Any additional terms accompanying the work (such as a terms
+of use) do not contradict the terms of the license.
 
 ### 2. Access
 
