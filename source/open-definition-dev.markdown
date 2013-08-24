@@ -10,6 +10,7 @@ Version luis-craziness
 5. https://mail.google.com/mail/u/0/#search/is%3Asent+to%3Aod-discuss%40lists.okfn.org/13f38ee8485eec42
 6. https://creativecommons.org/weblog/entry/38316
 7. https://mail.google.com/mail/u/0/#search/is%3Asent+to%3Aod-discuss%40lists.okfn.org/13d7e1c72604a684
+8. Consider removing package.
 
 ## Terminology
 
@@ -61,9 +62,7 @@ under the same terms as the original.*
 
 The **license** may require as a condition for redistribution and re-use
 the attribution of the contributors and creators to the work. If this
-condition is imposed it must not be onerous. For example if attribution
-is required a list of those requiring attribution should accompany
-the **work**.
+condition is imposed it must not be onerous.
 
 ### 4. Integrity
 
@@ -108,7 +107,7 @@ indirect means such as requiring a non-disclosure agreement.*
 
 ### 8. License Must Not Be Specific to a Package
 
-The rights attached to the **work** must not depend on the work being part
+The rights granted by the **license** must not depend on the work being part
 of a particular package. If the work is extracted from that package and
 used or distributed within the terms of the work's license, all parties
 to whom the work is redistributed should have the same rights as those
@@ -118,7 +117,7 @@ that are granted in conjunction with the original package.
 
 ### 9. License Must Not Restrict the Distribution of Other Works
 
-The **license** must not place restrictions on other works that are
+The **license** must not place restrictions on other, distinct works that are
 distributed along with the licensed work. For example, the license must
 not insist that all other works distributed on the same medium are open.
 
@@ -140,38 +139,39 @@ restrictions are usually one or more of onerous, vague, unnecessary
 (for example, requiring following an unrelated law), and always harmful
 to compatibility among open licenses.*
 
+### 11. Access and Restrictions
+
+The **license** may require the work to be available in a conveniently modifiable form. The **license** may prohibit technological restrictions.
+
 ### Open Work Definition
 
 A **work** is open if its manner of distribution satisfies the following
 conditions:
 
-### 1. License
+### 1. License and Licensing Information
 
-The work must be available under an open license, as defined above, and 
-recipients of the work are clearly and unambigously notified of the 
+The **work** must be available under an open license, as defined above, and 
+recipients of the work are clearly and unambiguously notified of the 
 license. Any additional terms accompanying the work (such as a terms
-of use) do not contradict the terms of the license.
+of use) must not contradict the terms of the license. Additional information necessary for license compliance (such as names of contributors required for compliance with attribution requirements) should also accompany the **work**.
 
 ### 2. Access
 
 The **work** must be available as a whole and at no more than a
 reasonable reproduction cost, preferably downloading via the Internet
 without charge. The **work** must also be available in a convenient and
-modifiable form. The **license** may require the work to be available
-in a convenient and modifiable form.
+modifiable form. 
 
 *Comment: This can be summarized as 'social' openness - not only are
 you allowed to get the work but you can get it. 'As a whole' prevents
 the limitation of access by indirect means, for example by only allowing
 access to a few items of a database at a time. An example of 'reasonable 
-reproduction cost' is the cost of a blank DVD required to 
-distribute a complete database.*
+reproduction cost' is the cost of a blank DVD required to distribute a complete database.*
 
 ### 3. Absence of Technological Restriction
 
 The **work** must be provided in such a form that there are no
-technological obstacles to the performance of the above activities. This
+technological obstacles to the performance of the licensed rights. This
 can be achieved by the provision of the work in an open data format,
 i.e. one whose specification is publicly and freely available and which
-places no restrictions monetary or otherwise upon its use. The **license**
-may prohibit technological restrictions.
+places no restrictions monetary or otherwise upon its use. 
