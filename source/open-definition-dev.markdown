@@ -1,4 +1,4 @@
-# Open Definition
+# Open Knowledge Definition
 Version luis-craziness
 
 ## TODO
@@ -39,7 +39,7 @@ work is available (for example copyright).
 
 # The Definitions
 
-## Open License Definition
+## Open Knowledge License Definition
 
 A **license** is open if its terms satisfy the following conditions:
 
@@ -145,7 +145,7 @@ restrictions are usually one or more of onerous, vague, unnecessary
 (for example, requiring following an unrelated law), and always harmful
 to compatibility among open licenses.*
 
-## Open Work Definition
+## Open Knowledge Work Definition
 
 A specific **work** is open if its manner of distribution satisfies the following
 conditions:
