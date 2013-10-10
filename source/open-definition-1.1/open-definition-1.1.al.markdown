@@ -1,5 +1,4 @@
 # Përkufizime për Njohuri të Hapura
-
 Versioni: 1.1
 
 ## Terminologjia

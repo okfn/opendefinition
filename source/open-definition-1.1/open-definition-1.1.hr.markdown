@@ -1,5 +1,4 @@
 # Definicija otvorenog znanja
-
 Verzija: 1.1
 
 ## Pojmovi
