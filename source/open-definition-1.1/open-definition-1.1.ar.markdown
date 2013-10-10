@@ -1,4 +1,4 @@
-#Open Definition
+# Open Definition
 الإصدار ١.١
 
 ## ألفاظ ##
