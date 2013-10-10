@@ -43,23 +43,34 @@ work is available (for example copyright).
 
 A **license** is open if its terms satisfy the following conditions:
 
+## Mandatory Permissions
+
+*TODO*: not sure I like these subject headers, but they help clarify 
+where I'm going with this.
+
 ### 1. Use
 
 The **license** must allow use of the licensed work for any purpose.
 
-*Note on the change*: This may make obsolete, or be merged with, the two "no discrimination against..." clauses (or force them to be more clear and consistent with each other?)
+*Note on the change*: This may make obsolete, or be merged with, the 
+two "no discrimination against..." clauses (or force them to be more 
+clear and consistent with each other?)
 
 ### 2. Redistribution
 
-The **license** must allow redistribution of the licensed work, including sale, either on its own or as part of a package made from works
-from many different sources. The license must not require a royalty or
-other fee for such sale or distribution.
+The **license** must allow redistribution of the licensed work, 
+including sale, either on its own or as part of a package made from 
+works from many different sources. The license must not require a 
+royalty or other fee for such sale or distribution.
 
-*Note on the change*: This switches to a positive obligation, parallel to FSF Freedom 2. Goal is to make Sec. 11 redundant.
+*Note on the change*: This switches to a positive obligation, 
+parallel to FSF Freedom 2.
 
 ### 3. Modification
 
-The **license** must allow creation of derivatives of the licensed work, and must allow the derivatives to be distributed under the terms of the original licensed work.
+The **license** must allow creation of derivatives of the licensed 
+work, and must allow the derivatives to be distributed under the 
+terms of the original licensed work.
 
 *Comment: Note that this clause does not prevent the use of 'copyleft'
 or share-alike licenses that require redistribution of modifications
@@ -67,7 +78,8 @@ under the same terms as the original.*
 
 ## Impermissible restrictions
 
-The following restrictions are "known bad" and not permitted to modify the positive obligations of requirements 1-3.
+The following restrictions are "known bad" and not permitted to 
+modify the positive obligations of requirements 1-3.
 
 *TODO*: make the above more precise/formal.
 
@@ -111,7 +123,10 @@ used or distributed within the terms of the package's license, all parties
 to whom the work is redistributed should have the same rights as those 
 that are granted in conjunction with the original package.
 
-*TODO*: "must not depend" is awkward. Maybe "must allow components of the licensed work to be distributed separately from the complete original work"; when phrased that way, could simply be merged with/an additional condition/nuance to "modifications".
+*TODO*: "must not depend" is awkward. Maybe "must allow components of 
+the licensed work to be distributed separately from the complete original 
+work"; when phrased that way, could simply be merged with/an additional 
+condition/nuance to "modifications".
 
 ### 8. License Must Not Restrict the Distribution of Other Works
 
@@ -129,14 +144,20 @@ The **license** must not place any additional restrictions or conditions
 on the access, use, reuse or redistribution of the data other than those
 explicitly described under this definition. 
 
-*TODO*: Consider replacing this clause with something like "the advisory committee may, in its discretion, declare a license non-open if it contains restrictions not listed here that meaningfully limit or otherwise impact the permissions required in parts 1-3 of the definition".
+*TODO*: Consider replacing this clause with something like "the advisory 
+committee may, in its discretion, declare a license non-open if it contains 
+restrictions not listed here that meaningfully limit or otherwise impact 
+the permissions required in parts 1-3 of the definition".
 
 ## Permissible Restrictions
-The following restrictions are "known good" and expressly permitted to modify the positive obligations of requirements 1-3.
+The following restrictions are "known good" and expressly permitted to 
+modify the positive obligations of requirements 1-3.
 
 *TODO*: make the above more precise/formal.
 
-*TODO*: should this have the same disclaimer (advisory committee in its judgment...) as the restrictions part?
+*TODO*: should this have the same disclaimer (advisory committee in 
+its judgment...) as the restrictions part? That would be more controversial 
+(as it should be).
 
 ### 10. Attribution
 
