@@ -37,14 +37,17 @@ The **work** shall be available as a whole and at no more than a
 reasonable reproduction cost, preferably downloadable via the Internet
 without charge. The **work** must also be available in a convenient and
 modifiable form. The **license** may require the work to be available
-in a convenient and modifiable form.
+in a convenient and modifiable form. The **work** must be clearly presented
+as available under the **license**.
 
 *Comment: This can be summarized as 'social' openness - not only are you
 allowed to use, modify, and share the work but you can get it. 'As a whole'
 prevents the limitation of access by indirect means, for example by only
 allowing access to a few items of a database at a time. An example of
 'reasonable reproduction cost' is the cost of blank media or bandwidth
-required to distribute a complete database.*
+required to distribute a complete database. 'Clearly presented as
+available' means that both the license and the means of access are clear
+and unambiguous on which works the rights attach to.*
 
 ### 2. Redistribution
 
