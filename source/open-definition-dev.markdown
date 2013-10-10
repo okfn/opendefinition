@@ -4,12 +4,14 @@ Version luis-craziness
 ## TODO
 
 1. remove "shall"; use "must" consistently instead
-2. consider adding criteria for recommended licenses: https://mail.google.com/mail/u/0/#search/is%3Asent+to%3Aod-discuss%40lists.okfn.org/13d83b21993b1a1c
-3. consider criteria rejecting jurisdiction-specific licenses: https://mail.google.com/mail/u/0/#search/is%3Asent+to%3Aod-discuss%40lists.okfn.org/13f2fcff02db0ef6
+2. consider adding criteria for recommended licenses: http://lists.okfn.org/pipermail/od-discuss/2013-June/000464.html
+3. consider criteria rejecting jurisdiction-specific licenses: "While it is not currently addressed by the OD, we should strongly
+consider revising the OD to allow us to reject [OGL Canada] on
+grounds of being overly specific to a particular jurisdiction." (email appears not to have made it to the list?)
 3. review http://opendefinition.org/licenses/process/ to see if parallel fixes necessary
-5. https://mail.google.com/mail/u/0/#search/is%3Asent+to%3Aod-discuss%40lists.okfn.org/13f38ee8485eec42
+5. read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html
 6. https://creativecommons.org/weblog/entry/38316
-7. https://mail.google.com/mail/u/0/#search/is%3Asent+to%3Aod-discuss%40lists.okfn.org/13d7e1c72604a684
+7. no references to name: http://lists.okfn.org/pipermail/od-discuss/2013-March/000378.html
 8. Consider removing package.
 
 ## Terminology
