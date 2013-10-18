@@ -1,17 +1,6 @@
 # Open Knowledge Definition
 Version luis-craziness
 
-## TODO
-
-2. consider adding criteria for recommended licenses: http://lists.okfn.org/pipermail/od-discuss/2013-June/000464.html
-3. consider criteria rejecting jurisdiction-specific licenses: "While it is not currently addressed by the OD, we should strongly
-consider revising the OD to allow us to reject [OGL Canada] on
-grounds of being overly specific to a particular jurisdiction." (email appears not to have made it to the list?)
-3. review http://opendefinition.org/licenses/process/ to see if parallel fixes necessary
-5. read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html
-6. https://creativecommons.org/weblog/entry/38316
-7. no references to name: http://lists.okfn.org/pipermail/od-discuss/2013-March/000378.html
-8. Consider removing "package".
 
 # Terminology
 
@@ -45,16 +34,16 @@ A **license** is open if its terms satisfy the following conditions:
 
 ## Mandatory Permissions
 
-*TODO*: not sure I like these subject headers, but they help clarify 
-where I'm going with this.
+The **license** *must* grant the following permissions.
+
+*TODO*: Not sure I like these subject headers (e.g., "Mandatory Permissions"), but they help clarify where I'm going with this.
 
 ### 1. Use
 
 The **license** must allow use of the licensed work for any purpose.
 
-*Note on the change*: This may make obsolete, or be merged with, the 
-two "no discrimination against..." clauses (or force them to be more 
-clear and consistent with each other?)
+*Note on change*: This new plank may make obsolete, or be merged with, the 
+two "no discrimination against..." clauses. Alternately, it could be used to force them to be more clear and consistent with each other.
 
 ### 2. Redistribution
 
@@ -63,25 +52,19 @@ including sale, either on its own or as part of a package made from
 works from many different sources. The license must not require a 
 royalty or other fee for such sale or distribution.
 
-*Note on the change*: This switches to a positive obligation, 
-parallel to FSF Freedom 2.
+*Note on change*: This switches to a positive obligation, parallel to FSF Freedom 2.
 
 ### 3. Modification
 
 The **license** must allow creation of derivatives of the licensed 
 work, and must allow the derivatives to be distributed under the 
-terms of the original licensed work.
+terms of the original licensed work. 
 
-*Comment: Note that this clause does not prevent the use of 'copyleft'
-or share-alike licenses that require redistribution of modifications
-under the same terms as the original.*
+*Comment: Conditions may be placed on this permission, as described below. Common conditions include 'copyleft' or share-alike requirements that require redistribution of modifications under the same terms as the original.*
 
-## Impermissible restrictions
+## Restrictions That Are Not Permitted
 
-The following restrictions are "known bad" and not permitted to 
-modify the positive obligations of requirements 1-3.
-
-*TODO*: make the above more precise/formal.
+The **license** *must not* include the following restrictions or conditions.
 
 ### 4. No Discrimination Against Persons or Groups
 
@@ -108,9 +91,9 @@ commercial users to join our community, not feel excluded from it.*
 
 The **license** must not require any recipient of a licensed work to 
 execute an agreement in order to exercise the rights granted in the 
-icense. 
+license. 
 
-(TODO: use something better/broader than "execute an agreement"?)
+*TODO*: use something better/broader than "execute an agreement"?
 
 *Comment: This clause is intended to forbid closing up knowledge by
 indirect means such as requiring a non-disclosure agreement.*
@@ -149,9 +132,8 @@ committee may, in its discretion, declare a license non-open if it contains
 restrictions not listed here that meaningfully limit or otherwise impact 
 the permissions required in parts 1-3 of the definition".
 
-## Permissible Restrictions
-The following restrictions are "known good" and expressly permitted to 
-modify the positive obligations of requirements 1-3.
+## Restrictions That Are Permitted
+The **license** *may* add the following restrictions, which are expressly permitted to modify the positive obligations of requirements 1-3.
 
 *TODO*: make the above more precise/formal.
 
@@ -165,7 +147,7 @@ The **license** may require that contributors and creators of a licensed
 work be attributed in distributed versions of the work. If this condition 
 is imposed it must not be onerous. 
 
-(TODO: "onerous" is vague.)
+*TODO*: "onerous" is vague.
 
 ### 11. Integrity
 
@@ -173,7 +155,8 @@ The **license** may require that modified versions of a licensed work must
 carry a different name or version number from the original work, or 
 otherwise indicate what changes have been made. 
 
-(TODO: Consider broadening in line with recent CC versions.)
+*TODO*: Consider broadening in line with recent CC versions.
+
 ### 12. Access and Restrictions
 
 The **license** may require the work to be available in a conveniently 
@@ -216,7 +199,20 @@ can be achieved by the provision of the work in an open data format,
 i.e., one whose specification is publicly and freely available and which
 places no restrictions monetary or otherwise upon its use. 
 
-(TODO: (1) not clear that "open data formats" are necessarily 
+*TODO:* (1) not clear that "open data formats" are necessarily 
 technologically unencumbered (I know of at least three "open" DRM standards); 
-(2) might make sense to link, at least in a comment, to something like
-http://opensource.org/osr )
+(2) might make sense to link, at least in a comment, to an open standard 
+definition; e.g., http://opensource.org/osr
+
+
+## Other TODO
+
+2. consider adding criteria for recommended licenses: http://lists.okfn.org/pipermail/od-discuss/2013-June/000464.html
+3. consider criteria rejecting jurisdiction-specific licenses: "While it is not currently addressed by the OD, we should strongly
+consider revising the OD to allow us to reject [OGL Canada] on
+grounds of being overly specific to a particular jurisdiction." (email appears not to have made it to the list?)
+3. review http://opendefinition.org/licenses/process/ to see if parallel fixes necessary
+5. read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html
+6. https://creativecommons.org/weblog/entry/38316
+7. no references to name: http://lists.okfn.org/pipermail/od-discuss/2013-March/000378.html
+8. Consider removing "package".
