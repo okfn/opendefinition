@@ -71,7 +71,7 @@ terms of the original licensed work.
 below. Common conditions include 'copyleft' or share-alike requirements 
 that require redistribution of modifications under the same terms as the original.*
 
-### 4. Seperation
+### 4. Separation
 
 The **license** must allow any part of the work, or the whole of it, to be used, distributed or modified separately from any other part of the work, or from any package in which it was originally distributed. 
 
