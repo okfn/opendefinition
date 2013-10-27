@@ -1,9 +1,8 @@
 # Open Definition
 Version 2.0dev?
 
-## Terminology
-
-The term **knowledge** is taken to include:
+This document specifies the conditions for works to be open knowledge.
+Knowledge is taken to include:
 
   1. Content such as music, films, images, texts
   2. Data be it scientific, historical, geographic, administrative or
@@ -14,21 +13,15 @@ already adequately addressed by previous work, including the [Open Source
 Definition](http://www.opensource.org/docs/osd), from which this document
 is derived.
 
-The term **work** will be used to denote the item or piece of **knowledge**
-which is being transferred.
+## Terminology
 
-The term **package** will be used to denote a collection of works. A
-package may be considered a work in itself.
+The term **work** will be used to denote the item or piece of knowledge
+which is being transferred.
 
 The term **license** refers to the legal terms under which the work is
 made available. Where no license has been made this should be interpreted
 as referring to the resulting default legal conditions under which the
 work is available (for example copyright).
-
-    KM: Rather than following the legal standard of definitions first, the document
-    might be more readable if we put these glossary-style at the end.  These are common
-    terms and the definitions really serve only as clarification, not as a necessary
-    starting point for understanding terms-of-art.
 
 ## Open Licenses
 
@@ -52,7 +45,7 @@ two "no discrimination against..." clauses. Alternately, it could be used to for
 #### 2. Redistribution
 
 The **license** must allow redistribution of the licensed work, 
-including sale, either on its own or as part of a package made from 
+including sale, either on its own or as part of a collection made from 
 works from many different sources. The license must not require a 
 royalty or other fee for such sale or distribution.
 
@@ -70,7 +63,7 @@ that require redistribution of modifications under the same terms as the origina
 
 #### 4. Separation
 
-The **license** must allow any part of the work, or the whole of it, to be used, distributed or modified separately from any other part of the work, or from any package in which it was originally distributed. 
+The **license** must allow any part of the work, or the whole of it, to be used, distributed or modified separately from any other part of the work, or from any collection of works in which it was originally distributed. 
 
     KM: This is intended to rephrase "10. License Must Not Be Specific
     to a Package" as a positive right.
@@ -175,8 +168,6 @@ required to distribute a complete database. 'Clearly presented as
 available' means that both the license and the means of access are clear
 and unambiguous on which works the rights attach to.*
 
-    KM: I suggest the 1.2 revs of this (as reflected in the above).
-
 #### 3. Absence of Technological Restriction
 
 The **work** must be provided in such a form that there are no
@@ -206,4 +197,3 @@ grounds of being overly specific to a particular jurisdiction." (email appears n
 5. read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html
 6. https://creativecommons.org/weblog/entry/38316
 7. no references to name: http://lists.okfn.org/pipermail/od-discuss/2013-March/000378.html
-8. Consider removing "package".
