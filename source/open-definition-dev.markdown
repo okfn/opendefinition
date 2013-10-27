@@ -31,9 +31,7 @@ A **license** is open if its terms satisfy the following conditions:
 
 The **license** *must* grant the following rights.
 
-*TODO*: Not sure I like these subject headers (e.g., "Mandatory Permissions"), but they help clarify where I'm going with this.
-
-*KM*: "Rights" rather than "permissions" allows us to be a bit broader in this section, per below...
+*TODO*: Not sure I like these subject headers (e.g., "Mandatory Rights"), but they help clarify where I'm going with this.
 
 #### 1. Use
 
@@ -65,27 +63,13 @@ that require redistribution of modifications under the same terms as the origina
 
 The **license** must allow any part of the work, or the whole of it, to be used, distributed or modified separately from any other part of the work, or from any collection of works in which it was originally distributed. 
 
-    KM: This is intended to rephrase "10. License Must Not Be Specific
-    to a Package" as a positive right.
-
 #### 5. Compilation
 
 The **license** must allow the licensed work to be distributed along with other distinct works, with no restrictions placed on these other works.
 
-    KM: This is intended to rephrase  "11. License Must Not Restrict the
-    Distribution of Other Works" as a positive right. We could
-    alternatively combine it with "4. seperation".
-
 #### 6. Application to Any Purpose
 
 The **license** must allow use, redistribution, modification and compilation, by any person or group of persons, for any purpose. These rights must apply independently of other legal agreements, without any obligation to agree to additional terms. 
-
-    KM: This is intented to rephrase "7. No Discrimination Against Persons
-    or Groups", "8. No Discrimination Against Fields of Endeavor" and
-    (perhaps slightly suitable?) "9. Distribution of License" as positive
-    rights. I think it's better to address non-discrimination here rather than
-    under 1 so as to make it clear that it applies to redistribution and
-    modification, rather than only to "use" alone.
 
 ### Permitted Conditions
 The **license** *may* condition the permissions granted in Sections 1-3 on 
@@ -131,6 +115,28 @@ meaningfully limit or otherwise impact the permissions required in parts
     KM: I don't think the advisory committee should have this discretion.
     If there's a problematic restriction that isn't addressed, we should
     ammend the definition.
+
+    ML: Should the advisory committee or license approval be mentioned at all in this document?
+
+### Recommendations for Open Licenses
+
+Licenses with the following characteristics help the open ecosystem by maintaining interoperability and avoiding high costs. (If AC and approval are mentioned in this document, might say we don't approve licenses not following these recommendations.)
+
+#### Reusable
+
+Not specific to an organization or jurisdiction.
+
+#### Compatible
+
+With? Should some license(s) be baked in?
+
+#### Coverage
+
+Something about granting rights to something substantial and clear? eg not only game rules
+
+#### Understandable
+
+If AC has to debate what license really means, it isn't understandable. Is there some way to express this generally?
 
 
 ## Open Works
@@ -181,7 +187,7 @@ technologically unencumbered (I know of at least three "open" DRM standards);
 (2) might make sense to link, at least in a comment, to an open standard 
 definition; e.g., http://opensource.org/osr
 
-### Recommended Conditions
+### Recommendations for Open Works
 
     KM: We should have a discussion about this on-list, but I'm thinking
     it could be useful to have some softer **should** conditions regarding
@@ -189,11 +195,8 @@ definition; e.g., http://opensource.org/osr
 
 ## Other TODOs
 
-2. consider adding criteria for recommended licenses: http://lists.okfn.org/pipermail/od-discuss/2013-June/000464.html
-3. consider criteria rejecting jurisdiction-specific licenses: "While it is not currently addressed by the OD, we should strongly
-consider revising the OD to allow us to reject [OGL Canada] on
-grounds of being overly specific to a particular jurisdiction." (email appears not to have made it to the list?)
-3. review http://opendefinition.org/licenses/process/ to see if parallel fixes necessary
-5. read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html
-6. https://creativecommons.org/weblog/entry/38316
-7. no references to name: http://lists.okfn.org/pipermail/od-discuss/2013-March/000378.html
+* review http://opendefinition.org/licenses/process/ to see if parallel fixes necessary
+* read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html -- Stefano Zacchiroli's comments on OD 1.1
+* https://creativecommons.org/weblog/entry/38316 -- Project Open Data has language about open licensing, some good, some confusing; anything to draw from?
+* should works section come first? it's shorter, less obscure, and contextualizes/motivates (or could/ought) licenses
+* most of the explanatory comments are gone. maybe the remaining ones should too, and each point be fully self-explanatory
