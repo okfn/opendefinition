@@ -1,5 +1,5 @@
 # Open Definition
-Version 1.2dev
+Version 2.0dev?
 
 ## Terminology
 
@@ -14,7 +14,7 @@ already adequately addressed by previous work, including the [Open Source
 Definition](http://www.opensource.org/docs/osd), from which this document
 is derived.
 
-The term **work** will be used to denote the item or piece of knowledge
+The term **work** will be used to denote the item or piece of **knowledge**
 which is being transferred.
 
 The term **package** will be used to denote a collection of works. A
@@ -25,13 +25,139 @@ made available. Where no license has been made this should be interpreted
 as referring to the resulting default legal conditions under which the
 work is available (for example copyright).
 
-## The Definition
+    KM: Rather than following the legal standard of definitions first, the document
+    might be more readable if we put these glossary-style at the end.  These are common
+    terms and the definitions really serve only as clarification, not as a necessary
+    starting point for understanding terms-of-art.
 
-A **work** is open if its manner of distribution satisfies the following
-conditions, which simultaneously delimit the characteristics of a suitable
-open **license**:
+## Open Licenses
 
-### 1. Access
+A **license** is open if its terms satisfy the following conditions:
+
+### Mandatory Rights
+
+The **license** *must* grant the following rights.
+
+*TODO*: Not sure I like these subject headers (e.g., "Mandatory Permissions"), but they help clarify where I'm going with this.
+
+*KM*: "Rights" rather than "permissions" allows us to be a bit broader in this section, per below...
+
+#### 1. Use
+
+The **license** must allow use of the licensed work for any purpose.
+
+*Note on change*: This new plank may make obsolete, or be merged with, the 
+two "no discrimination against..." clauses. Alternately, it could be used to force them to be more clear and consistent with each other.
+
+#### 2. Redistribution
+
+The **license** must allow redistribution of the licensed work, 
+including sale, either on its own or as part of a package made from 
+works from many different sources. The license must not require a 
+royalty or other fee for such sale or distribution.
+
+*Note on change*: This switches to a positive obligation, parallel to FSF Freedom 2.
+
+#### 3. Modification
+
+The **license** must allow creation of derivatives of the licensed 
+work, and must allow the derivatives to be distributed under the 
+terms of the original licensed work.
+
+*Comment: Conditions may be placed on this permission, as described 
+below. Common conditions include 'copyleft' or share-alike requirements 
+that require redistribution of modifications under the same terms as the original.*
+
+#### 4. Separation
+
+The **license** must allow any part of the work, or the whole of it, to be used, distributed or modified separately from any other part of the work, or from any package in which it was originally distributed. 
+
+    KM: This is intended to rephrase "10. License Must Not Be Specific
+    to a Package" as a positive right.
+
+#### 5. Compilation
+
+The **license** must allow the licensed work to be distributed along with other distinct works, with no restrictions placed on these other works.
+
+    KM: This is intended to rephrase  "11. License Must Not Restrict the
+    Distribution of Other Works" as a positive right. We could
+    alternatively combine it with "4. seperation".
+
+#### 6. Application to Any Purpose
+
+The **license** must allow use, redistribution, modification and compilation, by any person or group of persons, for any purpose. These rights must apply independently of other legal agreements, without any obligation to agree to additional terms. 
+
+    KM: This is intented to rephrase "7. No Discrimination Against Persons
+    or Groups", "8. No Discrimination Against Fields of Endeavor" and
+    (perhaps slightly suitable?) "9. Distribution of License" as positive
+    rights. I think it's better to address non-discrimination here rather than
+    under 1 so as to make it clear that it applies to redistribution and
+    modification, rather than only to "use" alone.
+
+### Permitted Conditions
+The **license** *may* condition the permissions granted in Sections 1-3 on 
+compliance with the following conditions.
+
+*TODO*: should this have the same disclaimer (advisory committee in 
+its judgment...) as the restrictions part? That would be more controversial 
+(as it should be).
+
+#### 1. Attribution
+
+The **license** may require that contributors and creators of a licensed 
+work be attributed in distributed versions of the work. If this condition 
+is imposed it must not be onerous. 
+
+*TODO*: "onerous" is vague.
+
+*KM*: Still maybe not quite there, but perhaps something along the lines of "If this condition is imposed, it must not unnecessarily burden the use of alternative formats or alternative means of distribution".
+
+#### 2. Integrity
+
+The **license** may require that modified versions of a licensed work must 
+carry a different name or version number from the original work, or 
+otherwise indicate what changes have been made. 
+
+*TODO*: Consider broadening in line with recent CC versions.
+
+#### 3. Access and Restrictions
+
+The **license** may require the work to be available in a conveniently 
+modifiable form. The license may prohibit technological restrictions.
+
+### Conditions That Are Not Permitted
+
+The **license** *must not* condition the permissions granted in Sections 1-3 
+on any of the following restrictions.
+
+In addition, the advisory committee may, in its discretion, declare a license 
+non-open if the license contains restrictions not listed here that 
+meaningfully limit or otherwise impact the permissions required in parts 
+1-3 of the definition.
+
+    KM: I don't think the advisory committee should have this discretion.
+    If there's a problematic restriction that isn't addressed, we should
+    ammend the definition.
+
+
+## Open Works
+
+A specific **work** is open if its manner of distribution satisfies the following
+conditions:
+
+### Mandatory Conditions
+
+#### 1. License and Licensing Information
+
+The **work** must be available under an open license, as defined above, and 
+recipients of the work must be clearly and unambiguously notified of the 
+license. Any additional terms accompanying the work (such as a terms
+of use) must not contradict the terms of the license. Any additional 
+information necessary for license compliance (such as names of contributors 
+required for compliance with attribution requirements) should also accompany 
+the work.
+
+#### 2. Access
 
 The **work** shall be available as a whole and at no more than a
 reasonable reproduction cost, preferably downloadable via the Internet
@@ -49,99 +175,35 @@ required to distribute a complete database. 'Clearly presented as
 available' means that both the license and the means of access are clear
 and unambiguous on which works the rights attach to.*
 
-### 2. Redistribution
+    KM: I suggest the 1.2 revs of this (as reflected in the above).
 
-The **license** shall not restrict any party from selling or giving away
-the work either on its own or as part of a package made from works from
-many different sources. The **license** shall not require a royalty or
-other fee for such sale or distribution.
-
-### 3. Reuse
-
-The **license** must allow for modifications and derivative works and
-must allow them to be distributed under the terms of the original work.
-
-*Comment: Note that this clause does not prevent the use of 'copyleft'
-or share-alike licenses that require any distribution of modifications
-to be under the same terms as the original.*
-
-### 4. Absence of Technological Restriction
+#### 3. Absence of Technological Restriction
 
 The **work** must be provided in such a form that there are no
-technological obstacles to the performance of the above activities. This
-can be achieved by the provision of the work in an open format, i.e. one
-whose specification is publicly and freely available and which places
-no restrictions monetary or otherwise upon its use. The **license**
-may prohibit technological restrictions.
+technological obstacles to the performance of the licensed rights. This
+can be achieved by the provision of the work in an open data format,
+i.e., one whose specification is publicly and freely available and which
+places no restrictions monetary or otherwise upon its use. 
 
-### 5. Attribution
+*TODO:* (1) not clear that "open data formats" are necessarily 
+technologically unencumbered (I know of at least three "open" DRM standards); 
+(2) might make sense to link, at least in a comment, to an open standard 
+definition; e.g., http://opensource.org/osr
 
-The **license** may require providing attribution to the creators of the
-work as a condition for redistribution and re-use. If this condition is
-imposed it must not be onerous. For example if attribution is required
-a list of those requiring attribution should accompany the **work**.
+### Recommended Conditions
 
-### 6. Integrity
+    KM: We should have a discussion about this on-list, but I'm thinking
+    it could be useful to have some softer **should** conditions regarding
+    archiving, metadata, use of open standards, availability of APIs, etc.
 
-The **license** may require as a condition for the work being distributed
-in modified form that the resulting work carry a different name or version
-number from the original work.
+## Other TODOs
 
-### 7. No Discrimination Against Persons or Groups
-
-The **license** must not discriminate against any person or group of
-persons.
-
-*Comment: In order to get the maximum benefit from the process, the
-maximum diversity of persons and groups should be equally eligible to
-contribute to open knowledge. Therefore we forbid any open license from
-locking anybody out of the process.*
-
-### 8. No Discrimination Against Fields of Endeavor
-
-The **license** must not restrict anyone from making use of the work in
-a specific field of endeavor. For example, it may not restrict the work
-from being used in a business, or from being used for genetic research.
-
-*Comment: The major intention of this clause is to prohibit license
-traps that prevent open material from being used commercially. We want
-commercial users to join our community, not feel excluded from it.*
-
-### 9. Distribution of License
-
-The rights attached to the **work** must apply to all to whom it is
-redistributed without the need for execution of an additional license
-by those parties.
-
-*Comment: This clause is intended to forbid closing up knowledge by
-indirect means such as requiring a non-disclosure agreement.*
-
-### 10. License Must Not Be Specific to a Package
-
-The rights attached to the **work** must not depend on the work being part
-of a particular package. If the work is extracted from that package and
-used or distributed within the terms of the work's license, all parties
-to whom the work is redistributed should have the same rights as those
-that are granted in conjunction with the original package.
-
-### 11. License Must Not Restrict the Distribution of Other Works
-
-The **license** must not place restrictions on other works that are
-distributed along with the licensed work. For example, the license must
-not insist that all other works distributed on the same medium are open.
-
-*Comment: Distributors of open knowledge have the right to make their
-own choices. Note that 'share-alike' licenses are conformant since those
-provisions only apply if the whole forms a single work.*
-
-### 12. License Must Not Impose Additional Restrictions
-
-The **license** must not place any additional restrictions or conditions
-on the access, use, reuse or redistribution of the data other than those
-explicitly described under this definition.
-
-*Comment: This clause is intended to clarify that presence of restrictions
-not specifically permitted above make a license non-open. Such
-restrictions are usually one or more of onerous, vague, unnecessary
-(for example, requiring following an unrelated law), and always harmful
-to compatibility among open licenses.*
+2. consider adding criteria for recommended licenses: http://lists.okfn.org/pipermail/od-discuss/2013-June/000464.html
+3. consider criteria rejecting jurisdiction-specific licenses: "While it is not currently addressed by the OD, we should strongly
+consider revising the OD to allow us to reject [OGL Canada] on
+grounds of being overly specific to a particular jurisdiction." (email appears not to have made it to the list?)
+3. review http://opendefinition.org/licenses/process/ to see if parallel fixes necessary
+5. read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html
+6. https://creativecommons.org/weblog/entry/38316
+7. no references to name: http://lists.okfn.org/pipermail/od-discuss/2013-March/000378.html
+8. Consider removing "package".
