@@ -8,10 +8,10 @@ Knowledge is taken to include:
   2. Data be it scientific, historical, geographic, administrative or
      otherwise
 
-Software is excluded despite its obvious centrality because it is
+Software is excluded, despite its obvious centrality, because it is
 already adequately addressed by previous work, including the [Open Source
 Definition](http://www.opensource.org/docs/osd), from which this document
-is derived.
+was originally derived.
 
 ## Terminology
 
