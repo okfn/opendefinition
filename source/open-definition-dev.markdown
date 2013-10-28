@@ -1,6 +1,8 @@
 # Open Definition
 Version 2.0dev?
 
+## 1. Introduction
+
 This document specifies the conditions for works to be open knowledge.
 Knowledge is taken to include:
 
@@ -13,7 +15,7 @@ already adequately addressed by previous work, including the [Open Source
 Definition](http://www.opensource.org/docs/osd), from which this document
 was originally derived.
 
-## Terminology
+## 2. Terminology
 
 The term **work** will be used to denote the item or piece of knowledge
 which is being transferred.
@@ -23,22 +25,17 @@ made available. Where no license has been made this should be interpreted
 as referring to the resulting default legal conditions under which the
 work is available (for example copyright).
 
-## Open Licenses
+## 3. Open Licenses
 
 A **license** is open if its terms satisfy the following conditions:
 
-### Mandatory Rights
+### 3.1. Permissions
 
-The **license** *must* grant the following rights.
-
-*TODO*: Not sure I like these subject headers (e.g., "Mandatory Rights"), but they help clarify where I'm going with this.
+The **license** *must* grant the following permissions.
 
 #### 1. Use
 
 The **license** must allow use of the licensed work for any purpose.
-
-*Note on change*: This new plank may make obsolete, or be merged with, the 
-two "no discrimination against..." clauses. Alternately, it could be used to force them to be more clear and consistent with each other.
 
 #### 2. Redistribution
 
@@ -46,8 +43,6 @@ The **license** must allow redistribution of the licensed work,
 including sale, either on its own or as part of a collection made from 
 works from many different sources. The license must not require a 
 royalty or other fee for such sale or distribution.
-
-*Note on change*: This switches to a positive obligation, parallel to FSF Freedom 2.
 
 #### 3. Modification
 
@@ -71,13 +66,11 @@ The **license** must allow the licensed work to be distributed along with other 
 
 The **license** must allow use, redistribution, modification and compilation, by any person or group of persons, for any purpose. These rights must apply independently of other legal agreements, without any obligation to agree to additional terms. 
 
-### Permitted Conditions
-The **license** *may* condition the permissions granted in Sections 1-3 on 
-compliance with the following conditions.
-
-*TODO*: should this have the same disclaimer (advisory committee in 
-its judgment...) as the restrictions part? That would be more controversial 
-(as it should be).
+### 3.2. Permitted Conditions
+The **license** *may* condition the permissions granted in Section 3.1 on 
+compliance with the following conditions. Other conditions are not generally 
+permitted if they meaningfully limit or otherwise impact the permissions 
+required in Section 3.1.
 
 #### 1. Attribution
 
@@ -102,23 +95,8 @@ otherwise indicate what changes have been made.
 The **license** may require the work to be available in a conveniently 
 modifiable form. The license may prohibit technological restrictions.
 
-### Conditions That Are Not Permitted
 
-The **license** *must not* condition the permissions granted in Sections 1-3 
-on any of the following restrictions.
-
-In addition, the advisory committee may, in its discretion, declare a license 
-non-open if the license contains restrictions not listed here that 
-meaningfully limit or otherwise impact the permissions required in parts 
-1-3 of the definition.
-
-    KM: I don't think the advisory committee should have this discretion.
-    If there's a problematic restriction that isn't addressed, we should
-    ammend the definition.
-
-    ML: Should the advisory committee or license approval be mentioned at all in this document?
-
-### Recommendations for Open Licenses
+### 3.3. Recommendations for Open Licenses
 
 Licenses with the following characteristics help the open ecosystem by maintaining interoperability and avoiding high costs. (If AC and approval are mentioned in this document, might say we don't approve licenses not following these recommendations.)
 
@@ -139,12 +117,12 @@ Something about granting rights to something substantial and clear? eg not only 
 If AC has to debate what license really means, it isn't understandable. Is there some way to express this generally?
 
 
-## Open Works
+## 4. Open Works
 
 A specific **work** is open if its manner of distribution satisfies the following
 conditions:
 
-### Mandatory Conditions
+### 4.1. Mandatory Conditions
 
 #### 1. License and Licensing Information
 
@@ -187,7 +165,7 @@ technologically unencumbered (I know of at least three "open" DRM standards);
 (2) might make sense to link, at least in a comment, to an open standard 
 definition; e.g., http://opensource.org/osr
 
-### Recommendations for Open Works
+### 4.2. Recommendations for Open Works
 
     KM: We should have a discussion about this on-list, but I'm thinking
     it could be useful to have some softer **should** conditions regarding
