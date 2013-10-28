@@ -3,17 +3,22 @@ Version 2.0dev?
 
 ## 1. Introduction
 
-This document specifies the conditions for works to be open knowledge.
-Knowledge is taken to include:
+This document specifies the conditions that must be met for a license to be 
+an open knowledge license, and for a work to itself be open knowledge.
 
-  1. Content such as music, films, images, texts
-  2. Data be it scientific, historical, geographic, administrative or
-     otherwise
+Knowledge includes:
 
-Software is excluded, despite its obvious centrality, because it is
+  1. Content, including as music, films, images, texts; and 
+  2. Data, including scientific, historical, geographic, and administrative data
+
+Software is excluded, despite its obvious importance, because it is
 already adequately addressed by previous work, including the [Open Source
 Definition](http://www.opensource.org/docs/osd), from which this document
 was originally derived.
+
+    LV: I'd consider dropping the software/OSD thing to a footnote. That 
+    would also allow us to make the acknowledgement of the OSD slightly more 
+    fulsome.
 
 ## 2. Terminology
 
