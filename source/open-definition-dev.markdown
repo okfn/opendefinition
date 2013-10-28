@@ -66,6 +66,8 @@ The **license** must allow the licensed work to be distributed along with other 
 
 The **license** must allow use, redistribution, modification and compilation, by any person or group of persons, for any purpose. These rights must apply independently of other legal agreements, without any obligation to agree to additional terms. 
 
+*LV*: On re-reading, I'm not sure the "independently of other legal agreements" is quite right; it is broader than the old equivalent language and would prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
+
 ### 3.2. Permitted Conditions
 The **license** *may* condition the permissions granted in Section 3.1 on 
 compliance with the following conditions. Other conditions are not generally 
@@ -88,7 +90,7 @@ The **license** may require that modified versions of a licensed work must
 carry a different name or version number from the original work, or 
 otherwise indicate what changes have been made. 
 
-*TODO*: Consider broadening in line with recent CC versions.
+*TODO*: Consider broadening to cover everything related to trademarks, in line with recent licenses. (Same issue was noted by Stefano Zacchiroli in our email to us.)
 
 #### 3. Access and Restrictions
 
@@ -173,8 +175,8 @@ definition; e.g., http://opensource.org/osr
 
 ## Other TODOs
 
-* review http://opendefinition.org/licenses/process/ to see if parallel fixes necessary
-* read through: http://lists.okfn.org/pipermail/od-discuss/2013-June/000447.html -- Stefano Zacchiroli's comments on OD 1.1
-* https://creativecommons.org/weblog/entry/38316 -- Project Open Data has language about open licensing, some good, some confusing; anything to draw from?
+* review http://opendefinition.org/licenses/process/ and make any necessary changes there
 * should works section come first? it's shorter, less obscure, and contextualizes/motivates (or could/ought) licenses
+    * LV: I think not; we're not ever going to be in the business of certifying works, and it will always have to refer to licenses. If it should be moved anywhere, I'd put it in a different document.
 * most of the explanatory comments are gone. maybe the remaining ones should too, and each point be fully self-explanatory
+    * LV: That should certainly be a goal.
