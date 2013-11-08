@@ -61,17 +61,26 @@ that require redistribution of modifications under the same terms as the origina
 
 #### 4. Separation
 
-The **license** must allow any part of the work, or the whole of it, to be used, distributed or modified separately from any other part of the work, or from any collection of works in which it was originally distributed. 
+The **license** must allow any part of the work, or the whole of it, 
+to be used, distributed or modified separately from any other part 
+of the work, or from any collection of works in which it was originally 
+distributed. 
 
 #### 5. Compilation
 
-The **license** must allow the licensed work to be distributed along with other distinct works, with no restrictions placed on these other works.
+The **license** must allow the licensed work to be distributed along 
+with other distinct works, with no restrictions placed on these other works.
 
 #### 6. Application to Any Purpose
 
-The **license** must allow use, redistribution, modification and compilation, by any person or group of persons, for any purpose. These rights must apply independently of other legal agreements, without any obligation to agree to additional terms. 
+The **license** must allow use, redistribution, modification and 
+compilation, by any person or group of persons, for any purpose. These 
+rights must apply independently of other legal agreements, without any 
+obligation to agree to additional terms. 
 
-*LV*: On re-reading, I'm not sure the "independently of other legal agreements" is quite right; it is broader than the old equivalent language and would prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
+    LV: On re-reading, I'm not sure the "independently of other legal agreements" 
+    is quite right; it is broader than the old equivalent language and would 
+    prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
 
 ### 3.2. Permitted Conditions
 The **license** *may* condition the permissions granted in Section 3.1 on 
@@ -85,9 +94,11 @@ The **license** may require that contributors and creators of a licensed
 work be attributed in distributed versions of the work. If this condition 
 is imposed it must not be onerous. 
 
-*TODO*: "onerous" is vague.
+    LV: "onerous" is vague.
 
-*KM*: Still maybe not quite there, but perhaps something along the lines of "If this condition is imposed, it must not unnecessarily burden the use of alternative formats or alternative means of distribution".
+    KM: Still maybe not quite there, but perhaps something along the 
+    lines of "If this condition is imposed, it must not unnecessarily 
+    burden the use of alternative formats or alternative means of distribution".
 
 #### 2. Integrity
 
@@ -95,7 +106,9 @@ The **license** may require that modified versions of a licensed work must
 carry a different name or version number from the original work, or 
 otherwise indicate what changes have been made. 
 
-*TODO*: Consider broadening to cover everything related to trademarks, in line with recent licenses. (Same issue was noted by Stefano Zacchiroli in our email to us.)
+    LV: We should consider broadening to cover everything related to 
+    trademarks, in line with recent licenses. (Same issue was noted 
+    by Stefano Zacchiroli in his email to us.)
 
 #### 3. Access and Restrictions
 
@@ -105,6 +118,8 @@ modifiable form. The license may prohibit technological restrictions.
 
 ### 3.3. Recommendations for Open Licenses
 
+    NB: This section is still completely a work in progress, and may or may not be adopted.
+    
 Licenses with the following characteristics help the open ecosystem by maintaining interoperability and avoiding high costs. (If AC and approval are mentioned in this document, might say we don't approve licenses not following these recommendations.)
 
 #### Reusable
@@ -167,10 +182,11 @@ can be achieved by the provision of the work in an open data format,
 i.e., one whose specification is publicly and freely available and which
 places no restrictions monetary or otherwise upon its use. 
 
-*TODO:* (1) not clear that "open data formats" are necessarily 
-technologically unencumbered (I know of at least three "open" DRM standards); 
-(2) might make sense to link, at least in a comment, to an open standard 
-definition; e.g., http://opensource.org/osr
+    LV: not clear that "open data formats" are necessarily technologically 
+    unencumbered (I know of at least three "open" DRM standards).
+    
+    LV: It might make sense to link, at least in a comment, to an open 
+    standard definition; e.g., http://opensource.org/osr
 
 ### 4.2. Recommendations for Open Works
 
