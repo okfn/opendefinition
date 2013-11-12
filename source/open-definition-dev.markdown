@@ -34,7 +34,7 @@ work is available (for example copyright).
 
 A **license** is open if its terms satisfy the following conditions:
 
-### 3.1. Permissions
+### 3.1. Required Permissions
 
 The **license** *must* grant the following permissions.
 
@@ -82,7 +82,7 @@ obligation to agree to additional terms.
     is quite right; it is broader than the old equivalent language and would 
     prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
 
-### 3.2. Permitted Conditions
+### 3.2. Acceptable Conditions
 The **license** *may* condition the permissions granted in Section 3.1 on 
 compliance with the following conditions. Other conditions are not generally 
 permitted if they meaningfully limit or otherwise impact the permissions 
