@@ -82,6 +82,24 @@ obligation to agree to additional terms.
     is quite right; it is broader than the old equivalent language and would 
     prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
 
+#### 7. Privacy
+
+    (kfogel added this as a suggestion, on 2013-12-03)
+
+The **license** must allow private study, use, and modification in the absence
+of any form of distribution.  The license may name certain requirements as
+conditions for distribution, but the license must not compel distribution itself.
+
+    In other words, if a license requires share-alike style redistribution, the sharealike
+    terms must not compel distribution in the first place.  If someone distributes at all,
+    it is reasonable to require that they not place obstacles in the way of downstream
+    recipients, and even reasonable to require certain forms of active cooperation (e.g.,
+    the AGPL's view that accessing functionality via a network is a form of distribution).
+    However, if someone does *not* distribute at all, then the license must not compel it.
+    The reasons for this are probably obvious, but if pressed for a reference about the
+    importance of privacy, I guess I'd point to the first paragraph in which the word
+    "privacy" is used in http://snowdenandthefuture.info/PartIII.html.
+
 ### 3.2. Acceptable Conditions
 The **license** *may* condition the permissions granted in Section 3.1 on 
 compliance with the following conditions. Other conditions are not generally 
