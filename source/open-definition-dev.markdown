@@ -219,3 +219,4 @@ places no restrictions monetary or otherwise upon its use.
     * LV: I think not; we're not ever going to be in the business of certifying works, and it will always have to refer to licenses. If it should be moved anywhere, I'd put it in a different document.
 * most of the explanatory comments are gone. maybe the remaining ones should too, and each point be fully self-explanatory
     * LV: That should certainly be a goal.
+* address non-revocability/perpetual license explicitly? see https://twitter.com/owenboswarva/status/409801832869797888
