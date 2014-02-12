@@ -3,22 +3,11 @@ Version 2.0dev?
 
 ## 1. Introduction
 
-This document specifies the conditions that must be met for a license to be 
-an open knowledge license, and for a work to itself be open knowledge.
+The Open Definition makes precise the meaning of "open" with respect to data and content, promoting a robust knowledge commons in which anyone may participate and innovate, and in which barriers to interoperability among pools of data and content are minimized.
 
-Knowledge includes:
+Summary: **Data or content is open if anyone is free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and/or share-alike.**
 
-  1. Content, including as music, films, images, texts; and 
-  2. Data, including scientific, historical, geographic, and administrative data
-
-Software is excluded, despite its obvious importance, because it is
-already adequately addressed by previous work, including the [Open Source
-Definition](http://www.opensource.org/docs/osd), from which this document
-was originally derived.
-
-    LV: I'd consider dropping the software/OSD thing to a footnote. That 
-    would also allow us to make the acknowledgement of the OSD slightly more 
-    fulsome.
+This essential meaning is the same as that of "open" with respect to software, contained in the [Open Source Definition](http://www.opensource.org/docs/osd), and is synonymous with "free" or "libre"; see the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
 
 ## 2. Terminology
 
