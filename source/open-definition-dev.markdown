@@ -31,6 +31,8 @@ The **license** *must* irrevocably grant the following permissions.
 
 The **license** must allow use of the licensed work for any purpose.
 
+    HL: formerly addressed by "8. No Discrimination Against Fields of Endeavor"
+
 ##### 1.1.2 Redistribution
 
 The **license** must allow redistribution of the licensed work, 
@@ -38,7 +40,9 @@ including sale, either on its own or as part of a collection made from
 works from many different sources. The license must not require a 
 royalty or other fee for such sale or distribution.
 
-##### 1.1.3 Modification
+    HL: formerly addressed by "2. Redistribution"
+
+##### 1.1.3 Reuse
 
 The **license** must allow creation of derivatives of the licensed 
 work, and must allow the derivatives to be distributed under the 
@@ -48,6 +52,8 @@ terms of the original licensed work.
 below. Common conditions include 'copyleft' or share-alike requirements 
 that require redistribution of modifications under the same terms as the original.*
 
+    HL: formerly addressed by "3. Reuse"
+
 ##### 1.1.4 Separation
 
 The **license** must allow any part of the work, or the whole of it, 
@@ -55,12 +61,43 @@ to be used, distributed or modified separately from any other part
 of the work, or from any collection of works in which it was originally 
 distributed. 
 
+    HL: formerly addressed by "10. License Must Not Be Specific to a Package"
+    HL: not sure this covers everything that clause 10 currently addresses.
+
+
 ##### 1.1.5 Compilation
 
 The **license** must allow the licensed work to be distributed along 
 with other distinct works, with no restrictions placed on these other works.
 
-##### 1.1.6 Application to Any Purpose
+_Comment: For example, the license must not insist that all other works distributed on the same medium are open._
+
+_Comment: Distributors of open knowledge have the right to make their own choices. Note that ‘share-alike’ licenses are conformant since those provisions only apply if the whole forms a single work._
+
+_Comment: this is taken directly from item 9 of the OSD._
+
+    HL: formerly addressed by "11. License Must Not Restrict the Distribution of Other Works"
+
+##### 1.1.6 Impartiality
+The **license** _must_ treat all persons or groups of persons equally.
+
+_Comment: In order to get the maximum benefit from the process, the maximum diversity of persons and groups should be equally eligible to contribute to open knowledge. Therefore we forbid any open-knowledge license from locking anybody out of the process._
+
+_Comment: this is derived from item 5 of the OSD._
+
+    HL: formerly addressed by "7. No Discrimination Against Persons or Groups"
+
+##### 1.1.7 Propagation
+The rights attached to the work must apply to all to whom it is redistributed without the need for execution of an additional license by those parties.
+
+_Comment: This clause is intended to forbid closing up knowledge by indirect means such as requiring a non-disclosure agreement._
+
+_Comment: this is derived from item 7 of the OSD._
+
+    HL: formerly addressed by "9. Distribution of License"
+
+
+##### 1.1.8 Application to Any Purpose
 
 The **license** must allow use, redistribution, modification and 
 compilation, by any person or group of persons, for any purpose. These 
@@ -71,7 +108,11 @@ obligation to agree to additional terms.
     is quite right; it is broader than the old equivalent language and would 
     prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
 
-##### 1.1.7 Privacy
+    HL: formerly addressed by "8. No Discrimination Against Fields of Endeavor"
+    HL: this seems redundant given that it's covered already in 1.1.1 and 1.1.6.  The
+    second line in this requirement is new.
+
+##### 1.1.9 Privacy
 
     (kfogel added this as a suggestion, on 2013-12-03)
 
@@ -88,6 +129,9 @@ conditions for distribution, but the license must not compel distribution itself
     The reasons for this are probably obvious, but if pressed for a reference about the
     importance of privacy, I guess I'd point to the first paragraph in which the word
     "privacy" is used in http://snowdenandthefuture.info/PartIII.html.
+
+    HL: this is new (as noted above)
+
 
 #### 1.2 Acceptable Conditions
 The **license** *may* condition the permissions granted in Section 1.1 on 
@@ -107,6 +151,8 @@ is imposed it must not be onerous.
     lines of "If this condition is imposed, it must not unnecessarily 
     burden the use of alternative formats or alternative means of distribution".
 
+    HL: formerly addressed by "5. Attribution"
+
 ##### 1.2.2 Integrity
 
 The **license** may require that modified versions of a licensed work must 
@@ -117,10 +163,14 @@ otherwise indicate what changes have been made.
     trademarks, in line with recent licenses. (Same issue was noted 
     by Stefano Zacchiroli in his email to us.)
 
+    HL: formerly addressed by "6. Integrity"
+
 ##### 1.2.3 Access and Restrictions
 
 The **license** may require the work to be available in a conveniently 
 modifiable form. The license may prohibit technological restrictions.
+
+    HL: this is new
 
 
 #### 1.3 Recommendations for Open Licenses
@@ -163,6 +213,8 @@ information necessary for license compliance (such as names of contributors
 required for compliance with attribution requirements) should also accompany 
 the work.
 
+    HL: this is new and required to link to the license section
+
 ##### 2.1.2 Access
 
 The **work** shall be available as a whole and at no more than a
@@ -181,6 +233,8 @@ required to distribute a complete database. 'Clearly presented as
 available' means that both the license and the means of access are clear
 and unambiguous on which works the rights attach to.*
 
+    HL: formerly addressed by "1. Acesss"
+
 ##### 2.1.3 Absence of Technological Restriction
 
 The **work** must be provided in such a form that there are no
@@ -194,6 +248,9 @@ places no restrictions monetary or otherwise upon its use.
     
     LV: It might make sense to link, at least in a comment, to an open 
     standard definition; e.g., http://opensource.org/osr
+
+    HL: formerly addressed by "4. Absence of Technological Restriction"
+
 
 #### 2.2 Recommendations for Open Works
 
