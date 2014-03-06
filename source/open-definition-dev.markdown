@@ -203,7 +203,7 @@ conditions:
 
 #### 2.1 Mandatory Conditions
 
-##### 2.1.1 License and Licensing Information
+##### 2.1.1 Open License
 
 The **work** must be available under an open license, as defined above, and 
 recipients of the work must be clearly and unambiguously notified of the 
@@ -235,7 +235,7 @@ and unambiguous on which works the rights attach to.*
 
     HL: formerly addressed by "1. Acesss"
 
-##### 2.1.3 Absence of Technological Restriction
+##### 2.1.3 Open Format
 
 The **work** must be provided in such a form that there are no
 technological obstacles to the performance of the licensed rights. This
