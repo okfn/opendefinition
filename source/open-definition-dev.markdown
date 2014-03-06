@@ -29,23 +29,23 @@ The **license** *must* irrevocably grant the following permissions.
 
 ##### 1.1.1 Use
 
-The **license** must allow use of the licensed work for any purpose.
+The **license** *must* allow use of the licensed work for any purpose.
 
     HL: formerly addressed by "8. No Discrimination Against Fields of Endeavor"
 
 ##### 1.1.2 Redistribution
 
-The **license** must allow redistribution of the licensed work, 
+The **license** *must* allow redistribution of the licensed work, 
 including sale, either on its own or as part of a collection made from 
-works from many different sources. The license must not require a 
+works from many different sources. The license *must* not require a 
 royalty or other fee for such sale or distribution.
 
     HL: formerly addressed by "2. Redistribution"
 
 ##### 1.1.3 Reuse
 
-The **license** must allow creation of derivatives of the licensed 
-work, and must allow the derivatives to be distributed under the 
+The **license** *must* allow creation of derivatives of the licensed 
+work, and *must* allow the derivatives to be distributed under the 
 terms of the original licensed work.
 
 *Comment: Conditions may be placed on this permission, as described 
@@ -56,18 +56,18 @@ that require redistribution of modifications under the same terms as the origina
 
 ##### 1.1.4 Separation
 
-The **license** must allow any part of the work, or the whole of it, 
+The **license** *must* allow any part of the work, or the whole of it, 
 to be used, distributed or modified separately from any other part 
 of the work, or from any collection of works in which it was originally 
 distributed. 
 
-    HL: formerly addressed by "10. License Must Not Be Specific to a Package"
+    HL: formerly addressed by "10. License *must* Not Be Specific to a Package"
     HL: not sure this covers everything that clause 10 currently addresses.
 
 
 ##### 1.1.5 Compilation
 
-The **license** must allow the licensed work to be distributed along 
+The **license** *must* allow the licensed work to be distributed along 
 with other distinct works, with no restrictions placed on these other works.
 
 _Comment: For example, the license must not insist that all other works distributed on the same medium are open._
@@ -88,7 +88,7 @@ _Comment: this is derived from item 5 of the OSD._
     HL: formerly addressed by "7. No Discrimination Against Persons or Groups"
 
 ##### 1.1.7 Propagation
-The rights attached to the work must apply to all to whom it is redistributed without the need for execution of an additional license by those parties.
+The rights attached to the work *must* apply to all to whom it is redistributed without the need for execution of an additional license by those parties.
 
 _Comment: This clause is intended to forbid closing up knowledge by indirect means such as requiring a non-disclosure agreement._
 
@@ -99,9 +99,9 @@ _Comment: this is derived from item 7 of the OSD._
 
 ##### 1.1.8 Application to Any Purpose
 
-The **license** must allow use, redistribution, modification and 
+The **license** *must* allow use, redistribution, modification and 
 compilation, by any person or group of persons, for any purpose. These 
-rights must apply independently of other legal agreements, without any 
+rights *must* apply independently of other legal agreements, without any 
 obligation to agree to additional terms. 
 
     LV: On re-reading, I'm not sure the "independently of other legal agreements" 
@@ -110,27 +110,8 @@ obligation to agree to additional terms.
 
     HL: formerly addressed by "8. No Discrimination Against Fields of Endeavor"
     HL: this seems redundant given that it's covered already in 1.1.1 and 1.1.6.  The
-    second line in this requirement is new.
-
-##### 1.1.9 Privacy
-
-    (kfogel added this as a suggestion, on 2013-12-03)
-
-The **license** must allow private study, use, and modification in the absence
-of any form of distribution.  The license may name certain requirements as
-conditions for distribution, but the license must not compel distribution itself.
-
-    In other words, if a license requires share-alike style redistribution, the sharealike
-    terms must not compel distribution in the first place.  If someone distributes at all,
-    it is reasonable to require that they not place obstacles in the way of downstream
-    recipients, and even reasonable to require certain forms of active cooperation (e.g.,
-    the AGPL's view that accessing functionality via a network is a form of distribution).
-    However, if someone does *not* distribute at all, then the license must not compel it.
-    The reasons for this are probably obvious, but if pressed for a reference about the
-    importance of privacy, I guess I'd point to the first paragraph in which the word
-    "privacy" is used in http://snowdenandthefuture.info/PartIII.html.
-
-    HL: this is new (as noted above)
+    second line in this requirement is new.  I would like to remove this clause 
+    entirely if possible and consider the 2nd line in a future release.
 
 
 #### 1.2 Acceptable Conditions
@@ -143,7 +124,7 @@ required in Section 1.1.
 
 The **license** may require that contributors and creators of a licensed 
 work be attributed in distributed versions of the work. If this condition 
-is imposed it must not be onerous. 
+is imposed it *must* not be onerous. 
 
     LV: "onerous" is vague.
 
@@ -155,7 +136,7 @@ is imposed it must not be onerous.
 
 ##### 1.2.2 Integrity
 
-The **license** may require that modified versions of a licensed work must 
+The **license** may require that modified versions of a licensed work *must* 
 carry a different name or version number from the original work, or 
 otherwise indicate what changes have been made. 
 
@@ -165,35 +146,12 @@ otherwise indicate what changes have been made.
 
     HL: formerly addressed by "6. Integrity"
 
-##### 1.2.3 Access and Restrictions
+##### 1.2.3 Share-alike
 
-The **license** may require the work to be available in a conveniently 
-modifiable form. The license may prohibit technological restrictions.
-
-    HL: this is new
+The **license** may require that copies or adaptations of a licensed work be
+released under the same or similar license as the original.
 
 
-#### 1.3 Recommendations for Open Licenses
-
-    NB: This section is still completely a work in progress, and may or may not be adopted.
-    
-Licenses with the following characteristics help the open ecosystem by maintaining interoperability and avoiding high costs. (If AC and approval are mentioned in this document, might say we don't approve licenses not following these recommendations.)
-
-#### Reusable
-
-Not specific to an organization or jurisdiction.
-
-#### Compatible
-
-With? Should some license(s) be baked in?
-
-#### Coverage
-
-Something about granting rights to something substantial and clear? eg not only game rules
-
-#### Understandable
-
-If AC has to debate what license really means, it isn't understandable. Is there some way to express this generally?
 
 
 ### 2. Open Works
@@ -205,8 +163,8 @@ conditions:
 
 ##### 2.1.1 Open License
 
-The **work** must be available under an open license, as defined above, and 
-recipients of the work must be clearly and unambiguously notified of the 
+The **work** *must* be available under an open license, as defined above, and 
+recipients of the work *must* be clearly and unambiguously notified of the 
 license. Any additional terms accompanying the work (such as a terms
 of use) must not contradict the terms of the license. Any additional 
 information necessary for license compliance (such as names of contributors 
@@ -219,9 +177,9 @@ the work.
 
 The **work** shall be available as a whole and at no more than a
 reasonable reproduction cost, preferably downloadable via the Internet
-without charge. The **work** must also be available in a convenient and
+without charge. The **work** *must* also be available in a convenient and
 modifiable form. The **license** may require the work to be available
-in a convenient and modifiable form. The **work** must be clearly presented
+in a convenient and modifiable form. The **work** *must* be clearly presented
 as available under the **license**.
 
 *Comment: This can be summarized as 'social' openness - not only are you
@@ -234,10 +192,11 @@ available' means that both the license and the means of access are clear
 and unambiguous on which works the rights attach to.*
 
     HL: formerly addressed by "1. Acesss"
+    HL: I would like to see any references to licensing moved up to section 1
 
 ##### 2.1.3 Open Format
 
-The **work** must be provided in such a form that there are no
+The **work** *must* be provided in such a form that there are no
 technological obstacles to the performance of the licensed rights. This
 can be achieved by the provision of the work in an open data format,
 i.e., one whose specification is publicly and freely available and which
@@ -251,12 +210,6 @@ places no restrictions monetary or otherwise upon its use.
 
     HL: formerly addressed by "4. Absence of Technological Restriction"
 
-
-#### 2.2 Recommendations for Open Works
-
-    KM: We should have a discussion about this on-list, but I'm thinking
-    it could be useful to have some softer **should** conditions regarding
-    archiving, metadata, use of open standards, availability of APIs, etc.
 
 ### Other TODOs
 
