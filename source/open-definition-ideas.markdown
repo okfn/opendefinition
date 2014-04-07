@@ -38,6 +38,15 @@ modifiable form. The license may prohibit technological restrictions.
     
 Licenses with the following characteristics help the open ecosystem by maintaining interoperability and avoiding high costs. (If AC and approval are mentioned in this document, might say we don't approve licenses not following these recommendations.)
 
+##### Indpendence?
+
+These rights *must* apply independently of other legal agreements, without any 
+obligation to agree to additional terms. 
+
+    LV: On re-reading, I'm not sure the "independently of other legal agreements" 
+    is quite right; it is broader than the old equivalent language and would 
+    prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
+
 #### Reusable
 
 Not specific to an organization or jurisdiction.

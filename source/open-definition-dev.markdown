@@ -29,7 +29,7 @@ The **license** *must* irrevocably grant the following permissions.
 
 ##### 1.1.1 Use
 
-The **license** *must* allow use of the licensed work for any purpose.
+The **license** *must* allow use of the licensed work.
 
     HL: formerly addressed by "8. No Discrimination Against Fields of Endeavor"
 
@@ -79,7 +79,7 @@ _Comment: this is taken directly from item 9 of the OSD._
     HL: formerly addressed by "11. License Must Not Restrict the Distribution of Other Works"
 
 ##### 1.1.6 Impartiality
-The **license** _must_ treat all persons or groups of persons equally.
+The **license** *must* treat all persons or groups of persons equally.
 
 _Comment: In order to get the maximum benefit from the process, the maximum diversity of persons and groups should be equally eligible to contribute to open knowledge. Therefore we forbid any open-knowledge license from locking anybody out of the process._
 
@@ -100,18 +100,19 @@ _Comment: this is derived from item 7 of the OSD._
 ##### 1.1.8 Application to Any Purpose
 
 The **license** *must* allow use, redistribution, modification and 
-compilation, by any person or group of persons, for any purpose. These 
-rights *must* apply independently of other legal agreements, without any 
-obligation to agree to additional terms. 
+compilation, by any person or group of persons, for any purpose.
 
-    LV: On re-reading, I'm not sure the "independently of other legal agreements" 
-    is quite right; it is broader than the old equivalent language and would 
-    prohibit (say) CC 4.0, which reserves rights not explicitly included in the license. 
+_Comment: The license must not restrict anyone from making use of the work in a
+specific field of endeavor.  For example, it may not restrict the work from being
+used in a business, or from being used for genetic research._
+
+_Comment: The major intent of this clause is to prohibit license traps that prevent open
+material from being used commercially.  We want commercial users to join our community, not
+feel excluded from it._
+
+_Comment: this is adapted from item 6 of the OSD._
 
     HL: formerly addressed by "8. No Discrimination Against Fields of Endeavor"
-    HL: this seems redundant given that it's covered already in 1.1.1 and 1.1.6.  The
-    second line in this requirement is new.  I would like to remove this clause 
-    entirely if possible and consider the 2nd line in a future release.
 
 
 #### 1.2 Acceptable Conditions
