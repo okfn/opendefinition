@@ -115,6 +115,14 @@ _Comment: this is adapted from item 6 of the OSD._
     HL: formerly addressed by "8. No Discrimination Against Fields of Endeavor"
 
 
+##### 1.1.9 No Charge
+
+The **license** *must* not impose any fee arrangements, compensation or monetary 
+remuneration as part of it's conditions. The only charge that may be made is for 
+any one-off reproduction cost, in the common case of downloading over the internet 
+the this cost would normally be zero.
+
+
 #### 1.2 Acceptable Conditions
 The **license** *may* condition the permissions granted in Section 1.1 on 
 compliance with the following conditions. Other conditions are not generally 
