@@ -30,11 +30,11 @@ After submission, the Open Definition community will discuss on the mailing list
 
 * Reusable: Not specific to an organization or jurisdiction.
 * Compatible: Must be compatible with at least one of GPL-3.0+, CC-BY-SA-4.0, and ODbL-1.0. Permissive/attribution-only licenses must be compatible with all 3 of the aforementioned licenses, and at least one of Apache-2.0, CC-BY-4.0, and ODC-BY-1.0.
-* Offering of sufficient coverage: Must grant substantial and clear rights, e.g., anything covered by copyright, and not include substantial, unclear, or redundant reservations (e.g., only permitting "lawful use").
+* Offering sufficient coverage: Must grant substantial and clear rights (e.g., anything covered by copyright), and not include substantial, unclear, or redundant reservations (e.g., only permitting "lawful use").
 * Understandable: If the AC has to debate what license really means, it isn't understandable. A clear policy objective unabiguously reflected in the license text is necessary for the AC to avoid such debate. Additionally: Does the license follow [good drafting practices](http://lu.is/blog/2013/10/06/reviewing-the-manual-of-style-for-contract-drafting-by-editing-twitters-patent-agreement/)? How does it compare to other licenses' [automated readability metrics](http://gondwanaland.com/mlog/2013/09/22/license-readability/)?
 
-**Conformant and Old or Little Used.** These licenses conform to the Open Defintion and are reusable, compatible, offer sufficient coverage, and are understandable, but have been superceded by newer versions of the same license or newer licenses with similar use cases, or are little-used.
+**Conformant and Old or Little Used.** These licenses conform to the Open Defintion and are reusable, compatible, offering sufficient coverage, and understandable, but have been superceded by newer versions of the same license or newer licenses with similar use cases, or are little-used.
 
-**Conformant and Not Recommended.** These licenses conform to the Open Definition but are not one or more of reusable, compatible, offering significant coverage, or understandable. These licenses may be reasonable for the particular organization they were crafted for to use, or to use for legacy reasons, but should not be considered by an entity outside such a context for a fresh project.
+**Conformant and Not Recommended.** These licenses conform to the Open Definition but are not one or more of reusable, compatible, offering sufficient coverage, or understandable. These licenses may be reasonable for the particular organization they were crafted for to use, or to use for legacy reasons, but should not be considered by an entity outside such a context for a fresh project.
 
 **Non-conformant.** These licenses are NOT OPEN and will be listed on http://opendefinition.org/licenses/nonconformant/
