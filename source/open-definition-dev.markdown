@@ -49,7 +49,10 @@ terms of the original licensed work.
 The **license** *must* allow any part of the work, or the whole of it, 
 to be used, distributed or modified separately from any other part 
 of the work, or from any collection of works in which it was originally 
-distributed. 
+distributed. When a work or any part of a work is used or redistributed 
+within the terms of the license, all parties to whom the work is redistributed 
+should have the same rights as those that are granted in conjunction with 
+the original package.
 
 ##### 1.1.5 Compilation
 
@@ -124,7 +127,7 @@ accompany the work.
 
 ##### 2.1.3 Open Format
 
-The **work** *must* be provided in a convenitent and modifiable form such
+The **work** *must* be provided in a convenient and modifiable form such
 that there are no technological obstacles to the performance of the licensed 
 rights. This can be achieved by the provision of the work in an open data format,
 i.e., one whose specification is publicly and freely available and which
