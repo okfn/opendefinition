@@ -128,8 +128,10 @@ accompany the work.
 ##### 2.1.3 Open Format
 
 The **work** *must* be provided in a convenient and modifiable form such
-that there are no technological obstacles to the performance of the licensed 
-rights. This can be achieved by the provision of the work in an open data format,
-i.e., one whose specification is publicly and freely available and which
-places no restrictions monetary or otherwise upon its use. 
+that there are no unnecessary technological obstacles to the performance of the
+licensed rights. Specifically, data should be machine-readable, available in
+bulk and provided in an open data format (i.e., one whose specification is publicly
+and freely available and which places no restrictions monetary or otherwise upon
+its use) or, at the very least, can be processed with at least one free/open source
+software tool.
 
