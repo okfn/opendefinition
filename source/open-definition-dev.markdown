@@ -113,7 +113,7 @@ conditions:
 
 ##### 2.1.1 Open License
 
-The **work** *must* be clearly presented as available under the **license**.
+The **work** *must* be available under an open **license** (as defined in section 1).
 Any additional terms accompanying the work (such as a terms of use) *must not* 
 contradict the terms of the license.
 
