@@ -76,9 +76,9 @@ specific field of endeavor.
 ##### 1.1.9 No Charge
 
 The **license** *must* not impose any fee arrangements, compensation or monetary 
-remuneration as part of it's conditions. The only charge that may be made is for 
-any one-off reproduction cost, in the common case of downloading over the internet 
-the this cost would normally be zero.
+remuneration as part of its conditions. The only charge that may be made is for 
+any one-off reproduction cost (in the common case of downloading over the internet 
+the this cost would normally be zero).
 
 #### 1.2 Acceptable Conditions
 The **license** *may* condition the permissions granted in Section 1.1 on 
@@ -88,7 +88,7 @@ required in Section 1.1.
 
 ##### 1.2.1 Attribution
 
-The **license** *may* require that contributors and creators of a licensed 
+The **license** *may* require that contributors, rights holders, sponsors and creators of a licensed 
 work be attributed in distributed versions of the work. If this condition 
 is imposed it *must* not be onerous. 
 
@@ -101,7 +101,7 @@ otherwise indicate what changes have been made.
 ##### 1.2.3 Share-alike
 
 The **license** *may* require that copies or adaptations of a licensed work be
-released under the same or similar license as the original.
+released under a license the same as or similar to the original.
 
 
 ### 2. Open Works
@@ -133,5 +133,5 @@ licensed rights. Specifically, data should be machine-readable, available in
 bulk and provided in an open data format (i.e., one whose specification is publicly
 and freely available and which places no restrictions monetary or otherwise upon
 its use) or, at the very least, can be processed with at least one free/open source
-software tool.
+software tool. 
 
