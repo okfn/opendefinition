@@ -84,7 +84,7 @@ the this cost would normally be zero).
 The **license** *may* condition the permissions granted in Section 1.1 on 
 compliance with the following conditions. Other conditions are not generally 
 permitted if they meaningfully limit or otherwise impact the permissions 
-required in Section 1.1. The conditions *must* not seek to derogate from rights such as fair use and fair dealing, or from uses for which no licence is required at law.
+required in Section 1.1.
 
 ##### 1.2.1 Attribution
 
@@ -101,7 +101,7 @@ otherwise indicate what changes have been made.
 ##### 1.2.3 Share-alike
 
 The **license** *may* require that copies or adaptations of a licensed work be
-released under a licence the same as or similar to the original.
+released under a license the same as or similar to the original.
 
 
 ### 2. Open Works
@@ -123,13 +123,13 @@ The **work** shall be available as a whole and at no more than a reasonable
 reproduction cost, preferably downloadable via the Internet without charge.
 Any additional information necessary for license compliance (such as names of 
 contributors required for compliance with attribution requirements) *must* also 
-accompany the work.  "**Work**" includes non-transient derivatives of the **work** (for example, metadata).
+accompany the work.
 
 ##### 2.1.3 Open Format
 
 The **work** *must* be provided in a convenient and modifiable form such
 that there are no unnecessary technological obstacles to the performance of the
-licensed rights. Specifically, data should be machine-readable, available and, where hosted on an accessible network, downloadable in
+licensed rights. Specifically, data should be machine-readable, available in
 bulk and provided in an open data format (i.e., one whose specification is publicly
 and freely available and which places no restrictions monetary or otherwise upon
 its use) or, at the very least, can be processed with at least one free/open source
