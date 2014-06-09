@@ -3,9 +3,9 @@ Version 2.0dev?
 
 ## Introduction
 
-The Open Definition makes precise the meaning of "open" with respect to data and content, promoting a robust knowledge commons in which anyone may participate and innovate, and in which barriers to interoperability among pools of data and content are minimized.
+The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
 
-Summary: **Data or content is open if anyone is free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and/or share-alike.**
+Summary: **Knowlege is open if anyone is free to use, modify, and redistribute it — subject only, at most, to requirements to attribute and share-alike.**
 
 This essential meaning is the same as that of "open" with respect to software, contained in the [Open Source Definition](http://www.opensource.org/docs/osd), and is synonymous with "free" or "libre"; see the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
 
