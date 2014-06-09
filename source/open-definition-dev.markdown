@@ -17,7 +17,7 @@ example, copyright).
 
 ### 1. Open Licenses
 
-A **license** is open if its terms satisfy the following conditions:
+A **license** is open if its terms satisfy the following conditions.
 
 #### 1.1 Required Permissions
 
@@ -103,7 +103,7 @@ released under a license the same as or similar to the original.
 ### 2. Open Works
 
 A specific **work** is open if its manner of distribution satisfies the following
-conditions:
+conditions.
 
 #### 2.1 Mandatory Conditions
 
@@ -130,4 +130,3 @@ bulk and provided in an open data format (i.e., one whose specification is publi
 and freely available and which places no restrictions monetary or otherwise upon
 its use) or, at the very least, can be processed with at least one free/open source
 software tool. 
-
