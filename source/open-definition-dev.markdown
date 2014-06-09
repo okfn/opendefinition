@@ -76,7 +76,7 @@ compensation or monetary remuneration as part of its conditions.
 #### 1.2 Acceptable Conditions
 The **license** *may* condition the permissions granted in Section 1.1 on 
 compliance with the following conditions. Other conditions are not 
-permitted if they meaningfully limit or otherwise impact the permissions 
+permitted if they limit, make uncertain, or otherwise diminish the permissions 
 required in Section 1.1.
 
 ##### 1.2.1 Attribution
