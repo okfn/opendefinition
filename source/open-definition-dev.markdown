@@ -83,11 +83,11 @@ required in Section 1.1.
 
 The **license** *may* require that contributors, rights holders, sponsors and creators of a licensed 
 work be attributed in distributed versions of the work. If this condition 
-is imposed it *must not* be onerous. 
+is imposed, it *must not* be onerous. 
 
 ##### 1.2.2 Integrity
 
-The **license** *may* require that modified versions of a licensed work *must* 
+The **license** *may* require that modified versions of a licensed work
 carry a different name or version number from the original work, or 
 otherwise indicate what changes have been made. 
 
@@ -124,6 +124,6 @@ The **work** *must* be provided in a convenient and modifiable form such
 that there are no unnecessary technological obstacles to the performance of the
 licensed rights. Specifically, data should be machine-readable, available in
 bulk and provided in an open data format (i.e., one whose specification is publicly
-and freely available and which places no restrictions monetary or otherwise upon
+and freely available and which places no restrictions, monetary or otherwise, upon
 its use) or, at the very least, can be processed with at least one free/open source
-software tool. 
+software tool.
