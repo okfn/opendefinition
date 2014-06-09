@@ -31,7 +31,7 @@ The **license** *must* allow use of the licensed work.
 
 The **license** *must* allow redistribution of the licensed work, 
 including sale, either on its own or as part of a collection made from 
-works from many different sources. The license *must* not require a 
+works from many different sources. The license *must not* require a 
 royalty or other fee for such sale or distribution.
 
 ##### 1.1.3 Reuse
@@ -66,12 +66,12 @@ without the need for execution of an additional license by those parties.
 
 The **license** *must* allow use, redistribution, modification and 
 compilation, by any person or group of persons, for any purpose. The 
-license must not restrict anyone from making use of the work in a
+license *must not* restrict anyone from making use of the work in a
 specific field of endeavor.
 
 ##### 1.1.9 No Charge
 
-The **license** *must* not impose any fee arrangements, compensation or monetary 
+The **license** *must not* impose any fee arrangements, compensation or monetary 
 remuneration as part of its conditions. The only charge that may be made is for 
 any one-off reproduction cost (in the common case of downloading over the internet 
 the this cost would normally be zero).
@@ -86,7 +86,7 @@ required in Section 1.1.
 
 The **license** *may* require that contributors, rights holders, sponsors and creators of a licensed 
 work be attributed in distributed versions of the work. If this condition 
-is imposed it *must* not be onerous. 
+is imposed it *must not* be onerous. 
 
 ##### 1.2.2 Integrity
 
