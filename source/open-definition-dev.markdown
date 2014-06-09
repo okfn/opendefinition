@@ -31,8 +31,7 @@ The **license** *must* allow use of the licensed work.
 
 The **license** *must* allow redistribution of the licensed work, 
 including sale, either on its own or as part of a collection made from 
-works from many different sources. The license *must not* require a 
-royalty or other fee for such sale or distribution.
+works from many different sources.
 
 ##### 1.1.3 Reuse
 
@@ -71,10 +70,8 @@ specific field of endeavor.
 
 ##### 1.1.9 No Charge
 
-The **license** *must not* impose any fee arrangements, compensation or monetary 
-remuneration as part of its conditions. The only charge that may be made is for 
-any one-off reproduction cost (in the common case of downloading over the internet 
-the this cost would normally be zero).
+The **license** *must not* impose any fee arrangement, royalty, or other
+compensation or monetary remuneration as part of its conditions.
 
 #### 1.2 Acceptable Conditions
 The **license** *may* condition the permissions granted in Section 1.1 on 
@@ -116,7 +113,7 @@ contradict the terms of the license.
 ##### 2.1.2 Access
 
 The **work** shall be available as a whole and at no more than a reasonable 
-reproduction cost, preferably downloadable via the Internet without charge.
+one-time reproduction cost, preferably downloadable via the Internet without charge.
 Any additional information necessary for license compliance (such as names of 
 contributors required for compliance with attribution requirements) *must* also 
 accompany the work.
