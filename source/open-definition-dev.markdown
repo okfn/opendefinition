@@ -1,23 +1,19 @@
 # Open Definition
 Version 2.0dev?
 
-## Introduction
-
 The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
 
-Summary: **Knowlege is open if anyone is free to use, modify, and redistribute it — subject only, at most, to requirements to attribute and share-alike.**
+**Summary:** *Knowlege is open if anyone is free to use, modify, and redistribute it — subject only, at most, to requirements to attribute and share-alike.*
 
 This essential meaning is the same as that of "open" with respect to software, contained in the [Open Source Definition](http://www.opensource.org/docs/osd), and is synonymous with "free" or "libre"; see the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
-
-## Terminology
 
 The term **work** will be used to denote the item or piece of knowledge
 which is being transferred.
 
 The term **license** refers to the legal terms under which the work is
-made available. Where no license has been made this should be interpreted
-as referring to the resulting default legal conditions under which the
-work is available (for example copyright).
+made available. Where no license has been offered this should be interpreted
+as referring to default legal conditions governing use of the work (for 
+example, copyright).
 
 ### 1. Open Licenses
 
