@@ -100,9 +100,9 @@ released under a license the same as or similar to the original.
 ### 2. Open Works
 
 A specific **work** is open if its manner of distribution satisfies the following
-conditions.
+requirements.
 
-#### 2.1 Mandatory Conditions
+#### 2.1 Requirements
 
 ##### 2.1.1 Open License
 
