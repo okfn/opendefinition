@@ -31,7 +31,7 @@ The **license** *must* allow use of the licensed work.
 
 The **license** *must* allow redistribution of the licensed work, 
 including sale, either on its own or as part of a collection made from 
-works from many different sources.
+works from different sources.
 
 ##### 1.1.3 Reuse
 
