@@ -59,7 +59,7 @@ The **license** *must* treat all persons or groups of persons equally.
 
 ##### 1.1.7 Propagation
 The rights attached to the work *must* apply to all to whom it is redistributed 
-without the need for execution of an additional license by those parties.
+without the need to agree to any additional legal terms.
 
 ##### 1.1.8 Application to Any Purpose
 
