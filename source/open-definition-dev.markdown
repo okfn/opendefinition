@@ -47,7 +47,7 @@ of the work, or from any collection of works in which it was originally
 distributed. When a work or any part of a work is used or redistributed 
 within the terms of the license, all parties to whom the work is redistributed 
 should have the same rights as those that are granted in conjunction with 
-the original package.
+the original work.
 
 ##### 1.1.5 Compilation
 
