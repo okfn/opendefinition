@@ -93,7 +93,7 @@ otherwise indicate what changes have been made.
 
 ##### 1.2.3 Share-alike
 
-The **license** *may* require that copies or adaptations of a licensed work be
+The **license** *may* require that copies or derivatives of a licensed work be
 released under a license the same as or similar to the original.
 
 
