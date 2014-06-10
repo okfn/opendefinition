@@ -64,7 +64,7 @@ without the need for execution of an additional license by those parties.
 ##### 1.1.8 Application to Any Purpose
 
 The **license** *must* allow use, redistribution, modification and 
-compilation, by any person or group of persons, for any purpose. The 
+compilation for any purpose. The 
 license *must not* restrict anyone from making use of the work in a
 specific field of endeavor.
 
