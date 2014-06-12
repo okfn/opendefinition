@@ -84,7 +84,7 @@ the original work.
 The **license** *must* allow the licensed work to be distributed along 
 with other distinct works, with no restrictions placed on these other works.
 
-##### 2.1.6 Impartiality
+##### 2.1.6 Non-discrimination
 The **license** *must* treat all persons or groups of persons equally.
 
 ##### 2.1.7 Propagation
