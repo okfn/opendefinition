@@ -10,10 +10,10 @@ This essential meaning is the same as that of "open" with respect to software, c
 The term **work** will be used to denote the item or piece of knowledge
 which is being transferred.
 
-The term **license** refers to the legal terms under which the work is
+The term **license** refers to the legal conditions under which the work is
 made available. Where no license has been offered this should be interpreted
 as referring to default legal conditions governing use of the work (for 
-example, copyright).
+example, copyright or, in some cases, public domain).
 
 ### 1. Open Works
 
@@ -51,7 +51,7 @@ A **license** is open if its terms satisfy the following conditions.
 
 #### 2.1 Required Permissions
 
-The **license** *must* irrevocably grant the following permissions.
+The **license** *must* irrevocably grant (or allow) the following permissions.
 
 ##### 2.1.1 Use
 
