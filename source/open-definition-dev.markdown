@@ -123,7 +123,7 @@ accompany the work.
 The **work** *must* be provided in a convenient and modifiable form such
 that there are no unnecessary technological obstacles to the performance of the
 licensed rights. Specifically, data should be machine-readable, available in
-bulk and provided in an open data format (i.e., one whose specification is publicly
+bulk and provided in an open format (i.e., one whose specification is publicly
 and freely available and which places no restrictions, monetary or otherwise, upon
 its use) or, at the very least, can be processed with at least one free/open source
 software tool.
