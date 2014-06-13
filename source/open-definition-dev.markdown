@@ -137,7 +137,7 @@ The **license** *may* require retaining copyright notices and identifying the li
 
 The **license** *may* require that modified works be made available in a form preferred for further modification.
 
-##### 2.2.6 Technical restrictions
+##### 2.2.6 Technical Restriction Prohibition
 
 The **license** *may* prohibit distribution of licensed works with technical measures that restrict the exercise of required permissions.
 
