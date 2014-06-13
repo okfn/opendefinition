@@ -13,7 +13,7 @@ which is being transferred.
 The term **license** refers to the legal conditions under which the work is
 made available. Where no license has been offered this should be interpreted
 as referring to default legal conditions governing use of the work (for 
-example, copyright or, in some cases, public domain).
+example, copyright or public domain).
 
 ### 1. Open Works
 
