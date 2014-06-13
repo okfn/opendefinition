@@ -51,7 +51,7 @@ A **license** is open if its terms satisfy the following conditions.
 
 #### 2.1 Required Permissions
 
-The **license** *must* irrevocably grant (or allow) the following permissions.
+The **license** *must* irrevocably permit (or allow) the following.
 
 ##### 2.1.1 Use
 
