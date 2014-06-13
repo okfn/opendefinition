@@ -140,3 +140,7 @@ The **license** *may* require that modified works be made available in a form pr
 ##### 2.2.6 Technical restrictions
 
 The **license** *may* prohibit distribution of licensed works with technical measures that restrict the exercise of required permissions.
+
+##### 2.2.7 Non-aggression
+
+The **license** *may* require modifiers to grant the public additional permissions (for example, patent licenses) required for exercise of required permissions, and may condition permissions on not aggressing against licensees with respect to exercising any required permissions (again, for example, patent litigation).
