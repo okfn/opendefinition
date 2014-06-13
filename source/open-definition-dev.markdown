@@ -85,9 +85,11 @@ The **license** *must* allow the licensed work to be distributed along
 with other distinct works, with no restrictions placed on these other works.
 
 ##### 2.1.6 Non-discrimination
-The **license** *must* treat all persons or groups of persons equally.
+
+The **license** *must not* discriminate against any person or group.
 
 ##### 2.1.7 Propagation
+
 The rights attached to the work *must* apply to all to whom it is redistributed 
 without the need to agree to any additional legal terms.
 
@@ -104,6 +106,7 @@ The **license** *must not* impose any fee arrangement, royalty, or other
 compensation or monetary remuneration as part of its conditions.
 
 #### 2.2 Acceptable Conditions
+
 The **license** *may* condition the permissions granted in Section 2.1 on 
 compliance with the following conditions. Other conditions are not 
 permitted if they limit, make uncertain, or otherwise diminish the permissions 
@@ -125,5 +128,3 @@ otherwise indicate what changes have been made.
 
 The **license** *may* require that copies or derivatives of a licensed work be
 released under a license the same as or similar to the original.
-
-
