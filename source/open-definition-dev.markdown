@@ -63,7 +63,7 @@ The **license** *must* allow redistribution of the licensed work,
 including sale, either on its own or as part of a collection made from 
 works from different sources.
 
-##### 2.1.3 Reuse
+##### 2.1.3 Modification
 
 The **license** *must* allow creation of derivatives of the licensed 
 work, and *must* allow the derivatives to be distributed under the 
