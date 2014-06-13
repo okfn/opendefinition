@@ -128,3 +128,15 @@ otherwise indicate what changes have been made.
 
 The **license** *may* require that copies or derivatives of a licensed work be
 released under a license the same as or similar to the original.
+
+##### 2.2.4 Notice
+
+The **license** *may* require retaining copyright notices and identifying the license used.
+
+##### 2.2.5 Source
+
+The **license** *may* require that modified works be made available in a form preferred for further modification.
+
+##### 2.2.6 Technical restrictions
+
+The **license** *may* prohibit distribution of licensed works with technical measures that restrict the exercise of required permissions.
