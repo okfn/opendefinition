@@ -108,9 +108,9 @@ required in Section 2.1 except by the folloing allowable conditions:
 
 ##### 2.2.1 Attribution
 
-If imposed in a non-onerous manner, the **license** *may* require
-distributed versions of the work to include attribution of 
-contributors, rights holders, sponsors and creators.
+The **license** *may* require distributions of the work to include attribution
+of contributors, rights holders, sponsors and creators as long as
+any such prescriptions are not onerous.
 
 ##### 2.2.2 Integrity
 
