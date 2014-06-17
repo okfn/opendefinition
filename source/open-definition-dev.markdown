@@ -5,10 +5,9 @@ The Open Definition makes precise the meaning of "open" with respect to knowledg
 
 **Summary:** *Knowledge is open if anyone is free to use, modify, and redistribute it — subject only, at most, to requirements to attribute and share-alike.*
 
-This essential meaning is the same as that of "open" with respect to software, contained in the [Open Source Definition](http://www.opensource.org/docs/osd), and is synonymous with "free" or "libre"; see the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](http://www.opensource.org/docs/osd) and is synonymous with "free" or "libre" as in the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
 
-The term **work** will be used to denote the item or piece of knowledge
-which is being transferred.
+The term **work** will be used to denote the item or piece of knowledge being transferred.
 
 The term **license** refers to the legal conditions under which the work is
 made available. Where no license has been offered this should be interpreted
@@ -17,8 +16,7 @@ example, copyright or public domain).
 
 ### 1. Open Works
 
-A specific **work** is open if its manner of distribution satisfies the following
-requirements.
+An open **work** must satisfy the following requirements in its distribution:
 
 ##### 1.1 Open License
 
@@ -39,50 +37,49 @@ accompany the work.
 The **work** *must* be provided in a convenient and modifiable form such
 that there are no unnecessary technological obstacles to the performance of the
 licensed rights. Specifically, data should be machine-readable, available in
-bulk and provided in an open format (i.e., one whose specification is publicly
-and freely available and which places no restrictions, monetary or otherwise, upon
-its use) or, at the very least, can be processed with at least one free/open source
+bulk, and provided in an open format (i.e., a format with a freely available
+published specification which places no restrictions, monetary or otherwise, upon
+its use) or, at the very least, can be processed with at least one free/libre/open-source
 software tool.
 
 
 ### 2. Open Licenses
 
-A **license** is open if its terms satisfy the following conditions.
+A **license** is open if its terms satisfy the following conditions:
 
 #### 2.1 Required Permissions
 
-The **license** *must* irrevocably permit (or allow) the following.
+The **license** *must* irrevocably permit (or allow) the following:
 
 ##### 2.1.1 Use
 
-The **license** *must* allow use of the licensed work.
+The **license** *must* allow free use of the licensed work.
 
 ##### 2.1.2 Redistribution
 
 The **license** *must* allow redistribution of the licensed work, 
-including sale, either on its own or as part of a collection made from 
+including sale, whether on its own or as part of a collection made from 
 works from different sources.
 
 ##### 2.1.3 Modification
 
-The **license** *must* allow creation of derivatives of the licensed 
-work, and *must* allow the derivatives to be distributed under the 
+The **license** *must* allow the creation of derivatives of the licensed 
+work and allow the distribution of such derivatives under the same
 terms of the original licensed work.
 
 ##### 2.1.4 Separation
 
-The **license** *must* allow any part of the work, or the whole of it, 
-to be used, distributed or modified separately from any other part 
-of the work, or from any collection of works in which it was originally 
-distributed. When a work or any part of a work is used or redistributed 
-within the terms of the license, all parties to whom the work is redistributed 
-should have the same rights as those that are granted in conjunction with 
-the original work.
+The **license** *must* allow any part of the work
+to be freely used, distributed, or modified separately from any other part 
+of the work or from any collection of works in which it was originally 
+distributed. All parties who receive any distribution of any part of
+a work within the terms of the original license should have the same rights
+as those that are granted in conjunction with the original work.
 
 ##### 2.1.5 Compilation
 
 The **license** *must* allow the licensed work to be distributed along 
-with other distinct works, with no restrictions placed on these other works.
+with other distinct works without placing restrictions on these other works.
 
 ##### 2.1.6 Non-discrimination
 
@@ -95,10 +92,9 @@ without the need to agree to any additional legal terms.
 
 ##### 2.1.8 Application to Any Purpose
 
-The **license** *must* allow use, redistribution, modification and 
-compilation for any purpose. The 
-license *must not* restrict anyone from making use of the work in a
-specific field of endeavor.
+The **license** *must* allow use, redistribution, modification, and 
+compilation for any purpose. The license *must not* restrict anyone
+from making use of the work in a specific field of endeavor.
 
 ##### 2.1.9 No Charge
 
@@ -107,40 +103,38 @@ compensation or monetary remuneration as part of its conditions.
 
 #### 2.2 Acceptable Conditions
 
-The **license** *may* condition permissions granted on 
-compliance with the following conditions. Other conditions are not 
-permitted if they limit, make uncertain, or otherwise diminish the permissions 
-required in Section 2.1.
+The **license** shall not limit, make uncertain, or otherwise diminish the permissions 
+required in Section 2.1 except by the folloing allowable conditions:
 
 ##### 2.2.1 Attribution
 
-The **license** *may* require that contributors, rights holders, sponsors and creators of a licensed 
-work be attributed in distributed versions of the work. If this condition 
-is imposed, it *must not* be onerous. 
+The **license** *may* require distributions of the work to include attribution
+of contributors, rights holders, sponsors and creators as long as
+any such prescriptions are not onerous.
 
 ##### 2.2.2 Integrity
 
 The **license** *may* require that modified versions of a licensed work
-carry a different name or version number from the original work, or 
+carry a different name or version number from the original work or 
 otherwise indicate what changes have been made. 
 
 ##### 2.2.3 Share-alike
 
-The **license** *may* require that copies or derivatives of a licensed work be
-released under a license the same as or similar to the original.
+The **license** *may* require copies or derivatives of a licensed work to remain
+under under a license the same as or similar to the original.
 
 ##### 2.2.4 Notice
 
-The **license** *may* require retaining copyright notices and identifying the license used.
+The **license** *may* require retention of copyright notices and identification of the license.
 
 ##### 2.2.5 Source
 
-The **license** *may* require that modified works be made available in a form preferred for further modification.
+The **license** *may* require modified works to be made available in a form preferred for further modification.
 
 ##### 2.2.6 Technical Restriction Prohibition
 
-The **license** *may* prohibit distribution of licensed works with technical measures that restrict the exercise of required permissions.
+The **license** *may* prohibit distribution of the work in a manner where technical measures impose restrictions on the exercise of otherwise allowed rights.
 
 ##### 2.2.7 Non-aggression
 
-The **license** *may* require modifiers to grant the public additional permissions (for example, patent licenses) required for exercise of required permissions, and may condition permissions on not aggressing against licensees with respect to exercising any required permissions (again, for example, patent litigation).
+The **license** *may* require modifiers to grant the public additional permissions (for example, patent licenses) as required for exercise of the rights allowed by the license. The license may also condition permissions on not aggressing against licensees with respect to exercising any allowed right (again, for example, patent litigation).
