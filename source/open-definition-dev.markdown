@@ -20,7 +20,7 @@ An open **work** must satisfy the following requirements in its distribution:
 
 ##### 1.1 Open License
 
-The **work** *must* be available under an open **license** (as defined in Section 1).
+The **work** *must* be available under an open **license** (as defined in Section 2).
 Any additional terms accompanying the work (such as a terms of use, or patents held by the licensor) *must not* 
 contradict the terms of the license.
 
