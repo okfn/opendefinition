@@ -121,7 +121,7 @@ otherwise indicate what changes have been made.
 ##### 2.2.3 Share-alike
 
 The **license** *may* require copies or derivatives of a licensed work to remain
-under under a license the same as or similar to the original.
+under a license the same as or similar to the original.
 
 ##### 2.2.4 Notice
 
