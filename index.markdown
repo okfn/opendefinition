@@ -34,8 +34,7 @@ It can be summed up in the statement that:
 
 
 <blockquote>"A piece of data or content is open if **anyone** is **free to use, reuse, and redistribute** it -- subject only, at most, to the requirement to attribute and/or share-alike."
-> 
-> </blockquote>
+ </blockquote>
 
 
 
