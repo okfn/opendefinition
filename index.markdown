@@ -40,8 +40,4 @@ It can be summed up in the statement that:
 
 
 
-[Read the full Open Definition »](/od/)
-
-
-
-
+[Read the full Open Definition »]({{ site.url }}/od/)

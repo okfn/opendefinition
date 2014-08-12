@@ -8,4 +8,10 @@ title: Updates
 wordpress_id: 637
 ---
 
-No Content Found
+<ul>
+  {% for post in site.posts %}
+    <li>
+       <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
