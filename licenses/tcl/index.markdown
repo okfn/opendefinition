@@ -23,9 +23,7 @@ The TCL currently exists only in draft form. The TCL is explicitly intended to a
 #### How to apply 
 
 Include a link to, or a full copy of the TCL in your work, and something like the following:
-{{{
-   Copyright (c)  [YEAR]  [YOUR NAME].
-   This work is made available under the terms of the Talis Community License.
-}}}
 
+> Copyright (c)  [YEAR]  [YOUR NAME].
+> This work is made available under the terms of the Talis Community License.
 
