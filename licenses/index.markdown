@@ -101,25 +101,8 @@ These licenses conform to the Open Definition **and** are:
 <td >
 </td>
 </tr>
+
 <tr >
-
-<td ><a href="/licenses/cc-by">Creative Commons Attribution</a>(CC-BY)
-</td>
-
-<td >Content
-</td>
-
-<td >Y
-</td>
-
-<td >N
-</td>
-
-<td >All versions 1.0-3.0, including jurisdiction "ports"
-</td>
-</tr>
-<tr >
-
 <td ><a href="/licenses/odc-by">Open Data Commons Attribution License</a> (ODC-BY)
 </td>
 
@@ -152,23 +135,7 @@ These licenses conform to the Open Definition **and** are:
 <td >
 </td>
 </tr>
-<tr >
 
-<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution Share-Alike</a> (CC-BY-SA)
-</td>
-
-<td >Content
-</td>
-
-<td >Y
-</td>
-
-<td >Y
-</td>
-
-<td >All versions 2.0-3.0, including jurisdiction "ports"; version 1.0 is little used and not recommended because it is incompatible with future versions
-</td>
-</tr>
 <tr >
 
 <td ><a href="/licenses/odc-odbl">Open Data Commons Open Database License</a> (ODbL)
@@ -227,6 +194,32 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 <td >Y
 </td>
 <td ><b>Little used.</b>
+</td>
+</tr>
+
+<tr >
+<td ><a href="/licenses/cc-by">Creative Commons Attribution</a> versions 1.0-3.0
+</td>
+<td >Content
+</td>
+<td >Y
+</td>
+<td >N
+</td>
+<td>Includes all jurisdiction "ports"; <b>Superceded</b> CC-BY-4.0.
+</td>
+</tr>
+
+<tr >
+<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution-ShareAlike</a> versions 1.0-3.0
+</td>
+<td >Content
+</td>
+<td >Y
+</td>
+<td >Y
+</td>
+<td>Includes all jurisdiction "ports"; <b>Superceded</b> CC-BY-SA-4.0. Additionally, CC-BY-SA-1.0 is **Incompatible** with any other license.
 </td>
 </tr>
 
