@@ -171,7 +171,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td ><a href="/licenses/odc-odbl">Open Data Commons Open Database License](/licenses/odc-odbl</a> (ODbL)
+<td ><a href="/licenses/odc-odbl">Open Data Commons Open Database License</a> (ODbL)
 </td>
 
 <td >Data
@@ -257,7 +257,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr >
-<td ><a href="/licenses/fal">[Free Art License</a> (FAL)
+<td ><a href="/licenses/fal">Free Art License</a> (FAL)
 </td>
 <td >Content
 </td>
