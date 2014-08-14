@@ -69,7 +69,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td ><a href="/licenses/odc-pddl">Open Data Commons Public Domain Dedication and Licence</a>(PDDL)
+<td ><a href="/licenses/odc-pddl">Open Data Commons Public Domain Dedication and Licence</a> (PDDL)
 </td>
 
 <td >Data
