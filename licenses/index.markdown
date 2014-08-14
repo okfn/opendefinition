@@ -51,7 +51,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Creative Commons CCZero](/licenses/cc-zero) (CC0)
+<td ><a href="/licenses/cc-zero">Creative Commons CCZero</a> (CC0)
 </td>
 
 <td >Content, Data
@@ -68,7 +68,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Open Data Commons Public Domain Dedication and Licence](/licenses/odc-pddl) (PDDL)
+<td ><a href="/licenses/odc-pddl">Open Data Commons Public Domain Dedication and Licence</a>(PDDL)
 </td>
 
 <td >Data
@@ -85,7 +85,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Creative Commons Attribution 4.0](/licenses/cc-by) (CC-BY-4.0)
+<td ><a href="/licenses/cc-by">Creative Commons Attribution 4.0</a> (CC-BY-4.0)
 </td>
 
 <td >Content, Data
@@ -102,7 +102,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Creative Commons Attribution](/licenses/cc-by) (CC-BY)
+<td ><a href="/licenses/cc-by">Creative Commons Attribution</a>(CC-BY)
 </td>
 
 <td >Content
@@ -119,7 +119,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Open Data Commons Attribution License](/licenses/odc-by) (ODC-BY)
+<td ><a href="/licenses/odc-by">Open Data Commons Attribution License</a> (ODC-BY)
 </td>
 
 <td >Data
@@ -136,7 +136,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Creative Commons Attribution Share-Alike 4.0](/licenses/cc-by-sa) (CC-BY-SA-4.0)
+<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution Share-Alike 4.0</a> (CC-BY-SA-4.0)
 </td>
 
 <td >Content, Data
@@ -153,7 +153,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Creative Commons Attribution Share-Alike](/licenses/cc-by-sa) (CC-BY-SA)
+<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution Share-Alike</a> (CC-BY-SA)
 </td>
 
 <td >Content
@@ -170,7 +170,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td >[Open Data Commons Open Database License](/licenses/odc-odbl) (ODbL)
+<td ><a href="/licenses/odc-odbl">Open Data Commons Open Database License](/licenses/odc-odbl</a> (ODbL)
 </td>
 
 <td >Data
@@ -217,7 +217,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr >
-<td >[Against DRM](/licenses/against-drm)
+<td ><a href="/licenses/against-drm">Against DRM</a>
 </td>
 <td >Content
 </td>
@@ -225,13 +225,13 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td >**Little used.**
+<td ><b>Little used.</b>
 </td>
 </tr>
 <tr >
 
 <tr>
-<td >[Design Science License](/licenses/dsl)
+<td ><a href="/licenses/dsl">Design Science License</a>
 </td>
 <td >Data
 </td>
@@ -239,12 +239,12 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td >**Little used**, **Incompatible** with any other license.
+<td ><b>Little used</b>, <b>Incompatible</b> with any other license.
 </td>
 </tr>
 
 <tr >
-<td >[EFF Open Audio License](/licenses/eff-open-audio-license)
+<td ><a href="/licenses/eff-open-audio-licenses">EFF Open Audio License</a>
 </td>
 <td >Content
 </td>
@@ -252,12 +252,12 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td >**Deprecated** in favor of CC-BY-SA.
+<td ><b>Deprecated</b> in favor of CC-BY-SA.
 </td>
 </tr>
 
 <tr >
-<td >[Free Art License](/licenses/fal) (FAL)
+<td ><a href="/licenses/fal">[Free Art License</a> (FAL)
 </td>
 <td >Content
 </td>
@@ -265,12 +265,12 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td >**Incompatible** with any other license (this may change, pending outcome of CC-BY-SA-4.0/FAL-1.3 compatibility process).
+<td ><b>Incompatible</b> with any other license (this may change, pending outcome of CC-BY-SA-4.0/FAL-1.3 compatibility process).
 </td>
 </tr>
 
 <tr >
-<td >[GNU Free Documentation License](/licenses/gfdl) (GNU FDL)
+<td ><a href="/licenses/gfdl">GNU Free Documentation License</a> (GNU FDL)
 </td>
 <td >Content
 </td>
@@ -278,12 +278,12 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td>**Incompatible** with any other license. Only conformant if used with **no cover texts and no invariant sections]**.
+<td><b>Incompatible</b> with any other license. Only conformant if used with <b>no cover texts and no invariant sections</b>.
 </td>
 </tr>
 
 <tr >
-<td >[MirOS License](/licenses/miros)
+<td ><a href="/licenses/miros">MirOS License</a>
 </td>
 <td >Code, Content
 </td>
@@ -291,12 +291,12 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td >**Little used.**
+<td ><b>Little used.</b>
 </td>
 </tr>
 
 <tr >
-<td >[Open Government Licence Canada 2.0](http://data.gc.ca/eng/open-government-licence-canada) (OGL-Canada-2.0)
+<td ><a href="http://data.gc.ca/eng/open-government-licence-canada">Open Government Licence Canada 2.0</a>
 </td>
 <td >Content, Data
 </td>
@@ -304,12 +304,12 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td >**Non-reusable.** For use by Canada government licensors. Note version 1.0 is not approved as conformant.
+<td ><b>Non-reusable.</b> For use by Canada government licensors. Note version 1.0 is not approved as conformant.
 </td>
 </tr>
 
 <tr >
-<td >[Open Government Licence United Kingdom 2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/) (OGL-UK-2.0)
+<td ><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">Open Government Licence United Kingdom 2.0</a>
 </td>
 <td >Content, Data
 </td>
@@ -317,12 +317,12 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td >**Non-reusable.** For use by UK government licensors; re-uses of OGL-UK-2.0 material may be released under CC-BY or ODC-BY. Note version 1.0 is not approved as conformant.
+<td ><b>Non-reusable.</b> For use by UK government licensors; re-uses of OGL-UK-2.0 material may be released under CC-BY or ODC-BY. Note version 1.0 is not approved as conformant.
 </td>
 </tr>
 
 <tr >
-<td >[Talis Community License](/licenses/tcl)
+<td ><a href="/licenses/tcl">Talis Community License]</a>
 </td>
 <td >Data
 </td>
