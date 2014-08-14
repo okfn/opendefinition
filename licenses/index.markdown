@@ -21,7 +21,13 @@ The following licenses are conformant with the principles set forth in the Open 
 * SA = require share-alike
 
 
-### Conformant Recommended Licenses
+### Recommended conformant licenses 
+
+These licenses conform to the Open Definition **and** are:
+* Reusable: Not specific to an organization or jurisdiction.
+* Compatible: Must be compatible with at least one of GPL-3.0+, CC-BY-SA-4.0, and ODbL-1.0. Permissive/attribution-only licenses must be compatible with all 3 of the aforementioned licenses, and at least one of Apache-2.0, CC-BY-4.0, and ODC-BY-1.0.
+* Current: Widely used and generally considered best practice by a broad spectrum of projects and actors within the domains of applicability of the license.
+
 
 
 <table cellpadding="5" cellspacing="0" border="1" >
@@ -179,32 +185,17 @@ The following licenses are conformant with the principles set forth in the Open 
 <td >Attribution-ShareAlike for data(bases)
 </td>
 </tr>
-<tr >
 
-<td >[Free Art License](/licenses/fal) (FAL)
-</td>
-
-<td >Content
-</td>
-
-<td >Y
-</td>
-
-<td >Y
-</td>
-
-<td >
-</td>
-</tr>
 </tbody>
 </table>
 
 
 
-### Conformant Non-reusable Licenses
+### Other conformant licenses
 
 
-_Open licenses only for direct use by a particular entity, eg a government (it is unlikely the Advisory Council would consider non-reusable licenses from smaller entities)._
+These licenses conform to the Open Defintion, but do not meet reusability or compatibililty requirements for recommended licenses, or have been superceded by newer license versions or newer licenses with similar use cases, or are little-used. These licenses may be reasonable for the particular organization they were crafted for to use, or to use for legacy reasons. Projects outside such contexts are strongly advised to use a recommended conformant license from the list above.
+
 <table cellpadding="5" cellspacing="0" border="1" >
 <tbody >
 <tr >
@@ -224,165 +215,125 @@ _Open licenses only for direct use by a particular entity, eg a government (it i
 <td >Comments
 </td>
 </tr>
+
 <tr >
-
-<td >[UK Open Government Licence 2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/) (OGL-UK-2.0)
-</td>
-
-<td >Content, Data
-</td>
-
-<td >Y
-</td>
-
-<td >N
-</td>
-
-<td >For use by UK government licensors; re-uses of OGL-UK-2.0 material may be released under CC-BY or ODC-BY. Note version 1.0 is not approved as conformant
-</td>
-</tr>
-<tr >
-
-<td >[Open Government Licence - Canada 2.0](http://data.gc.ca/eng/open-government-licence-canada) (OGL-Canada-2.0)
-</td>
-
-<td >Content, Data
-</td>
-
-<td >Y
-</td>
-
-<td >N
-</td>
-
-<td >For use by Canada government licensors. Note version 1.0 is not approved as conformant
-</td>
-</tr>
-</tbody>
-</table>
-
-### Conformant but Little Used, Discontinued or Deprecated Licenses
-<table cellpadding="5" cellspacing="0" border="1" >
-<tbody >
-<tr >
-
-<td >License
-</td>
-
-<td >Domain
-</td>
-
-<td >By
-</td>
-
-<td >SA
-</td>
-
-<td >Comments
-</td>
-</tr>
-<tr >
-
-<td >[GNU Free Documentation License](/licenses/gfdl) (GNU FDL)
-</td>
-
-<td >Content
-</td>
-
-<td >Y
-</td>
-
-<td >Y
-</td>
-
-<td >Only conformant subject to certain [provisos](/licenses/gfdl)
-</td>
-</tr>
-<tr >
-
-<td >[MirOS License](/licenses/miros)
-</td>
-
-<td >Code, Content
-</td>
-
-<td >Y
-</td>
-
-<td >N
-</td>
-
-<td >Little used
-</td>
-</tr>
-<tr >
-
-<td >[Talis Community License](/licenses/tcl)
-</td>
-
-<td >Data
-</td>
-
-<td >?
-</td>
-
-<td >?
-</td>
-
-<td >Deprecated in favour of ODC licenses
-</td>
-</tr>
-<tr >
-
 <td >[Against DRM](/licenses/against-drm)
 </td>
-
 <td >Content
 </td>
-
 <td >Y
 </td>
-
 <td >Y
 </td>
-
-<td >Little used
+<td >**Little used.**
 </td>
 </tr>
 <tr >
 
+<tr>
 <td >[Design Science License](/licenses/dsl)
 </td>
-
 <td >Data
 </td>
-
 <td >Y
 </td>
-
 <td >Y
 </td>
-
-<td >Little used
+<td >**Little used**, **Incompatible** with any other license.
 </td>
 </tr>
-<tr >
 
+<tr >
 <td >[EFF Open Audio License](/licenses/eff-open-audio-license)
 </td>
-
 <td >Content
 </td>
-
 <td >Y
 </td>
-
 <td >Y
 </td>
-
-<td >Deprecated in favor of CC-BY-SA
+<td >**Deprecated** in favor of CC-BY-SA.
 </td>
 </tr>
+
+<tr >
+<td >[Free Art License](/licenses/fal) (FAL)
+</td>
+<td >Content
+</td>
+<td >Y
+</td>
+<td >Y
+</td>
+<td >**Incompatible** with any other license (this may change, pending outcome of CC-BY-SA-4.0/FAL-1.3 compatibility process).
+</td>
+</tr>
+
+<tr >
+<td >[GNU Free Documentation License](/licenses/gfdl) (GNU FDL)
+</td>
+<td >Content
+</td>
+<td >Y
+</td>
+<td >Y
+</td>
+<td>**Incompatible** with any other license. Only conformant if used with **no cover texts and no invariant sections]**.
+</td>
+</tr>
+
+<tr >
+<td >[MirOS License](/licenses/miros)
+</td>
+<td >Code, Content
+</td>
+<td >Y
+</td>
+<td >N
+</td>
+<td >**Little used.**
+</td>
+</tr>
+
+<tr >
+<td >[Open Government Licence Canada 2.0](http://data.gc.ca/eng/open-government-licence-canada) (OGL-Canada-2.0)
+</td>
+<td >Content, Data
+</td>
+<td >Y
+</td>
+<td >N
+</td>
+<td >**Non-reusable.** For use by Canada government licensors. Note version 1.0 is not approved as conformant.
+</td>
+</tr>
+
+<tr >
+<td >[Open Government Licence United Kingdom 2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/) (OGL-UK-2.0)
+</td>
+<td >Content, Data
+</td>
+<td >Y
+</td>
+<td >N
+</td>
+<td >**Non-reusable.** For use by UK government licensors; re-uses of OGL-UK-2.0 material may be released under CC-BY or ODC-BY. Note version 1.0 is not approved as conformant.
+</td>
+</tr>
+
+<tr >
+<td >[Talis Community License](/licenses/tcl)
+</td>
+<td >Data
+</td>
+<td >?
+</td>
+<td >?
+</td>
+<td >**Deprecated** in favour of ODC licenses.
+</td>
+</tr>
+
 </tbody>
 </table>
 
