@@ -206,7 +206,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td>Includes all jurisdiction "ports"; <b>Superceded</b> CC-BY-4.0.
+<td>Includes all jurisdiction "ports"; <b>Superceded</b> by CC-BY-4.0.
 </td>
 </tr>
 
@@ -219,7 +219,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td>Includes all jurisdiction "ports"; <b>Superceded</b> CC-BY-SA-4.0. Additionally, CC-BY-SA-1.0 is <b>Incompatible</b> with any other license.
+<td>Includes all jurisdiction "ports"; <b>Superceded</b> by CC-BY-SA-4.0. Additionally, CC-BY-SA-1.0 is <b>Incompatible</b> with any other license.
 </td>
 </tr>
 
