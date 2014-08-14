@@ -322,15 +322,15 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr >
-<td ><a href="/licenses/tcl">Talis Community License]</a>
+<td ><a href="/licenses/tcl">Talis Community License</a>
 </td>
 <td >Data
 </td>
-<td >?
+<td >Y
 </td>
-<td >?
+<td >Y
 </td>
-<td ><b>Deprecated</b> in favour of ODC licenses.
+<td >Draft only, <b>Deprecated</b> in favour of ODC licenses.
 </td>
 </tr>
 

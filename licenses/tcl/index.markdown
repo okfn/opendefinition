@@ -10,15 +10,15 @@ wordpress_id: 157
 
  * Domain of Application: Data.
 
-WARNING: the TCL is in the process of being replaced by the [Open Database License](http://www.opencontentlawyer.com/open-data/open-database-licence/) developed by Jordan Hatcher and Charlotte Waelde and released on the 2007-09-24. As of 2007-10-22 this was still in beta state but could still be usuable (it is one of the most thorough DB-specific licenses developed so far).
+The Talis Community License has been depreacted in favor of the [ODbL](/licenses/odc-odbl).
 
 #### Full text 
 
-http://www.talis.com/tdn/tcl
+http://web.archive.org/web/20130923083859/http://tdnarchive.capita-libraries.co.uk/tcl
 
 #### Comments 
 
-The TCL currently exists only in draft form. The TCL is explicitly intended to address the protection of *data'' in line with the European notion of a [Database Right](http://en.wikipedia.org/wiki/Database_right), as opposed to the Copyright protections afforded to ''creative works* by the majority of equivalent licenses.
+The TCL existed only in draft form. The TCL is explicitly intended to address the protection of *data'' in line with the European notion of a [Database Right](http://en.wikipedia.org/wiki/Database_right), as opposed to the Copyright protections afforded to ''creative works* by the majority of equivalent licenses.
 
 #### How to apply 
 
