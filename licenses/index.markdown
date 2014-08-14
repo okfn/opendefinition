@@ -24,6 +24,7 @@ The following licenses are conformant with the principles set forth in the Open 
 ### Recommended conformant licenses 
 
 These licenses conform to the Open Definition **and** are:
+
 * Reusable: Not specific to an organization or jurisdiction.
 * Compatible: Must be compatible with at least one of GPL-3.0+, CC-BY-SA-4.0, and ODbL-1.0. Permissive/attribution-only licenses must be compatible with all 3 of the aforementioned licenses, and at least one of Apache-2.0, CC-BY-4.0, and ODC-BY-1.0.
 * Current: Widely used and generally considered best practice by a broad spectrum of projects and actors within the domains of applicability of the license.
@@ -228,7 +229,6 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 <td ><b>Little used.</b>
 </td>
 </tr>
-<tr >
 
 <tr>
 <td ><a href="/licenses/dsl">Design Science License</a>
