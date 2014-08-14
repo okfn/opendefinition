@@ -35,20 +35,20 @@ These licenses conform to the Open Definition **and** are:
 <tbody >
 <tr >
 
-<td >License
-</td>
+<th >License
+</th>
 
-<td >Domain
-</td>
+<th >Domain
+</th>
 
-<td >By
-</td>
+<th >By
+</th>
 
-<td >SA
-</td>
+<th >SA
+</th>
 
-<td >Comments
-</td>
+<th >Comments
+</th>
 </tr>
 <tr >
 
@@ -168,20 +168,20 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 <tbody >
 <tr >
 
-<td >License
-</td>
+<th >License
+</th>
 
-<td >Domain
-</td>
+<th >Domain
+</th>
 
-<td >By
-</td>
+<th >By
+</th>
 
-<td >SA
-</td>
+<th >SA
+</th>
 
-<td >Comments
-</td>
+<th >Comments
+</th>
 </tr>
 
 <tr >
