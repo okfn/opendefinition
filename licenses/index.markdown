@@ -330,7 +330,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >?
 </td>
-<td >**Deprecated** in favour of ODC licenses.
+<td ><b>Deprecated</b> in favour of ODC licenses.
 </td>
 </tr>
 
