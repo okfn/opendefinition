@@ -1,1 +1,3 @@
-permalink:  /:year/:month/:day/:title/
+title: Open Definition
+markdown: kramdown
+googleanalytics: 
