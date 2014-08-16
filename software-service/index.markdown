@@ -6,7 +6,6 @@ layout: page
 slug: software-service
 title: Open Software Service Definition
 wordpress_id: 54
-redirect_from: /ossd
 ---
 
 [Bulgarian](/software-service/bg/)

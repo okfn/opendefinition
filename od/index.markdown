@@ -6,7 +6,6 @@ layout: page
 slug: od
 title: Open Definition
 wordpress_id: 17
-redirect_from: "/okd"
 ---
 
 Version 1.1

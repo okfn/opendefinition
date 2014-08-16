@@ -2,6 +2,3 @@ title: Open Definition
 markdown: kramdown
 googleanalytics: UA-8271754-4
 github: http://github.com/okfn/opendefinition
-
-gems:
-  - jekyll-redirect-from
