@@ -1,5 +1,5 @@
 ---
-author: mlinksva
+author: Mike Linksvayer
 comments: true
 date: 2013-12-13 01:24:22+00:00
 layout: post

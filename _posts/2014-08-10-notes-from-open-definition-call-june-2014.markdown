@@ -1,5 +1,5 @@
 ---
-author: herblainchbury
+author: Herb Lainchbury
 comments: false
 date: 2014-08-10 15:22:58+00:00
 layout: post

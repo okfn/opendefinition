@@ -1,5 +1,5 @@
 ---
-author: rgrp
+author: Rufus Pollock
 comments: true
 date: 2012-03-24 15:09:02+00:00
 layout: post
