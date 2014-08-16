@@ -11,12 +11,12 @@ wordpress_id: 20
 
 The **[Open Definition](/od/)** sets out principles that define "openness" in relation to **data and content**.
 
-It makes **precise** the meaning of "open" in the terms **"open data"** and **"open content"** and thereby ensures **interoperability** between different pools of open material.
+It makes **precise** the meaning of "open" in the terms **"open data"** and **"open content"** and thereby encourages **interoperability** between different pools of open material.
 
 It can be summed up in the statement that:
 
-> "A piece of data or content is open if **anyone** is **free to use, reuse, and redistribute** it -- subject only, at most, to the requirement to attribute and/or share-alike."
+> "Knowledge is open if **anyone** is **free to access, use, modify, and share it** — subject, at most, to measures that preserve provenance and openness."
 
-<a href="{{site.url}}/od/" class="btn btn-primary btn-large">Read the full Open Definition »</a>
+<a href="/od/" class="btn btn-primary btn-large">Read the full Open Definition »</a>
 
 
