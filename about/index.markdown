@@ -10,7 +10,7 @@ wordpress_id: 5
 
 ## Introduction
 
-The **Open Knowledge Definition (OKD)** provides an answer to the question: what is open knowledge? It puts forward, in a simple and clear manner, principles that define open knowledge and which open knowledge licenses must satisfy.
+The **Open Definition (OD)** provides an answer to the question: what is open knowledge? It puts forward, in a simple and clear manner, principles that define open knowledge and which open knowledge licenses must satisfy.
 
 The concept of openness has already started to spread rapidly beyond its original roots in academia and software. We already have 'open access' journals, open genetics, open geodata, open content etc. As the concept spreads so we are seeing a proliferation of licenses and a potential blurring of what is open and what is not.
 
@@ -25,7 +25,7 @@ It is worth noting a few things that the definition, and this project, are **not
 
 ## Who's Behind This
 
-The first version of the Open Knowledge Definition was developed by the [Open Knowledge Foundation](http://www.okfn.org) with substantial input from other interested parties (see acknowledgements section below). The project now has its own [Advisory Council](/advisory-council) who oversee the development of the definition and associated materials. However as detailed on the [participate](/participate) page the project is community-based and anyone can participate. Individuals and organizations who would be interested in becoming members of the 'Advisory Council' and help 'curate' the definition over the longer-term are especially welcome.
+The first version of the Open Definition was developed by [Open Knowledge](http://www.okfn.org) with substantial input from other interested parties (see acknowledgements section below). The project now has its own [Advisory Council](/advisory-council) who oversee the development of the definition and associated materials. However as detailed on the [participate](/participate) page the project is community-based and anyone can participate. Individuals and organizations who would be interested in becoming members of the 'Advisory Council' and help 'curate' the definition over the longer-term are especially welcome.
 
 ## Acknowledgments
 
