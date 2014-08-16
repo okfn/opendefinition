@@ -20,10 +20,10 @@ To do this:
 * Sign up to the mailing list, so that you can participate in the discussion.
 * Send a link to the full text the license to the mailing list, along **all of the following information**:
   1. State the rationale for the new license.
-  2. Is the license specific to an organization/place/jurisdiction? We generally frown on such licenses (see proliferation below), only making politically expedient exceptions (eg, the organization is a national government; and these are categorized as "non-reusable").
+  2. Explain whether the license may be used by any licensor, or is specific to an organization/place/jurisdiction. We generally frown on the latter (see proliferation below), only making politically expedient exceptions (eg, the organization is a national government; and these are categorized as "non-reusable").
   3. Compare and contrast to the most similar approved as [OD-conformant licenses](/licenses/).
-  4. What benefit does the new license bring over already approved OD-conformant licenses which would outweigh the costs of [license proliferation](http://opensource.org/proliferation-report)? (Link is re software licenses, but the same principles and costs apply.)
-  5. Is the license compatible with existing OD-conformant licenses? By alignment (permissions identical or a superset of existing license, conditions identical or a subset) and/or express permission to license the original and/or adaptations of the licensed work under an existing license?
+  4. Explain the benefit the new license brings over already approved OD-conformant licenses which would outweigh the costs of [license proliferation](http://opensource.org/proliferation-report)? (Link is re software licenses, but the same principles and costs apply.)
+  5. Identify which recommended conformant licenses the new license is compatible with, and how -- by alignment (permissions identical or a superset of existing license, conditions identical or a subset) and/or express permission to license the original and/or adaptations of the licensed work under an existing license.
   6. Provide a link to any public drafting process (e.g., conducted on a public communication forum of some sort; multiple drafts presented to that forum) for the license.
 
 
