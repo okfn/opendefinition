@@ -13,7 +13,7 @@ wordpress_id: 637
 <article class="post">
 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 <div class="entry">
-<small>{{ post.date | date_to_long_string }}</small> {{ post.content | truncatewords:40}}
+<small>{{ post.date | date_to_long_string }}</small> {{ post.content | strip_html | truncatewords:40}}
 </div>
 <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 </article>
