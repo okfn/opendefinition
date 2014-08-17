@@ -1,29 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=OpenSans:400,700);
-
-body {
-  background-color: white;
-}
-
-h1, h2, h3, h4, h5, h6, .navbar, form, .btn, input, button, select, textarea {
-  font-family: OpenSans,"Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-
-.navbar-inner .brand {
-  padding-top: 10px;
-}
-
 .navbar ul.nav.pull-right {
   margin-right: 42px;
 }
 
 .page-header {
-  margin-top: 0;
-}
-
-.page-header h1 {
-  text-align: left;
-  color: #333;
-  font-size: 40px;
   margin-top: 0;
 }
 
