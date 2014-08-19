@@ -95,4 +95,9 @@ Lisenssi ei saa asettaa rajoituksia muihin aineistoihin, joita jaellaan yhdessä
 *Kommentti: kohta on otettu avoimen lähdekoodin määritelmän kohdasta 9 [1]*
 
 
+-----
+*[1] Open Source Definition -määritelmää http://opensource.org/docs/osd ei ole sanatarkasti suomennettu, mutta COSS ry:n sivuilta löytyy lyhennetty suomennos http://coss.fi/avoimuus/avoin-lahdekoodi/ *
+
+
+
 *Translated by Open Knowledge Finland members - contact Antti Poikola*
