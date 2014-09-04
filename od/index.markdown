@@ -1,5 +1,6 @@
 ---
 title: Open Definition
+layout: page
 ---
 
 Version 2.0
