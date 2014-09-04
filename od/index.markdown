@@ -1,97 +1,145 @@
 ---
-author: admin
-comments: false
-date: 2009-11-04 13:33:35+00:00
 layout: page
-slug: od
 title: Open Definition
-wordpress_id: 17
 ---
 
-Version 1.1
+# Open Definition
+Version 2.0
 
-## Terminology 
+The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
 
-The term **knowledge** is taken to include:
+**Summary:** *Knowledge is open if anyone is free to access, use, modify, and share it — subject, at most, to measures that preserve provenance and openness.*
 
-  1. Content such as music, films, books
-  2. Data be it scientific, historical, geographic or otherwise
-  3. Government and other administrative information
+This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](http://www.opensource.org/docs/osd) and is synonymous with "free" or "libre" as in the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
 
-Software is excluded despite its obvious centrality because it is already adequately addressed by previous work.
+The term **work** will be used to denote the item or piece of knowledge being transferred.
 
-The term **work** will be used to denote the item or piece of knowledge which is being transferred.
+The term **license** refers to the legal conditions under which the work is
+made available. Where no license has been offered this should be interpreted
+as referring to default legal conditions governing use of the work (for 
+example, copyright or public domain).
 
-The term **package** may also be used to denote a collection of works. Of course such a package may be considered a work in itself.
+### 1. Open Works
 
-The term **license** refers to the legal license under which the work is made available. Where no license has been made this should be interpreted as referring to the resulting default legal conditions under which the work is available (for example copyright).
+An open **work** must satisfy the following requirements in its distribution:
 
-## The Definition 
+##### 1.1 Open License
 
-A work is open if its manner of distribution satisfies the following conditions:
+The **work** *must* be available under an open **license** (as defined in Section 2).
+Any additional terms accompanying the work (such as a terms of use, or patents held by the licensor) *must not* 
+contradict the terms of the license.
 
-### 1. Access 
+##### 1.2 Access
 
-The work shall be available as a whole and at no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The work must also be available in a convenient and modifiable form.
+The **work** shall be available as a whole and at no more than a reasonable 
+one-time reproduction cost, preferably downloadable via the Internet without charge.
+Any additional information necessary for license compliance (such as names of 
+contributors required for compliance with attribution requirements) *must* also 
+accompany the work.
 
-*Comment: This can be summarized as 'social' openness - not only are you allowed to get the work but you can get it. 'As a whole' prevents the limitation of access by indirect means, for example by only allowing access to a few items of a database at a time (material should be available in bulk as necessary). Convenient and modifiable means that material should be machine readable (rather than, for example, just human readable).*
+##### 1.3 Open Format
 
-### 2. Redistribution 
+The **work** *must* be provided in a convenient and modifiable form such
+that there are no unnecessary technological obstacles to the performance of the
+licensed rights. Specifically, data should be machine-readable, available in
+bulk, and provided in an open format (i.e., a format with a freely available
+published specification which places no restrictions, monetary or otherwise, upon
+its use) or, at the very least, can be processed with at least one free/libre/open-source
+software tool.
 
-The license shall not restrict any party from selling or giving away the work either on its own or as part of a package made from works from many different sources. The license shall not require a royalty or other fee for such sale or distribution.
 
-### 3. Reuse 
+### 2. Open Licenses
 
-The license must allow for modifications and derivative works and must allow them to be distributed under the terms of the original work.
+A **license** is open if its terms satisfy the following conditions:
 
-*Comment: Note that this clause does not prevent the use of 'viral' or share-alike licenses that require redistribution of modifications under the same terms as the original.*
+#### 2.1 Required Permissions
 
-### 4. Absence of Technological Restriction 
+The **license** *must* irrevocably permit (or allow) the following:
 
-The work must be provided in such a form that there are no technological obstacles to the performance of the above activities. This can be achieved by the provision of the work in an open data format, i.e. one whose specification is publicly and freely available and which places no restrictions monetary or otherwise upon its use.
+##### 2.1.1 Use
 
-### 5. Attribution 
+The **license** *must* allow free use of the licensed work.
 
-The license may require as a condition for redistribution and re-use the attribution of the contributors and creators to the work. If this condition is imposed it must not be onerous. For example if attribution is required a list of those requiring attribution should accompany the work.
+##### 2.1.2 Redistribution
 
-### 6. Integrity 
+The **license** *must* allow redistribution of the licensed work, 
+including sale, whether on its own or as part of a collection made from 
+works from different sources.
 
-The license may require as a condition for the work being distributed in modified form that the resulting work carry a different name or version number from the original work.
+##### 2.1.3 Modification
 
-### 7. No Discrimination Against Persons or Groups 
+The **license** *must* allow the creation of derivatives of the licensed 
+work and allow the distribution of such derivatives under the same
+terms of the original licensed work.
 
-The license must not discriminate against any person or group of persons.
+##### 2.1.4 Separation
 
-*Comment: In order to get the maximum benefit from the process, the maximum diversity of persons and groups should be equally eligible to contribute to open knowledge. Therefore we forbid any open-knowledge license from locking anybody out of the process.*
+The **license** *must* allow any part of the work
+to be freely used, distributed, or modified separately from any other part 
+of the work or from any collection of works in which it was originally 
+distributed. All parties who receive any distribution of any part of
+a work within the terms of the original license should have the same rights
+as those that are granted in conjunction with the original work.
 
-*Comment: this is taken directly from item 5 of the OSD.*
+##### 2.1.5 Compilation
 
-### 8. No Discrimination Against Fields of Endeavor 
+The **license** *must* allow the licensed work to be distributed along 
+with other distinct works without placing restrictions on these other works.
 
-The license must not restrict anyone from making use of the work in a specific field of endeavor. For example, it may not restrict the work from being used in a business, or from being used for genetic research.
+##### 2.1.6 Non-discrimination
 
-*Comment: The major intention of this clause is to prohibit license traps that prevent open material from being used commercially. We want commercial users to join our community, not feel excluded from it.*
+The **license** *must not* discriminate against any person or group.
 
-*Comment: this is taken directly from item 6 of the OSD.*
+##### 2.1.7 Propagation
 
-### 9. Distribution of License 
+The rights attached to the work *must* apply to all to whom it is redistributed 
+without the need to agree to any additional legal terms.
 
-The rights attached to the work must apply to all to whom it is redistributed without the need for execution of an additional license by those parties.
+##### 2.1.8 Application to Any Purpose
 
-*Comment: This clause is intended to forbid closing up knowledge by indirect means such as requiring a non-disclosure agreement.*
+The **license** *must* allow use, redistribution, modification, and 
+compilation for any purpose. The license *must not* restrict anyone
+from making use of the work in a specific field of endeavor.
 
-*Comment: this is taken directly from item 7 of the OSD.*
+##### 2.1.9 No Charge
 
-### 10. License Must Not Be Specific to a Package 
+The **license** *must not* impose any fee arrangement, royalty, or other
+compensation or monetary remuneration as part of its conditions.
 
-The rights attached to the work must not depend on the work being part of a particular package. If the work is extracted from that package and used or distributed within the terms of the work's license, all parties to whom the work is redistributed should have the same rights as those that are granted in conjunction with the original package.
+#### 2.2 Acceptable Conditions
 
-*Comment: this is taken directly from item 8 of the OSD.*
+The **license** shall not limit, make uncertain, or otherwise diminish the permissions 
+required in Section 2.1 except by the following allowable conditions:
 
-### 11. License Must Not Restrict the Distribution of Other Works 
+##### 2.2.1 Attribution
 
-The license must not place restrictions on other works that are distributed along with the licensed work. For example, the license must not insist that all other works distributed on the same medium are open.
+The **license** *may* require distributions of the work to include attribution
+of contributors, rights holders, sponsors and creators as long as
+any such prescriptions are not onerous.
 
-*Comment: Distributors of open knowledge have the right to make their own choices. Note that 'share-alike' licenses are conformant since those provisions only apply if the whole forms a single work.*
+##### 2.2.2 Integrity
 
-*Comment: this is taken directly from item 9 of the OSD.*
+The **license** *may* require that modified versions of a licensed work
+carry a different name or version number from the original work or 
+otherwise indicate what changes have been made. 
+
+##### 2.2.3 Share-alike
+
+The **license** *may* require copies or derivatives of a licensed work to remain
+under a license the same as or similar to the original.
+
+##### 2.2.4 Notice
+
+The **license** *may* require retention of copyright notices and identification of the license.
+
+##### 2.2.5 Source
+
+The **license** *may* require modified works to be made available in a form preferred for further modification.
+
+##### 2.2.6 Technical Restriction Prohibition
+
+The **license** *may* prohibit distribution of the work in a manner where technical measures impose restrictions on the exercise of otherwise allowed rights.
+
+##### 2.2.7 Non-aggression
+
+The **license** *may* require modifiers to grant the public additional permissions (for example, patent licenses) as required for exercise of the rights allowed by the license. The license may also condition permissions on not aggressing against licensees with respect to exercising any allowed right (again, for example, patent litigation).
