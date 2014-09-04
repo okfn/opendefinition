@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Open Definition
 ---
 
-# Open Definition
 Version 2.0
 
 The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
