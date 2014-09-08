@@ -4,3 +4,6 @@ googleanalytics: UA-8271754-4
 github: http://github.com/okfn/opendefinition
 url: http://opendefinition.org
 permalink: /:year/:month/:day/:title/
+
+gems:
+  - jekyll-sitemap
