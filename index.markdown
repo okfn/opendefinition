@@ -19,7 +19,7 @@ It can be summed up in the statement that:
 
 Put most succinctly:
 
-> "Open data can be **freely use, modified, and shared** by **anyone** for **any purpose**
+> "Open data can be **freely used, modified, and shared** by **anyone** for **any purpose**
 
 <a href="/od/" class="btn btn-primary btn-large">Read the full Open Definition »</a>
 
