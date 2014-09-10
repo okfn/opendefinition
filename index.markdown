@@ -15,7 +15,11 @@ It makes **precise** the meaning of "open" in the terms **"open data"** and **"o
 
 It can be summed up in the statement that:
 
-> "Knowledge is open if **anyone** is **free to access, use, modify, and share it** — subject, at most, to measures that preserve provenance and openness."
+> "Open means **anyone** can **freely access, use, modify, and share** for **any purpose** (subject, at most, to requirements that preserve provenance and openness)."
+
+Put most succinctly:
+
+> "Open data can be **freely use, modified, and shared** by **anyone** for **any purpose**
 
 <a href="/od/" class="btn btn-primary btn-large">Read the full Open Definition »</a>
 
