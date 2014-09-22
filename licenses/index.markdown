@@ -10,7 +10,7 @@ wordpress_id: 116
 
 *If you would like to propose a license to add to this page please follow our [license approval process](/licenses/process/).*
 
-This section of the site lists licenses that are conformant with the principles laid out in the [Open Definition](/okd).
+This section of the site lists licenses that are conformant with the principles laid out in the [Open Definition](/od).
 
 # Conformant Licenses
 
@@ -224,9 +224,35 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr>
-<td ><a href="/licenses/dsl">Design Science License</a>
+<td ><a href="https://www.govdata.de/dl-de/by-2-0">Data licence Germany – attribution – version 2.0</a>
 </td>
 <td >Data
+</td>
+<td >Y
+</td>
+<td >N
+</td>
+<td ><b>Non-reusable.</b> For use by Germany government licensors. Note version 1.0 is not approved as conformant.
+</td>
+</tr>
+
+<tr>
+<td ><a href="https://www.govdata.de/dl-de/zero-2-0">Data licence Germany – Zero – version 2.0</a>
+</td>
+<td >Data
+</td>
+<td >N
+</td>
+<td >N
+</td>
+<td ><b>Non-reusable.</b> For use by Germany government licensors. Note there is no previous version.
+</td>
+</tr>
+
+<tr>
+<td ><a href="/licenses/dsl">Design Science License</a>
+</td>
+<td >Content
 </td>
 <td >Y
 </td>
