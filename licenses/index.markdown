@@ -358,6 +358,6 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 
 # Non-Conformant Licenses
 
-The linked page lists some non-conformant licenses -- usually those that though supporting some of the [definition's principles](/okd) do not support all of them.
+The linked page lists some non-conformant licenses -- usually those that though supporting some of the [definition's principles](/od) do not support all of them.
 
 * [See List](licenses/nonconform)
