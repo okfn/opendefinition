@@ -6,6 +6,7 @@ layout: page
 slug: testing
 title: Testing
 wordpress_id: 73
+redirect_from: /testing1
 ---
 
 XXXXXXXXXXXXXXXXX
