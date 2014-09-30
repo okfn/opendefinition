@@ -6,7 +6,7 @@ layout: page
 slug: nonconformant
 title: 'Non-Conformant Licenses '
 wordpress_id: 145
-redirect_from: /nonconform/
+redirect_from: /licenses/nonconform/
 ---
 
 ### Creative Commons No-Derivatives Licenses
