@@ -11,7 +11,7 @@ redirect_from: /licenses/nonconform/
 
 ### Creative Commons No-Derivatives Licenses
 
-Creative Commons No-Derivatives (by-nd-*) violate principle 3., "Reuse", as they do not allow works, in part or in whole, to be re-used in derivative works.
+Creative Commons No-Derivatives (by-nd-*) violate OD 1.1#3., "Reuse", as they do not allow works, in part or in whole, to be re-used in derivative works.
 
 Creative Commons licenses with the Noderivs stipulation include:
 
@@ -20,7 +20,7 @@ Creative Commons licenses with the Noderivs stipulation include:
 
 ### Creative Commons NonCommercial
 
-Creative Commons NonCommercial licenses (by-nc-*) do not support the Open Knowledge Definition principle 8., "No Discrimination Against Fields of Endeavor", as they exclude usage in commercial activities.
+Creative Commons NonCommercial licenses (by-nc-*) do not support the OD 1.1#8., "No Discrimination Against Fields of Endeavor", as they exclude usage in commercial activities.
 
 Creative Commons licenses with the non-commercial stipulation include:
 
@@ -48,7 +48,7 @@ Used on Gutenberg's ebooks of public domain texts. It is non-open because it res
 
 #### Comments
 
-The license has been discontinued. Creative Commons developing nations license does not support principle "7. No Discrimination Against Persons or Groups".
+The license has been discontinued. Creative Commons developing nations license does not support OD 1.1#7 "No Discrimination Against Persons or Groups".
 
 ### Open Publication License
 
@@ -67,7 +67,7 @@ License is **not** conformant if either options A or B are added to the main bod
 
 #### Full text
 
-http://www.opsi.gov.uk/click-use/system/licenceterms/CCWPS03-00.pdf
+<http://www.opsi.gov.uk/click-use/system/licenceterms/CCWPS03-00.pdf>
 
 #### Comments
 
