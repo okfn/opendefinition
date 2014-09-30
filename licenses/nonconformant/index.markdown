@@ -14,6 +14,7 @@ redirect_from: /licenses/nonconform/
 Creative Commons No-Derivatives (by-nd-*) violate principle 3., "Reuse", as they do not allow works, in part or in whole, to be re-used in derivative works.
 
 Creative Commons licenses with the Noderivs stipulation include:
+
 * Attribution-NoDerivs (by-nd)
 * Attribution-NonCommercial-NoDerivs (by-nc-nd)
 
@@ -22,6 +23,7 @@ Creative Commons licenses with the Noderivs stipulation include:
 Creative Commons NonCommercial licenses (by-nc-*) do not support the Open Knowledge Definition principle 8., "No Discrimination Against Fields of Endeavor", as they exclude usage in commercial activities.
 
 Creative Commons licenses with the non-commercial stipulation include:
+
 * Attribution-Noncommercial (by-nc)
 * Attribution-NonCommercial-ShareAlike (by-nc-sa)
 * Attribution-NonCommercial-NoDerivs (by-nc-nd)
@@ -30,7 +32,7 @@ Creative Commons licenses with the non-commercial stipulation include:
 
 #### Full text
 
-http://www.gutenberg.org/license
+<http://www.gutenberg.org/license>
 
 #### Comments
 
@@ -42,7 +44,7 @@ Used on Gutenberg's ebooks of public domain texts. It is non-open because it res
 
 #### Full text
 
-http://creativecommons.org/license/devnations
+<http://creativecommons.org/licenses/devnations/2.0/>
 
 #### Comments
 
@@ -52,7 +54,7 @@ The license has been discontinued. Creative Commons developing nations license d
 
 #### Full text
 
-http://www.opencontent.org/openpub/
+<http://www.opencontent.org/openpub/>
 
 #### Comments
 
@@ -73,7 +75,7 @@ http://www.opsi.gov.uk/click-use/system/licenceterms/CCWPS03-00.pdf
 
 Ancillary information from the Office of Public Sector Information can be found at:
 
-  http://www.opsi.gov.uk/click-use/psi-licence-information/
+<http://www.opsi.gov.uk/click-use/psi-licence-information/>
 
 Was also known as the core licence. Below we provide an excerpted version that includes the relevant sections.
 
@@ -83,7 +85,7 @@ This license is **[not open](http://lists.okfn.org/pipermail/od-discuss/2012-Dec
 
 Does not grant permission to make any adaptation -- only translations
 "by a competent translator" and conversion to formats for the vision
-impaired. Not conformant with OKD #3.
+impaired. Not conformant with OD 1.1#3.
 
 Nearly every point in the Obligations section is problematic. Some are
 odd for a public license (which this tries not to be), so I'll just
@@ -97,4 +99,4 @@ Organisation;
 
     9.7 not use the Material in any way that is likely to mislead others;
 
-Of course the first part of 9.6 is also non-conformant with OKD#8.
+Of course the first part of 9.6 is also non-conformant with OD 1.1#8.
