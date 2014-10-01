@@ -6,6 +6,7 @@ layout: page
 slug: bg
 title: 'Определение на отворени софтуерни услуги '
 wordpress_id: 530
+redirect_from: /software-service/bg/
 ---
 
 # Въведение
