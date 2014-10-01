@@ -14,9 +14,9 @@ See _[Open Definition Forges Ahead -- Get Involved](http://opendefinition.org/20
 
 ###Translation
 
-If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/languagecode/index.markdown` eg `od/fr/index.markdown` for French, then submit a pull request.
+If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.0/languagecode/index.markdown` eg `od/2.0/fr/index.markdown` for French, then submit a pull request.
 
-If you aren't familiar with git, download the [current version](https://raw.github.com/okfn/opendefinition/e040e13b4d9b311cce4e7bcad9c6b3a2ca3b31ec/source/open-definition.markdown), translate it, and [send to us](/contact).
+If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/index.markdown), translate it, and [send to us](/contact).
 
 
 ###Advisory Council

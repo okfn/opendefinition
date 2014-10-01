@@ -7,7 +7,7 @@
 <a href="/od/croatian">Croatian</a> |
 <a href="/od/czech/">Czech</a> |
 <a href="/od/dansk">Dansk</a> |
-<a href="/od/deutsch">Deutsch</a> |
+<a href="/od/1.1/de/">Deutsch</a> |
 <a href="/od/ellinika">Ελληνικά</a> |
 <a href="/od/">English</a> |
 <a href="/od/espanol">Español</a> |
