@@ -6,6 +6,7 @@ layout: page
 slug: deutsch
 title: 'Definition: Offenes Wissen'
 wordpress_id: 92
+redirect_from: /od/deutsch/
 ---
 
 Version v.1.1
