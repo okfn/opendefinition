@@ -25,3 +25,18 @@ There is also membership of the [Advisory Council](/advisory-council) which is t
 If you are interested in becoming an Advisory Council member we recommend joining the public list and contributing there first. This is a chance for other members of the community to get to know you and for you to establish your knowledge and competency. You can then request membership of the Council.
 
 You or a nominating Council member should provide your brief bio at this time. All existing Council members will be queried for support or objection, and after two weeks there is at least one supporter and no objectors, per above, you will be warmly welcomed to the council.
+
+###Ancillary Definitions, Guides, Pages
+
+The following hosted by the Open Definition site need further development or updating. Questions, suggestions, and pull requests welcome!
+
+* [About Us](/about/)
+* [Guide to Open Licensing](/guide/)
+* [Guide to Open Data Licensing](/guide/data/)
+* [Open Bibliographic Data](/bibliographic/)
+* [Open Definition Buttons](/buttons/)
+* [Open Definition History](/history/)
+* [Open Formats](/ofd)
+* [Open Government Data](/government)
+* [Open Science](/science)
+* [Open Software Service Definition](/ossd/)
