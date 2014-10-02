@@ -8,8 +8,6 @@ title: 'Guide to Open Data Licensing '
 wordpress_id: 255
 ---
 
-[toc]
-
 ##  Introduction 
 
 This a guide to licensing data aimed particularly at those who want to make their data [open](http://www.opendefinition.org/).

@@ -12,8 +12,6 @@ wordpress_id: 110
 
 In addition to this general guide there is also a detailed [Guide focused on Open *Data* Licensing](data/).
 
-[toc]
-
 ## What is an open license? 
 
 A license is a document that specifies what can and cannot be done with a work (whether sound, text, image or multimedia). It grants permissions and states restrictions. Broadly speaking, an open license is one which grants permission to access, re-use and redistribute a work with few or no restrictions. (A full set of conditions which must be met in order for a license to be open is available in the [Open Knowledge Definition 1.0](http://www.opendefinition.org/1.0).)
