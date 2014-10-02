@@ -11,13 +11,14 @@
 <a href="/od/1.0/eu">Euskara</a> |
 <a href="/od/1.1/fi/">Suomi</a> |
 <a href="/od/1.1/fr/">Français</a> |
+<a href="/od/1.0/gl/">Galego</a> |
 <a href="/od/1.1/he/">עברית</a> |
 <a href="/od/1.1/hr/">Croatian</a> |
 <a href="/od/1.1/hu/">Magyar</a> |
-<a href="/od/1.0/gl/">Galego</a> |
 <a href="/od/1.1/id/">Indonesian</a> |
 <a href="/od/1.0/is/">Íslenska</a> |
 <a href="/od/1.0/it/">Italiano</a> |
+<a href="/od/1.1/ja/">Japanese</a>
 <a href="/od/1.1/ka/">ಕನ್ನಡ</a> |
 <a href="/od/1.1/ko/">한국어</a> |
 <a href="/od/1.1/mk/">македонски јазик</a> |
@@ -32,5 +33,4 @@
 <a href="/od/1.1/te/">తెలుగు</a> |
 <a href="/od/1.1/tr/">Türkçe</a> |
 <a href="/od/1.1/zh/">简化中国</a> |
-<a href="/od/1.1/zh-tw/">中文</a> |
-<a href="/od/1./ja/">Japanese</a>
+<a href="/od/1.1/zh-tw/">中文</a>
