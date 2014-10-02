@@ -10,14 +10,13 @@ wordpress_id: 154
 
 The Open Knowledge Definition and other work of the Open Definition project is itself done in an open manner and anyone can participate. Most discussion takes place on the [od-discuss mailing list](http://lists.okfn.org/mailman/listinfo/od-discuss).
 
-See _[Open Definition Forges Ahead -- Get Involved](http://opendefinition.org/2012/12/17/open-definition-forges-ahead-get-involved/)_ for projects circa the end of 2012.
+Also see our [issue tracker](https://github.com/okfn/opendefinition/issues) and [blog](/update/) for other opportunites.
 
 ###Translation
 
 If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.0/languagecode/index.markdown` eg `od/2.0/fr/index.markdown` for French, then submit a pull request.
 
 If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/index.markdown), translate it, and [send to us](/contact).
-
 
 ###Advisory Council
 
