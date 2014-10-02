@@ -30,7 +30,7 @@
 <a href="/od/1.0/sr/">Srpski</a> |
 <a href="/od/1.1/sv/">Svenska</a> |
 <a href="/od/1.1/te/">తెలుగు</a> |
-<a href="/od/1.1/tr/">Türkçe</a>
+<a href="/od/1.1/tr/">Türkçe</a> |
 <a href="/od/1.1/zh/">简化中国</a> |
 <a href="/od/1.1/zh-tw/">中文</a> |
-<a href="/od/1./ja/">Japanese</a> |
+<a href="/od/1./ja/">Japanese</a>
