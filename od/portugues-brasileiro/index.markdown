@@ -6,6 +6,7 @@ layout: page
 slug: portugues-brasileiro
 title: Definição de Conhecimento Aberto
 wordpress_id: 371
+redirect_from: /od/portugues-brasileiro/
 ---
 
 Version: 1.1

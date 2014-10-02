@@ -6,6 +6,7 @@ layout: page
 slug: makedonski_jazik
 title: Дефиниција на Слободно Знаење верзија
 wordpress_id: 168
+redirect_from: /od/makedonski_jazik/
 ---
 
 Version: 1.1
