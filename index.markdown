@@ -11,7 +11,7 @@ wordpress_id: 20
 
 The **[Open Definition](/od/)** sets out principles that define "openness" in relation to **data and content**.
 
-It makes **precise** the meaning of "open" in the terms **"open data"** and **"open content"** and thereby encourages **interoperability** between different pools of open material.
+It makes **precise** the meaning of "open" in the terms **"open data"** and **"open content"** and thereby ensures **quality** and encourages **compatibility** between different pools of open material.
 
 It can be summed up in the statement that:
 
