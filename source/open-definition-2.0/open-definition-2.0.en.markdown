@@ -109,7 +109,7 @@ required in Section 2.1 except by the following allowable conditions:
 ##### 2.2.1 Attribution
 
 The **license** *may* require distributions of the work to include attribution
-of contributors, rights holders, sponsors and creators as long as
+of contributors, rights holders, sponsors, and creators as long as
 any such prescriptions are not onerous.
 
 ##### 2.2.2 Integrity
