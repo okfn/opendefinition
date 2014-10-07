@@ -23,7 +23,7 @@
 <a href="/od/1.1/ko/">한국어</a> |
 <a href="/od/1.1/mk/">македонски јазик</a> |
 <a href="/od/1.1/no/">Norsk (bokmål)</a> |
-<a href="/od/1.1/pl/">Polszczyzna</a> |
+<a href="/od/1.0/pl/">Polszczyzna</a> |
 <a href="/od/1.1/pt-br/">Português Brasileiro </a> |
 <a href="/od/1.1/pt/">Português</a> |
 <a href="/od/1.1/ru/">Русский</a> |
