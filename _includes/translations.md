@@ -20,7 +20,7 @@
 <a href="/od/1.0/it/">Italiano</a> |
 <a href="/od/1.1/ja/">Japanese</a> |
 <a href="/od/1.1/kn/">ಕನ್ನಡ</a> |
-<a href="/od/1.1/ko/">한국어</a> |
+<a href="/od/2.0/ko/">한국어</a> |
 <a href="/od/1.1/mk/">македонски јазик</a> |
 <a href="/od/1.1/no/">Norsk (bokmål)</a> |
 <a href="/od/1.0/pl/">Polszczyzna</a> |
