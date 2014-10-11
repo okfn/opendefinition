@@ -1,144 +1,108 @@
 ---
-title: Open Definition
+title: 오픈 정의
 layout: page
 ---
 
-Version 2.0
+버전 2.0
 
-The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
+오픈 정의는 지식에 대한 ”오픈”의 정의를 명확히 하고 누구나 참여할 수 있는 공공 자원들을 알림으로써 정보가 최대로 상호 운용될 수 있도록 한다.
 
-**Summary:** *Knowledge is open if anyone is free to access, use, modify, and share it — subject, at most, to measures that preserve provenance and openness.*
+**요약:** *누구나 자유롭게 접근 가능한 정보를 사용, 수정할 수 있고 그것을 공유할 수 있다면 그 지식은 ”오픈"이라고 할 수 있다 - 많은 경우에 출처와 개방성을 유지하고 있는지를 평가하는 것이 중요한 주제이다.*
 
-This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](http://www.opensource.org/docs/osd) and is synonymous with "free" or "libre" as in the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+오픈의 본질적인 의미로서 소프트웨어의 ”오픈"은 [오픈소스 정의](http://www.opensource.org/docs/osd)로 말할 수 있고 ”자유"의 동의어는 [자유로운 문화 창작물의 정의](http://freedomdefined.org)로 말할 수 있다. 오픈 정의는 본래 [데비안 자유 소프트웨어 가이드라인](http://www.debian.org/social_contract)으로부터 만들어진 오픈소스 정의로부터 파생되었다.
 
-The term **work** will be used to denote the item or piece of knowledge being transferred.
+이 문서에서 **저작물**은 변환될 수 있는 지식의 한 부분 혹은 그 항목을 의미합니다.
 
-The term **license** refers to the legal conditions under which the work is
-made available. Where no license has been offered this should be interpreted
-as referring to default legal conditions governing use of the work (for 
-example, copyright or public domain).
+이 문서에서 **라이선스**는 작업물에 적용되는 법률 요건을 의미합니다. 작업물에 어떤 라이선스도 적용되지 않은 경우 저작물에 적용되는 기본적인 법률 요건이 부여됩니다(예: 저작권 혹은 퍼블릭 도메인).
 
-### 1. Open Works
+### 1. 오픈 저작물
 
-An open **work** must satisfy the following requirements in its distribution:
+오픈 **저작물**은 배포 시 다음과 같은 조항을 만족해야 한다:
 
-##### 1.1 Open License
+##### 1.1 오픈 라이선스
 
-The **work** *must* be available under an open **license** (as defined in Section 2).
-Any additional terms accompanying the work (such as a terms of use, or patents held by the licensor) *must not* 
-contradict the terms of the license.
+**저작물**은 *반드시* 오픈 라이선스를 통해 공개되고 사용할 수 있어야 한다(섹션 2에 정의된 것 처럼). 저작물에 추가적으로 적용되는 어떤 항목들도(이용 약관 혹은 저작자가 보유하고 있는 특허 등) 라이선스의 약관과 모순되어서는 *안된다*.
 
-##### 1.2 Access
+##### 1.2 접근성
 
-The **work** shall be available as a whole and at no more than a reasonable 
-one-time reproduction cost, preferably downloadable via the Internet without charge.
-Any additional information necessary for license compliance (such as names of 
-contributors required for compliance with attribution requirements) *must* also 
-accompany the work.
+*저작물*은 전체 내용을 이용할 수 있어야 하고 복사하는 데 합리적인 비용을 넘어서는 안되며 어떠한 비용 없이도 인터넷을 통해 다운로드 받을 수 있어야 한다. 라이선스 규정에 필요한 추가적인 정보(요구 사항을 준수하기 위해 필요한 기여자 이름같은)도 반드시 저작물과 함께 *명시되어야 한다*.
 
-##### 1.3 Open Format
+##### 1.3 오픈 포맷
 
-The **work** *must* be provided in a convenient and modifiable form such
-that there are no unnecessary technological obstacles to the performance of the
-licensed rights. Specifically, data should be machine-readable, available in
-bulk, and provided in an open format (i.e., a format with a freely available
-published specification which places no restrictions, monetary or otherwise, upon
-its use) or, at the very least, can be processed with at least one free/libre/open-source
-software tool.
+**저작물**은 *반드시* 편리하고 수정 가능한 형태로 제공되어야 한다. 즉, 라이선스 권한을 따르기 위해 어떠한 불필요한 기술적인 장애가 없어야 한다. 특히, 데이터는 기계 판독이 가능하고 대량으로 이용 가능해야 하며 오픈 포맷(예: )으로 제공되거나 적어도 하나 이상의 무료/자유/오픈소스 소프트웨어 도구로 이용 가능해야 한다.
 
+### 2. 오픈 라이선스
 
-### 2. Open Licenses
+**라이선스**는 다음 조건을 만족하는 경우 오픈 라이선스라 한다:
 
-A **license** is open if its terms satisfy the following conditions:
+#### 2.1 필수 사항
 
-#### 2.1 Required Permissions
+**라이선스**는 *반드시* 다음 조건들을 허락해야 한다:
 
-The **license** *must* irrevocably permit (or allow) the following:
+##### 2.1.1 사용
 
-##### 2.1.1 Use
+**라이선스**는 *반드시* 라이선스가 적용된 저작물에 대해 자유롭게 사용하는 것을 허락해야 한다.
 
-The **license** *must* allow free use of the licensed work.
+##### 2.1.2 재배포
 
-##### 2.1.2 Redistribution
+**라이선스**는 *반드시* 라이선스가 적용된 저작물에 대하여 그 작업물 전체 혹은 전체 모음 중 일부를 판매를 포함하여 재배포를 허락해야 한다.
 
-The **license** *must* allow redistribution of the licensed work, 
-including sale, whether on its own or as part of a collection made from 
-works from different sources.
+##### 2.1.3 수정
 
-##### 2.1.3 Modification
+**라이선스**는 *반드시* 라이선스가 적용된 저작물을 사용한 2차 저작물을 만드는 것을 허락해야 하며 라이선스가 적용된 원저작물과 동일한 법률 조건으로 재배포를 허락해야 한다.
 
-The **license** *must* allow the creation of derivatives of the licensed 
-work and allow the distribution of such derivatives under the same
-terms of the original licensed work.
+##### 2.1.4 구분
 
-##### 2.1.4 Separation
+**라이선스**는 *반드시* 저작물의 어떤 부분이든 별도로 자유롭게 사용, 배포, 수정될 수 있도록 허락해야 한다. 라이선스가 적용된 원저작물의 법률 조항이 적용되는 저작물의 재배포 버전을 받는 모든 사람들(혹은 단체)는 원저작물에 적용되는 모든 권리를 동일하게 가져야 한다.
 
-The **license** *must* allow any part of the work
-to be freely used, distributed, or modified separately from any other part 
-of the work or from any collection of works in which it was originally 
-distributed. All parties who receive any distribution of any part of
-a work within the terms of the original license should have the same rights
-as those that are granted in conjunction with the original work.
+##### 2.1.5 편집
 
-##### 2.1.5 Compilation
+**라이선스**는 *반드시* 또다른 라이선스가 적용된 별도의 작업물과 함께 배포되는 경우 해당 라이선스의 제한 조건과 관계없이 배포를 허락해야 한다.
 
-The **license** *must* allow the licensed work to be distributed along 
-with other distinct works without placing restrictions on these other works.
+##### 2.1.6 차별 금지
 
-##### 2.1.6 Non-discrimination
+**라이선스**는 *반드시* 어떠한 사람 혹은 단체든지 차별해서는 *안된다*.
 
-The **license** *must not* discriminate against any person or group.
+##### 2.1.7 전파
 
-##### 2.1.7 Propagation
+작업물에 적용되는 권리는 *반드시* 추가적인 법률 문서에 대한 동의 없이도 재배포되는 대상 모두에게 적용되어야 한다.
 
-The rights attached to the work *must* apply to all to whom it is redistributed 
-without the need to agree to any additional legal terms.
+##### 2.1.8 모든 분야에 활용 가능
 
-##### 2.1.8 Application to Any Purpose
+**라이선스**는 *반드시* 어떠한 목적으로도 사용, 재배포, 수정, 편집할 수 있도록 허락해야 한다. 라이선스는 *반드시* 특정한 분야에 사용하는 것을 제한해서는 *안된다*.
 
-The **license** *must* allow use, redistribution, modification, and 
-compilation for any purpose. The license *must not* restrict anyone
-from making use of the work in a specific field of endeavor.
+##### 2.1.9 무료
 
-##### 2.1.9 No Charge
+**라이선스**는 *반드시* 어떠한 비용이나 로열티, 혹은 그에 상응하는 보상이나 보수를 요구해서는 *안된다*.
 
-The **license** *must not* impose any fee arrangement, royalty, or other
-compensation or monetary remuneration as part of its conditions.
+#### 2.2 허용 조건
 
-#### 2.2 Acceptable Conditions
+**라이선스**는 어떤 제약도 없을 수 있고 명확하지 않을 수 있지만 다음의 허용되는 조건들을 제외하고는 섹션 2.1에서 요구되는 권한을 제거할 수도 있다:
 
-The **license** shall not limit, make uncertain, or otherwise diminish the permissions 
-required in Section 2.1 except by the following allowable conditions:
+##### 2.2.1 저작자 표시
 
-##### 2.2.1 Attribution
+**라이선스**는 저작물을 배포하는 경우 부담되지 않는 선에서 기여자, 권리자, 스폰서, 창작자 등의 저작자 표시를 요구할 수 있다.
 
-The **license** *may* require distributions of the work to include attribution
-of contributors, rights holders, sponsors and creators as long as
-any such prescriptions are not onerous.
+##### 2.2.2 완전성
 
-##### 2.2.2 Integrity
+**라이센스**는 원저작물을 수정할 경우 원저작물과 다른 이름 혹은 다른 숫자의 버전을 채택 하도록 하거나 그렇지 않으면 변경된 내용을 명시하도록 할 수 있다.
 
-The **license** *may* require that modified versions of a licensed work
-carry a different name or version number from the original work or 
-otherwise indicate what changes have been made. 
+##### 2.2.3 동일 조건 변경 허락
 
-##### 2.2.3 Share-alike
+**라이센스**는 원저작물의 복사본 혹은 파생본을 원저작물과 동일하거나 비슷한 라이선스로 배포하도록 할 수 있다.
 
-The **license** *may* require copies or derivatives of a licensed work to remain
-under a license the same as or similar to the original.
+##### 2.2.4 알림
 
-##### 2.2.4 Notice
+**라이선스**는 저작권 혹은 라이선스에 대한 안내 주석을 계속 유지할 것을 요구할 수 있다.
 
-The **license** *may* require retention of copyright notices and identification of the license.
+##### 2.2.5 원천
 
-##### 2.2.5 Source
+**라이선스**는 개작된 저작물로 하여금 개작이 더욱 용이한 형태로 이용가능 하도록 요구할 수 있다.
 
-The **license** *may* require modified works to be made available in a form preferred for further modification.
+##### 2.2.6 기술적인 제한 금지
 
-##### 2.2.6 Technical Restriction Prohibition
+**라이선스**는 저작물이 기술적인 방법으로 허용된 권리 행사를 제한하는 형태로 배포되는 것을 금지할 수 있다.
 
-The **license** *may* prohibit distribution of the work in a manner where technical measures impose restrictions on the exercise of otherwise allowed rights.
+##### 2.2.7 불가침
 
-##### 2.2.7 Non-aggression
-
-The **license** *may* require modifiers to grant the public additional permissions (for example, patent licenses) as required for exercise of the rights allowed by the license. The license may also condition permissions on not aggressing against licensees with respect to exercising any allowed right (again, for example, patent litigation).
+**라이선스**는 개작자에게 공중의 추가적인 권한(예: 특허권)을 인정하도록 요구할 수 있다. 또한 라이선스는 허용된 모든 권한에 대하여 라이선스 사용자에게 공격적이지 않은 방향으로 권한을 부여할 수 있다.
