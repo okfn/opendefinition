@@ -46,10 +46,6 @@ Tariq Khokhar is the World Bank's Open Data Evangelist. His interests lie where 
 
 Herb Lainchbury is a consultant, a software developer and founder and President of the Open Data Society of British Columbia, Canada.  He holds a BSc in Computer Science from the University of Victoria.  He is a frequent speaker on open data and open government topics, is a member of the Government of Canada's Advisory Panel on Open Government and blogs at [herblainchbury.com](http://www.herblainchbury.com/).
 
-### Tom Lee
-
-Tom Lee is the Director of Sunlight Labs, where he oversees the Sunlight Foundation's software and data work, supervising engineering activities and contributing to the organization's policy advocacy on related issues. Prior to assuming leadership of the labs, he managed Sunlight’s Subsidyscope project, a data-driven effort to explore the level of federal involvement in various sectors of the economy.
-
 ### Mike Linksvayer
 
 Mike Linksvayer writes about open matters on his [blog](http://gondwanaland.com/mlog).
@@ -94,3 +90,5 @@ Thanks to all who have previously served on the Advisory Council.
 * [Paul Miller](http://cloudofdata.com)
 * [Rob Styles](http://dynamicorange.com/)
 * [John Wilbanks](http://del-fi.org)
+* [Tom Lee](https://twitter.com/tjl)
+
