@@ -12,15 +12,7 @@ wordpress_id: 119
 
 #### Full text 
 
-http://www.freecreations.org/Against_DRM2.html <  
->
-http://www.freecreations.org/Against_DRM2_es1.html <  
->
-http://www.freecreations.org/Against_DRM2_es2.html <  
->
-http://www.freecreations.org/Against_DRM2_fr.html <  
->
-http://www.freecreations.org/Against_DRM2_it.html
+<http://www.freecreations.org/Against_DRM2.html> also available in [translations](http://www.freecreations.org/translations.html).
 
 #### Comments 
 
