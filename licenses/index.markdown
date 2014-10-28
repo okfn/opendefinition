@@ -284,7 +284,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td ><b>Incompatible</b> with any other license (this may change, pending outcome of CC-BY-SA-4.0/FAL-1.3 compatibility process).
+<td >
 </td>
 </tr>
 
@@ -328,7 +328,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr >
-<td ><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">Open Government Licence United Kingdom 2.0</a>
+<td >Open Government Licence United Kingdom <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">2.0</a> and 3.0
 </td>
 <td >Content, Data
 </td>
@@ -336,7 +336,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td ><b>Non-reusable.</b> For use by UK government licensors; re-uses of OGL-UK-2.0 material may be released under CC-BY or ODC-BY. Note version 1.0 is not approved as conformant.
+<td ><b>Non-reusable.</b> For use by UK government licensors; re-uses of OGL-UK-2.0 and OGL-UK-3.0 material may be released under CC-BY or ODC-BY. Note version 1.0 is not approved as conformant.
 </td>
 </tr>
 
