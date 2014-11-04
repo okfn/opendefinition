@@ -1,4 +1,4 @@
-﻿---
+---
 title: Definición de Conocimiento Abierto
 layout: page
 ---
