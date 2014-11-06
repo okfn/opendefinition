@@ -110,3 +110,4 @@ La **licencia** *puede* prohibir la distribución de la obra cuando haya condici
 
 La **licencia** *puede* requerir a quien modifique la obra que garantice los permisos públicos adicionales (por ejemplo, licencias de patentes) requeridos para el ejercicio de los derechos otorgados por la licencia. La licencia puede también condicionar los permisos a la no agresión contra los titulares de la licencia con respecto al ejercicio de cualquier derecho permitido (por ejemplo, litigios sobre patentes).
 
+*translated by [Antonio F. Rodríguez](mailto:afrodriguez@fomento.es) and Lorena Hernández
