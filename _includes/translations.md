@@ -2,7 +2,7 @@
 <a href="/od/1.1/be/">Беларуская</a> |
 <a href="/od/1.1/bg/">Български</a> |
 <a href="/od/1.1/ca/">Català</a> |
-<a href="/od/1.1/cz/">Czech</a> |
+<a href="/od/2.0/cz/">Czech</a> |
 <a href="/od/1.1/da/">Dansk</a> |
 <a href="/od/1.1/de/">Deutsch</a> |
 <a href="/od/1.0/el/">Ελληνικά</a> |
