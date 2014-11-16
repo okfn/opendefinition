@@ -85,6 +85,17 @@ Timothy Vollmer is Public Policy Manager at Creative Commons. He coordinates pub
 
 Jo Walsh has been hacking for more than ten years and working with geodata for for more than five. As well as her involvement with the OKF she is also on the board of the [Open Source Geo-Spatial Foundation](http://osgeo.org/) and is one of the authors of O'Reilly's [Mapping Hacks](http://www.mappinghacks.com/). As one of those people who still think that the semantic web will save the world she gets very excited about metadata standards and data sharing..
 
+### Aaron Wolf
+
+Aaron Wolf is co-founder of [Snowdrift.coop](http://snowdrift.coop), an in-progress fundraising
+system working to address the collective-action dilemmas that affect the
+funding of the public commons. Otherwise, Aaron is a professional music
+teacher, an amateur scholar, and a social activist. He holds the
+distinction of producing the internet's most popular video for songs
+that teach brain anatomy. His [website](http://wolftune.com) includes several
+articles about Open Knowledge and related topics, particularly
+pertaining to music.
+
 ## Emeriti
 
 Thanks to all who have previously served on the Advisory Council.
