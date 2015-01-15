@@ -323,7 +323,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td ><b>Non-reusable.</b> For use by Canada government licensors. Note version 1.0 is not approved as conformant.
+<td ><b>Non-reusable.</b> For use by the Canadian Federal government. Note version 1.0 is not approved as conformant.
 </td>
 </tr>
 
