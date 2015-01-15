@@ -3,10 +3,10 @@ title: Open Definition
 layout: page
 redirect_from:
   - /okd/
-  - /od/2.0/
+  - /od/2.1/
 ---
 
-Version 2.0
+Version 2.1 dev
 
 The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
 
@@ -41,13 +41,10 @@ accompany the work.
 
 ### 1.3 Open Format
 
-The **work** *must* be provided in a convenient and modifiable form such
-that there are no unnecessary technological obstacles to the performance of the
-licensed rights. Specifically, data should be machine-readable, available in
-bulk, and provided in an open format (i.e., a format with a freely available
-published specification which places no restrictions, monetary or otherwise, upon
-its use) or, at the very least, can be processed with at least one free/libre/open-source
-software tool.
+The **work** *must* be machine-readable and provided in an open format.  An open format is
+one which places no restrictions, monetary or otherwise, upon its use and can be processed
+with at least one free/libre/open-source software tool.  Data *should* be provided in bulk
+where possible.
 
 
 ## 2. Open Licenses
@@ -140,7 +137,7 @@ The **license** *may* require modified works to be made available in a form pref
 
 #### 2.2.6 Technical Restriction Prohibition
 
-The **license** *may* prohibit distribution of the work in a manner where technical measures impose restrictions on the exercise of otherwise allowed rights.
+The **license** *may* require that distributions of the work remain free of any technical measures that would restrict the exercise of otherwise allowed rights.
 
 #### 2.2.7 Non-aggression
 
