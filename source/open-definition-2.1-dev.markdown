@@ -3,10 +3,10 @@ title: Open Definition
 layout: page
 redirect_from:
   - /okd/
-  - /od/2.0/
+  - /od/2.1/
 ---
 
-Version 2.0
+Version 2.1 dev
 
 The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
 
