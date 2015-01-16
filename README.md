@@ -3,7 +3,7 @@ the Open Definition (OD).
 
 The current OD version is 2.0. Numerous translations are available
 on the website. The ideal way to submit new translations is by adding
-an `od/2.0/{language code}/index.markdown` file and sending a pull request.
+an `od/2.0/{language code}/index.markdown` file and sending a pull request on the `gh-pages` branch.
 
 Many pages in the repository are related definitions and domain-specific
 guides which are not highlighted in the site navigation; there's a
