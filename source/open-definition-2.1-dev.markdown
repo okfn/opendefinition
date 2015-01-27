@@ -125,7 +125,7 @@ otherwise indicate what changes have been made.
 #### 2.2.3 Share-alike
 
 The **license** *may* require distributions of the work to remain
-under license the same as or similar to the original.
+under the same license or a similar license.
 
 #### 2.2.4 Notice
 
