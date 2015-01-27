@@ -42,7 +42,7 @@ accompany the work.
 ### 1.3 Open Format
 
 The **work** *must* be machine-readable and provided in an open format.  An open format is
-one which places no restrictions, monetary or otherwise, upon its use and can be processed
+one which places no restrictions, monetary or otherwise, upon its use and can be fully processed
 with at least one free/libre/open-source software tool.  Data *should* be provided in bulk
 where possible.
 
@@ -113,7 +113,7 @@ required in Section 2.1 except by the following allowable conditions:
 #### 2.2.1 Attribution
 
 The **license** *may* require distributions of the work to include attribution
-of contributors, rights holders, sponsors and creators as long as
+of contributors, rights holders, sponsors, and creators as long as
 any such prescriptions are not onerous.
 
 #### 2.2.2 Integrity
@@ -124,8 +124,8 @@ otherwise indicate what changes have been made.
 
 #### 2.2.3 Share-alike
 
-The **license** *may* require copies or derivatives of a licensed work to remain
-under a license the same as or similar to the original.
+The **license** *may* require distributions of the work to remain
+under license the same as or similar to the original.
 
 #### 2.2.4 Notice
 
@@ -133,7 +133,7 @@ The **license** *may* require retention of copyright notices and identification 
 
 #### 2.2.5 Source
 
-The **license** *may* require copies or derivatives of a licensed work to be made available in a form preferred for modification.
+The **license** *may* require for any distribution of the work that corresponding source files be made available in the preferred form for modification.
 
 #### 2.2.6 Technical Restriction Prohibition
 
