@@ -13,18 +13,18 @@ categories:
 
  * Herb Lainchbury
  * Aaron Wolf
- * Peter Murray-Rusts
+ * Peter Murray-Rust
  * Andreas Langegger
 
 
 # Agenda
 
  * licenses waiting for assessment
-   * ML notes community notice added to process, see: https://lists.okfn.org/pipermail/od-discuss/2014-December/001179.html
+   * ML notes community notice added to process, see: [https://lists.okfn.org/pipermail/od-discuss/2014-December/001179.html](https://lists.okfn.org/pipermail/od-discuss/2014-December/001179.html)
    - non-conforming licenses and what to do about them
  * deciding what licenses ought to go through the conformance process
  * goals and timing for v2.1
-   * ML notes post-2.0 feedback documented in https://github.com/okfn/opendefinition/labels/2.1 
+   * ML notes post-2.0 feedback documented in [https://github.com/okfn/opendefinition/labels/2.1](https://github.com/okfn/opendefinition/labels/2.1) 
    * 2.2.6 rewording
    * what other points need to be addressed
  * translations
