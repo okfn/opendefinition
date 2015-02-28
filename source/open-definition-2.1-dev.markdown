@@ -33,7 +33,7 @@ contradict the terms of the license.
 
 ### 1.2 Access
 
-The **work** shall be available as a whole and at no more than a reasonable 
+The **work** must be available as a whole and at no more than a reasonable 
 one-time reproduction cost, preferably downloadable via the Internet without charge.
 Any additional information necessary for license compliance (such as names of 
 contributors required for compliance with attribution requirements) *must* also 
@@ -107,7 +107,7 @@ compensation or monetary remuneration as part of its conditions.
 
 ### 2.2 Acceptable Conditions
 
-The **license** shall not limit, make uncertain, or otherwise diminish the permissions 
+The **license** must not limit, make uncertain, or otherwise diminish the permissions 
 required in Section 2.1 except by the following allowable conditions:
 
 #### 2.2.1 Attribution
