@@ -7,6 +7,7 @@ slug: hebrew
 title: Open Definition
 wordpress_id: 855
 redirect_from: /od/hebrew/
+direction: rtl
 ---
 
 Version 1.1

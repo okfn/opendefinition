@@ -1,6 +1,7 @@
 ---
 title: تعريف مفتوح
 layout: page
+direction: rtl
 ---
 
 الإصدار 2,0

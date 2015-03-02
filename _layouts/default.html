@@ -59,7 +59,11 @@
   </div>
 </div>
 <div class="container">
+{% if page.direction == "rtl" %}
+  <div class="content" dir="rtl">
+{% else %}
   <div class="content">
+{% endif %}
     <div class="row">
       <div class="span7 main offset1">
         {% if page.notitle != true %}

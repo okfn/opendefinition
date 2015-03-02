@@ -7,6 +7,7 @@ slug: arabic
 title: Open Definition
 wordpress_id: 828
 redirect_from: /od/arabic/
+direction: rtl
 ---
 
 الإصدار ١.١
