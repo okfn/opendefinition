@@ -1,9 +1,6 @@
 ---
 title: Визначення відкритості
 layout: page
-redirect_from:
-  - /okd/
-  - /od/2.0/
 ---
 
 Версія 2.0
