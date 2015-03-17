@@ -133,7 +133,7 @@ The **license** *may* require retention of copyright notices and identification 
 
 #### 2.2.5 Source
 
-The **license** *may* require for any distribution of the work that corresponding source files be made available in the preferred form for modification.
+The **license** *may* require that anyone distributing the work provide recipients with access to the preferred form for making modifications.
 
 #### 2.2.6 Technical Restriction Prohibition
 
