@@ -12,7 +12,7 @@ The Open Definition makes precise the meaning of "open" with respect to knowledg
 
 **Summary:** *Knowledge is open if anyone is free to access, use, modify, and share it — subject, at most, to measures that preserve provenance and openness.*
 
-This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](http://www.opensource.org/docs/osd) and is synonymous with "free" or "libre" as in the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) and is synonymous with "free" or "libre" as in the [Free Software Definition](https://en.wikipedia.org/wiki/The_Free_Software_Definition) and [Definition of Free Cultural Works](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works).
 
 The term **work** will be used to denote the item or piece of knowledge being transferred.
 
