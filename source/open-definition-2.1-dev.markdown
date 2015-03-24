@@ -41,7 +41,7 @@ accompany the work.
 
 ### 1.3 Open Format
 
-The **work** *must* be machine-readable and provided in an open format.  An open format is
+The **work** *must* be machine-readable and provided in an interoperable open format.  An open format is
 one which places no restrictions, monetary or otherwise, upon its use and can be fully processed
 with at least one free/libre/open-source software tool.  Data *should* be provided in bulk
 where possible.
