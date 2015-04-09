@@ -43,7 +43,7 @@ by the Advisory Council.
 <td >N
 </td>
 
-<td ><b>Non-reusable.</b> For use by the Surrey municipal government. Appoved [2015-04-03](https://lists.okfn.org/pipermail/od-discuss/2015-April/001318.html). Note version 1.0 has not been approved.
+<td ><b>Non-reusable.</b> For use by the Surrey municipal government. Appoved <a href="https://lists.okfn.org/pipermail/od-discuss/2015-April/001318.html">2015-04-03</a>. Note version 1.0 has not been approved.
 </td>
 </tr>
 

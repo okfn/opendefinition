@@ -323,7 +323,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td ><b>Non-reusable.</b> For use by the Canadian Federal government. Note version 1.0 is not approved as conformant. Note several Canadian provinces and municipalities have developed non-reusable licenses, each with differences from the federal OGL Canada. Some of these are open, as noted on a [dedicated page](/licenses/ogl-canada-subnational).
+<td ><b>Non-reusable.</b> For use by the Canadian Federal government. Note version 1.0 is not approved as conformant. Note several Canadian provinces and municipalities have developed non-reusable licenses, each with differences from the federal OGL Canada. Some of these are open, as noted on a <a href="/licenses/ogl-canada-subnational">dedicated page</a>.
 </td>
 </tr>
 
