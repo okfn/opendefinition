@@ -3,13 +3,13 @@ title: Offen-Definition
 layout: page
 ---
 
-Versión: 2.0
+Version: 2.0
 
-Die Offen-Definition beschreibt präzise die Bedeutung von “offen” in Bezug auf Wissen, und unterstützt so eine starke Gemeinschaft, an der alle partizipieren können; die Fähigkeit zur Zusammenarbeit wird maximiert.
+Die Offen-Definition präzisiert die Bedeutung von „offen” in Bezug auf Wissen, und unterstützt so eine starke Gemeinschaft, an der alle partizipieren können; die Fähigkeit zur Zusammenarbeit wird maximiert.
 
-**Zusammenfassung:** _Wissen ist offen, wenn jede/jeder darauf frei zugreifen, es nutzen, verändern und teilen kann – eingeschränkt höchstens durch Maßnahmen, die Ursprung und Offenheit des Wissens bewahren._
+**Zusammenfassung:** _Wissen ist offen, wenn jedeR darauf frei zugreifen, es nutzen, verändern und teilen kann – eingeschränkt höchstens durch Maßnahmen, die Ursprung und Offenheit des Wissens bewahren._
 
-Diese grundlegende Bedeutung entspricht der von “offen” in Bezug auf Software, wie in der “ [Open Source”-Definition](http://opensource.org/docs/osd), und steht synonym für “frei” oder “libre” wie in der Definition der [freien kulturelle Werke](http://freedomdefined.org/Definition/De/1.0). Die Offen-Definition wurde ursprünglich von der “Open Source”-Definition abgeleitet, die wiederum von den [Debian freie Software Richtlinien](http://www.debian.org/social_contract) abgeleitet wurde.
+Diese grundlegende Bedeutung entspricht der von „offen” in Bezug auf Software, wie in der [Open-Source-Definition](http://opensource.org/docs/osd), und steht synonym für „frei” oder „libre” wie in der Definition der [freien kulturelle Werke](http://freedomdefined.org/Definition/De/1.0). Die Offen-Definition wurde ursprünglich von der Open-Source-Definition abgeleitet, die wiederum von den [Debian-Freie-Software-Richtlinien](http://www.debian.org/social_contract) abgeleitet wurde.
 
 Der Begriff **Werk** wird im Folgenden verwendet, um ein Element oder ein Stück von Wissen, das übermittelt wird, zu bezeichnen.
 
@@ -21,7 +21,7 @@ Ein offenes **Werk** muss die folgenden Anforderungen bei seiner Verteilung erf�
 
 ### 1.1 Offene Lizenz
 
-Das **Werk** _muss_ unter einer offenen **Lizenz** verfügbar sein (wie in Abschnitt 2 definiert). Jegliche zusätzliche Bedingungen, die das Werk begleiten (etwa Nutzungsbedingungen oder Patente, die von der lizenzgebenden Person gehalten werden), _dürfen _den Bedingungen der Lizenz _nicht_ widersprechen.
+Das **Werk** _muss_ unter einer offenen **Lizenz** verfügbar sein (wie in Abschnitt 2 definiert). Jegliche zusätzliche Bedingungen, die das Werk begleiten (etwa Nutzungsbedingungen oder Patente, die von der lizenzgebenden Person gehalten werden), _dürfen_ den Bedingungen der Lizenz _nicht_ widersprechen.
 
 ### 1.2 Zugang
 
@@ -29,7 +29,7 @@ Das **Werk** soll als Ganzes und zu nicht mehr als angemessenen, einmaligen Repr
 
 ### 1.3 Offenes Format
 
-Das **Werk** _muss_ in einer zweckdienlichen und modifizierbaren Form zur Verfügung gestellt werden, sodass keine unnötigen technischen Hindernisse bei der Ausübung genehmigter Rechte entstehen. Insbesondere sollten Daten maschinenlesbar sein, als Gesamt-Datensatz verfügbar sein, und in einem offenen Format zur Verfügung gestellt werden (d.h. einem Format mit frei verfügbaren und veröffentlichten Spezifikationen, die keinerlei finanzielle oder andere Einschränkungen bei seiner Verwendung macht) – oder zumindest in einem Format, das mit zumindest einer freien/libre/open-source Software-Anwendung bearbeitet werden kann.
+Das **Werk** _muss_ in einer zweckdienlichen und modifizierbaren Form zur Verfügung gestellt werden, sodass keine unnötigen technischen Hindernisse bei der Ausübung genehmigter Rechte entstehen. Insbesondere sollten Daten maschinenlesbar sein, als Gesamt-Datensatz verfügbar sein, und in einem offenen Format zur Verfügung gestellt werden (d.h. ein Format mit frei verfügbaren und veröffentlichten Spezifikationen, die keinerlei finanzielle oder andere Einschränkungen bei seiner Verwendung machen) – oder zumindest in einem Format, das mit zumindest einer freien/libre/open-source Software-Anwendung bearbeitet werden kann.
 
 
 ## 2. Offene Lizenzen
@@ -104,7 +104,7 @@ Die **Lizenz** _kann_ fordern, dass veränderte Werke in einer Form zur Verfügu
 
 Die **Lizenz** _kann_ verbieten, dass das Werk in einer Weise verbreitet wird, bei der technische Maßnahmen das Ausüben der sonst erlaubten Rechte einschränken.
 
-#### 2.2.7 Nicht-Angriff
+#### 2.2.7 Nicht-Aggression
 
 Die **Lizenz** _kann_ verlangen, dass BearbeiterInnen der Öffentlichkeit weitergehende  Befugnisse gewähren (zum Beispiel Patent-Lizenzen), wenn diese zur Ausübung der von der Lizenz eingeräumten Rechte benötigt werden. Die Lizenz kann auch Genehmigungen bedingen, nicht gegen LizenznehmerInnen in Bezug auf die Ausübung jeglichen eingeräumten Rechts vorzugehen  (hier, zum Beispiel, Patent-Streitigkeiten).
 
