@@ -43,8 +43,6 @@ Is is desirable that an *open* format:
 
 Existing material:
 
-  * http://okfn.org/iai/
-  * http://www.openforumeurope.org/what-is/open-standards/open-standards/
   * http://www.fsfe.org/fellows/greve/freedom_bits/an_emerging_understanding_of_open_standards
   * http://en.wikipedia.org/wiki/Open_format
   * http://en.wikipedia.org/wiki/Free_file_format 
