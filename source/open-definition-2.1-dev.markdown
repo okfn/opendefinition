@@ -41,10 +41,10 @@ accompany the work.
 
 ### 1.3 Open Format
 
-The **work** *must* be machine-readable and provided in an open format.  An open format is
+The **work** *must* be provided in an open format. An open format is
 one which places no restrictions, monetary or otherwise, upon its use and can be fully processed
-with at least one free/libre/open-source software tool.  Data *should* be provided in bulk
-where possible.
+with at least one free/libre/open-source software tool. Data *must* be machine-readable and 
+should be provided in bulk where possibl.
 
 
 ## 2. Open Licenses
