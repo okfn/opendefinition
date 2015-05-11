@@ -100,6 +100,8 @@ If an open data format has no restrictions, monetary or otherwise, upon its use,
 ##### An Open Format for Data - Definition 2
 An Open Format is a format that, "can be processed with at least one free/libre/open-source software tool".
 
+If there is a free software tool available to process the data, then the data can be re-used without the need to implement software.  
+
 ## 3. Testing some real world examples
 ### Is a National Budget in a PDF open?
 The Open Format for data definitions above enable tabular data (e.g. a Nation Budget) to be published as a PDF (an open format according to the definition). However, this is not a convenient form for this type of data and, “the **work** *must* be provided in a convenient and modifiable form such that there are no unnecessary technological obstacles to the performance of the licensed rights”.
