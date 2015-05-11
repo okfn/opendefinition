@@ -44,7 +44,7 @@ accompany the work.
 The **work** *must* be provided in an open format. An open format is
 one which places no restrictions, monetary or otherwise, upon its use and can be fully processed
 with at least one free/libre/open-source software tool. Data *must* be machine-readable and 
-*should* be provided in bulk where possible.
+*should* be provided in bulk.
 
 
 ## 2. Open Licenses
