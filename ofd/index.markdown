@@ -9,7 +9,7 @@ wordpress_id: 262
 ---
 
 
-<p id=“contribute”><b>This is a draft</b>.<i> We need your help to make it better. Get involved, learn more, and help us improve the Open Definition:</i></p>
+<p name=“contribute”><b>This is a draft</b>.<i> We need your help to make it better. Get involved, learn more, and help us improve the Open Definition:</i></p>
 - *To get started, [join the conversation](http://lists.okfn.org/mailman/listinfo/od-discuss), ask questions and suggest improvements on the Open Definition discussion list.*
 - *Catch up on [past conversations](https://lists.okfn.org/pipermail/od-discuss/) and see what you’ve missed.*
 - *Dive in deep, [add an issue](https://github.com/okfn/opendefinition/issues) or a pull request to the Open Definition GitHub repository.*
@@ -27,13 +27,13 @@ The [Open Definition](http://opendefinition.org/od/) has three key requirements 
 
 
 
-<h2><a id=“openformat”>1. The Open Format defined</a></h2>
+<h2><a name=“openformat”>1. The Open Format defined</a></h2>
 
 Section 1.3 Open Format from the Open Definition version 2.0 states:
 
 >The **work** *must* be provided in a convenient and modifiable form such that there are no unnecessary technological obstacles to the performance of the licensed rights. Specifically, data *should* be machine-readable, available in bulk, and provided in an open format (i.e., a format with a freely available published specification which places no restrictions, monetary or otherwise, upon its use) or, at the very least, can be processed with at least one free/libre/open-source software tool.
 
-<h2><a id=“intent”>2. The Intent</a></h2>
+<h2><a name=“intent”>2. The Intent</a></h2>
 
 We want to create open knowledge. To help achieve this, the Open Format requires:
 
@@ -100,7 +100,7 @@ If an open data format has no restrictions, monetary or otherwise, upon its use,
 An Open Format is: 
 - a format that can be processed with at least one free/libre/open-source software tool.
 
-<h2><a id=“testing”>3. Testing some real world examples
+<h2><a name=“testing”>3. Testing some real world examples
 </a></h2>
 ### Is a National Budget in a PDF open?
 The Open Format for data definitions above enable tabular data (e.g. a Nation Budget) to be published as a PDF (an open format according to the definition). However, this is not a convenient form for this type of data and, “the **work** *must* be provided in a convenient and modifiable form such that there are no unnecessary technological obstacles to the performance of the licensed rights”.
@@ -123,7 +123,7 @@ It could be argued that by prefixing the second sentence of the Open Format with
 (<a href=“#contribute”>Contribution needed</a>) Is it OK that these requirements are all optional for non-data works?
 
 
-<h2><a id=“meaning”>4. Words with special meaning</a></h2> 
+<h2><a name=“meaning”>4. Words with special meaning</a></h2> 
 
 Some words in the Open Definition have special meaning and are  shown in **bold** or *italics*. There meaning is defined below:
 
@@ -140,7 +140,7 @@ Some words in the Open Definition have special meaning and are  shown in **bold*
 **May** or **Optional** - the item is truly optional [<a href=“#RFC2119”>RFC2119</a>].
 
 
-<h2><a id=“improve”>5. Improving the Open Format</a></h2>
+<h2><a name=“improve”>5. Improving the Open Format</a></h2>
 
 These improvement ideas mainly come from conversations on the [discussion list](https://lists.okfn.org/pipermail/od-discuss/).
 
@@ -157,7 +157,7 @@ The **work** *should* be published in a lossless and uncompressed open format so
 #### A common resource for tools to reference
 Tools like the [Open Data Census](http://census.okfn.org/) and [Open Data Certificates](https://certificates.theodi.org/) test to see if data is published using an open format. This [improvement idea](http://opendefinition.org/licenses/) seeks to harmonise the definition of the Open Format for data so that tools could all point to the Open Definition, in the same way the tools currently point to it for a definition of an open licence and a list of [conformant licenses](http://opendefinition.org/licenses/).
 
-<h2><a id=“resources”>6. Resources</a></h2>
+<h2><a name=“resources”>6. Resources</a></h2>
 
 Do you have another resource you’d like added below? <a href=“#contribute”>Make the list better</a>.
 
@@ -173,7 +173,7 @@ These lists of open format have not been assessed as being conformant with the O
 - Snowdrift [FLO Formats and Repositories](https://snowdrift.coop/p/snowdrift/w/en/formats-repositories) - Free and open file formats and online repositories for Free/Libre/Open works.
 - Australian National Data Service [File Formats](http://www.ands.org.au/guides/file-formats-working.html) - Examples of open formats. Also covers preservation, lossy formats, compression, and the importance of standards. 
 
-<h2><a id=“coming”>7. What’s coming next? </a></h2>
+<h2><a name=“coming”>7. What’s coming next? </a></h2>
 
 The [Open Definition version 2.1](https://github.com/okfn/opendefinition/blob/master/source/open-definition-2.1-dev.markdown) is being drafted. At the time of writing, it states,
 
@@ -185,10 +185,10 @@ The changes:
 - don’t mention the need for a freely available published specification (what do you think about that?).
 
 ## References
-<p><a id=“okfn”>[OKFN]</a> <a href=“http://webarchive.okfn.org/okfn.org/201404/opendata/glossary/#machine-readable”>Open Data Glossary</a> (Archived Content) by the Open Knowledge Foundation. </p>
+<p><a name=“okfn”>[OKFN]</a> <a href=“http://webarchive.okfn.org/okfn.org/201404/opendata/glossary/#machine-readable”>Open Data Glossary</a> (Archived Content) by the Open Knowledge Foundation. </p>
 
-<p><a id=“od-discuss”>[OD-Discuss]</a> <a href=“https://lists.okfn.org/pipermail/od-discuss/2015-April/subject.html#1330”>A harmonised Open Format definition</a> a discussion thread on the <a href=“http://lists.okfn.org/mailman/listinfo/od-discuss”>Open Definition Discussion list</a>. </p>
+<p><a name=“od-discuss”>[OD-Discuss]</a> <a href=“https://lists.okfn.org/pipermail/od-discuss/2015-April/subject.html#1330”>A harmonised Open Format definition</a> a discussion thread on the <a href=“http://lists.okfn.org/mailman/listinfo/od-discuss”>Open Definition Discussion list</a>. </p>
 
-<p><a id=“od”>[OD]</a> <a href=“http://opendefinition.org/od/”>Open Definition</a> by Open Knowledge. </p>
+<p><a name=“od”>[OD]</a> <a href=“http://opendefinition.org/od/”>Open Definition</a> by Open Knowledge. </p>
 
-<p><a id=“RFC2119”>[RFC2119]</a> <a href=“http://www.ietf.org/rfc/rfc2119.txt”>Key words for use in RFCs to Indicate Requirement Levels.</a> by S. Bradner, IETF RFC2119.</p>
+<p><a name=“RFC2119”>[RFC2119]</a> <a href=“http://www.ietf.org/rfc/rfc2119.txt”>Key words for use in RFCs to Indicate Requirement Levels.</a> by S. Bradner, IETF RFC2119.</p>
