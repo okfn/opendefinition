@@ -46,7 +46,6 @@ one which places no restrictions, monetary or otherwise, upon its use and can be
 with at least one free/libre/open-source software tool. Data *must* be machine-readable and 
 *should* be provided in bulk.
 
-
 ## 2. Open Licenses
 
 A **license** is open if its terms satisfy the following conditions:
