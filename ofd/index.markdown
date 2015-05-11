@@ -82,7 +82,7 @@ This requirement complements the Access section of the Open Definition and toget
 But your data can still be open if you publish it as many individual files (however it could be argued you’re not publishing it in a convenient form). 
 
 #### Data should be provided in an Open Format
-##### An Open Format for data - Definition 1:
+##### An Open Format for Data - Definition 1
 
 An Open Data Format is a format with, "a freely available published specification which places no restrictions, monetary or otherwise, upon its use". 
 
@@ -97,7 +97,7 @@ If an open data format has no restrictions, monetary or otherwise, upon its use,
 - it is not named using a trademark unless that trademark is usably by anyone under appropriately open terms.
 
 
-##### An Open Format for data - Definition 2:
+##### An Open Format for Data - Definition 2
 An Open Format is a format that, "can be processed with at least one free/libre/open-source software tool".
 
 ## 3. Testing some real world examples
