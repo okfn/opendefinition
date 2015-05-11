@@ -183,7 +183,7 @@ The [Open Definition version 2.1](https://github.com/okfn/opendefinition/blob/ma
 The changes:
 - make the open format more concise.
 - require data to be machine-readable (*depending on your definition of machine readable a PDF of a Nation Budget may or may not be open*).
-- don’t mention the need for a freely available published specification (*what do you think about that?*).
+- don’t mention the need for a freely available published specification (*what do you think about that?*). 
 
 
 
