@@ -1,7 +1,7 @@
 ---
-author: ddie
+author: Stephen Gates
 comments: true
-date: 2010-02-19 14:52:09+00:00
+date: 2015-05-12 14:52:09+00:00
 layout: page
 slug: ofd
 title: 'Open Format Definition '
@@ -38,13 +38,13 @@ Section 1.3 Open Format from the Open Definition version 2.0 states:
 We want to create open knowledge. To help achieve this, the Open Format requires:
 
 #### The work must be provided in a convenient form
-The **work** *must* be provided in a convenient format so that it is easy to reuse. This requires the **work** to be published in a format that maximises knowledge sharing and reuse. The format may vary for different media types (e.g. image, text, geographic data).  
+The **work** *must* be provided in a convenient format so that it is easy to reuse. This requires the **work** to be published in a format that maximises knowledge sharing and reuse. The format may vary for different media types (e.g. image, text, tabular or geographic data).  
 
 #### The work must be provided in a modifiable form
-The **work** *must* be provided in a modifiable format so it can be reused in different ways. What is an appropriate modifiable form? 
+The **work** *must* be provided in a modifiable format so it can be reused in different ways, in part or in whole. What is an appropriate modifiable form? 
 
 - If the **work** is data, an appropriate modifiable form is one that is machine-readable and in an open format.
-- If the **work** isn’t data, an appropriate modifiable form is one that... (*contribution needed here*).
+- If the **work** isn’t data, an appropriate modifiable form is one that allow the **work** to be performed in part or whole (*contribution needed here*).
 
 #### No unnecessary technological obstacles to the performance of the licensed rights
 (*contribution needed*)
@@ -71,12 +71,13 @@ See also https://www.data.gov/developers/blog/primer-machine-readability-online-
 
 
 #### Data should be available in bulk
-The **work** *should* be provided in bulk, means the data can be accessed easily in one request. 
+The **work** *should* be provided in bulk means that the data can be easily downloaded as a whole in one request. 
 
 This requirement complements the Access section of the Open Definition and together they require that:
 
-- the data *must* be published as a whole.
-- the data *should* be downloadable via the Internet, for free, in bulk.
+- the **work** *must* be available as a whole.
+- the **work** *should* be downloadable via the Internet, for free.
+- data *should* be available in bulk.
 
 But your data can still be open if you publish it as many individual files (however it could be argued you’re not publishing it in a convenient form). 
 
@@ -115,10 +116,10 @@ It could be argued that by prefixing the second sentence of the Open Format with
 - be machine-readable 
 - be provided in bulk 
 - be provided in an open format: 
-— with a freely available published specification which places no restrictions, monetary or otherwise, upon its use, or  
-— that can be processed with at least one free/libre/open-source software tool. 
+  - with a freely available published specification which places no restrictions, monetary or otherwise, upon its use, or  
+  - that can be processed with at least one free/libre/open-source software tool. 
 
-(*Contribution needed*) Is it OK that these requirements are all optional for non-data works?
+(*Contribution needed - Is it OK that these requirements are all optional for non-data works?*)
 
 
 ## 4. Words with special meaning
