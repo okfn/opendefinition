@@ -12,10 +12,10 @@ wordpress_id: 149
 
 ### Full Text 
 
-http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/
+<http://opendatacommons.org/licenses/pddl/1.0/>
 
 ### How to Apply 
 
-See http://www.opendatacommons.org/licenses/pddl/
+See <http://www.opendatacommons.org/licenses/pddl/>
 
 
