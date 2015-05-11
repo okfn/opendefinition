@@ -15,6 +15,7 @@ wordpress_id: 262
 - *Dive in deep, [add an issue](https://github.com/okfn/opendefinition/issues) or a pull request to the Open Definition GitHub repository.*
 
 ## Introduction 
+
 The [Open Definition](http://opendefinition.org/od/) has three key requirements for a work to be open: an *open license*, *open access*, and an *open format*. This page focuses on the **open format**: 
 
 1. quoting the Open Format section from the Open Definition, 
@@ -38,15 +39,18 @@ Section 1.3 Open Format from the Open Definition version 2.0 states:
 We want to create open knowledge. To help achieve this, the Open Format requires:
 
 #### The work must be provided in a convenient form
+
 The **work** *must* be provided in a convenient format so that it is easy to reuse. This requires the **work** to be published in a format that maximises knowledge sharing and reuse. The format may vary for different media types (e.g. image, text, tabular or geographic data).  
 
 #### The work must be provided in a modifiable form
+
 The **work** *must* be provided in a modifiable format so it can be reused in different ways, in part or in whole. What is an appropriate modifiable form? 
 
 - If the **work** is data, an appropriate modifiable form is one that is machine-readable and in an open format.
 - If the **work** isn’t data, an appropriate modifiable form is one that allow the **work** to be performed in part or whole (*contribution needed here*).
 
 #### No unnecessary technological obstacles to the performance of the licensed rights
+
 (*contribution needed*)
 
 #### Data should be machine-readable 
@@ -82,6 +86,7 @@ This requirement complements the Access section of the Open Definition and toget
 But your data can still be open if you publish it as many individual files (however it could be argued you’re not publishing it in a convenient form). 
 
 #### Data should be provided in an Open Format
+
 ##### An Open Format for Data - Definition 1
 
 An Open Data Format is a format with, "a freely available published specification which places no restrictions, monetary or otherwise, upon its use". 
@@ -98,12 +103,15 @@ If an open data format has no restrictions, monetary or otherwise, upon its use,
 
 
 ##### An Open Format for Data - Definition 2
+
 An Open Format is a format that, "can be processed with at least one free/libre/open-source software tool".
 
 If there is a free software tool available to process the data, then the data can be re-used without the need to implement software.  
 
 ## 3. Testing some real world examples
+
 ### Is a National Budget in a PDF open?
+
 The Open Format for data definitions above enable tabular data (e.g. a Nation Budget) to be published as a PDF (an open format according to the definition). However, this is not a convenient form for this type of data and, “the **work** *must* be provided in a convenient and modifiable form such that there are no unnecessary technological obstacles to the performance of the licensed rights”.
 
 So, is a PDF of a National Budget open?
@@ -113,6 +121,7 @@ Tim Berners-Lee’s [5 Star Open Data](http://5stardata.info) scheme says it’s
 Based on the definition of machine readable above, a PDF of a Nation Budget isn’t open. (*contribution needed - is this the intent?*)
 
 ### Non-data works 
+
 It could be argued that by prefixing the second sentence of the Open Format with, “Specifically, data *should*…”, this means non-data **works** *may*, but are not required to:
 
 - be machine-readable 
@@ -146,29 +155,34 @@ Some words in the Open Definition have special meaning and are  shown in **bold*
 These improvement ideas mainly come from conversations on the [discussion list](https://lists.okfn.org/pipermail/od-discuss/).
 
 #### Open Format Specification
+
 An open format specification *should* be:
 - defined through a fair, transparent and collaborative process.
 - freely redistributable (although the document may be under a license that doesn’t allow changes to the specification document).
 - Software language independent so software implementors can use the programming language of their choice.
 
 #### Retain all original detail
+
 The **work** *should* be published in a lossless and uncompressed open format so all the original detail is retained.
 
 
 #### A common resource for tools to reference
+
 Tools like the [Open Data Census](http://census.okfn.org/) and [Open Data Certificates](https://certificates.theodi.org/) test to see if data is published using an open format. This [improvement idea](http://opendefinition.org/licenses/) seeks to harmonise the definition of the Open Format for data so that tools could all point to the Open Definition, in the same way the tools currently point to it for a definition of an open licence and a list of [conformant licenses](http://opendefinition.org/licenses/).
 
 ## 6. Resources
 
-Do you have another resource you’d like added below? <a href=“#contribute”>Make the list better</a>.
+Do you have another resource you’d like added below? Make the list better.
 
 #### Alternative definitions and views
+
 These links provide some alternate perspectives on open formats:
 - [Open Format](http://en.wikipedia.org/wiki/Open_format) on Wikipedia.
 - [An emerging understanding of Open Standards](http://blogs.fsfe.org/greve/?p=160) on Freedom bits.
 - [Open Data Usability Index](http://goo.gl/xGpLIs) - Herb Lainchbury. Interesting perspective of the degree of readability of data - digital, parse-able, open, and structured.
 
 #### Lists of Open Formats
+
 These lists of open formats have not been assessed as being conformant with the Open Definition:
 - AusGOAL [Open Formats](http://www.ausgoal.gov.au/open-formats) -  Examples of open formats by media type. 
 - Snowdrift [FLO Formats and Repositories](https://snowdrift.coop/p/snowdrift/w/en/formats-repositories) - Free and open file formats and online repositories for Free/Libre/Open works.
@@ -184,6 +198,3 @@ The changes:
 - make the open format more concise.
 - require data to be machine-readable (*depending on your definition of machine readable a PDF of a Nation Budget may or may not be open*).
 - don’t mention the need for a freely available published specification (*what do you think about that?*). 
-
-
-
