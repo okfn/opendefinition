@@ -10,6 +10,7 @@ wordpress_id: 262
 
 
 **This is a draft**. *We need your help to make it better. Get involved, learn more, and help us improve the Open Definition:* 
+
 - *To get started, [join the conversation](http://lists.okfn.org/mailman/listinfo/od-discuss), ask questions and suggest improvements on the Open Definition discussion list.*
 - *Catch up on [past conversations](https://lists.okfn.org/pipermail/od-discuss/) and see what you’ve missed.*
 - *Dive in deep, [add an issue](https://github.com/okfn/opendefinition/issues) or a pull request to the Open Definition GitHub repository.*
@@ -71,7 +72,7 @@ Appropriate machine-readable format may vary by data type. For example, a machin
 
 This section is based on an [archived OKFN glossary](http://webarchive.okfn.org/okfn.org/201404/opendata/glossary/#machine-readable) and an Open Definition discussion about [a harmonised Open Format definition](https://lists.okfn.org/pipermail/od-discuss/2015-April/subject.html#1330).
 
-See also https://www.data.gov/developers/blog/primer-machine-readability-online-documents-and-data 
+See also <https://www.data.gov/developers/blog/primer-machine-readability-online-documents-and-data>
 
 
 #### Data should be available in bulk
