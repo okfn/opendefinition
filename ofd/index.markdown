@@ -44,10 +44,10 @@ The **work** *must* be provided in a convenient format so that it is easy to reu
 The **work** *must* be provided in a modifiable format so it can be reused in different ways. What is an appropriate modifiable form? 
 
 - If the **work** is data, an appropriate modifiable form is one that is machine-readable and in an open format.
-- If the **work** isn’t data, an appropriate modifiable form is one that... (contribution needed here).
+- If the **work** isn’t data, an appropriate modifiable form is one that... (*contribution needed here*).
 
 #### No unnecessary technological obstacles to the performance of the licensed rights
-(contribution needed)
+(*contribution needed*)
 
 #### Data should be machine-readable 
 
@@ -107,7 +107,7 @@ So, is a PDF of a National Budget open?
 
 Tim Berners-Lee’s [5 Star Open Data](http://5stardata.info) scheme says it’s open and gets 1 star. 
 
-Based on the definition of machine readable above, a PDF of a Nation Budget isn’t open. (contribution needed - is this the intent?)
+Based on the definition of machine readable above, a PDF of a Nation Budget isn’t open. (*contribution needed - is this the intent?*)
 
 ### Non-data works 
 It could be argued that by prefixing the second sentence of the Open Format with, “Specifically, data *should*…”, this means non-data **works** *may*, but are not required to:
@@ -118,7 +118,7 @@ It could be argued that by prefixing the second sentence of the Open Format with
 — with a freely available published specification which places no restrictions, monetary or otherwise, upon its use, or  
 — that can be processed with at least one free/libre/open-source software tool. 
 
-(Contribution needed) Is it OK that these requirements are all optional for non-data works?
+(*Contribution needed*) Is it OK that these requirements are all optional for non-data works?
 
 
 ## 4. Words with special meaning
@@ -179,8 +179,8 @@ The [Open Definition version 2.1](https://github.com/okfn/opendefinition/blob/ma
 
 The changes:
 - make the open format more concise.
-- require data to be machine-readable (depending on your definition of machine readable a PDF of a Nation Budget may or may not be open).
-- don’t mention the need for a freely available published specification (what do you think about that?).
+- require data to be machine-readable (*depending on your definition of machine readable a PDF of a Nation Budget may or may not be open*).
+- don’t mention the need for a freely available published specification (*what do you think about that?*).
 
 
 
