@@ -21,7 +21,7 @@ The [Open Definition](http://opendefinition.org/od/) has three key requirements 
 2. exploring it’s <a href=“#intent”>intent</a>,
 3. <a href=“#testing”>testing</a> some real world examples,
 4. defining the <a href=“#meaning”>meaning of special words</a>,
-5. collecting <a href=“#improve”>ideas for improvement</a>,
+5. collecting [ideas for improvement](#5.-Improving-the-Open-Format),
 6. providing links to <a href=“#resources”>related resources</a>, and 
 7. letting you peek at <a href=“#coming”>what’s coming next</a>.
 
@@ -65,7 +65,7 @@ As another example:
 
 Appropriate machine-readable format may vary by data type. For example, a machine-readable format for geographic data may be different to a format for tabular data.
 
-This section is based on [<a href=“#machine”>OKFN</a>] and [<a href=“#od-discuss”>OD-Discuss</a>].
+This section is based on an [archived OKFN glossary](http://webarchive.okfn.org/okfn.org/201404/opendata/glossary/#machine-readable) and an Open Definition discussion about [a harmonised Open Format definition](https://lists.okfn.org/pipermail/od-discuss/2015-April/subject.html#1330).
 
 See also https://www.data.gov/developers/blog/primer-machine-readability-online-documents-and-data 
 
@@ -127,20 +127,20 @@ It could be argued that by prefixing the second sentence of the Open Format with
 
 Some words in the Open Definition have special meaning and are  shown in **bold** or *italics*. There meaning is defined below:
 
-**Work** - denotes the item or piece of knowledge being transferred [<a href=“#OD”>OD</a>]. Examples of a work include, but are not limited to: data, music, art, images, video, literary compositions, web pages and software. 
+**Work** - denotes the item or piece of knowledge being transferred. Examples of a work include, but are not limited to: data, music, art, images, video, literary compositions, web pages and software. 
 
-**Must**, **Required**, or **Shall** - an absolute requirement  [<a href=“#RFC2119”>RFC2119</a>].
+**Must**, **Required**, or **Shall** - an absolute requirement  [RFC2119](http://www.ietf.org/rfc/rfc2119.txt).
 
-**Must Not** or **Shall Not** - an absolute prohibition [<a href=“#RFC2119”>RFC2119</a>].
+**Must Not** or **Shall Not** - an absolute prohibition [RFC2119](http://www.ietf.org/rfc/rfc2119.txt).
 
-**Should** or **Recommended** - there may be valid reasons to ignore this requirement but the full implications must be understood and carefully weighed before choosing a different course [<a href=“#RFC2119”>RFC2119</a>].
+**Should** or **Recommended** - there may be valid reasons to ignore this requirement but the full implications must be understood and carefully weighed before choosing a different course [RFC2119](http://www.ietf.org/rfc/rfc2119.txt).
 
-**Should Not** or **Not Recommended** - there may be valid reasons when the particular behaviour is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behaviour described with this label [<a href=“#RFC2119”>RFC2119</a>].
+**Should Not** or **Not Recommended** - there may be valid reasons when the particular behaviour is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behaviour described with this label [RFC2119](http://www.ietf.org/rfc/rfc2119.txt).
 
-**May** or **Optional** - the item is truly optional [<a href=“#RFC2119”>RFC2119</a>].
+**May** or **Optional** - the item is truly optional [RFC2119](http://www.ietf.org/rfc/rfc2119.txt).
 
 
-<h2><a name=“improve”>5. Improving the Open Format</a></h2>
+## 5. Improving the Open Format
 
 These improvement ideas mainly come from conversations on the [discussion list](https://lists.okfn.org/pipermail/od-discuss/).
 
@@ -184,11 +184,5 @@ The changes:
 - require data to be machine-readable (depending on your definition of machine readable a PDF of a Nation Budget is/isn’t open).
 - don’t mention the need for a freely available published specification (what do you think about that?).
 
-## References
-<p><a name=“okfn”>[OKFN]</a> <a href=“http://webarchive.okfn.org/okfn.org/201404/opendata/glossary/#machine-readable”>Open Data Glossary</a> (Archived Content) by the Open Knowledge Foundation. </p>
 
-<p><a name=“od-discuss”>[OD-Discuss]</a> <a href=“https://lists.okfn.org/pipermail/od-discuss/2015-April/subject.html#1330”>A harmonised Open Format definition</a> a discussion thread on the <a href=“http://lists.okfn.org/mailman/listinfo/od-discuss”>Open Definition Discussion list</a>. </p>
 
-<p><a name=“od”>[OD]</a> <a href=“http://opendefinition.org/od/”>Open Definition</a> by Open Knowledge. </p>
-
-<p><a name=“RFC2119”>[RFC2119]</a> <a href=“http://www.ietf.org/rfc/rfc2119.txt”>Key words for use in RFCs to Indicate Requirement Levels.</a> by S. Bradner, IETF RFC2119.</p>
