@@ -23,7 +23,7 @@ example, copyright or public domain).
 
 ## 1. Open Works
 
-An open **work** must satisfy the following requirements in its distribution:
+An open **work** *must* satisfy the following requirements in its distribution:
 
 ### 1.1 Open License
 
