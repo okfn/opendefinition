@@ -1,7 +1,7 @@
 ---
 author: Stephen Gates
 comments: true
-date: 2015-05-12 14:52:09+00:00
+date: 2015-05-14 14:52:09+00:00
 layout: page
 slug: ofd
 title: 'Open Format Definition '
@@ -39,32 +39,34 @@ Section 1.3 Open Format from the Open Definition version 2.0 states:
 
 We want to create open knowledge. To help achieve this, the Open Format requires:
 
-#### The work must be provided in a convenient form
+### The work must be provided in a convenient form
 
 The **work** *must* be provided in a convenient format so that it is easy to reuse. This requires the **work** to be published in a format that maximises knowledge sharing and reuse. The format may vary for different media types (e.g. image, text, tabular or geographic data).  
 
-#### The work must be provided in a modifiable form
+### The work must be provided in a modifiable form
 
 The **work** *must* be provided in a modifiable format so it can be reused in different ways, in part or in whole. What is an appropriate modifiable form? 
 
 - If the **work** is data, an appropriate modifiable form is one that is machine-readable and in an open format.
 - If the **work** isn’t data, an appropriate modifiable form is one that allow the **work** to be performed in part or whole (*contribution needed here*).
 
-#### No unnecessary technological obstacles to the performance of the licensed rights
+### No unnecessary technological obstacles to the performance of the licensed rights
 
 (*contribution needed*)
 
-#### Data should be machine-readable 
+### Data should be machine-readable 
 
 Data is machine-readable if it is in a format that can be easily  read, written, parsed and displayed by a computer. 
 
-For example:
+For example: 
+
 - Non-digital material, is by its non-digital nature, not machine-readable (e.g. printed or hand-written documents). 
 - Digital material may not be machine-readable. For example, consider a PDF document containing tables of data. These are definitely digital but are not machine-readable because a computer would struggle to access the tabular information. 
 - A HTML web page containing tables of data may be machine-readable depending on how the data is encoded.
 - The equivalent tables in a format such as a spreadsheet would be machine-readable.
 
 As another example: 
+
 - Scans and photographs of text are not machine-readable.
 - The equivalent text in a format such as a simple ASCII text file or a text-processing format such as Microsoft Word file is machine-readable.
 
@@ -75,7 +77,7 @@ This section is based on an [archived OKFN glossary](http://webarchive.okfn.org/
 See also <https://www.data.gov/developers/blog/primer-machine-readability-online-documents-and-data>
 
 
-#### Data should be available in bulk
+### Data should be available in bulk
 The **work** *should* be provided in bulk means that the data can be easily downloaded as a whole in one request. 
 
 This requirement complements the Access section of the Open Definition and together they require that:
@@ -86,24 +88,26 @@ This requirement complements the Access section of the Open Definition and toget
 
 But your data can still be open if you publish it as many individual files (however it could be argued you’re not publishing it in a convenient form). 
 
-#### Data should be provided in an Open Format
+### Data should be provided in an Open Format
 
-##### An Open Format for Data - Definition 1
+#### An Open Format for Data - Definition 1
 
 An Open Data Format is a format with, "a freely available published specification which places no restrictions, monetary or otherwise, upon its use". 
 
-A freely available published specification allows:
+A freely available published specification allows: 
+
 - conformant software to read and write the data in that format can be implemented by others. 
 - a wider choice of software tools for data re-users. 
 
-If an open data format has no restrictions, monetary or otherwise, upon its use, then:
+If an open data format has no restrictions, monetary or otherwise, upon its use, then: 
+
 - data re-users do not need to buy specific software to process the data.
 - conformance testing of open format implementations should be free.
 - there is no need to pay royalties.
 - it is not named using a trademark unless that trademark is usably by anyone under appropriately open terms.
 
 
-##### An Open Format for Data - Definition 2
+#### An Open Format for Data - Definition 2
 
 An Open Format is a format that, "can be processed with at least one free/libre/open-source software tool".
 
@@ -155,19 +159,20 @@ Some words in the Open Definition have special meaning and are  shown in **bold*
 
 These improvement ideas mainly come from conversations on the [discussion list](https://lists.okfn.org/pipermail/od-discuss/).
 
-#### Open Format Specification
+### Open Format Specification
 
-An open format specification *should* be:
+An open format specification *should* be: 
+
 - defined through a fair, transparent and collaborative process.
 - freely redistributable (although the document may be under a license that doesn’t allow changes to the specification document).
 - Software language independent so software implementors can use the programming language of their choice.
 
-#### Retain all original detail
+### Retain all original detail
 
 The **work** *should* be published in a lossless and uncompressed open format so all the original detail is retained.
 
 
-#### A common resource for tools to reference
+### A common resource for tools to reference
 
 Tools like the [Open Data Census](http://census.okfn.org/) and [Open Data Certificates](https://certificates.theodi.org/) test to see if data is published using an open format. This [improvement idea](http://opendefinition.org/licenses/) seeks to harmonise the definition of the Open Format for data so that tools could all point to the Open Definition, in the same way the tools currently point to it for a definition of an open licence and a list of [conformant licenses](http://opendefinition.org/licenses/).
 
@@ -175,16 +180,18 @@ Tools like the [Open Data Census](http://census.okfn.org/) and [Open Data Certif
 
 Do you have another resource you’d like added below? Make the list better.
 
-#### Alternative definitions and views
+### Alternative definitions and views
 
-These links provide some alternate perspectives on open formats:
+These links provide some alternate perspectives on open formats: 
+
 - [Open Format](http://en.wikipedia.org/wiki/Open_format) on Wikipedia.
 - [An emerging understanding of Open Standards](http://blogs.fsfe.org/greve/?p=160) on Freedom bits.
 - [Open Data Usability Index](http://goo.gl/xGpLIs) - Herb Lainchbury. Interesting perspective of the degree of readability of data - digital, parse-able, open, and structured.
 
-#### Lists of Open Formats
+### Lists of Open Formats
 
-These lists of open formats have not been assessed as being conformant with the Open Definition:
+These lists of open formats have not been assessed as being conformant with the Open Definition: 
+
 - AusGOAL [Open Formats](http://www.ausgoal.gov.au/open-formats) -  Examples of open formats by media type. 
 - Snowdrift [FLO Formats and Repositories](https://snowdrift.coop/p/snowdrift/w/en/formats-repositories) - Free and open file formats and online repositories for Free/Libre/Open works.
 - Australian National Data Service [File Formats](http://www.ands.org.au/guides/file-formats-working.html) - Examples of open formats. Also covers preservation, lossy formats, compression, and the importance of standards. 
@@ -193,9 +200,10 @@ These lists of open formats have not been assessed as being conformant with the 
 
 The [Open Definition version 2.1](https://github.com/okfn/opendefinition/blob/master/source/open-definition-2.1-dev.markdown) is being drafted. At the time of writing, it states,
 
-> The **work** *must* be provided in an open format. An open format is one which places no restrictions, monetary or otherwise, upon its use and can be fully processed with at least one free/libre/open-source software tool. Data *must* be machine-readable and should be provided in bulk where possible.
+> The **work** *must* be provided in an open format. An open format is one which places no restrictions, monetary or otherwise, upon its use and can be fully processed with at least one free/libre/open-source software tool. Data *must* be machine-readable and *should* be provided in bulk.
 
 The changes:
+
 - make the open format more concise.
 - require data to be machine-readable (*depending on your definition of machine readable a PDF of a Nation Budget may or may not be open*).
 - don’t mention the need for a freely available published specification (*what do you think about that?*). 
