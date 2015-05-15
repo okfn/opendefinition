@@ -75,7 +75,7 @@ The **license** *must* allow any part of the work
 to be freely used, distributed, or modified separately from any other part 
 of the work or from any collection of works in which it was originally 
 distributed. All parties who receive any distribution of any part of
-a work within the terms of the original license should have the same rights
+a work within the terms of the original license *should* have the same rights
 as those that are granted in conjunction with the original work.
 
 #### 2.1.5 Compilation
