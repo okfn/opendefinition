@@ -17,9 +17,8 @@ This essential meaning matches that of "open" with respect to software as in the
 The term **work** will be used to denote the item or piece of knowledge being transferred.
 
 The term **license** refers to the legal conditions under which the work is
-made available. Where no license has been offered this should be interpreted
-as referring to default legal conditions governing use of the work (for 
-example, copyright or public domain).
+made available. Where no license has been offered the term refers to default legal conditions
+governing use of the work (for example, copyright or public domain).
 
 ## 1. Open Works
 
