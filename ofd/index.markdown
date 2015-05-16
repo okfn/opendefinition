@@ -1,7 +1,7 @@
 ---
 author: Stephen Gates
 comments: true
-date: 2015-05-14 14:52:09+00:00
+date: 2015-05-16 14:52:09+00:00
 layout: page
 slug: ofd
 title: 'Open Format Definition '
@@ -48,7 +48,7 @@ The **work** *must* be provided in a convenient format so that it is easy to reu
 The **work** *must* be provided in a modifiable format so it can be reused in different ways, in part or in whole. What is an appropriate modifiable form? 
 
 - If the **work** is data, an appropriate modifiable form is one that is machine-readable and in an open format.
-- If the **work** isn’t data, an appropriate modifiable form is one that allow the **work** to be performed in part or whole (*contribution needed here*).
+- If the **work** isn’t data, an appropriate modifiable form is one that allows the **work** to be performed in part or whole (*contribution needed here*).
 
 ### No unnecessary technological obstacles to the performance of the licensed rights
 
@@ -161,7 +161,7 @@ These improvement ideas mainly come from conversations on the [discussion list](
 
 ### Open Format Specification
 
-An open format specification *should* be: 
+A specification that describes an open format *should* be: 
 
 - defined through a fair, transparent and collaborative process.
 - freely redistributable (although the document may be under a license that doesn’t allow changes to the specification document).
@@ -198,12 +198,8 @@ These lists of open formats have not been assessed as being conformant with the 
 
 ## 7. What’s coming next? 
 
-The [Open Definition version 2.1](https://github.com/okfn/opendefinition/blob/master/source/open-definition-2.1-dev.markdown) is being drafted. At the time of writing, it states,
+The [Open Definition version 2.1](https://github.com/okfn/opendefinition/blob/master/source/open-definition-2.1-dev.markdown) is being drafted - take a peek on GitHub.
 
-> The **work** *must* be provided in an open format. An open format is one which places no restrictions, monetary or otherwise, upon its use and can be fully processed with at least one free/libre/open-source software tool. Data *must* be machine-readable and *should* be provided in bulk.
 
-The changes:
 
-- make the open format more concise.
-- require data to be machine-readable (*depending on your definition of machine readable a PDF of a Nation Budget may or may not be open*).
-- don’t mention the need for a freely available published specification (*what do you think about that?*). 
+
