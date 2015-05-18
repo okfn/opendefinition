@@ -36,13 +36,13 @@ The **work** *must* be available as a whole and at no more than a reasonable
 one-time reproduction cost, and *should* be downloadable in bulk via the Internet without charge.
 Any additional information necessary for license compliance (such as names of 
 contributors required for compliance with attribution requirements) *must* also 
-accompany the **work**.
+accompany the work.
 
 ### 1.3 Open Format
 
 The **work** *must* be provided in an open format. An open format is
 one which places no restrictions, monetary or otherwise, upon its use and can be fully processed
-with at least one free/libre/open-source software tool. The **work** *should* be provided in the form preferred for making modifications to it.
+with at least one free/libre/open-source software tool. The work *should* be provided in the form preferred for making modifications to it.
 
 ## 2. Open Licenses
 
