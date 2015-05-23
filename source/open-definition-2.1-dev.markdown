@@ -33,7 +33,7 @@ contradict the terms of the license.
 ### 1.2 Access
 
 The **work** *must* be available as a whole and at no more than a reasonable 
-one-time reproduction cost, and *should* be downloadable in bulk via the Internet without charge.
+one-time reproduction cost, and *should* be downloadable via the Internet without charge.
 Any additional information necessary for license compliance (such as names of 
 contributors required for compliance with attribution requirements) *must* also 
 accompany the work.
