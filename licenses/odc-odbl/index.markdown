@@ -12,11 +12,11 @@ wordpress_id: 147
 
 #### Overview
 
-http://opendatacommons.org/licenses/odbl/summary/
+<http://opendatacommons.org/licenses/odbl/summary/>
 
 #### Full text 
 
-http://opendatacommons.org/licenses/odbl/1.0/
+<http://opendatacommons.org/licenses/odbl/1.0/>
 
 #### Comments 
 
@@ -24,6 +24,6 @@ http://opendatacommons.org/licenses/odbl/1.0/
 
 #### How to apply  
 
-http://opendatacommons.org/licenses/odbl/
+<http://opendatacommons.org/licenses/odbl/>
 
 
