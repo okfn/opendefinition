@@ -12,7 +12,7 @@ wordpress_id: 149
 
 ### Overview
 
-http://opendatacommons.org/licenses/pddl/summary/
+<http://opendatacommons.org/licenses/pddl/summary/>
 
 ### Full Text 
 
