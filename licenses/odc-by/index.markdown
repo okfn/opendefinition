@@ -9,6 +9,20 @@ wordpress_id: 345
 ---
 
  * Domain of Application: Data
-  * Summary: "Attribution for Data(bases)"
-  * Home page: 
-  * Full text: 
+ 
+#### Overview
+
+http://opendatacommons.org/licenses/by/summary/
+
+#### Full text 
+
+http://opendatacommons.org/licenses/by/1.0/
+
+#### Comments 
+
+"Attribution for Data(bases)"
+
+#### How to apply  
+
+http://opendatacommons.org/licenses/by/
+
