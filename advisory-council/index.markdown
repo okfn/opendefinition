@@ -44,7 +44,7 @@ Tariq Khokhar is the World Bank's Open Data Evangelist. His interests lie where 
 
 ### Herb Lainchbury
 
-Herb Lainchbury is a consultant, a software developer and founder and President of the Open Data Society of British Columbia, Canada.  He holds a BSc in Computer Science from the University of Victoria.  He is a frequent speaker on open data and open government topics, is a member of the Government of Canada's Advisory Panel on Open Government and blogs at [herblainchbury.com](http://www.herblainchbury.com/).
+Herb Lainchbury is a consultant, a software developer and founder of the Open Data Society of British Columbia, Canada.  He holds a BSc in Computer Science from the University of Victoria.  He is a frequent speaker on open data and open government topics, is a member of the Government of Canada's Advisory Panel on Open Government and blogs at [herblainchbury.com](http://www.herblainchbury.com/).
 
 ### Mike Linksvayer
 
