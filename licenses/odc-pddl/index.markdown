@@ -10,7 +10,7 @@ wordpress_id: 149
 
  * Domain of Application: Data
 
-#### Overview
+### Overview
 
 http://opendatacommons.org/licenses/pddl/summary/
 
@@ -18,7 +18,7 @@ http://opendatacommons.org/licenses/pddl/summary/
 
 <http://opendatacommons.org/licenses/pddl/1.0/>
 
-#### Comments 
+### Comments 
 
 “Public Domain for data/databases”
 
