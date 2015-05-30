@@ -9,19 +9,22 @@ wordpress_id: 129
 ---
 
  * Domain of Application: Content, Data
-  * 
+
+#### Overview
+
+https://creativecommons.org/publicdomain/zero/1.0/
 
 #### Full text 
 
-See 
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 #### Comments 
 
 Intended to be a 'public domain dedication', i.e. a waiver of **all** rights including those of attribution.
 
-#### How to apply 
+#### How to apply  
 
-You can use the CC license chooser.
+You can use the [CC license chooser](https://creativecommons.org/choose/).
 
 Alternatively, include with your material:
 
