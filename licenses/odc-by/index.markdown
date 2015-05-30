@@ -12,11 +12,11 @@ wordpress_id: 345
  
 #### Overview
 
-http://opendatacommons.org/licenses/by/summary/
+<http://opendatacommons.org/licenses/by/summary/>
 
 #### Full text 
 
-http://opendatacommons.org/licenses/by/1.0/
+<http://opendatacommons.org/licenses/by/1.0/>
 
 #### Comments 
 
@@ -24,5 +24,5 @@ http://opendatacommons.org/licenses/by/1.0/
 
 #### How to apply  
 
-http://opendatacommons.org/licenses/by/
+<http://opendatacommons.org/licenses/by/>
 
