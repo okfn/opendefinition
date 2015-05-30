@@ -9,7 +9,21 @@ wordpress_id: 147
 ---
 
  * Domain of Application: Data
-  * Summary: "Attribution Share-Alike for Databases"
-  * Full text: 
+
+#### Overview
+
+http://opendatacommons.org/licenses/odbl/summary/
+
+#### Full text 
+
+http://opendatacommons.org/licenses/odbl/1.0/
+
+#### Comments 
+
+"Attribution Share-Alike for Databases"
+
+#### How to apply  
+
+http://opendatacommons.org/licenses/odbl/
 
 
