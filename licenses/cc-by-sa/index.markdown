@@ -10,13 +10,17 @@ wordpress_id: 126
 
  * Domain of Application: Content, Data (latter 4.0 only)
 
+#### Overview
+
+http://creativecommons.org/licenses/by-sa/4.0/
+
 #### Full text 
 
- *  (v4.0)
- *  (v3.0)
- *  (v2.5)
- *  (v2.0)
- *  (v1.0; little-used/not recommended due to no upward compatibility)
+ *  [version 4.0](http://creativecommons.org/licenses/by-sa/4.0/legalcode)
+ *  [version 3.0](http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+ *  [version 2.5](http://creativecommons.org/licenses/by-sa/2.5/legalcode)
+ *  [version 2.0](http://creativecommons.org/licenses/by-sa/2.0/legalcode)
+ *  [version 1.0](http://creativecommons.org/licenses/by-sa/1.0/legalcode) (little-used/not recommended due to no upward compatibility)
 
 #### Comments 
 
@@ -24,7 +28,8 @@ The Creative Commons Attribution Share-Alike license allows re-distribution and 
 
 #### How to apply 
 
-Include a link to, or a full copy of the license you use, and something like the following:
+You can use the [CC license chooser](https://creativecommons.org/choose/).
 
+Alternatively, include a link to, or a full copy of the license you use, and something like the following:
 
 > This work is licensed under a Creative Commons Attribution Share-Alike [version number] License.
