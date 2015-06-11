@@ -20,6 +20,10 @@ The term **license** refers to the legal conditions under which the work is
 provided. Where no license has been offered the term refers to default legal conditions
 governing use of the work (for example, copyright or public domain).
 
+The key words "must", "must not", "should",and "may"
+in this document are to be interpreted as described in
+[RFC2119](https://tools.ietf.org/html/rfc2119).
+
 ## 1. Open Works
 
 An open **work** *must* satisfy the following requirements in its distribution:
