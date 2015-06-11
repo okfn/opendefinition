@@ -46,6 +46,8 @@ with at least one free/libre/open-source software tool. The work *should* be pro
 
 ## 2. Open Licenses
 
+A **license** *should* be compatible with other open licenses.
+
 A **license** is open if its terms satisfy the following conditions:
 
 ### 2.1 Required Permissions
