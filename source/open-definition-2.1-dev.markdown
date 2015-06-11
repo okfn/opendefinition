@@ -124,18 +124,22 @@ otherwise indicate what changes have been made.
 The **license** *may* require distributions of the work to remain
 under the same license or a similar license.
 
-#### 2.2.4 Notice
+### 2.2.4 Compatibility
+
+The **license** *should* be compatible with other open licenses.
+
+#### 2.2.5 Notice
 
 The **license** *may* require retention of copyright notices and identification of the license.
 
-#### 2.2.5 Source
+#### 2.2.6 Source
 
 The **license** *may* require that anyone distributing the work provide recipients with access to the preferred form for making modifications.
 
-#### 2.2.6 Technical Restriction Prohibition
+#### 2.2.7 Technical Restriction Prohibition
 
 The **license** *may* require that distributions of the work remain free of any technical measures that would restrict the exercise of otherwise allowed rights.
 
-#### 2.2.7 Non-aggression
+#### 2.2.8 Non-aggression
 
 The **license** *may* require modifiers to grant the public additional permissions (for example, patent licenses) as required for exercise of the rights allowed by the license. The license may also condition permissions on not aggressing against licensees with respect to exercising any allowed right (again, for example, patent litigation).
