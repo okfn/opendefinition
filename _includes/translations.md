@@ -13,6 +13,7 @@
 <a href="/od/1.1/fr/">Français</a> |
 <a href="/od/1.0/gl/">Galego</a> |
 <a href="/od/1.1/he/">עברית</a> |
+<a href="/od/2.0/hi">हिन्दी</a> |
 <a href="/od/1.1/hr/">Croatian</a> |
 <a href="/od/1.1/hu/">Magyar</a> |
 <a href="/od/1.1/id/">Indonesian</a> |
