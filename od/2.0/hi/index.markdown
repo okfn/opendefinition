@@ -1,9 +1,6 @@
 ---
 title: मुक्त की परिभाषा
 layout: page
-redirect_from:
-  - /okd/
-  - /od/2.0/
 ---
 
 वर्शन 2.0
