@@ -9,7 +9,7 @@ Avatud* definitsioon täpsustab "avatuse" tähendust seoses teadmiste/teadmusega
 
 **Kokkuvõte:** *Teadmus on avatud, kui igaüks pääseb sellele vabalt ligi, saab seda vabalt kasutada, täiendada ja jagada — seadmata piiranguid muuks, kui teadmiste algupärasuse ja avatuse tagamiseks.*
 
-See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](http://www.opensource.org/docs/osd) ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabakultuuri teoste definitsioon](http://freedomdefined.org). Avatud definitsioon* töötati algselt välja avatud lähtekoodi definitsioonist, mis omakorda põhines [Debiani vabavara suunistel](http://www.debian.org/social_contract).
+See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](http://www.opensource.org/docs/osd) ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabakultuuri teoste definitsioon](http://freedomdefined.org). Avatud* definitsioon töötati algselt välja lähtuvalt avatud lähtekoodi definitsioonist, mis omakorda põhines [Debiani vabavara suunistel](http://www.debian.org/social_contract).
 
 Terminit **teos** kasutatakse, osutamaks edasiantava teadmuse üksusele või selle osale.
 
@@ -26,11 +26,11 @@ olla vastuolus litsentsi tingimustega.
 
 ### 1.2 Kättesaadavus
 
-**Teos** on kättesaadav tervikuna ning enimalt mõistliku, ühekordse paljundamise tasu eest, eelistatavalt tasuta allalaaditavana Internetist. Mistahes lisainfo, mis on vajalik litsentsile vastavuse tagamiseks (nagu kaastööliste nimed, mida on vaja autorsuse äramärkimise nõuetele täitmiseks) *peavad* olema samuti teosega kaasa pandud.
+**Teos** on kättesaadav tervikuna ning enimalt mõistliku, ühekordse paljundamise tasu eest, eelistatavalt tasuta allalaaditavana Internetist. Mistahes lisainfo, mis on vajalik litsentsile vastavuse tagamiseks (nagu kaastööliste nimed, mida on vaja autorsuse äramärkimise nõuete täitmiseks) *peavad* olema samuti teosega kaasa pandud.
 
 ### 1.3 Avatud vorming
 
-**Teos** *peab* olema tehtud kättesaadavaks käepärases ja täiendatavas vormis viisil, mis välistab ebavajalikud tehnoloogilised takistused litsentsitud õiguste rakendamiseks. Iseäranis andmed peavad olema masinloetavad, saadaval toormassina ning esitatud avatud vormingus (st vabalt saadaval oleva ja avaldatud spetsifikatsiooniga vormingus, mis ei sea rahalisi ega muid piiranguid selle kasutamisele) või minimaalselt on töödeldavad vähemalt ühe tarkvaralise vaba/libre/avatud lähtekoodiga tööriistaga.
+**Teos** *peab* olema tehtud kättesaadavaks käepärases ja täiendatavas vormis viisil, mis välistab tarbetud tehnoloogilised takistused litsentsitud õiguste rakendamiseks. Iseäranis andmed peavad olema masinloetavad, saadaval toormassina ning esitatud avatud vormingus (st vabalt saadaval oleva ja avaldatud spetsifikatsiooniga vormingus, mis ei sea rahalisi ega muid piiranguid selle kasutamisele) või on miinimumjuhul töödeldavad vähemalt ühe tarkvaralise vaba/libre/avatud lähtekoodiga tööriista abil.
 
 ## 2. Avatud litsentsid
 
@@ -54,11 +54,11 @@ olla vastuolus litsentsi tingimustega.
 
 #### 2.1.4 Tükeldamine
 
-**Litsents** *peab* lubama teose mistahes osa kasutamist, levitamist või täiendamist eraldiseisvalt teose mistahes muust osast või teoste kogumist, mille koosseisus seda algselt levitati. Kõik osapooled, kes saavad enda valdusse algse litsentsi raames levitatud teose või selle mistahes osa peavad omama selle suhtes neidsamu õigusi, mis olid määratletud algse teose juures.
+**Litsents** *peab* lubama teose mistahes osa kasutamist, levitamist või täiendamist eraldiseisvalt teose mistahes muust osast või teoste kogumist, mille koosseisus seda algselt levitati. Kõik osapooled, kes saavad enda valdusse algse litsentsi raames levitatud teose või selle mistahes osa, peavad omama selle suhtes neidsamu õigusi, mis olid määratletud algse teose juures.
 
 #### 2.1.5 Liitmine
 
-**Litsents** *peab* lubama litsentsitud teose levitamist koos teiste sellest eraldiseisvate teostega seadmata piiranguid neile teistele teostele.
+**Litsents** *peab* lubama litsentsitud teose levitamist koos teiste sellest eraldiseisvate teostega, seadmata piiranguid neile teistele teostele.
 
 #### 2.1.6 Ühetaolisus
 
