@@ -107,3 +107,7 @@ Teosega seotud õigused *peavad* kehtima kõigi jaoks, kellele see on edasilevit
 #### 2.2.7 Tõkestamatus
 
 **Litsents** *võib* nõuda täiendajailt, et need annaksid avalikkusele täiendavaid õigusi (näiteks patendi kasutamise loa), kui seda on vaja litsentsis lubatud õiguste teostamiseks. Litsents võib ühtlasi seada õiguste tingimuseks, et litsentsisaajaid ei tõkestataks nende mistahes lubatud õiguste teostamisel (näiteks patendivaidluste algatamisega).
+
+* Algne definitsioon kandis nimetust "avatud teadmuse definitsioon" (_open knowledge definition_), mille lühendamise teel on saadud praegune nimekuju (_open definition_). Kuna "avatud definitsioon" ja "avatuse definitsioon" kumbki ei anna edasi kõiki taotletud konnotatsioone, siis on valdkonnast šnitti võtva loomingulise tõlkena pakutud nimekuju "avatud* definitsioon", kus * viitab nii käesolevale allmärkusele kui ka osutab sellele, et see defineerib "avatust" seoses määramata hulga valdkondadega, st esineb _wildcard_'i tähenduses.
+
+_Translated by [Märt Põder](https://twitter.com/trtram)_
