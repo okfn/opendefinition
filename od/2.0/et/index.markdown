@@ -5,11 +5,11 @@ layout: page
 
 Versioon 2.0
 
-Avatud* definitsioon täpsustab "avatuse" tähendust seoses teadmiste/teadmusega, kultiveerimaks lollikindlat ühisvara, milles võib igaüks osaleda ning teha suurimal võimalikul määral koostööd.
+Avatud&lowast; definitsioon täpsustab "avatuse" tähendust seoses teadmiste/teadmusega, kultiveerimaks lollikindlat ühisvara, milles võib igaüks osaleda ning teha suurimal võimalikul määral koostööd.
 
 **Kokkuvõte:** *Teadmus on avatud, kui igaüks pääseb sellele vabalt ligi, saab seda vabalt kasutada, täiendada ja jagada — seadmata piiranguid muuks, kui teadmiste algupärasuse ja avatuse tagamiseks.*
 
-See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](http://www.opensource.org/docs/osd) ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabakultuuri teoste definitsioon](http://freedomdefined.org). Avatud* definitsioon töötati algselt välja lähtuvalt avatud lähtekoodi definitsioonist, mis omakorda põhines [Debiani vabavara suunistel](http://www.debian.org/social_contract).
+See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](http://www.opensource.org/docs/osd) ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabakultuuri teoste definitsioon](http://freedomdefined.org). Avatud&lowast; definitsioon töötati algselt välja lähtuvalt avatud lähtekoodi definitsioonist, mis omakorda põhines [Debiani vabavara suunistel](http://www.debian.org/social_contract).
 
 Terminit **teos** kasutatakse, osutamaks edasiantava teadmuse üksusele või selle osale.
 
@@ -108,6 +108,6 @@ Teosega seotud õigused *peavad* kehtima kõigi jaoks, kellele see on edasilevit
 
 **Litsents** *võib* nõuda täiendajailt, et need annaksid avalikkusele täiendavaid õigusi (näiteks patendi kasutamise loa), kui seda on vaja litsentsis lubatud õiguste teostamiseks. Litsents võib ühtlasi seada õiguste tingimuseks, et litsentsisaajaid ei tõkestataks nende mistahes lubatud õiguste teostamisel (näiteks patendivaidluste algatamisega).
 
-* Algne definitsioon kandis nimetust "avatud teadmuse definitsioon" (_open knowledge definition_), mille lühendamise teel on saadud praegune nimekuju (_open definition_). Kuna "avatud definitsioon" ja "avatuse definitsioon" kumbki ei anna edasi kõiki taotletud konnotatsioone, siis on valdkonnast šnitti võtva loomingulise tõlkena pakutud nimekuju "avatud* definitsioon", kus * viitab nii käesolevale allmärkusele kui ka osutab sellele, et see defineerib "avatust" seoses määramata hulga valdkondadega, st esineb _wildcard_'i tähenduses.
+&lowast; Algne definitsioon kandis nimetust "avatud teadmuse definitsioon" (_open knowledge definition_), mille lühendamise teel on saadud praegune nimekuju (_open definition_). Kuna "avatud definitsioon" ja "avatuse definitsioon" kumbki ei anna edasi kõiki taotletud konnotatsioone, siis on valdkonnast šnitti võtva loomingulise tõlkena pakutud nimekuju "avatud&lowast; definitsioon", kus &lowast; viitab nii käesolevale allmärkusele kui osutab ka sellele, et see defineerib "avatust" seoses määramata hulga valdkondadega, st esineb _wildcard_'i tähenduses.
 
 _Translated by [Märt Põder](https://twitter.com/trtram)_
