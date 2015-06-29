@@ -110,4 +110,4 @@ Teosega seotud õigused *peavad* kehtima kõigi jaoks, kellele see on edasilevit
 
 &#42; Algne definitsioon kandis nimetust "avatud teadmuse definitsioon" (_open knowledge definition_), mille lühendamise teel on saadud praegune nimekuju (_open definition_). Kuna "avatud definitsioon" ja "avatuse definitsioon" kumbki ei anna edasi kõiki taotletud konnotatsioone, siis on valdkonnast šnitti võtva loomingulise tõlkena pakutud nimekuju "avatud* definitsioon", kus * viitab nii käesolevale allmärkusele kui ka osutab sellele, et see defineerib "avatust" seoses määramata hulga valdkondadega, st esineb _wildcard_'i tähenduses.
 
-_Translated by [Märt Põder](https://twitter.com/trtram)_
+_Tõlkinud [Märt Põder](https://twitter.com/trtram)_
