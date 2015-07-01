@@ -1,9 +1,9 @@
 ---
-title: Definición de Conocimiento Abierto
+title: Definizione di Conoscenza Aperta
 layout: page
 ---
 
-Versión: 2.0
+Versione: 2.0
 
 La Definición de Conocimiento Abierto aporta precisión al significado del término «abierto» (open) cuando se aplica al conocimiento y promueve un procomún robusto en el que cualquiera puede participar, maximizando su interoperabilidad.
 
@@ -16,11 +16,10 @@ El término **obra** se utilizará para denominar cualquier elemento o porción 
 
 El término **licencia** se refiere a las condiciones legales bajo las cuales está disponible la obra. Cuando no se habilite ninguna licencia, se interpretará que se refiere a las condiciones legales por defecto bajo las cuales se proporciona la obra (por ejemplo *copyright* o dominio público).
 
-## 1. Obra abierta
-
+## 1. Opera aperta
 Una **obra** abierta debe satisfacer los siguientes requisitos cuando se distribuye:
 
-### 1.1 licencia abierta
+### 1.1 Licenza aperta
 
 La **obra** debe estar disponible bajo una **licencia** abierta (tal y como se define en la sección 2. Cualesquiera términos adicionales que acompañen a la obra (como términos de uso o patentes en posesión del licenciatario) *no deben* contradecir los términos de la licencia.
 
@@ -29,12 +28,12 @@ La **obra** debe estar disponible bajo una **licencia** abierta (tal y como se d
 
 La **obra** debe estar disponible como un todo y a no más de un coste razonable de reproducción, preferiblemente descargable de manera gratuita a través de Internet. Cualquier información adicional necesaria para aplicar la licencia (como los nombres de aquellos que han contribuido en ella y que sean necesarios para cumplir los requisitos de reconocimiento) *deben* acompañar también a la obra.
 
-### 1.3 Formato abierto
+### 1.3 Formato aperto
 
 La **obra** debe proporcionarse en forma conveniente y modificable, de manera que no haya obstáculos tecnológicos innecesarios para la eficaz aplicación de los derechos otorgados por la licencia. Concretamente, los datos deben poder ser leídos automáticamente, estar disponibles de una sola vez y proporcionarse en un formato abierto (es decir, un formato que tenga sus especificaciones disponibles pública, libre y gratuitamente, que no imponga restricciones, económicas o de otro tipo sobre su uso) o, al menos, que puedan ser procesados con una herramienta de *software* libre.
 
 
-## 2. Licencias abiertas
+## 2. Licenze aperte
 
 Una **licencia** es abierta si sus términos satisfacen las siguientes condiciones:
 
@@ -110,4 +109,4 @@ La **licencia** *puede* prohibir la distribución de la obra cuando haya condici
 
 La **licencia** *puede* requerir a quien modifique la obra que garantice los permisos públicos adicionales (por ejemplo, licencias de patentes) requeridos para el ejercicio de los derechos otorgados por la licencia. La licencia puede también condicionar los permisos a la no agresión contra los titulares de la licencia con respecto al ejercicio de cualquier derecho permitido (por ejemplo, litigios sobre patentes).
 
-*translated by [Antonio F. Rodríguez](mailto:afrodriguez@fomento.es) and Lorena Hernández*
+*translated by [Veronica Lipella](mailto:veronica.lipella@gmail.com) based on the work of  Primavera De Filippi, Andrea Glorioso and Juan Carlos De Martin at the [NEXA Center for Internet & Society, Politecnico di Torino](http://nexa.polito.it/).*
