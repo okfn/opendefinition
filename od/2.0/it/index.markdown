@@ -37,7 +37,7 @@ L' **opera** deve essere fornita in un formato opportuno e modificabile che non 
 
 Una **licenza** è aperta se i suoi termini soddisfano le seguenti condizioni:
 
-### 2.1 2.1	Autorizzazioni obbligatorie
+### 2.1 	Autorizzazioni obbligatorie
 
 La **licenza** deve irrevocabilmente permettere i seguenti:
 
@@ -50,12 +50,12 @@ La **licencia** deve permettere il libero uso dell’opera licenziata.
 
 La **licenza** La licenza non deve imporre alcuna limitazione alla vendita o all’offerta gratuita dell’opera singolarmente considerata o come parte di un pacchetto composto da opere provenienti da fonti diverse. 
 
-#### 2.1.3 2.1.3	Modifiche
+#### 2.1.3 	Modifiche
 
 La **licenza** La licenza deve consentire la realizzazione di modifiche (?) e di opere derivate e deve consentire la loro distribuzione agli stessi termini dell’opera originaria.
 
 
-#### 2.1.4 2.1.4	Separazione
+#### 2.1.4 	Separazione
 
 La **licenza** deve consentire a qualsiasi parte dell’opera di essere    liberamente usata, distribuita o modificata separatamente da qualsiasi altra parte dell’opera o da qualsiasi pacchetto di opere con cui era originariamente distribuita. Tutte le persone a cui il lavoro viene ridistribuito devono avere gli stessi diritti concessi in congiunzione con il pacchetto originario.
 
@@ -63,52 +63,55 @@ La **licenza** deve consentire a qualsiasi parte dell’opera di essere    liber
 
 La **licenza** La licenza non deve imporre restrizioni su altre opere distribuite insieme all’opera licenziata. Per esempio, la licenza non deve insistere sul fatto che tutte le altre opere distribuite sullo stesso supporto siano aperte. (?)
 
-#### 2.1.6 2.1.6	Non discriminazione
+#### 2.1.6 	Non discriminazione
 
 La **licenza** non deve discriminare alcuna persona o gruppo di persone.
 
 #### 2.1.7 Distribuzione
 
-I diritti relativi all’opera  *devono* valere per tutte le persone a cui il programma viene ridistribuito senza che sia per loro necessario accettare o sottostare ad alcuna licenza aggiuntiva.
+I diritti relativi all’opera *devono* valere per tutte le persone a cui il programma viene ridistribuito senza che sia per loro necessario accettare o sottostare ad alcuna licenza aggiuntiva.
 
-#### 2.1.8 Aplicación para cualquier propósito
+#### 2.1.8 	Impiego per qualsiasi scopo
 
-La **licencia** *debe* permitir el uso, redistribución, modificación y compilación con cualquier propósito. La licencia no debe restringir a nadie hacer uso de la obra en un campo específico de aplicación o trabajo.
+La **licenza** *deve* La licenza deve permettere l’uso, la ridistribuzione, modifica e compilazione per qualsiasi scopo/utilizzo(?). La licenza non deve impedire a nessuno di utilizzare l’opera in un determinato settore d’attività.
 
-#### 2.1.9 Sin coste
+#### 2.1.9 	Nessun addebito
 
-La **licencia** *no debe* imponer como parte de sus condiciones ningún esquema de tarifas, regalías (*royalties*) o cualquier otra compensación o remuneración económica.
+La **licenza** *non deve* imporre nessuna spesa di attivazione, *royalties* o altre compensazioni o remunerazioni monetarie, come parte delle sue condizioni.
 
-### 2.2 Condiciones aceptables
+### 2.2 Condizioni accettabili
 
-La **licencia** no debe limitar, hacer inciertos o disminuir los permisos requeridos en la sección 2.1 a excepción de las siguientes condiciones:
+La **licenza** non deve limitare, rendere insicuro o ridurre le autorizzazioni obbligatorie nelle Sezione 2.1 eccetto nelle seguenti condizioni:
 
-#### 2.2.1 Reconocimiento
+#### 2.2.1 	Attribuzione
 
-La **licencia** *puede* requerir que las distribuciones de la obra incluyan el reconocimiento de los que han contribuido a ella, los propietarios de los derechos, patrocinadores y creadores mientras que tales prescripciones no sean onerosas.
+La **licenza** *puo`* richiedere di citare i vari contributori e creatori dell’opera come condizione per la ridistribuzione ed il riutilizzo di quest’ultima. Se imposta, questa condizione non deve essere onerosa.
 
-#### 2.2.2 Integridad
+#### 2.2.2 Integrita`
 
-La **licencia** *puede* requerir que las versiones modificadas de la obra licenciada lleven un nombre o número de versión diferente de la de la obra original, o bien que se indiquen los cambios realizados.
+La **licenza** *puo`* richiedere, come condizione perché l’opera venga distribuita in forma modificata, che l’opera derivata abbia un nome o un numero di versione diverso dall’opera originaria.
 
-#### 2.2.3 Compartir igual
 
-La **licencia** *puede* requerir que las copias u obras derivadas de la obra licenciada permanezcan bajo la misma licencia, o una similar a la original.
+#### 2.2.3 Condividi allo stesso modo
 
-#### 2.2.4 Aviso
+La **licenza** *puo`* richiede a chi genera contenuti da un prodotto di rilasciare i derivati con le stesse condizioni dell’originale.
 
-La **licencia** *puede* requerir que se mantenga el aviso de derechos de autor (*copyright*) y la identificación de la licencia originales.
+#### 2.2.4 Avviso
 
-#### 2.2.5 Fuente
+La **licenza** *puo`* richiedere il mantenimento delle notifiche di (*copyright*) e l’identificazione della licenza originale.
 
-La **licencia** *puede* requerir que las obras modificadas estén disponibles en una forma preferida para posteriores modificaciones.
+#### 2.2.5	Sorgente
 
-#### 2.2.6 Prohibición de restricciones técnicas
+La **licenza** *puo`* richiedere che opere modificate siano rese disponibili in un formato adatto per future modifiche.
 
-La **licencia** *puede* prohibir la distribución de la obra cuando haya condiciones técnicas que impongan restricciones sobre el ejercicio de derechos en otro caso permitidos.
+#### 2.2.6 	Assenza di restrizioni tecnologiche
 
-#### 2.2.7 No agresión
+La **licenza** *puo`* proibire la distribuzione dell'opera quando ci sono condizioni tecnologiche che impongo restrizioni all'esercizio dei diritti in altro caso concessi.
 
-La **licencia** *puede* requerir a quien modifique la obra que garantice los permisos públicos adicionales (por ejemplo, licencias de patentes) requeridos para el ejercicio de los derechos otorgados por la licencia. La licencia puede también condicionar los permisos a la no agresión contra los titulares de la licencia con respecto al ejercicio de cualquier derecho permitido (por ejemplo, litigios sobre patentes).
+#### 2.2.7 Non aggressione
+
+La **licenza** *puo`* richiedere modifiche che concedano permessi pubblici aggiuntivi (per esempio, brevetti di licenza) come richiesto per l’ esercizio (uso?) dei diritti accompagnati dalla licenza.
+La licenza puo` inoltre condizionare permessi di non aggressione contro i licenziatari rispetto all’ esercizio di qualsiasi diritto concesso (per esempio, contro cause di brevetto). (?)
+
 
 *translated by [Veronica Lipella](mailto:veronica.lipella@gmail.com) based on the work of  Primavera De Filippi, Andrea Glorioso and Juan Carlos De Martin at the [NEXA Center for Internet & Society, Politecnico di Torino](http://nexa.polito.it/).*
