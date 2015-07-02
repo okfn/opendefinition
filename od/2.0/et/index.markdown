@@ -7,7 +7,7 @@ Versioon 2.0
 
 Avatud* definitsioon täpsustab "avatuse" tähendust seoses teadmiste/teadmusega, kultiveerimaks lollikindlat ühisvara, milles võib igaüks osaleda ning teha suurimal võimalikul määral koostööd.
 
-**Kokkuvõte:** *Teadmus on avatud, kui igaüks pääseb sellele vabalt ligi, saab seda vabalt kasutada, täiendada ja jagada — seadmata piiranguid muuks, kui teadmiste algupärasuse ja avatuse tagamiseks.*
+**Kokkuvõte:** *Teadmus on avatud, kui igaüks pääseb sellele vabalt ligi, saab seda vabalt kasutada, täiendada ja jagada — seadmata piiranguid muuks, kui teadmiste allikapärasuse ja avatuse tagamiseks.*
 
 See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](http://www.opensource.org/docs/osd) ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabakultuuri teoste definitsioon](http://freedomdefined.org). Avatud* definitsioon töötati algselt välja lähtuvalt avatud lähtekoodi definitsioonist, mis omakorda põhines [Debiani vabavara suunistel](http://www.debian.org/social_contract).
 
