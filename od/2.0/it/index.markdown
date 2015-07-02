@@ -5,69 +5,71 @@ layout: page
 
 Versione: 2.0
 
-La Definición de Conocimiento Abierto aporta precisión al significado del término «abierto» (open) cuando se aplica al conocimiento y promueve un procomún robusto en el que cualquiera puede participar, maximizando su interoperabilidad.
+La Definizione di Conoscenza Aperta precisa il significato di ‘’aperta’’ rispetto alla conoscenza, promuove forti commons in cui chiunque può partecipare e l’ interoperabilità è massimizzata.
 
-**Resumen:** *El conocimiento es abierto si cualquiera es libre para acceder a él, usarlo, modificarlo y compartirlo bajo condiciones que, como mucho, preserven su autoría y su apertura.*
+**Sommario:** *La conoscenza è aperta se chiunque è libero di accederle, usarla, modificarla e condividerla – sottoponendola, al massimo, a misure che preservino la provenienza e l' apertura.*
 
-Este significado esencial se corresponde con el de abierto (open) cuando se refiere al software, como en la [Open Source Definition] (http://opensource.org/docs/osd), y es un sinónimo de libre (free) en el sentido de la [Definition of Free Cultural Works](http://freedomdefined.org/Definition/Es), que a su vez deriva de las directrices de [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+Il significato essenziale combacia con quello di ‘’aperto’’ quando si riferisce al software, come nell’  [Open Source Definition] (http://opensource.org/docs/osd), ed è sinonimo di ‘’free’’ o ‘’libre’’ come nella  [Definition of Free Cultural Works](http://freedomdefined.org/Definition/Es), che a sua volta deriva dal Debian Free Software Guidelines[Debian Free Software Guidelines](http://www.debian.org/social_contract).
 
 
-El término **obra** se utilizará para denominar cualquier elemento o porción de conocimiento que pueda intercambiarse.
+Il termine  **opera**sarà utilizzato per indicare l’oggetto o l’elemento di conoscenza che viene trasferito.
 
-El término **licencia** se refiere a las condiciones legales bajo las cuales está disponible la obra. Cuando no se habilite ninguna licencia, se interpretará que se refiere a las condiciones legales por defecto bajo las cuales se proporciona la obra (por ejemplo *copyright* o dominio público).
+Il termine **licenza** si riferisce alla licenza in base alla quale l’opera è resa disponibile. Nel caso in cui non sia stata concessa alcuna licenza, ci si riferisce alle normali condizioni giuridiche a cui il l’opera è soggetta (per esempio il *copyright* o dominio pubblico).
 
 ## 1. Opera aperta
-Una **obra** abierta debe satisfacer los siguientes requisitos cuando se distribuye:
+Un' **opera** aperta deve soddisfare i seguenti requisiti quando viene distribuita:
 
 ### 1.1 Licenza aperta
 
-La **obra** debe estar disponible bajo una **licencia** abierta (tal y como se define en la sección 2. Cualesquiera términos adicionales que acompañen a la obra (como términos de uso o patentes en posesión del licenciatario) *no deben* contradecir los términos de la licencia.
+L' **opera** deve essere disponibile con una  **licenza** aperta (come definito nella Sezione 2). Qualsiasi condizione aggiuntiva che accompagna l’ opera (come condizioni d’ uso o brevetti del licenziatario) *non deve* contraddire le condizioni della licenza.
 
 
-### 1.2 Acceso
+### 1.2 Accesso
 
-La **obra** debe estar disponible como un todo y a no más de un coste razonable de reproducción, preferiblemente descargable de manera gratuita a través de Internet. Cualquier información adicional necesaria para aplicar la licencia (como los nombres de aquellos que han contribuido en ella y que sean necesarios para cumplir los requisitos de reconocimiento) *deben* acompañar también a la obra.
+L' **opera** L’opera deve essere disponibile nella sua interezza ed a un costo di riproduzione ragionevole, preferibilmente tramite il download gratuito via Internet. Qualsiasi informazione aggiuntiva necessaria per l’accordo di licenza (?) (come i nomi dei collaboratori richiesto dall’accordo (?) ) *deve* accompagnare l’opera.
 
 ### 1.3 Formato aperto
 
-La **obra** debe proporcionarse en forma conveniente y modificable, de manera que no haya obstáculos tecnológicos innecesarios para la eficaz aplicación de los derechos otorgados por la licencia. Concretamente, los datos deben poder ser leídos automáticamente, estar disponibles de una sola vez y proporcionarse en un formato abierto (es decir, un formato que tenga sus especificaciones disponibles pública, libre y gratuitamente, que no imponga restricciones, económicas o de otro tipo sobre su uso) o, al menos, que puedan ser procesados con una herramienta de *software* libre.
+L' **opera** deve essere fornita in un formato opportuno e modificabile che non ponga inutili ostacoli tecnologici allo svolgimento delle attività sopraelencate/diritti concessi (?). Nello specifico, i dati devono essere processabili (?), disponibili in massa e messi a disposizione in un formato aperto, vale a dire un formato le cui specifiche siano pubblicamente e liberamente disponibili e che non imponga nessuna restrizione economica o di altro tipo al suo utilizzo o che almeno possa essere trattato (?) con almeno un *software* libero.
 
 
 ## 2. Licenze aperte
 
-Una **licencia** es abierta si sus términos satisfacen las siguientes condiciones:
+Una **licenza** è aperta se i suoi termini soddisfano le seguenti condizioni:
 
-### 2.1 Permisos requeridos
+### 2.1 2.1	Autorizzazioni obbligatorie
 
-La **licencia** debe de manera irrevocable permitir lo siguiente:
+La **licenza** deve irrevocabilmente permettere i seguenti:
+
 
 #### 2.1.1 Uso
 
-La **licencia** debe permitir el uso libre de la obra licenciada.
+La **licencia** deve permettere il libero uso dell’opera licenziata.
 
-#### 2.1.2 Redistribución
+#### 2.1.2 Ridistribuzione
 
-La **licencia** debe permitir la redistribución de la obra licenciada, incluyendo su venta, en sí misma o como parte de una colección formada por obras de diferentes fuentes.
+La **licenza** La licenza non deve imporre alcuna limitazione alla vendita o all’offerta gratuita dell’opera singolarmente considerata o come parte di un pacchetto composto da opere provenienti da fonti diverse. 
 
-#### 2.1.3 Modificación
+#### 2.1.3 2.1.3	Modifiche
 
-La **licencia** debe permitir la creación de obras derivadas de la obra licenciada y la distribución de tales derivados en los mismos términos que la obra original licenciada.
+La **licenza** La licenza deve consentire la realizzazione di modifiche (?) e di opere derivate e deve consentire la loro distribuzione agli stessi termini dell’opera originaria.
 
-#### 2.1.4 Separación
 
-La **licencia** debe permitir que cualquier parte de la obra sea libremente usada, distribuida o modificada por separado de cualquier otra parte de la obra o de cualquier colección de obras en la que fuera originalmente distribuida. Todas las partes que reciben una distribución de cualquier parte de una obra en los términos de la licencia original deben tener los mismos derechos que aquellos que están garantizados en relación a la obra original.
+#### 2.1.4 2.1.4	Separazione
 
-#### 2.1.5 Compilación
+La **licenza** deve consentire a qualsiasi parte dell’opera di essere    liberamente usata, distribuita o modificata separatamente da qualsiasi altra parte dell’opera o da qualsiasi pacchetto di opere con cui era originariamente distribuita. Tutte le persone a cui il lavoro viene ridistribuito devono avere gli stessi diritti concessi in congiunzione con il pacchetto originario.
 
-La **licencia** debe permitir distribuir la obra licenciada junto con otras obras distintas sin poner restricciones sobre esas otras obras.
+#### 2.1.5 Compilazione
 
-#### 2.1.6 No discriminación
+La **licenza** La licenza non deve imporre restrizioni su altre opere distribuite insieme all’opera licenziata. Per esempio, la licenza non deve insistere sul fatto che tutte le altre opere distribuite sullo stesso supporto siano aperte. (?)
 
-La **licencia** no debe discriminar a ninguna persona o grupo.
+#### 2.1.6 2.1.6	Non discriminazione
 
-#### 2.1.7 Propagación
+La **licenza** non deve discriminare alcuna persona o gruppo di persone.
 
-Los derechos ligados a la obra *deben* aplicarse a toda persona a quien le sea redistribuida sin necesidad de aceptar ningún término legal adicional.
+#### 2.1.7 Distribuzione
+
+I diritti relativi all’opera  *devono* valere per tutte le persone a cui il programma viene ridistribuito senza che sia per loro necessario accettare o sottostare ad alcuna licenza aggiuntiva.
 
 #### 2.1.8 Aplicación para cualquier propósito
 
