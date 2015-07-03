@@ -18,7 +18,7 @@
 <a href="/od/1.1/hu/">Magyar</a> |
 <a href="/od/1.1/id/">Indonesian</a> |
 <a href="/od/1.0/is/">Íslenska</a> |
-<a href="/od/1.0/it/">Italiano</a> |
+<a href="/od/2.0/it/">Italiano</a> |
 <a href="/od/1.1/ja/">Japanese</a> |
 <a href="/od/1.1/kn/">ಕನ್ನಡ</a> |
 <a href="/od/2.0/ko/">한국어</a> |
