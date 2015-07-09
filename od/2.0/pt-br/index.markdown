@@ -1,11 +1,13 @@
 ---
 title: Definição de Conhecimento Aberto
-original_en: [raw/opendefinition/od](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/index.markdown)
-translation_aux: [prj. trad. na Wikiversidade](https://pt.wikiversity.org/wiki/Projeto_de_tradu%C3%A7%C3%A3o_da_Open_Data_Definition_2.0)
+original_en: url1
+translation_aux: url2
 layout: page
 translation_ini_date: 2015-07-09
 layout: page
 slug: portugues-brasileiro
+url1: https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/index.markdown
+url2: https://pt.wikiversity.org/wiki/Projeto_de_tradu%C3%A7%C3%A3o_da_Open_Data_Definition_2.0
 ---
 
 Versão 2.0
@@ -14,7 +16,7 @@ A *Open Definition* torna preciso o significado de "aberto" no que diz respeito 
 
 **Resumo:** *O conhecimento é aberto se qualquer pessoa está livre para acessá-lo, utilizá-lo, modificá-lo, e compartilhá-lo — restrito, no máximo, a medidas que preservam a proveniência e abertura.*
 
-Este significado essencial de "aberto" toma parte na definição [Open Source Definition](http://www.opensource.org/docs/osd) (Definição de Código Aberto) e é sinônimo de "livre" na [Definition of Free Cultural Works](http://freedomdefined.org) (Definição de Obras Culturais Livres). A *Open Definition* foi inicialmente derivada da Open Source Definition, que por sua vez foi derivado das [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+Este significado essencial de "aberto" toma parte na definição [Open Source Definition](http://www.opensource.org/docs/osd) (Definição de Código Aberto), e é sinônimo de "livre" na [Definition of Free Cultural Works](http://freedomdefined.org) (Definição de Obras Culturais Livres). A *Open Definition* foi inicialmente derivada da Open Source Definition, que por sua vez foi derivado das [Debian Free Software Guidelines](http://www.debian.org/social_contract).
 
 O termo **obra** será usado para denotar o item ou peça de conhecimento que está sendo transferido.
 
