@@ -110,7 +110,7 @@ compensation or monetary remuneration as part of its conditions.
 
 ### 2.2 Acceptable Conditions
 
-The **license** must not limit, make uncertain, or otherwise diminish the permissions 
+The **license** *must not* limit, make uncertain, or otherwise diminish the permissions 
 required in Section 2.1 except by the following allowable conditions:
 
 #### 2.2.1 Attribution
