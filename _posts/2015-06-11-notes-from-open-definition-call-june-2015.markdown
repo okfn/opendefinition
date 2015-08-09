@@ -1,10 +1,10 @@
 ---
 author: Herb Lainchbury
 comments: false
-date: 2015-02-26 23:14:00+00:00
+date: 2015-08-09 19:53:00+00:00
 layout: post
-slug: notes-from-open-definition-call-february-2015
-title: Notes from Open Definition Call February 2015
+slug: notes-from-open-definition-call-june-2015
+title: Notes from Open Definition Call June 2015
 categories:
 - Meetings
 ---
