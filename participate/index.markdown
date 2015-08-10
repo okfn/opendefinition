@@ -1,14 +1,14 @@
 ---
-author: ddie
+author: Stephen-Gates
 comments: false
-date: 2009-12-20 12:52:31+00:00
+date: 2015-08-10 12:52:31+00:00
 layout: page
 slug: participate
 title: 'Participate '
 wordpress_id: 154
 ---
 
-The Open Knowledge Definition and other work of the Open Definition project is itself done in an open manner and anyone can participate. Most discussion takes place on the [od-discuss mailing list](http://lists.okfn.org/mailman/listinfo/od-discuss).
+The work of the Open Definition project is done in an open manner and everyone is welcome to participate. Discussions have mainly taken place on the [od-discuss mailing list](http://lists.okfn.org/mailman/listinfo/od-discuss) and new conversations are encouraged on the [Open Knowledge Forum](https://discuss.okfn.org/c/OpenDefinition).
 
 Also see our [issue tracker](https://github.com/okfn/opendefinition/issues) and [blog](/update/) for other opportunites.
 
