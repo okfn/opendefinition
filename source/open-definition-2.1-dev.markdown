@@ -44,7 +44,7 @@ accompany the work.
 
 ### 1.3 Machine Readability
 
-The **work** must be provided in a form readily processable by a computer and where the individual elements of the work can be easily accessed and modified.
+The **work** *must* be provided in a form readily processable by a computer and where the individual elements of the work can be easily accessed and modified.
 
 ### 1.4 Open Format
 
