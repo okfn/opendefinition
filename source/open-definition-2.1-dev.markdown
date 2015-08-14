@@ -32,7 +32,7 @@ An open **work** *must* satisfy the following requirements in its distribution:
 The **work** *must* be in the **public domain** or provided under an open
 **license** (as defined in Section 2).  Any additional terms accompanying
 the work (such as a terms of use, or patents held by the licensor)
-*must not* contradict the terms of the license.
+*must not* contradict the work's public domain status or terms of the license.
 
 ### 1.2 Access
 
