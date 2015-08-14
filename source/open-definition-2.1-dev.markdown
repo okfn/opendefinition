@@ -14,9 +14,10 @@ This essential meaning matches that of "open" with respect to software as in the
 
 The term **work** will be used to denote the item or piece of knowledge being transferred.
 
-The term **license** refers to the legal conditions under which the work is
-provided. Where no license has been offered the term refers to default legal conditions
-governing use of the work (for example, copyright or public domain).
+The term **license** refers to the legal conditions under which the work is provided.
+
+The term **public domain** denotes the abscence of copyright and similar
+restrictions, whether by default or waiver of all such conditions.
 
 The key words "must", "must not", "should",and "may"
 in this document are to be interpreted as described in
@@ -26,11 +27,12 @@ in this document are to be interpreted as described in
 
 An open **work** *must* satisfy the following requirements in its distribution:
 
-### 1.1 Open License
+### 1.1 Open License Or Status
 
-The **work** *must* be provided under an open **license** (as defined in Section 2).
-Any additional terms accompanying the work (such as a terms of use, or patents held by the licensor) *must not* 
-contradict the terms of the license.
+The **work** *must* be in the **public domain** or provided under an open
+**license** (as defined in Section 2).  Any additional terms accompanying
+the work (such as a terms of use, or patents held by the licensor)
+*must not* contradict the terms of the license.
 
 ### 1.2 Access
 
