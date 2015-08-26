@@ -18,13 +18,14 @@ Submit the license to the Open Definition [mailing list](/contact) for discussio
 To do this:
 
 * Sign up to the mailing list, so that you can participate in the discussion.
-* Send a link to the full text the license to the mailing list, along **all of the following information**:
-  1. State the rationale for the new license.
-  2. Explain whether the license may be used by any licensor, or is specific to an organization/place/jurisdiction. We generally frown on the latter (see proliferation below), only making politically expedient exceptions (eg, the organization is a national government; and these are categorized as "non-reusable").
-  3. Compare and contrast to the most similar approved as [OD-conformant licenses](/licenses/).
-  4. Explain the benefit the new license brings over already approved OD-conformant licenses which would outweigh the costs of [license proliferation](http://opensource.org/proliferation-report)? (Link is re software licenses, but the same principles and costs apply.)
-  5. Identify which recommended conformant licenses the new license is compatible with, and how -- by alignment (permissions identical or a superset of existing license, conditions identical or a subset) and/or express permission to license the original and/or adaptations of the licensed work under an existing license.
-  6. Provide a link to any public drafting process (e.g., conducted on a public communication forum of some sort; multiple drafts presented to that forum) for the license.
+* Send **all of the following information** to the list:
+  1. Link to the **full text the license**. If the license is not in English, also provide a translation to English (an autotranslation is adequate).
+  2. State the rationale for the new license.
+  3. Explain whether the license may be used by any licensor, or is specific to an organization/place/jurisdiction. We generally frown on the latter (see proliferation below), only making politically expedient exceptions (eg, the organization is a national government; and these are categorized as "non-reusable").
+  4. Compare and contrast to the most similar approved as [OD-conformant licenses](/licenses/).
+  5. Explain the benefit the new license brings over already approved OD-conformant licenses which would outweigh the costs of [license proliferation](http://opensource.org/proliferation-report)? (Link is re software licenses, but the same principles and costs apply.)
+  6. Identify which recommended conformant licenses the new license is compatible with, and how -- by alignment (permissions identical or a superset of existing license, conditions identical or a subset) and/or express permission to license the original and/or adaptations of the licensed work under an existing license.
+  7. Provide a link to any public drafting process (e.g., conducted on a public communication forum of some sort; multiple drafts presented to that forum) for the license.
 
 
 ##What Will Happen
