@@ -36,8 +36,8 @@ the work (such as a terms of use, or patents held by the licensor)
 
 ### 1.2 Access
 
-The **work** *must* be provided as a whole and at no more than a reasonable 
-one-time reproduction cost, and *should* be downloadable via the Internet without charge.
+The **work** *must* be provided as a whole at no more than a reasonable 
+one-time reproduction cost and *should* be downloadable via the Internet without charge.
 Any additional information necessary for license compliance (such as names of 
 contributors required for compliance with attribution requirements) *must* also 
 accompany the work.
