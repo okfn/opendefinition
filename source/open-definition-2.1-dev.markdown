@@ -19,7 +19,7 @@ The term **license** refers to the legal conditions under which the work is prov
 The term **public domain** denotes the abscence of copyright and similar
 restrictions, whether by default or waiver of all such conditions.
 
-The key words "must", "must not", "should",and "may"
+The key words "must", "must not", "should", and "may"
 in this document are to be interpreted as described in
 [RFC2119](https://tools.ietf.org/html/rfc2119).
 
@@ -27,7 +27,7 @@ in this document are to be interpreted as described in
 
 An open **work** *must* satisfy the following requirements in its distribution:
 
-### 1.1 Open License Or Status
+### 1.1 Open License or Status
 
 The **work** *must* be in the **public domain** or provided under an open
 **license** (as defined in Section 2).  Any additional terms accompanying
@@ -131,7 +131,7 @@ otherwise indicate what changes have been made.
 
 #### 2.2.3 Share-alike
 
-The **license** *may* require distributions of the work to remain
+The **license** *may* require distributions of the work (e.g., copies or derivatives) to remain
 under the same license or a similar license.
 
 #### 2.2.4 Notice
