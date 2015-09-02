@@ -6,7 +6,7 @@ Definition Revision Approval Process _- draft_
 
 2. A new draft document is started.  Chair notifies the list and other relevant fora that a new draft document has been started summarizing the issues that the upcoming release is to address and inviting participation.
 
-3. Issues with the current Open Definition are identified.  The Open Definition community will disucss on the mailing list and decide which issues are to be dealt with in the next release reach consensus on each of these issues.  The draft document is updated to relfect current consensus.
+3. Issues with the current Open Definition are identified.  The Open Definition community will discuss on the mailing list and decide which issues are to be dealt with in the next release reach consensus on each of these issues.  The draft document is updated to relfect current consensus.
 
 4. The Open Definition Advisory Council chair will summarize the consensus to the Advisory Council on the mailing list and to other relevant fora, okfn-discuss at a minimum.
 
