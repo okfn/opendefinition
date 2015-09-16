@@ -1,10 +1,9 @@
 ---
 title: Open Definition
 layout: page
-  - /od/2.1/
 ---
 
-Version 2.1 dev
+Version 2.1
 
 The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
 
