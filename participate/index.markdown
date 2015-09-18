@@ -1,11 +1,6 @@
 ---
-author: Stephen-Gates
-comments: false
-date: 2015-08-10 12:52:31+00:00
 layout: page
-slug: participate
-title: 'Participate '
-wordpress_id: 154
+title: Participate
 ---
 
 The work of the Open Definition project is done in an open manner and everyone is welcome to participate. Discussions have mainly taken place on the [od-discuss mailing list](http://lists.okfn.org/mailman/listinfo/od-discuss) and new conversations are encouraged on the [Open Knowledge Forum](https://discuss.okfn.org/c/OpenDefinition).
@@ -14,9 +9,11 @@ Also see our [issue tracker](https://github.com/okfn/opendefinition/issues) and 
 
 ###Translation
 
-If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.0/languagecode/index.markdown` eg `od/2.0/fr/index.markdown` for French, then submit a pull request.
+If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.1/languagecode/index.markdown` eg `od/2.1/fr/index.markdown` for French, then submit a pull request.
 
-If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/index.markdown), translate it, and [send to us](/contact).
+Note the definition includes links to Wikipedia articles about the Free Software Definition and Open Source Definition. If there are articles in target language Wikipedias, the links should point to those instead of the English Wikipedia articles. If target language Wikipedia articles for the FSD and OSD do not exist, consider creating them.
+
+If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/2.1/en/index.markdown), translate it, and [send to us](/contact).
 
 ###Advisory Council
 
