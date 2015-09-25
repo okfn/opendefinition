@@ -120,9 +120,4 @@ layout: page
 **ライセンス** は、当該のライセンスで許可されている権利の行使にあたって必要となる公的な追加許諾 (例: 特許ライセンス) を、改変者に対して *付与してもよい* 。また、許諾された人格が許可された権利を行使しても、その行為は侵害に当たらない旨をライセンス内で *規定してもよい* (例: 特許侵害訴訟)。
 
 ----
-*The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the original Debian Free Software Guidelines, and the Debian Social Contract of which they are a part, which were created by Bruce Perens and the Debian Developers. 
-
-Bruce later used the same text in creating the Open Source Definition. This definition is substantially derivative of those documents and retains their essential principles. 
-Richard Stallman was the first to push the ideals of software freedom which we continue.*
-
-* オープンの定義は、Bruce Parens氏とDebian開発者によって作成された Debian社会契約/Debian Social Contract の一部を為している Debianフリーソフトウェアガイドライン/Debian Free Software Guidelines を起源として派生した定義である オープンソースの定義/Open Source Definition より派生している。Bruce氏はオープンソースの定義を作成するにあたり、同一の文章を使用している。この定義はこれらの文章から十分な派生を行っており、これらの文章の主要な信念を保持している。我々が継続しているソフトウェアの自由の理念を最初に推し進めたのは Richard Stallman氏である。*
+*オープンの定義は、Bruce Parens氏とDebian開発者によって作成された Debian社会契約/Debian Social Contract の一部を為している Debianフリーソフトウェアガイドライン/Debian Free Software Guidelines を起源として派生した定義である オープンソースの定義/Open Source Definition より派生している。Bruce氏はオープンソースの定義を作成するにあたり、同一の文章を使用している。この定義はこれらの文章から十分な派生を行っており、これらの文章の主要な信念を保持している。我々が継続しているソフトウェアの自由の理念を最初に推し進めたのは Richard Stallman氏である。*
