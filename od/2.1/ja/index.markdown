@@ -7,9 +7,9 @@ layout: page
 
 オープンの定義では、知識に関する"オープン/open"という語の定義を明確にすることによって、相互運用性を最大化させ、誰もが参加可能となるように、共通の認識を広く周知させることを意図している。
 
-**サマリー:** *出自とオープン性維持の評価のため、あらゆる人が対象のデータを自由に閲覧し、利用し、修正し、そして共有できることを 知識/knowledge がオープンであるとされる。その際に掛けられる制限は、出自情報やオープンさの保持を考慮する程度に留められる。*
+**サマリー:** *出自とオープン性維持の評価のため、あらゆる人が対象のデータを自由に閲覧し、利用し、修正し、そして共有できることを 知識/knowledge がオープンであるとする。その際に掛けられる制限は、出自情報やオープンさの保持を考慮する程度に留められる。*
 
-この文書で言及される "オープン/open" とは、ソフトウェア分野における オープンソースの定義/Open Source Definition と関係をもつ用語であり、 自由文化作品の定義/Definition of Free Cultural Works で定められている "フリー/free" や "自由/libre" などの用語と同義となっている。オープンの定義は、 Debianフリーソフトウェアガイドライン/Debian Free Software Guidelines を起源として派生した オープンソースの定義/Open Source Definition から、さらに派生した定義である。
+この文書で言及される "オープン/open" とは、ソフトウェア分野における [オープンソースの定義/Open Source Definition](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E5%AE%9A%E7%BE%A9) と関係をもつ用語であり、[フリーソフトウェアの定義/Free Software Definition](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E5%AE%9A%E7%BE%A9) および [自由文化作品の定義/Definition of Free Cultural Works](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%96%87%E5%8C%96%E4%BD%9C%E5%93%81%E3%81%AE%E5%AE%9A%E7%BE%A9) で定められている "フリー/free" や "自由/libre" などの用語と同義となっている。
 
 **作品/work** とは、流通対象となる知識そのものや、その一部を指すために使われる。
 
@@ -17,7 +17,7 @@ layout: page
 
 **パブリックドメイン/public domain** とは、著作権あるいは同様の権利制限条項が自動的に放棄された状態、あるいは明示的にそのような条項を放棄した状態を指す。
 
-この文書における **しなければならない/must** 、 **してはならない/must not** 、 **する必要がある/should** 、 **してもよい/may** というキーワードは、[RFC2119](https://tools.ietf.org/html/rfc2119) (訳注: [RFC2119 日本語訳](https://www.ipa.go.jp/security/rfc/RFC2119JA.html)) における定義に従っている。
+この文書における **しなければならない/must** 、 **してはならない/must not** 、 **する必要がある/should** 、 **してもよい/may** というキーワードは、[RFC2119](https://www.ipa.go.jp/security/rfc/RFC2119JA.html) における定義に従っている。
 
 ## 1. オープンな作品
 
