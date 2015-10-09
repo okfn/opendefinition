@@ -14,9 +14,9 @@ Also see our [issue tracker](https://github.com/okfn/opendefinition/issues) and 
 
 ###Translation
 
-If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.0/languagecode/index.markdown` eg `od/2.0/fr/index.markdown` for French, then submit a pull request.
+If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.1/languagecode/index.markdown` eg `od/2.1/fr/index.markdown` for French, then submit a pull request.
 
-If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/2.0/en/index.markdown), translate it, and [send to us](/contact).
+If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/2.1/en/index.markdown), translate it, and [send to us](/contact).
 
 ###Advisory Council
 
