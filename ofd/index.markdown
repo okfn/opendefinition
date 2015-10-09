@@ -17,7 +17,7 @@ wordpress_id: 262
 
 ## Introduction 
 
-The [Open Definition](http://opendefinition.org/od/) has three key requirements for a work to be open: an *open license*, *open access*, and an *open format*. This page focuses on the **open format**: 
+The [Open Definition](http://opendefinition.org/od/{{site.od_current_version}}/en/) has three key requirements for a work to be open: an *open license*, *open access*, and an *open format*. This page focuses on the **open format**: 
 
 1. quoting the Open Format section from the Open Definition, 
 2. exploring it’s intent,
