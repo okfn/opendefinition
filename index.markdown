@@ -9,7 +9,7 @@ bodyclass: frontpage
 wordpress_id: 20
 ---
 
-The **[Open Definition](/od/)** sets out principles that define "openness" in relation to **data and content**.
+The **[Open Definition](/od/{{site.od_current_version}}/en/)** sets out principles that define "openness" in relation to **data and content**.
 
 It makes **precise** the meaning of "open" in the terms **"open data"** and **"open content"** and thereby ensures **quality** and encourages **compatibility** between different pools of open material.
 
@@ -21,6 +21,6 @@ Put most succinctly:
 
 > "Open data and content can be **freely used, modified, and shared** by **anyone** for **any purpose**"
 
-<a href="/od/" class="btn btn-primary btn-large">Read the full Open Definition »</a>
+<a href="/od/{{site.od_current_version}}/en/" class="btn btn-primary btn-large">Read the full Open Definition »</a>
 
 

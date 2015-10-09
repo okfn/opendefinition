@@ -23,7 +23,7 @@ With an online-service, in contrast to a traditional software application, users
 
 An open software service is one:
 
-1. Whose data is open as defined by the [Open Definition](/od/) with the exception that where the data is personal in nature the data need only be made available to the user (i.e. the owner of that account).
+1. Whose data is open as defined by the [Open Definition](/od/{{site.od_current_version}}/en/) with the exception that where the data is personal in nature the data need only be made available to the user (i.e. the owner of that account).
 2. Whose source code is:
     1. Free/Open Source Software (that is available under a license in the OSI or FSF approved list -- see note 3).
     2. Made available to the users of the service.
