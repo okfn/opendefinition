@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Open Knowledge Definition 1.1
-redirect_from:
-  - /1.1/
-  - /od/1.1/
-  - /okd/1.1/
 ---
 
 Version 1.1

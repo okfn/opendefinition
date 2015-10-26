@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Open Knowledge Definition 1.0
-redirect_from:
-  - /1.0/
-  - /od/1.0/
-  - /okd/1.0/
-
 ---
 
 Terminology 

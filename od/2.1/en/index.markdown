@@ -1,10 +1,6 @@
 ---
-title: Open Definition
 layout: page
-redirect_from:
-  - /2.1/
-  - /od/2.1/
-  - /okd/2.1/
+title: Open Definition 2.1
 ---
 
 Version 2.1
