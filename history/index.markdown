@@ -10,9 +10,19 @@ wordpress_id: 76
 
 ## History of the Open Definition
 
+### v2.1
+
+[2.0-2.1 diff](/od/diffs/2.0-2.1-en-wdiff.html)
+
+### v2.0
+
+[1.1-2.0 diff](/od/diffs/1.1-2.0-en-wdiff.html)
+
 ### v1.1: 2009-11
 
 Very minor corrections and emendations to the text. Merge annotated and simple versions of the definition.
+
+[1.0-1.1 diff](/od/diffs/1.0-1.1-en-wdiff.html)
 
 ### v1.0: 2006-07
 
