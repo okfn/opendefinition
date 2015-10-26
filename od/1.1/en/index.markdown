@@ -1,6 +1,4 @@
 ---
-author: admin
-date: 2009-11-04 13:33:35+00:00
 layout: page
 title: Open Knowledge Definition 1.1
 redirect_from:

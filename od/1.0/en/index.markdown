@@ -1,5 +1,4 @@
 ---
-comments: false
 layout: page
 title: Open Knowledge Definition 1.0
 redirect_from:
