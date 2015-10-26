@@ -2,9 +2,11 @@
 title: Open Definition
 layout: page
 redirect_from:
-  - /okd/
   - /od/
+  - /okd/
+  - /2.0/
   - /od/2.0/
+  - /okd/2.0/
 ---
 
 Version 2.0
