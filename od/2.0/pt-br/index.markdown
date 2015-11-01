@@ -1,13 +1,10 @@
 ---
 title: Definição de Conhecimento Aberto
-original_en: url1
-translation_pt: url2
 layout: page
 translation_date: 2015-07-09
 layout: page
 lang: pt-BR
-url1: https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/index.markdown
-url2: https://pt.wikiversity.org/wiki/Projeto_de_tradu%C3%A7%C3%A3o_da_Open_Data_Definition_2.0
+url: https://github.com/okfn-brasil/opendefinition/blob/gh-pages/od/2.0/pt-br/index.markdown
 ---
 
 Versão 2.0
@@ -70,11 +67,11 @@ A **licença** *deve* permitir a criação de derivativos da obra licenciada, e 
 #### 2.1.4 Separação
 
 O **licença** *deve* permitir que qualquer parte da obra seja livremente utilizada, distribuída ou modificada, 
-separadamente de qualquer outra parte da obra ou de qualquer coleção de obras na qual tenha sido originalmente distribuída. Todas as partes que recebem qualquer distribuição de qualquer parte de uma obra dentro dos termos da licença original, deve preservar os mesmos direitos que a obra original.
+separadamente de qualquer outra parte da obra ou de qualquer coleção de obras na qual tenha sido originalmente distribuída. Todos aqueles que recebem qualquer distribuição de qualquer parte de uma obra dentro dos termos da licença original, devem ter os mesmos direitos que aqueles que foram garantidos em conjunção com a obra original.
 
 #### 2.1.5 Compilação
 
-A **licença** *deve* permitir que a obra licenciada seja distribuída com outras obras distintas sem colocar restrições sobre estes outros trabalhos.
+A **licença** *deve* permitir que a obra licenciada seja distribuída com outras obras distintas, sem colocar restrições sobre tais obras.
 
 #### 2.1.6 Não-discriminação 
 A **licença** *não deve* discriminar qualquer pessoa ou grupo.
