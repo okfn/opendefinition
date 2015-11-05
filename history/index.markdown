@@ -12,9 +12,13 @@ wordpress_id: 76
 
 ### v2.1
 
+Announcement forthcoming 2015-11
+
 [2.0-2.1 diff](/od/diffs/2.0-2.1-en-wdiff.html)
 
 ### v2.0
+
+[Announcement](http://blog.okfn.org/2014/10/07/open-definition-v2-0-released-major-update-of-essential-standard-for-open-data-and-open-content/)
 
 [1.1-2.0 diff](/od/diffs/1.1-2.0-en-wdiff.html)
 
@@ -41,10 +45,11 @@ In response to that feedback a second draft (v0.2) was released in October 2005 
 The first version (v0.1) of the definition was drafted in August 2005 and was circulated to, among others, Peter Suber, Cory Doctorow, Tim Hubbard, Peter Murray-Rust, Jo Walsh and Prodromos Tsiavos.
 
 
-## Recent Developments
+### News Items
 
-  * **Autumn 2009 onwards:** please see 
-  * **2009-09-30**: [Macedonian](/okd/Makedonski_jazik) translation of the Open Knowledge Definition thanks to Ljube Babunski
+  **Autumn 2009 onwards:** please see [Open Definition Updates](http://opendefinition.org/update) and the [Open Definition category](http://blog.okfn.org/category/open-definition/) of the Open Knowledge blog.
+  
+* **2009-09-30**: [Macedonian](/okd/Makedonski_jazik) translation of the Open Knowledge Definition thanks to Ljube Babunski
   * **2009-09-22**: [Swedish](/okd/Svenska) translation of the Open Knowledge Definition thanks to [Peter Krantz](http://www.peterkrantz.com) and [Staffan Malmgren](http://lagen.nu)
   * **2009-06-19**: [French](/okd/Francais) translation of the Open Knowledge Definition thanks to Caroline Ker and Séverine Dusollier, [University of Namur](http://www.fundp.ac.be/)
   * **2009-06-03**: [One Click Orgs](http://www.oneclickor.gs/) are using an Open Service button.
