@@ -49,7 +49,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
 
   **Autumn 2009 onwards:** please see [Open Definition Updates](http://opendefinition.org/update) and the [Open Definition category](http://blog.okfn.org/category/open-definition/) of the Open Knowledge blog.
   
-* **2009-09-30**: [Macedonian](/okd/Makedonski_jazik) translation of the Open Knowledge Definition thanks to Ljube Babunski
+  * **2009-09-30**: [Macedonian](/okd/Makedonski_jazik) translation of the Open Knowledge Definition thanks to Ljube Babunski
   * **2009-09-22**: [Swedish](/okd/Svenska) translation of the Open Knowledge Definition thanks to [Peter Krantz](http://www.peterkrantz.com) and [Staffan Malmgren](http://lagen.nu)
   * **2009-06-19**: [French](/okd/Francais) translation of the Open Knowledge Definition thanks to Caroline Ker and Séverine Dusollier, [University of Namur](http://www.fundp.ac.be/)
   * **2009-06-03**: [One Click Orgs](http://www.oneclickor.gs/) are using an Open Service button.
