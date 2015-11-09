@@ -6,7 +6,7 @@
 <a href="/od/1.1/da/">Dansk</a> |
 <a href="/od/2.0/de/">Deutsch</a> |
 <a href="/od/1.0/el/">Ελληνικά</a> |
-<a href="/od/">English</a> |
+<a href="/od/{{site.od_current_version}}/en/">English</a> |
 <a href="/od/2.0/es/">Español</a> |
 <a href="/od/1.0/eu">Euskara</a> |
 <a href="/od/1.1/fi/">Suomi</a> |
