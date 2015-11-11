@@ -6,23 +6,32 @@ layout: page
 lang: pt-BR
 ---
 
-Versão 2.0
+Versão 2.1
 
 A *Open Definition* torna preciso o significado de "aberto" no que diz respeito ao conhecimento, promovendo um bem comum robusto no qual qualquer um pode participar, e a interoperabilidade é maximizada.
 
 **Resumo:** *O conhecimento é aberto se qualquer pessoa está livre para acessá-lo, utilizá-lo, modificá-lo, e compartilhá&#8209;lo — restrito, no máximo, a medidas que preservam a proveniência e abertura.*
 
-Este significado essencial de "aberto" toma parte na definição [Open Source Definition](http://www.opensource.org/docs/osd) (Definição de Código Aberto), e é sinônimo de "livre" na [Definition of Free Cultural Works](http://freedomdefined.org) (Definição de Obras Culturais Livres). A *Open Definition* foi inicialmente derivada da Open Source Definition, que por sua vez foi derivado das [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+Este significado essencial de “aberto” toma parte na definição [Definição de Código Aberto](https://pt.wikipedia.org/wiki/Defini%C3%A7%C3%A3o_de_C%C3%B3digo_Aberto), e é sinônimo de “livre” como na  [Definição de Software Livre](https://pt.wikipedia.org/wiki/Defini%C3%A7%C3%A3o_de_Software_Livre) e como na [Definição de Obras Culturais Livres](https://pt.wikipedia.org/wiki/Defini%C3%A7%C3%A3o_de_Obras_Culturais_Livres).
 
 O termo **obra** será usado para denotar o item ou peça de conhecimento que está sendo transferido.
 
-A termo **licença** refere-se às condições legais em que a obra é disponibilizada. Quando nenhuma licença for oferecida, deve ser interpretado como referindo-se às condições legais -padrão que regem a utilização da obra (por exemplo, copyright ou de domínio público).
+A termo **licença** refere-se às condições legais em que a obra é disponibilizada.
+
+O termo **domínio público** denota a ausência de restrições de direitos autorais e similares, seja por omissão ou renúncia de todas essas condições.
+
+
+Quando nenhuma licença for oferecida, deve ser interpretado como referindo-se às condições legais -padrão que regem a utilização da obra (por exemplo, copyright ou de domínio público).
+
+As palavras-chave “deve”, “não deve”, “deveria”, and “pode” neste documento são interpretadas como descrito na [RFC2119](https://tools.ietf.org/html/rfc2119).
 
 ## 1. Obras Abertas
 
-Uma **obra** aberta deve satisfazer os seguintes requisitos em sua distribuição:
+Uma **obra** aberta *deve* satisfazer os seguintes requisitos em sua distribuição:
 
-### 1.1 Open License
+{{PRANDO AQUI, ver diffs}}
+
+### 1.1 Open License or Status
 
 A **obra** _deve obrigatoriamente_ estar disponível sob uma **licença** aberta (conforme definido na Seção 2). 
 Quaisquer termos adicionais que acompanhem a obra (como os termos de uso, ou patentes detidas pelo licenciante) *não devem*
