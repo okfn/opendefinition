@@ -1,56 +1,59 @@
 ---
-title: Open Definition
 layout: page
-redirect_from:
-  - /okd/
-  - /od/2.0/
+title: Open Definition 2.1
 ---
 
-Version 2.0
+Version 2.1
 
 The Open Definition makes precise the meaning of "open" with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
 
 **Summary:** *Knowledge is open if anyone is free to access, use, modify, and share it — subject, at most, to measures that preserve provenance and openness.*
 
-This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](http://www.opensource.org/docs/osd) and is synonymous with "free" or "libre" as in the [Definition of Free Cultural Works](http://freedomdefined.org). The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) and is synonymous with "free" or "libre" as in the [Free Software Definition](https://en.wikipedia.org/wiki/The_Free_Software_Definition) and [Definition of Free Cultural Works](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works).
 
 The term **work** will be used to denote the item or piece of knowledge being transferred.
 
-The term **license** refers to the legal conditions under which the work is
-made available. Where no license has been offered this should be interpreted
-as referring to default legal conditions governing use of the work (for 
-example, copyright or public domain).
+The term **license** refers to the legal conditions under which the work is provided.
+
+The term **public domain** denotes the abscence of copyright and similar
+restrictions, whether by default or waiver of all such conditions.
+
+The key words "must", "must not", "should", and "may"
+in this document are to be interpreted as described in
+[RFC2119](https://tools.ietf.org/html/rfc2119).
 
 ## 1. Open Works
 
-An open **work** must satisfy the following requirements in its distribution:
+An open **work** *must* satisfy the following requirements in its distribution:
 
-### 1.1 Open License
+### 1.1 Open License or Status
 
-The **work** *must* be available under an open **license** (as defined in Section 2).
-Any additional terms accompanying the work (such as a terms of use, or patents held by the licensor) *must not* 
-contradict the terms of the license.
+The **work** *must* be in the **public domain** or provided under an open
+**license** (as defined in Section 2).  Any additional terms accompanying
+the work (such as a terms of use, or patents held by the licensor)
+*must not* contradict the work's public domain status or terms of the license.
 
 ### 1.2 Access
 
-The **work** shall be available as a whole and at no more than a reasonable 
-one-time reproduction cost, preferably downloadable via the Internet without charge.
+The **work** *must* be provided as a whole and at no more than a reasonable 
+one-time reproduction cost, and *should* be downloadable via the Internet without charge.
 Any additional information necessary for license compliance (such as names of 
 contributors required for compliance with attribution requirements) *must* also 
 accompany the work.
 
-### 1.3 Open Format
+### 1.3 Machine Readability
 
-The **work** *must* be provided in a convenient and modifiable form such
-that there are no unnecessary technological obstacles to the performance of the
-licensed rights. Specifically, data should be machine-readable, available in
-bulk, and provided in an open format (i.e., a format with a freely available
-published specification which places no restrictions, monetary or otherwise, upon
-its use) or, at the very least, can be processed with at least one free/libre/open-source
-software tool.
+The **work** *must* be provided in a form readily processable by a computer and where the individual elements of the work can be easily accessed and modified.
 
+### 1.4 Open Format
+
+The **work** *must* be provided in an open format. An open format is
+one which places no restrictions, monetary or otherwise, upon its use and can be fully processed
+with at least one free/libre/open-source software tool.
 
 ## 2. Open Licenses
+
+A **license** *should* be compatible with other open licenses.
 
 A **license** is open if its terms satisfy the following conditions:
 
@@ -80,7 +83,7 @@ The **license** *must* allow any part of the work
 to be freely used, distributed, or modified separately from any other part 
 of the work or from any collection of works in which it was originally 
 distributed. All parties who receive any distribution of any part of
-a work within the terms of the original license should have the same rights
+a work within the terms of the original license *should* have the same rights
 as those that are granted in conjunction with the original work.
 
 #### 2.1.5 Compilation
@@ -110,13 +113,13 @@ compensation or monetary remuneration as part of its conditions.
 
 ### 2.2 Acceptable Conditions
 
-The **license** shall not limit, make uncertain, or otherwise diminish the permissions 
+The **license** *must not* limit, make uncertain, or otherwise diminish the permissions 
 required in Section 2.1 except by the following allowable conditions:
 
 #### 2.2.1 Attribution
 
 The **license** *may* require distributions of the work to include attribution
-of contributors, rights holders, sponsors and creators as long as
+of contributors, rights holders, sponsors, and creators as long as
 any such prescriptions are not onerous.
 
 #### 2.2.2 Integrity
@@ -127,8 +130,8 @@ otherwise indicate what changes have been made.
 
 #### 2.2.3 Share-alike
 
-The **license** *may* require copies or derivatives of a licensed work to remain
-under a license the same as or similar to the original.
+The **license** *may* require distributions of the work to remain
+under the same license or a similar license.
 
 #### 2.2.4 Notice
 
@@ -136,12 +139,15 @@ The **license** *may* require retention of copyright notices and identification 
 
 #### 2.2.5 Source
 
-The **license** *may* require modified works to be made available in a form preferred for further modification.
+The **license** *may* require that anyone distributing the work provide recipients with access to the preferred form for making modifications.
 
 #### 2.2.6 Technical Restriction Prohibition
 
-The **license** *may* prohibit distribution of the work in a manner where technical measures impose restrictions on the exercise of otherwise allowed rights.
+The **license** *may* require that distributions of the work remain free of any technical measures that would restrict the exercise of otherwise allowed rights.
 
 #### 2.2.7 Non-aggression
 
 The **license** *may* require modifiers to grant the public additional permissions (for example, patent licenses) as required for exercise of the rights allowed by the license. The license may also condition permissions on not aggressing against licensees with respect to exercising any allowed right (again, for example, patent litigation).
+
+----
+*The Open Definition was initially derived from the Open Source Definition, which in turn was derived from the original Debian Free Software Guidelines, and the Debian Social Contract of which they are a part, which were created by Bruce Perens and the Debian Developers. Bruce later used the same text in creating the Open Source Definition. This definition is substantially derivative of those documents and retains their essential principles. Richard Stallman was the first to push the ideals of software freedom which we continue.*

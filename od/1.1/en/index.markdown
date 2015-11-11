@@ -1,11 +1,6 @@
 ---
-author: admin
-comments: false
-date: 2009-11-04 13:33:35+00:00
 layout: page
-slug: od
-title: Open Definition
-wordpress_id: 17
+title: Open Knowledge Definition 1.1
 ---
 
 Version 1.1
