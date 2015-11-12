@@ -1,7 +1,7 @@
 ---
 title: Definição de Conhecimento Aberto
 layout: page
-translation_date: 2015-07
+translation_period: 2015-10 to 2015-11
 layout: page
 lang: pt-BR
 ---
@@ -29,21 +29,15 @@ As palavras-chave “deve”, “não deve”, “deveria”, and “pode” nes
 
 Uma **obra** aberta *deve* satisfazer os seguintes requisitos em sua distribuição:
 
-{{PRANDO AQUI, ver diffs}}
+### 1.1  Status ou Licença abertos
 
-### 1.1 Open License or Status
-
-A **obra** _deve obrigatoriamente_ estar disponível sob uma **licença** aberta (conforme definido na Seção 2). 
-Quaisquer termos adicionais que acompanhem a obra (como os termos de uso, ou patentes detidas pelo licenciante) *não devem*
-contradizer os termos da licença.
-
+A **obra** _deve obrigatoriamente_ estar em **domínio público** ou ser fornecida sob uma **licença** aberta (conforme definido na Seção 2). 
+Quaisquer termos adicionais que acompanhem a obra (como os termos de uso, ou patentes detidas pelo licenciante) *não devem* contradizer o status de domínio público ou os termos da licença.
 
 ### 1.2 Acesso
 
-A **obra** deve estar disponível na íntegra e ao custo de não mais do que um evento de reprodução em prazo razoável, 
-de preferência através de download gratuito na Internet. 
-Qualquer informação adicional necessária se verificar a conformidade com a licença (tal como nomes dos 
-colaboradores necessários para a conformidade com requisitos de atribuição) também *deve* acompanhar a obra.
+A **obra** *deve* estar disponível na íntegra e ao custo de não mais do que um evento de reprodução em prazo razoável, e *deve* ser baixada via Internet sem custo. 
+Qualquer informação adicional necessária se verificar a conformidade com a licença (tal como nomes dos colaboradores necessários para a conformidade com requisitos de atribuição) também *deve* acompanhar a obra.
 
 ### 1.3 Formato Aberto
 

@@ -1,7 +1,7 @@
 ---
 title: Definição de Conhecimento Aberto
 layout: page
-translation_date: 2015-07
+translation_period: 2015-07 to 2015-10
 layout: page
 lang: pt-BR
 ---
