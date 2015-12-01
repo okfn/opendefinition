@@ -12,7 +12,7 @@ wordpress_id: 76
 
 ### v2.1
 
-Announcement forthcoming 2015-11
+[Announcement](http://blog.okfn.org/2015/11/10/announcement-open-definition-2-1/)
 
 [2.0-2.1 diff](/od/diffs/2.0-2.1-en-wdiff.html)
 
