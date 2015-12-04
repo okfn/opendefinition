@@ -26,24 +26,24 @@ categories:
 
 # Summary
 
-## Communications Plan
-  * OKFN blog
-  * OD blog (referring to OKFN blog)
-  * okfn list
-  * okfn forum
-  * od forum
-  * reach out to Creative Commons to see if they would be interested in a post
-  * fix links
+  * Communications Plan
+    * OKFN blog
+    * OD blog (referring to OKFN blog)
+    * okfn list
+    * okfn forum
+    * od forum
+    * reach out to Creative Commons to see if they would be interested in a post
+    * fix links
 
-## Process
-  * https://github.com/okfn/opendefinition/blob/gh-pages/source/open-definition-revision-process-dev.markdown
-  * new process seems like a pretty good attempt and worth trying.  we will review before starting next OD version.
-  * re: Aaron’s note above, we could state the purpose more literally in bullet 5 or 6
-  * Herb to send a note to Aaron asking for an edit to the process -
+  * Process
+    * https://github.com/okfn/opendefinition/blob/gh-pages/source/open-definition-revision-process-dev.markdown
+    * new process seems like a pretty good attempt and worth trying.  we will review before starting next OD version.
+    * re: Aaron’s note above, we could state the purpose more literally in bullet 5 or 6
+    * Herb to send a note to Aaron asking for an edit to the process -
 
-## License Repository
-  * https://github.com/okfn/opendefinition/blob/gh-pages/licenses/index.markdown
-  * we will use inreview directory to list licenses currently undergoing review (remove Surrey)
-  * when a license is submitted properly we will put a markdown version into the inreview folder for our own use
-  * chair will send out a Topic in the forum to discuss
+  * License Repository
+    * https://github.com/okfn/opendefinition/blob/gh-pages/licenses/index.markdown
+    * we will use inreview directory to list licenses currently undergoing review (remove Surrey)
+    * when a license is submitted properly we will put a markdown version into the inreview folder for our own use
+    * chair will send out a Topic in the forum to discuss
 
