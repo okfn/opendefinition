@@ -1,11 +1,8 @@
 ---
 author: igorspasic
-comments: false
 date: 2015-12-20 17:10:01+00:00
 layout: page
-slug: serbian
 title: "Дефиниција Јавно Доступних Информација"
-redirect_from: /od/serbian/
 ---
 
 Верзија: 1.1
