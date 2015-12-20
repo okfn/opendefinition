@@ -5,9 +5,9 @@ title: Avatud teadmuse definitsioon 2.1
 
 Versioon 2.1
 
-Avatud teadmuse definitsioon täpsustab "avatuse" tähendust seoses teadmiste ja teadmusega, kultiveerimaks töökindlat ühisvara, milles võib igaüks osaleda ning teha suurimal võimalikul määral koostööd.
+Avatud teadmuse definitsioon täpsustab "avatuse" tähendust seoses teadmusega, kultiveerimaks töökindlat ühisvara, milles võib igaüks osaleda ning teha suurimal võimalikul määral koostööd.
 
-**Kokkuvõte:** *Teadmus on avatud, kui igaüks pääseb sellele vabalt ligi, saab seda vabalt kasutada, täiendada ning jagada — seadmata piiranguid muuks, kui teadmiste allikapärasuse ja avatuse tagamiseks.*
+**Kokkuvõte:** *Teadmus on avatud, kui igaüks pääseb sellele vabalt ligi, saab seda vabalt kasutada, täiendada ning jagada — seadmata piiranguid muuks, kui teadmuse allikapärasuse ja avatuse tagamiseks.*
 
 See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](https://en.wikipedia.org/wiki/The_Open_Source_Definition), ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabavara definitsioon](https://en.wikipedia.org/wiki/The_Free_Software_Definition) ja [vabakultuuri teoste definitsioon](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works).
 
