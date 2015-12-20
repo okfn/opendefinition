@@ -9,7 +9,7 @@ Avatud teadmuse definitsioon täpsustab "avatuse" tähendust seoses teadmiste ja
 
 **Kokkuvõte:** *Teadmus on avatud, kui igaüks pääseb sellele vabalt ligi, saab seda vabalt kasutada, täiendada ning jagada — seadmata piiranguid muuks, kui teadmiste allikapärasuse ja avatuse tagamiseks.*
 
-See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](https://en.wikipedia.org/wiki/The_Open_Source_Definition) ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabavara definitsioon](https://en.wikipedia.org/wiki/The_Free_Software_Definition) ja [vabakultuuri teoste definitsioon](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works).
+See põhitähendus vastab "avatuse" tähendusele seoses tarkvaraga, nagu piiritleb seda [avatud lähtekoodi definitsioon](https://en.wikipedia.org/wiki/The_Open_Source_Definition), ning sellega on samatähenduslik "vaba" või "libre" nagu piiritleb [vabavara definitsioon](https://en.wikipedia.org/wiki/The_Free_Software_Definition) ja [vabakultuuri teoste definitsioon](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works).
 
 Terminit **teos** kasutatakse, osutamaks edasiantava teadmuse üksusele või selle osale.
 
@@ -17,7 +17,7 @@ Termin **litsents** osutab õiguslikele tingimustele, mille alusel on teos tehtu
 
 Termin **avalik omand** osutab autoriõiguse või sarnaste piirangute puudumisele, olgu siis vaikimisi või nende õiguste loovutamise tulemusena.
 
-Võtmelise tähtsusega sõnu "peab", "ei tohi", "peaks" ja "võib" tuleb käesolevas dokumendis tõlgendada nii, nagu neid kirjeldab [RFC2119](https://tools.ietf.org/html/rfc2119).
+Võtmelise tähtsusega sõnu "peab", "ei tohi", "võiks" ja "võib" tuleb käesolevas dokumendis tõlgendada nii, nagu neid kirjeldab [RFC2119](https://tools.ietf.org/html/rfc2119).
 
 ## 1. Avatud teosed
 
@@ -33,7 +33,7 @@ Avatud **teos** *peab* selle teose levitamisel rahuldama järgmisi nõudeid:
 
 ### 1.3 Masinloetavus
 
-**Teos** *peab* olema tehtud kättesaadavaks vormis, mis võimaldab seda kergesti töödelda arvutil, kusjuures teose eraldiseisvad osad on lihtsasti ligipääsetavad ning muudetavad.
+**Teos** *peab* olema tehtud kättesaadavaks vormis, mis võimaldab seda kergesti töödelda arvutil, kusjuures teose eraldiseisvad osad on lihtsasti ligipääsetavad ning täiendatavad.
 
 ### 1.4 Avatud vorming
 
@@ -87,7 +87,7 @@ Teosega seotud õigused *peavad* kehtima kõigi jaoks, kellele see on edasilevit
 
 ### 2.2 Vastuvõetavad tingimused
 
-**Litsents** *ei tohi* piirata, muuta ebaselgeks ega vähendada muul viisil õigusi, mis on nõutud jaotises 2.1 välja arvatud järgmistel lubatud tingimustel:
+**Litsents** *ei tohi* piirata, muuta ebaselgeks ega vähendada muul viisil õigusi, mis on nõutud jaotises 2.1, välja arvatud järgmistel lubatavatel tingimustel:
 
 #### 2.2.1 Omistamine
 
@@ -111,15 +111,13 @@ Teosega seotud õigused *peavad* kehtima kõigi jaoks, kellele see on edasilevit
 
 #### 2.2.6 Tehniliste piirangute keeld
 
-**Litsents** *võib* nõuda, et levitatud teosed ei oleks koormatud mis tahes selliste tehniliste meetmetega, mis võiksid piirata normaaljuhul lubatud õiguste teostamist.
+**Litsents** *võib* nõuda, et levitatud teosed ei oleks koormatud ühegi tehnilise meetmega, mis võiks piirata normaaljuhul lubatud õiguste teostamist.
 
 #### 2.2.7 Tõkestamatus
 
 **Litsents** *võib* nõuda täiendajailt, et need annaksid avalikkusele täiendavaid õigusi (näiteks patendi kasutamise loa), kui seda on vaja litsentsis lubatud õiguste teostamiseks. Litsents võib ühtlasi seada õiguste tingimuseks, et litsentsisaajaid ei tõkestataks nende mistahes lubatud õiguste teostamisel (näiteks patendivaidluste algatamisega).
 
 ----
-*Avatud teadmuse definitsioon tuletati algselt avatud lähtekoodi definitsioonist, mis omakorda tuletati Debiani 
-
-*Avatud teadmuse definitsioon töötati algselt välja lähtuvalt avatud lähtekoodi definitsioonist, mis omakorda põhines [Debiani vabavara suunistel](http://www.debian.org/social_contract) ja seda raamival Debiani ühiskondlikul kokkuleppel, mille väljatöötajateks olid Bruce Perens ja Debiani arendajate kogukond. Bruce võttis hiljem sama teksti aluseks avatud lähtekoodi definitsiooni koostamisel. See definitsioon on oma põhiolemuses nende dokumentide tuletis ja kannab endas nende peamisi põhimõtteid. Vaba tarkvara ideaalide esimeseks edendajaks oli Richard Stallman ja meie jätkame seda.*
+*Avatud teadmuse definitsioon töötati algselt välja lähtuvalt avatud lähtekoodi definitsioonist, mis omakorda põhines [Debiani vabavara suunistel](http://www.debian.org/social_contract) ja seda raamival Debiani ühiskondlikul kokkuleppel, mille väljatöötajateks olid Bruce Perens ja Debiani arendajate kogukond. Bruce võttis hiljem sama teksti aluseks avatud lähtekoodi definitsiooni koostamisel. See definitsioon on oma põhiolemuses nende dokumentide tuletis ja kannab endas nende peamisi põhimõtteid. Vaba tarkvara ideaalide esimeseks sõnastajaks oli Richard Stallman ja meie jätkame seda tööd.*
 
 _Tõlkinud [Märt Põder](https://twitter.com/trtram)_
