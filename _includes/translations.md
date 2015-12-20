@@ -30,7 +30,7 @@
 <a href="/od/1.1/pt/">Português</a> |
 <a href="/od/1.1/ru/">Русский</a> |
 <a href="/od/1.1/sq/">Shqip</a> |
-<a href="/od/1.0/sr/">Srpski</a> |
+<a href="/od/1.1/sr/">Srpski</a> |
 <a href="/od/1.1/sv/">Svenska</a> |
 <a href="/od/1.1/te/">తెలుగు</a> |
 <a href="/od/1.1/tr/">Türkçe</a> |
