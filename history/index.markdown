@@ -10,13 +10,13 @@ wordpress_id: 76
 
 ## History of the Open Definition
 
-### v2.1
+### v2.1: 2015-11
 
 [Announcement](http://blog.okfn.org/2015/11/10/announcement-open-definition-2-1/)
 
 [2.0-2.1 diff](/od/diffs/2.0-2.1-en-wdiff.html)
 
-### v2.0
+### v2.0: 2014-10
 
 [Announcement](http://blog.okfn.org/2014/10/07/open-definition-v2-0-released-major-update-of-essential-standard-for-open-data-and-open-content/)
 

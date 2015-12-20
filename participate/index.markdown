@@ -11,7 +11,9 @@ Also see our [issue tracker](https://github.com/okfn/opendefinition/issues) and 
 
 If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.1/languagecode/index.markdown` eg `od/2.1/fr/index.markdown` for French, then submit a pull request.
 
-Note the definition includes links to Wikipedia articles about the Free Software Definition and Open Source Definition. If there are articles in target language Wikipedias, the links should point to those instead of the English Wikipedia articles. If target language Wikipedia articles for the FSD and OSD do not exist, consider creating them.
+Note the as of 2.1 definition includes links to Wikipedia articles about the Free Software Definition and Open Source Definition. If there are articles in target language Wikipedias, the links should point to those instead of the English Wikipedia articles. If target language Wikipedia articles for the FSD and OSD do not exist, consider creating them.
+
+If you're updating a translation from an older version, the English version diffs linked on the [history page](/history) may be useful.
 
 If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/2.1/en/index.markdown), translate it, and [send to us](/contact).
 
