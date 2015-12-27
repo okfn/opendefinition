@@ -13,7 +13,7 @@ This pages outlines the process for submitting a license so that it can be check
 The [Advisory Council](/advisory-council) will make the final decision on whether or not a license conforms to the Open Definition and in which category to place the license. This decision will typically follow the consensus reached via discussion on the mailing list.
 
 ##Submitting The License
-Submit the license to the Open Definition [mailing list](/contact) for discussion. **For a new license, this should occur before the license is finalized, so that you can revise based on the group's feedback.** While engagement by license's steward/creator is ideal, anyone may submit a license.
+Submit the license to the Open Definition [forum](/contact) for discussion. **For a new license, this should occur before the license is finalized, so that you can revise based on the group's feedback.** While engagement by license's steward/creator is ideal, anyone may submit a license.
 
 To do this:
 
@@ -31,7 +31,7 @@ To do this:
 ##What Will Happen
 
 1. After submission, the Open Definition community will discuss on the mailing list and reach consensus.
-2. The Open Definition Advisory Council chair will summarize the consensus to the Advisory Council on the mailing list and to other relevant fora, [okfn-discuss](https://lists.okfn.org/mailman/listinfo/okfn-discuss) at a minimum.
+2. The Open Definition Advisory Council chair will summarize the consensus to the Advisory Council on the forum and to other relevant venues, [okfn-discuss](https://lists.okfn.org/mailman/listinfo/okfn-discuss) at a minimum.
 3. If over next two weeks issues are raised which indicate a different consensus or further discussion needed, chair will step process back to first or second step as appropriate. Otherwise, chair calls for formal approval of consensus by Advisory Council.
 4. If after two weeks at least three Advisory Council members approve the consensus summary on-list, and at least 75% of Advisory Council members expressing an opinion on the summary if any dissent, the website will be updated, and announcements made to public, submitter, and wider lists as appropriate.  Wider lists includes the okfn-discuss@lists.okfn.org and local@lists.okfn.org lists.
 
