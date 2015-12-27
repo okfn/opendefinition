@@ -10,7 +10,7 @@ wordpress_id: 388
 
 **Open** *bibliographic* data is material that is:
 
-  * "Open" as defined by this site's [Open Definition](/1.0/)-- in essence  freely usable, reusable and redistributable, subject, at most, to the requirements to attribute and sharealike.
+  * "Open" as defined by this site's [Open Definition](/od/{{site.od_current_version}}/en/)-- in essence  freely usable, reusable and redistributable, subject, at most, to the requirements to attribute and sharealike.
   * Data or metadata produced by the bibliographic (library) sector, in particular catalogue (and related) metadata.
 
 ### More information

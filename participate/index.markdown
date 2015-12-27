@@ -21,7 +21,7 @@ If you aren't familiar with git, download the [current version](https://raw.gith
 
 There is also membership of the [Advisory Council](/advisory-council) which is the group which ultimately determines the content of the Definitions and conformance with their principles. New members of the Council can be appointed at any time by agreement of the existing members of the Advisory Council (this requires consensus: namely at least one supporter and no objectors).
 
-If you are interested in becoming an Advisory Council member we recommend joining the public list and contributing there first. This is a chance for other members of the community to get to know you and for you to establish your knowledge and competency. You can then request membership of the Council.
+If you are interested in becoming an Advisory Council member we recommend joining the public forum and contributing there first. This is a chance for other members of the community to get to know you and for you to establish your knowledge and competency. You can then request membership of the Council.
 
 You or a nominating Council member should provide your brief bio at this time. All existing Council members will be queried for support or objection, and after two weeks there is at least one supporter and no objectors, per above, you will be warmly welcomed to the council.
 

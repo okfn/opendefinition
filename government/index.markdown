@@ -10,7 +10,7 @@ wordpress_id: 264
 
 **Open** government data and content is material that is:
 
-  * "Open" as defined by this site's [Open Definition](/1.0/)-- in essence material (data) is open if it can be freely used, reused and redistributed by anyone.
+  * "Open" as defined by this site's [Open Definition](/od/{{site.od_current_version}}/en/)-- in essence material (data) is open if it can be freely used, reused and redistributed by anyone.
   * Produced or commissioned by government or government controlled entities.
 
 ### More information
