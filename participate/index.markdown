@@ -7,7 +7,7 @@ The work of the Open Definition project is done in an open manner and everyone i
 
 Also see our [issue tracker](https://github.com/okfn/opendefinition/issues) and [blog](/update/) for other opportunites.
 
-###Translation
+### Translation
 
 If you can use git, clone the [Open Definition repository](https://github.com/okfn/opendefinition), add your translation under `od/2.1/languagecode/index.markdown` eg `od/2.1/fr/index.markdown` for French, then submit a pull request.
 
@@ -17,7 +17,7 @@ If you're updating a translation from an older version, the English version diff
 
 If you aren't familiar with git, download the [current version](https://raw.githubusercontent.com/okfn/opendefinition/gh-pages/od/2.1/en/index.markdown), translate it, and [send to us](/contact).
 
-###Advisory Council
+### Advisory Council
 
 There is also membership of the [Advisory Council](/advisory-council) which is the group which ultimately determines the content of the Definitions and conformance with their principles. New members of the Council can be appointed at any time by agreement of the existing members of the Advisory Council (this requires consensus: namely at least one supporter and no objectors).
 
@@ -25,7 +25,7 @@ If you are interested in becoming an Advisory Council member we recommend joinin
 
 You or a nominating Council member should provide your brief bio at this time. All existing Council members will be queried for support or objection, and after two weeks there is at least one supporter and no objectors, per above, you will be warmly welcomed to the council.
 
-###Ancillary Definitions, Guides, Pages
+### Ancillary Definitions, Guides, Pages
 
 The following hosted by the Open Definition site need further development or updating. Questions, suggestions, and pull requests welcome!
 
