@@ -24,6 +24,7 @@
 <a href="/od/1.1/kn/">ಕನ್ನಡ</a> |
 <a href="/od/2.1/ko/">한국어</a> |
 <a href="/od/1.1/mk/">македонски јазик</a> |
+<a href="/od/2.1/ne/">नेपाली</a> |
 <a href="/od/1.1/no/">Norsk (bokmål)</a> |
 <a href="/od/2.0/pl/">Polszczyzna</a> |
 <a href="/od/2.0/pt-br/">Português Brasileiro </a> |
