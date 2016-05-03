@@ -25,7 +25,7 @@ It is worth noting a few things that the definition, and this project, are **not
 
 ## Who's Behind This
 
-The first version of the Open Definition was developed by [Open Knowledge](http://www.okfn.org) with substantial input from other interested parties (see acknowledgements section below). The project now has its own [Advisory Council](/advisory-council) who oversee the development of the definition and associated materials. However as detailed on the [participate](/participate) page the project is community-based and anyone can participate. Individuals and organizations who would be interested in becoming members of the 'Advisory Council' and help 'curate' the definition over the longer-term are especially welcome.
+The first version of the Open Definition was developed by [Open Knowledge International](http://www.okfn.org) with substantial input from other interested parties (see acknowledgements section below). The project now has its own [Advisory Council](/advisory-council) who oversee the development of the definition and associated materials. However as detailed on the [participate](/participate) page the project is community-based and anyone can participate. Individuals and organizations who would be interested in becoming members of the 'Advisory Council' and help 'curate' the definition over the longer-term are especially welcome.
 
 ## Acknowledgments
 
