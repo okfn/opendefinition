@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title> 
+  <title>
     {{page.title}} - {{site.title}} - Defining Open in Open Data, Open Content and Open Knowledge
   </title>
   <meta name="author" content="Open Knowledge Open Definition Group" />
@@ -66,6 +66,10 @@
 {% endif %}
     <div class="row">
       <div class="span7 main offset1">
+        {% assign url_elements = page.url | split:"/" %}
+        {% if url_elements[-3] == "od" and url_elements[-2] < site.od_current_version and url_elements[-1] == "en" %}
+        <div class="notice">A <a href="/od/{{ site.od_current_version }}/{{ url_elements[-1] }}/">newer version</a> of the Open Definition is available.</div>
+        {% endif %}
         {% if page.notitle != true %}
         <div class="page-header">
           <h1>
