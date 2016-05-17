@@ -41,6 +41,10 @@
   text-align: center;
 }
 
+.notice {
+  text-align: center;
+  background-color: lightyellow;
+}
 
 /** Front page **/
 
@@ -49,4 +53,3 @@
   line-height: 24px;
   margin-bottom: 20px;
 }
-
