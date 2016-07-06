@@ -36,7 +36,7 @@ There are a variety of colours and shapes and you can check out the full range o
 ### Open Knowledge Button
 
 ```
-<a href="http://opendefinition.org/"><img src="/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png" alt="This material is Open Knowledge"/></a>
+<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png" alt="This material is Open Knowledge"/></a>
 ```
 
 
@@ -52,7 +52,7 @@ The result should look similar to:
 ### Open Data Button
 
 ```
-<a href="http://opendefinition.org/"><img src="/assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="This material is Open Data"/></a>
+<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="This material is Open Data"/></a>
 ```
 
 The result should look similar to:
@@ -66,7 +66,7 @@ The result should look similar to:
 
 
 ```
-<a href="http://opendefinition.org/"><img src="/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="This material is Open Content"/></a>
+<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="This material is Open Content"/></a>
 ```
 
 

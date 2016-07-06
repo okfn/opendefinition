@@ -62,18 +62,15 @@ If you're providing an online service that's compliant with the Definition let p
 To add a button to your site just copy and paste the following bit of html into the relevant page on your site (or into the general footer or sidebar):
 
 
-[
-![](/assets.okfn.org/images/ok_buttons/os_80x15_blue.png)](http://opendefinition.org/ossd/)
-
+```
+<a href="http://opendefinition.org/ossd/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_blue.png" alt="This is an Open Service"/></a>
+```
 
 To use a different button (other than the blue one used in the example) just change the 'src' attribute to point to one of the other buttons:
 
-
-
-
-/assets.okfn.org/images/ok_buttons/os_80x15_blue.png
-/assets.okfn.org/images/ok_buttons/os_80x15_red_green.png
-/assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png
+* http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_blue.png
+* http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_red_green.png
+* http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png
 
 
 
