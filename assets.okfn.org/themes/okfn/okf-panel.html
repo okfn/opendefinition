@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>OKF Panel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Sam Smith">
+
+    <!-- Le styles -->
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/css/bootstrap.min.css" rel="stylesheet"> <!-- Standard BS -->
+    <link href='//fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'> <!-- Font -->
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
+    <![endif]-->
+
+    <style>
+      html {
+        overflow:hidden;
+      }
+      body {
+        font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,sans-serif;
+      }
+			.okf-panel.container {
+				padding-top:20px;
+				padding-bottom:20px;
+			}
+			.okf-panel.container .logo {
+				padding:35px 20px 23px 0;
+			}
+			.okf-panel.container .border {
+				border-right:dotted 1px #cfcfcf;
+			}
+			.okf-panel.container h2 {
+				color:#333333;
+				text-transform:capitalize;
+				font-size:14px;
+				font-weight:normal;
+				padding-top:15px;
+				padding-bottom:5px;
+				margin:0px;
+				line-height:normal;
+			}
+			.okf-panel.container label {
+				margin-top: 0px;
+				width:auto;
+				font-size:14px;
+				margin-top:15px;
+				padding-bottom:5px;
+				cursor:pointer;
+			}
+			.okf-panel.container a {
+				color:#333333;
+				text-decoration:none;
+			}
+			.okf-panel.container ul {
+				margin:0px;
+				padding:0px 0px 10px 0px;
+			}
+			.okf-panel.container ul li {
+				list-style:none;
+				font-size:11px;
+				line-height:normal;
+			}
+			.okf-panel.container ul li a {
+				opacity:0.8;
+			}
+			.okf-panel.container ul li a:hover {
+				opacity:1.0;
+				text-decoration:none;
+			}
+			.okf-panel.container form {
+				margin:0px;
+			}
+			.okf-panel.container form input[type="text"] {
+				width:100%;
+				height:auto;
+				-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+				-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+				box-sizing: border-box;         /* Opera/IE 8+ */
+			}
+			.message {
+				background-color:#EFEFEF;
+				text-align:center;
+				padding-top:20px;
+        padding-bottom:20px;
+			}
+		</style>
+
+  </head>
+
+  <body>
+		<base target="_blank">
+		<div class="okf-panel container">
+      	<div class="row">
+          <div class="span2">
+            <div class="border logo">
+           	  <a href="http://okfn.org/"><img src="//assets.okfn.org/p/okfn/img/okfn-logo-landscape.png"></a>
+            </div>
+          </div>
+          <div class="span2">
+            <div class="border">
+              <h2><a href="http://okfn.org/about/">About Us</a></h2>
+              <ul>
+                <li><a href="http://okfn.org/about/vision/">Our Vision</a></li>
+                <li><a href="http://okfn.org/about/team/">Our Team</a></li>
+                <li><a href="http://okfn.org/jobs/">Careers</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="span2">
+            <div class="border">
+              <h2><a href="http://okfn.org/activities/">Activities</a></h2>
+              <ul>
+                <li><a href="http://okfn.org/projects/">Projects</a></li>
+                <li><a href="http://okfn.org/wg/">Working Groups</a></li>
+                <li><a href="http://okfn.org/local/">Groups &amp; Chapters</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="span2">
+            <div class="border">
+              <h2><a href="http://okfn.org/contact/">Contact Us</a></h2>
+              <ul>
+                <li><a href="http://okfn.org/contact/">Email</a></li>
+                <li><a href="https://www.facebook.com/OKFNetwork">Facebook</a></li>
+                <li><a href="http://twitter.com/okfn">Twitter</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="span2">
+            <div class="border">
+              <h2><a href="http://okfn.org/support/">Support our Work</a></h2>
+              <ul>
+                <li><a href="http://okfn.org/support/#why">Why Support Us</a></li>
+                <li><a href="http://okfn.org/support/">Donate</a></li>
+                <li><a href="http://okfn.org/community/get-involved/">Get Involved</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="span2">
+            <form method="get" action="https://okfn.org/search/?">
+              <label for="q">Search</label>
+               <input type="text" name="q" id="q" />
+               <input type="hidden" id="searchsubmit" value="Search" />
+            </form>
+          </div>
+        </div>
+      </div>
+
+			<div class="message">
+        <h3>Oops, you shouldn't be here!</h3>
+        <a href="http://okfn.org/" class="btn" target="_top">Homepage</a>
+      </div>
+
+  </body>
+</html>
