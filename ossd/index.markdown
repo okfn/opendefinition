@@ -63,7 +63,7 @@ To add a button to your site just copy and paste the following bit of html into 
 
 
 [
-![](http://assets.okfn.org/images/ok_buttons/os_80x15_blue.png)](http://opendefinition.org/ossd/)
+![](/assets.okfn.org/images/ok_buttons/os_80x15_blue.png)](http://opendefinition.org/ossd/)
 
 
 To use a different button (other than the blue one used in the example) just change the 'src' attribute to point to one of the other buttons:
@@ -71,9 +71,9 @@ To use a different button (other than the blue one used in the example) just cha
 
 
 
-http://assets.okfn.org/images/ok_buttons/os_80x15_blue.png
-http://assets.okfn.org/images/ok_buttons/os_80x15_red_green.png
-http://assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png
+/assets.okfn.org/images/ok_buttons/os_80x15_blue.png
+/assets.okfn.org/images/ok_buttons/os_80x15_red_green.png
+/assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png
 
 
 
