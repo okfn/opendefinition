@@ -10,18 +10,18 @@ wordpress_id: 122
 
 We've created some web buttons which you can use to indicate that the material you are distributing is **open**.
 
-![Open Knowledge](http://assets.okfn.org/images/ok_buttons/ok_80x15_blue.png "Open Knowledge")
-![Open Knowledge](http://assets.okfn.org/images/ok_buttons/ok_80x15_red_green.png "Open Knowledge")
-![Open Knowledge](http://assets.okfn.org/images/ok_buttons/ok_80x15_orange_grey.png "Open Knowledge")
-![Open Knowledge](http://assets.okfn.org/images/ok_buttons/ok_80x23_blue.png "Open Knowledge")
+![Open Knowledge](/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png "Open Knowledge")
+![Open Knowledge](/assets.okfn.org/images/ok_buttons/ok_80x15_red_green.png "Open Knowledge")
+![Open Knowledge](/assets.okfn.org/images/ok_buttons/ok_80x15_orange_grey.png "Open Knowledge")
+![Open Knowledge](/assets.okfn.org/images/ok_buttons/ok_80x23_blue.png "Open Knowledge")
 
-![Open Data](http://assets.okfn.org/images/ok_buttons/od_80x15_blue.png "Open Data")
-![Open Data](http://assets.okfn.org/images/ok_buttons/od_80x15_red_green.png "Open Data")
-![Open Data](http://assets.okfn.org/images/ok_buttons/od_80x23_blue.png "Open Data")
+![Open Data](/assets.okfn.org/images/ok_buttons/od_80x15_blue.png "Open Data")
+![Open Data](/assets.okfn.org/images/ok_buttons/od_80x15_red_green.png "Open Data")
+![Open Data](/assets.okfn.org/images/ok_buttons/od_80x23_blue.png "Open Data")
 
-![Open Content](http://assets.okfn.org/images/ok_buttons/oc_80x15_blue.png "Open Content")
-![Open Content](http://assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png "Open Content")
-![Open Content](http://assets.okfn.org/images/ok_buttons/oc_80x23_blue.png "Open Content")
+![Open Content](/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png "Open Content")
+![Open Content](/assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png "Open Content")
+![Open Content](/assets.okfn.org/images/ok_buttons/oc_80x23_blue.png "Open Content")
 
 There are a variety of colours and shapes and you can check out the full range on this demo page:
 
@@ -36,7 +36,7 @@ There are a variety of colours and shapes and you can check out the full range o
 ### Open Knowledge Button
 
 ```
-<a href="http://opendefinition.org/"><img src="http://assets.okfn.org/images/ok_buttons/ok_80x15_blue.png" alt="This material is Open Knowledge"/></a>
+<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png" alt="This material is Open Knowledge"/></a>
 ```
 
 
@@ -45,20 +45,20 @@ The result should look similar to:
 
 
 [
-  ![This material is Open Knowledge](http://assets.okfn.org/images/ok_buttons/ok_80x15_blue.png)
+  ![This material is Open Knowledge](/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png)
 ](http://opendefinition.org/)
 
 
 ### Open Data Button
 
 ```
-<a href="http://opendefinition.org/"><img src="http://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="This material is Open Data"/></a>
+<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="This material is Open Data"/></a>
 ```
 
 The result should look similar to:
 
 [
-  ![This material is Open Data](http://assets.okfn.org/images/ok_buttons/od_80x15_blue.png)
+  ![This material is Open Data](/assets.okfn.org/images/ok_buttons/od_80x15_blue.png)
 ](http://opendefinition.org/)
 
 
@@ -66,7 +66,7 @@ The result should look similar to:
 
 
 ```
-<a href="http://opendefinition.org/"><img src="http://assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="This material is Open Content"/></a>
+<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="This material is Open Content"/></a>
 ```
 
 
@@ -74,6 +74,6 @@ Which should look similar to:
 
 
 [
-  ![This material is Open Content](http://assets.okfn.org/images/ok_buttons/oc_80x15_blue.png)](http://opendefinition.org/)
+  ![This material is Open Content](/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png)](http://opendefinition.org/)
 
 
