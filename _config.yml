@@ -1,7 +1,7 @@
 title: Open Definition
 markdown: kramdown
 googleanalytics: UA-8271754-4
-github: http://github.com/okfn/opendefinition
+repository: okfn/opendefinition
 url: http://opendefinition.org
 permalink: /:year/:month/:day/:title/
 od_current_version: '2.1'
