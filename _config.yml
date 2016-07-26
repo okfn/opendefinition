@@ -9,3 +9,4 @@ od_current_version: '2.1'
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-github-metadata
