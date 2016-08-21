@@ -103,7 +103,7 @@ Cf. [Sweat of the Brow, Creativity, and Authorship: On Originality in Canadian C
 
 ####  Overview 
 
-Ths US is a common-law jurisdiction. However the Feist decision substantially raises the originality 'bar' required for the existence of a copyright in a compilation. There are excellent summaries of the US situation in Ius Mentis Crash course on database rights[^5] and Copyright in Database[^6]. For instance, Ius Mentis[^5a] states:
+The US is a common-law jurisdiction. However the Feist decision substantially raises the originality 'bar' required for the existence of a copyright in a compilation. There are excellent summaries of the US situation in Ius Mentis Crash course on database rights[^5], article on database protection[^5a] and Copyright in Databases blog[^6]. For instance, Ius Mentis states:
 
 > "The US has no database law like the European Union. Databases can be protected by copyright if they qualify as a "compilation". This requires that the items were included into the database because of some creative expression on the part of the collector. For instance a "best of 2004" collection qualifies. This involves an aesthetic judgment about what is the "best". A "complete list of English words" would not, since trying to be complete is not a creative activity."
 >
@@ -173,9 +173,9 @@ In addition we'd like to acknowledge the excellent sciencecommons FAQ [11] origi
 ##  References 
 
 [^1]: Cornish and Llewelyn, Intellectual Property, 5th Edition (Sweet and Maxwell)]
-[^2]: [Blog entry on CCH Canadian Ltd. v. Law Society of Upper Canada](http://ansuz.sooke.bc.ca/lawpoli/cases/2004030401.php)
-[^3]: [Open Library Catalog Data](http://www.tomkeays.com/blog/archives/2006/12/18/004216.php) (blog entry)
-[^4]: [Science Commons FAQ on Databases](http://sciencecommons.org/resources/faq/databases)
+[^2]: [Blog entry on CCH Canadian Ltd. v. Law Society of Upper Canada](http://web.archive.org/web/20070629163851/http://ansuz.sooke.bc.ca/lawpoli/cases/2004030401.php)
+[^3]: [Open Library Catalog Data](http://web.archive.org/web/20070527071114/http://www.tomkeays.com/blog/archives/2006/12/18/004216.php) (blog entry)
+[^4]: [Science Commons FAQ on Databases](http://web.archive.org/web/20071208070900/http://sciencecommons.org/resources/faq/databases/)
 [^5]: [Ius Mentis Crash course on database rights](http://www.iusmentis.com/databases/crashcourse/)
 [^5a]: [Ius Mentis: Database protection in the US](http://www.iusmentis.com/databases/us/)
-[^6]: [Copyright in Databases by Michael Carroll](http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html) (Visiting Professor of Law at the American University, Washington College of Law)
+[^6]: [Copyright in Databases](http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html), blog by Michael Carroll, Visiting Professor of Law at the American University, Washington College of Law
