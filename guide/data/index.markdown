@@ -31,11 +31,11 @@ In most jurisdictions there are intellectual property rights in data that preven
 
 What licenses can you use? We recommend for 'open' data you use one of the licenses conformant with the [Open Definition ](http://www.opendefinition.org/) and marked as suitable for data. This list (along with instructions for usage) can be found at:
 
-* 
+* [Open Licenses](http://opendefinition.org/licenses/)
 
 A short 1-page instruction guide to applying an open data license can be found on the Open Data Commons site:
 
-* 
+* [Making Your Data Open](http://opendatacommons.org/guide/)
 
 ## What Legal (IP) Rights Are There in Data (and Databases)
 
@@ -93,7 +93,7 @@ However generally continental Europe tougher because requires higher standard of
 
 ###  Canada 
 
-Canada, though also a common law jurisdiction like Australia, has tended to limit the range of IP rights in databases more. In particular the recent case of *CCH Canadian Ltd. v. Law Society of Upper Canada*  included discussions of originality, the 'sweat of the brow' approach and references to the Feist case. However, there was no clear ruling relevant to data licensing as database rights were not specifically issue. From [9]:
+Canada, though a common law jurisdiction, has tended to limit the range of IP rights in databases more. In particular the recent case of *CCH Canadian Ltd. v. Law Society of Upper Canada*  included discussions of originality, the 'sweat of the brow' approach and references to the Feist case. However, there was no clear ruling relevant to data licensing as database rights were not specifically issue. From [9]:
 
 "Paragraphs 15 to 25 hint towards the question of database protection, and even cite the US case (Feist) on telephone directories, but as is usual, since that question wasn't actually one of the ones that needed to be decided here, they didn't completely decide it.  The Court rejects the "sweat of the brow" definition of "original work" (which is the one that leads to "the phone book database is an original work") but also rejects the "creativity" definition (which requires work to be "novel" or "unique"); instead, "originality" is supposed to require "exercise of skill and judgment".  From paragraph 16:  "The exercise of skill and judgment required to produce the work must not be so trivial that it could be characterized as a purely mechanical exercise." That sounds like it could exclude databases.  But then in the next sentence there will be something to annoy the graphic design people (hi, Kate!):  "For example, any skill and judgment that might be involved in simply changing the font of a work to produce "another" work would be too trivial to merit copyright protection as an "original" work."
 
