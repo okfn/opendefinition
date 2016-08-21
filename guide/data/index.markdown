@@ -91,45 +91,6 @@ Database protection has been around for quite a while indirectly both in Europe 
 
 However generally continental Europe tougher because requires higher standard of 'creativity/originality' to grant copyright.
 
-###  Australia 
-
-Like other common law jurisdictions Australia provides for 'sweat-of-the-brow' copyright on the basis of the application of skill and labour. The relevant decision in this regard is ''Desktop Marketing Systems
-Pty Ltd v Telstra Corporation Limited''[4] summarized in [5].
-
-#### Copyright in Data under the Australian Copyright Act 1968 (Cth)
-
-Under the Australian Copyright Act 1968 (Cth)[6] ideas  and  information may be protected when they are expressed in a "material form",  such  as written down, entered into a computer or stored in some  other  machine-readable form.  What is protected is not  the  idea  or  information  in itself, but rather the expression of that idea or information, that  is, the form in which the idea or  information  is  expressed.   This  means that raw data,  basic  facts  or  items  of  information  will  not,  in themselves,  attract  copyright  protection.    However,   where   data, information or facts have been compiled to  create  a  new  work,  eg  a dataset or database, that work  may  be  protected  by  copyright  as  a compilation if it  meets  the  originality  threshold  under  Australian copyright law.
-
-Compilations are protected in the  literary  works  category,  which  is defined in s10(1) of the Copyright Act  as  including  "a  table,  or  a compilation, expressed in words, figures or  symbols".   Data,  metadata or a compilation of numerous items of data or metadata  records  may  be protected  by  copyright  if  the  compilation  meets  the   originality threshold required for copyright.  Any underlying database software  may also be protected by copyright as a literary work.   The  definition  of "literary work" in s 10(1) of the Copyright  Act  includes  "a  computer program or a compilation of computer programs".
-
-#### Compilations - Desktop v. Telstra
-
-In  Desktop  Marketing  Systems  Pty  Ltd  v  Telstra  Corporation   Ltd (2002)[7], the leading Australian case in this area,  the  Full  Federal Court considered whether Telstra had copyright in its Yellow  Pages  and White Pages directories containing names, addresses  and  phone  numbers of telephone subscribers in  a  given  region,  listed  in  alphabetical order.   Telstra  had  undertaken  substantial   labour   and   incurred substantial expense in compiling and listing the subscriber  entries  in its White and Yellow Pages directories.
-
-The court held that copyright can be claimed in a compilation which -
-
-* has been produced as a result of the exercise of skill,  judgment or knowledge in the selection, presentation or arrangement of the materials; or
-
-* has required the investment of a substantial amount of labour  or expense to generate or collect the material included in  it  (the so-called "sweat of the brow" approach).[8]
-
-The  court  held  that  Telstra  had  met  the  originality   threshold, notwithstanding that there may have been minimal intellectual  input  or creativity in the selection and  arrangement  of  the  material  in  the telephone directories.
-
-The decision in Desktop Marketing Systems Pty Ltd v Telstra  Corporation Ltd makes it clear that, in Australia,  a  compilation  of  data,  eg  a database,  may  be  protected  by  copyright  provided  that  either   a sufficient amount of labour or expense  has  gone  into  collecting  the data or a sufficient degree of skill, judgment  or  knowledge  has  been applied in selecting and organising the data.
-
-The test described by  the  Full  Federal  Court  in  Desktop  Marketing Systems Pty Ltd v Telstra Corporation Ltd sets  a  lower  threshold  for originality than that required in the United States.  In Australia,  the originality test does  not  require  any  degree  of  creativity  to  be applied in creating the work, with the  result  that  a  purely  factual compilation is more  likely  to  qualify  for  copyright  protection  in Australia than in the United States.
-
-#### Assigning and licensing copyright in datasets and databases - further considerations
-
-Owners of copyright in datasets and databases  may  fully  or  partially assign their copyright or license  another  party  to  use  it.   To  be legally effective, assignments must be (1) in writing,  and  (2)  signed by or on behalf of the  assignor.   Licences  need  not  be  in  writing unless the licence being  granted  is  an  exclusive  one.     Copyright datasets and databases can be  licensed  under  a  creative  commons  or other similar open content copyright licence.
-
-For further  information  on  Australian  copyright  law  applicable  to databases, the licensing of data and issues of open access to data see:
-
-* [The Oak Law Project Report No. 1: Creating a Legal  Framework  for Copyright Management of Open Access within the Australian Academic and Research Sector](http://eprints.qut.edu.au/archive/00006099/) (PDF), August  2006,  Elect  Printing,  Canberra;
-* [The Oak Law Project and the Legal framework for e-Research Project Report: Building the Infrastructure for Data Access and  Reuse  in Collaborative Research: An Analysis of  the  Legal  Context](http://eprints.qut.edu.au/archive/00008865/) (PDF), June 2007, Elect Printing, Canberra;
-* [The Queensland Spatial Information Council's Report: Government Information and Open Content Licensing: An Access and Use Strategy](http://www.qsic.qld.gov.au/qsic/QSIC.nsf/CPByUNID/BFDC06236FADB6814A25727B0013C7EE), October 2006;
-* Chapter 4 - Copyright, in "Intellectual Property: in Principle", Anne Fitzgerald and Brian Fitzgerald, Thomson, Sydney, 2004; and
-* Chapter 4 - Copyright, in "Internet  and e-commerce law: technology, law and policy" Brian, Fitzgerald, Anne Fitzgerald  et al, Thomson, Sydney, 2007.
-
 ###  Canada 
 
 Canada, though also a common law jurisdiction like Australia, has tended to limit the range of IP rights in databases more. In particular the recent case of *CCH Canadian Ltd. v. Law Society of Upper Canada*  included discussions of originality, the 'sweat of the brow' approach and references to the Feist case. However, there was no clear ruling relevant to data licensing as database rights were not specifically issue. From [9]:
