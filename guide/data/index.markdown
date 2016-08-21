@@ -136,6 +136,10 @@ Things to consider:
 * Difference between a derivative work and a compilation
 * Attribution requirements for data
 
+### Geodata around the world
+
+OpenStreetMap keeps a wiki page with [case law](http://wiki.openstreetmap.org/wiki/Case_law) related to Geodata all around the world.
+
 ### Geodata in the UK
 
 See:
@@ -169,16 +173,9 @@ In addition we'd like to acknowledge the excellent sciencecommons FAQ [11] origi
 ##  References 
 
 * [3]: Cornish and Llewelyn, Intellectual Property, 5th Edition [Sweet and Maxwell].
-* [4]: Desktop Marketing Systems Pty Ltd v Telstra Corporation Limited, [2002] FCAFC 112 (15 May 2002).
-* [5]: Davison, M. The Legal Protection of Databases, Cambridge Studies in Intellectual Property Rights, Cambridge, 2003.
-* [6]: See the Copyright Act 1968 on the ComLaw.web site: .
-* [7]: Desktop Marketing Systems Pty Ltd v Telstra Corporation  Ltd  [2002] FCAFC 112, Full Court of the Federal Court of Australia, Chief  Justice Black and Justices Lindgren and Sackville, at .  The  Full Federal  Court  affirmed  the  first  instance   decision in Telstra Corporation Ltd v. Desktop Marketing  Systems  [2001]  FCA  612,  Justice Finkelstein, at . See further  Brian  Fitzgerald   and   Cheranne   Bartlett,   'Database Protection under Australian Copyright  Law:  Desktop Marketing  Systems Pty Ltd v Telstra Corporation [2002] FCAFC 112' (2003) 7 Southern  Cross University Law Review 308.
-* [8]: Desktop Marketing Systems Pty Ltd v Telstra Corporation [2002] FCAFC 112, [409].
 * [9]: [Blog entry on CCH Canadian Ltd. v. Law Society of Upper Canada](http://ansuz.sooke.bc.ca/lawpoli/cases/2004030401.php).
 * [10]: [Open Library Catalog Data](http://www.tomkeays.com/blog/archives/2006/12/18/004216.php) (blog entry).
 * [11]: [Science Commons FAQ on Databases](http://sciencecommons.org/resources/faq/databases).
-* [12]: [OSM Wiki Page containing Information on case law as it specifically relates to geodata](http://wiki.openstreetmap.org/index.php/Case_law)
-* [13]: [ Ius Mentis Crash course on database rights](http://www.iusmentis.com/databases/crashcourse/)
-* [13a]: [ Ius Mentis: Database protection in the US](http://www.iusmentis.com/databases/us/)
-* [14]: [Copyright in Databases by Michael Carroll](http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html) (Visiting Professor of Law at the American University, Washington College of Law)
-* [15]: [Licensing Geographic Data](http://www.punkish.org/Licensing-Geographic-Data)
+* [13]: [Ius Mentis Crash course on database rights](http://www.iusmentis.com/databases/crashcourse/).
+* [13a]: [Ius Mentis: Database protection in the US](http://www.iusmentis.com/databases/us/).
+* [14]: [Copyright in Databases by Michael Carroll](http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html) (Visiting Professor of Law at the American University, Washington College of Law).
