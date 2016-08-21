@@ -172,10 +172,10 @@ In addition we'd like to acknowledge the excellent sciencecommons FAQ [11] origi
 
 ##  References 
 
-* [^1]: Cornish and Llewelyn, Intellectual Property, 5th Edition (Sweet and Maxwell)]
-* [^2]: [Blog entry on CCH Canadian Ltd. v. Law Society of Upper Canada](http://ansuz.sooke.bc.ca/lawpoli/cases/2004030401.php)
-* [^3]: [Open Library Catalog Data](http://www.tomkeays.com/blog/archives/2006/12/18/004216.php) (blog entry)
-* [^4]: [Science Commons FAQ on Databases](http://sciencecommons.org/resources/faq/databases)
-* [^5]: [Ius Mentis Crash course on database rights](http://www.iusmentis.com/databases/crashcourse/)
-* [^5a]: [Ius Mentis: Database protection in the US](http://www.iusmentis.com/databases/us/)
-* [^6]: [Copyright in Databases by Michael Carroll](http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html) (Visiting Professor of Law at the American University, Washington College of Law)
+[^1]: Cornish and Llewelyn, Intellectual Property, 5th Edition (Sweet and Maxwell)]
+[^2]: [Blog entry on CCH Canadian Ltd. v. Law Society of Upper Canada](http://ansuz.sooke.bc.ca/lawpoli/cases/2004030401.php)
+[^3]: [Open Library Catalog Data](http://www.tomkeays.com/blog/archives/2006/12/18/004216.php) (blog entry)
+[^4]: [Science Commons FAQ on Databases](http://sciencecommons.org/resources/faq/databases)
+[^5]: [Ius Mentis Crash course on database rights](http://www.iusmentis.com/databases/crashcourse/)
+[^5a]: [Ius Mentis: Database protection in the US](http://www.iusmentis.com/databases/us/)
+[^6]: [Copyright in Databases by Michael Carroll](http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html) (Visiting Professor of Law at the American University, Washington College of Law)
