@@ -31,7 +31,7 @@ In most jurisdictions there are intellectual property rights in data that preven
 
 What licenses can you use? We recommend for 'open' data you use one of the licenses conformant with the [Open Definition ](http://www.opendefinition.org/) and marked as suitable for data. This list (along with instructions for usage) can be found at:
 
-* [Open Licenses](http://opendefinition.org/licenses/)
+* [Open Licenses](/licenses/)
 
 A short 1-page instruction guide to applying an open data license can be found on the Open Data Commons site:
 
@@ -65,7 +65,7 @@ Finally, we should point out that absent any legal protection many providers of 
 
 #### Database Directive
 
-In the European Union there is a database specific 'Database Directive': Directive [96/9/EC on the 'legal protection of databases' (Eurlex)](http://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexapi!prod!CELEXnumdoc&lg=en&numdoc=31996L0009&model=guichett) (also available at the old [EC 'Information Society' archive](http://europa.eu.int/ISPO/infosoc/legreg/docs/969ec.html)).
+In the European Union there is a database specific 'Database Directive': Directive [96/9/EC on the 'legal protection of databases' (Eurlex)](http://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexapi!prod!CELEXnumdoc&lg=en&numdoc=31996L0009&model=guichett).
 
 It provides for both copyright and the sui-generis right though with some restrictions on when you can use the copyright (old common-law jurisdictions and many others allowed copyright in simple data no matter how 'unoriginal'). Specifically here is the quote from [3] paras 19-37 and following:
 
@@ -121,7 +121,7 @@ For example, the information provided in [10] appears to suggest the library of 
 
 Feist Publications, Inc., v. Rural Telephone Service Co. was a Supreme Court case from 1991. Rural claimed that Feist infringed their copyright by including portions of their local telephone listings in larger regional directories. The Supreme Court reversed the ruling of the District Court and the Court of Appeals - that Feist infringed copyright - suggesting that "originality, not 'sweat of the brow', is the touchstone of copyright protection in directories and other fact-based works". The fact that Rural, as a telephone company, was obliged to annually publish a telephone directory due to state regulation, was taken into account. Furthermore, it was mentioned that Feist's product would be less marketable if there were gaps in their listings - and that Feist and Rural "compete vigorously". The crucial point however, was that Rural's directory did not constitute a copyrightable 'work'. It lacked originality in the form of selection or arrangements of its parts - described by the court as "a garden-variety white pages directory, devoid of even the slightest trace of creativity". In the absence of original expression in its component parts it was ruled that the listings were not copyrightable.
 
- * [Feist v. Rural ruling](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court#US&vol=499&invol340)
+ * [Feist v. Rural ruling](https://supreme.justia.com/cases/federal/us/499/340/case.html)
 
 #### Federal Government Data
 
@@ -138,11 +138,15 @@ Things to consider:
 
 ### Geodata in the UK
 
-* See 
+See:
+
+* [Copyright or database right... Does it matter?](http://www.journalofmaps.com/cgi-bin/blosxom.cgi/GIS/GRADE_Waelde.html)
+* [Copyright not applicable to geodata?](http://blog.okfn.org/2007/04/01/copyright-not-applicable-to-geodata/)
+* Email thread [Copyright not applicable to geodata?](https://lists.okfn.org/pipermail/okfn-discuss/2007-April/000389.html)
 
 ### OWL Ontology for Use with Geodata
 
-* See mail thread: 
+* See mail thread: [implications of licensing restrictions on ontologies](https://lists.okfn.org/pipermail/okfn-discuss/2007-April/000401.html)
 
 ### Archaeological Data
 
@@ -164,10 +168,8 @@ In addition we'd like to acknowledge the excellent sciencecommons FAQ [11] origi
 
 ##  References 
 
-* [1]:  -- copyright not applicable to geodata post.
-* [2]:  -- copyright not applicable to geodata thread.
 * [3]: Cornish and Llewelyn, Intellectual Property, 5th Edition [Sweet and Maxwell].
-* [4]: *Desktop Marketing Systems Pty Ltd v Telstra Corporation Limited*, [2002] FCAFC 112 (15 May 2002).
+* [4]: Desktop Marketing Systems Pty Ltd v Telstra Corporation Limited, [2002] FCAFC 112 (15 May 2002).
 * [5]: Davison, M. The Legal Protection of Databases, Cambridge Studies in Intellectual Property Rights, Cambridge, 2003.
 * [6]: See the Copyright Act 1968 on the ComLaw.web site: .
 * [7]: Desktop Marketing Systems Pty Ltd v Telstra Corporation  Ltd  [2002] FCAFC 112, Full Court of the Federal Court of Australia, Chief  Justice Black and Justices Lindgren and Sackville, at .  The  Full Federal  Court  affirmed  the  first  instance   decision in Telstra Corporation Ltd v. Desktop Marketing  Systems  [2001]  FCA  612,  Justice Finkelstein, at . See further  Brian  Fitzgerald   and   Cheranne   Bartlett,   'Database Protection under Australian Copyright  Law:  Desktop Marketing  Systems Pty Ltd v Telstra Corporation [2002] FCAFC 112' (2003) 7 Southern  Cross University Law Review 308.
