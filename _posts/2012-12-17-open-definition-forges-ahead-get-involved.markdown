@@ -14,7 +14,7 @@ It does this primarily through curating the [Open Knowledge Definition](http://o
 
 With the growth in "open" and especially of open data initiatives in the last few years there has been an increasing amount for the project to do especially in terms of reviewing and evaluating licenses. For 2013 we see several important areas of work:
 
-* [OKD v1.2](https://github.com/okfn/opendefinition/blob/master/source/open-knowledge-definition.markdown) -- we've seen license conditions cropping up that are certainly contrary to the spirit of the definition and implicitly non-conformant. It ought be possible for anyone with some understanding of public licenses to do a quick read of the definition and understand its meaning for a particular license without having to know all of the history of open definitions and licenses.
+* [OKD v1.2](https://github.com/okfn/opendefinition/blob/d6b50aa5b3bcfbff2b662fe18fadef7d021752d3/source/open-knowledge-definition.markdown) -- we've seen license conditions cropping up that are certainly contrary to the spirit of the definition and implicitly non-conformant. It ought be possible for anyone with some understanding of public licenses to do a quick read of the definition and understand its meaning for a particular license without having to know all of the history of open definitions and licenses.
 
 * Review important new licenses and license versions for OKD compliance, e.g. Open Government License Canada, and version 4.0 of CC-BY and CC-BY-SA.
 
