@@ -54,7 +54,7 @@ More detailed instructions on how to apply specific licenses are available on th
 
 ## Data  
 
-This guide has primarily focused on "content" -- texts, images etc. The situation for data is somewhat different because the monopoly rights in data are much more variable across different jurisdictions. The basic logic is still the same: choose a suitable open license and apply it to your work. Further information about open licensing for **data**, can found both in our associated guide for [Guide to Open Data Licensing](/data) and as part of the [Open Data Commons project](http://www.opendatacommons.org/).
+This guide has primarily focused on "content" -- texts, images etc. The situation for data is somewhat different because the monopoly rights in data are much more variable across different jurisdictions. The basic logic is still the same: choose a suitable open license and apply it to your work. Further information about open licensing for **data**, can found both in our associated guide for [Guide to Open Data Licensing](data/) and as part of the [Open Data Commons project](http://www.opendatacommons.org/).
 
 
 ## Further information  
