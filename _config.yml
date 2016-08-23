@@ -10,3 +10,11 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-github-metadata
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - script
+  - vendor
