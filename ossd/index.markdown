@@ -99,7 +99,7 @@ Note that despite the fact that Google Maps provide an 'open' API and that the s
 
 A collaboration website using Kune as its engine.  The software Kune is a descendant of the defunct Google Wave, now available as Apache Wave.
 
-* Code: [Open](https://gitorious.org/kune) and see [FAQ](http://kune.ourproject.org/faq-for-gnu/)
+* Code: [Open](https://github.com/comunes/kune/) and see [FAQ](http://kune.ourproject.org/faq-for-gnu/)
 * Data: Open; [FAQ](http://kune.ourproject.org/faq/#is-kune-100-freelibre-software-was-kune-built-using-any-proprietary-framework-or-library) notes "we try to promote free contents through a CC BY-SA default license in projects (which can be changed, of course)". It appears the kune.cc retains this default.
 
 ### rizzoma.com: Not Open
