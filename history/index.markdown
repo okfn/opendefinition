@@ -77,7 +77,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
   * **2007-09-01**: [Quotations Book](http://www.quotationsbook.com) are using the Open Content web button (see their [disclaimer page](http://www.quotationsbook.com/disclaimer/))
   * **2007-08-31**: [GovTrack](http://www.govtrack.us/) is using the Open Knowledge web button
   * **2007-08-25**: [AMEE](http://blog.co2.dgen.net/) are using the Open Knowledge and Open Data web buttons (see their [blog](http://blog.co2.dgen.net/) and their [wiki](http://wiki.co2.dgen.net/index.php/Main_Page)).
-  * **2007-07-18**: [DBpedia](http://dbpedia.org/docs/) is using the Open Data web button (see their resource pages, e.g. [Berlin](http://dbpedia.org/page/Berlin)).
+  * **2007-07-18**: [DBpedia](http://dbpedia.org/) is using the Open Data web button (see their resource pages, e.g. [Berlin](http://dbpedia.org/page/Berlin)).
   * **2007-06-25**: [Geocoder US](http://geocoder.us/) is using the Open Knowledge web button.
   * **2007-05-02**: [Crystal Eye (Open Crystallography Data)](http://wwmm.ch.cam.ac.uk/crystaleye/) using the Open Data web buttons (see e.g.  [this page](http://wwmm.ch.cam.ac.uk/crystaleye/summary/acta/b/2007/02-00/data/bk5043/bk5043sup1_2-F-PCB3/bk5043sup1_2-F-PCB3.cif.summary.html) which provides summary data on C12H8ClF).
   * **2007-04-09**: [Planning Alerts](http://www.planningalerts.com/apihowto.php) using an Open Data web button.
