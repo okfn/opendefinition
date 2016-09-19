@@ -58,7 +58,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
   * **2008-11-14**: [ Greek](/okd/Ellinika) translation of the Open Knowledge Definition thanks to Ioannis Doukas, [King's College London](http://www.kcl.ac.uk/)/[University of Athens](http://uoa.gr/).
   * **2008-10-08**: The [Computus Engine](http://www.computus.org/journal/index.php) is using an Open Knowledge web button.
   * **2008-08-09**: The [Kids Open Dictionary Builder](http://dictionary.k12opened.com/) is using the Open Knowledge web button.
-  * **2008-08-04**: Mike Linksvayer joins the opendefinition.org [ Advisory Council](advisory-council/).
+  * **2008-08-04**: Mike Linksvayer joins the opendefinition.org [ Advisory Council](/advisory-council/).
   * **2008-06-03**: [ Italian](/okd/Italiano) translation of the Open Knowledge Definition thanks to Primavera De Filippi, Andrea Glorioso and Juan Carlos De Martin at the [NEXA Center for Internet & Society](http://nexa.polito.it/), Politecnico di Torino.
   * **2008-06-02**: [Debategraph](http://debategraph.com/) is using the Open Knowledge web button.
   * **2008-05-26**: The [Potto Project](http://www.potto.org/) is using the Open Content web button.
@@ -68,7 +68,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
   * **2008-03-03**: [ Spanish](/okd/Espanol) and [ Catalan](/okd/Catala) translations of the Definition courtesy of Ignasi Labastida i Juan.
   * **2008-02-29**: [Polish translation of the Definition](/okd/Polszczyzna) courtesy of Jarosław LIpszyc
   * **2008-02-28**: [Danish translation of the Definition](/okd/Dansk) courtesy of Peter Froberg
-  * **2008-02-11**: New [ Advisory Council](advisory-council/) for managing http://opendefinition.org and its associated material.
+  * **2008-02-11**: New [ Advisory Council](/advisory-council/) for managing http://opendefinition.org and its associated material.
   * **2007-12-17**: Science Commons announce [Protocol for Implementing Open Access Data](http://sciencecommons.org/projects/publishing/open-access-data-protocol/) which is compatible with the Open Knowledge/Data Definition.
   * **2007-12-12**: [Prelinger Archives at archive.org](http://www.archive.org/details/prelinger) are using the Open Knowledge web button.
   * **2007-1/okd9**: [Languages of the World (Multilingual RDF Descriptions)](http://www.lingvoj.org/) using the Open Data web button.
