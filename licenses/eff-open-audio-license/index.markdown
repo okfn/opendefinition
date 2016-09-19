@@ -6,7 +6,7 @@ layout: page
 slug: eff-open-audio-license
 title: EFF Open Audio License
 wordpress_id: 654
-redirect_from: /eff-open-audio-licenses/
+redirect_from: /licenses/eff-open-audio-licenses/
 ---
 
 ### EFF Open Audio License
