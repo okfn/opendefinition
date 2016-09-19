@@ -6,7 +6,11 @@ layout: page
 slug: dansk
 title: Definitionen på Åben Viden
 wordpress_id: 89
-redirect_from: /od/dansk/
+redirect_from:
+  - /od/dansk/
+  - /od/Dansk/
+  - /okd/dansk/
+  - /okd/Dansk/
 ---
 
 ## Terminologi

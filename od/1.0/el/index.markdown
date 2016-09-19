@@ -6,7 +6,11 @@ layout: page
 slug: ellinika
 title: Ορισμός Ανοιχτής Γνώσεως
 wordpress_id: 95
-redirect_from: /od/ellinika/
+redirect_from:
+  - /od/ellinika/
+  - /od/Ellinika/
+  - /okd/ellinika/
+  - /okd/Ellinika/
 ---
 
 Version: 1.0

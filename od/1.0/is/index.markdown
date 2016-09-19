@@ -6,7 +6,11 @@ layout: page
 slug: islenska
 title: Skilgreining Opinna Gagna
 wordpress_id: 139
-redirect_from: /od/islenska/
+redirect_from:
+  - /od/islenska/
+  - /od/Islenska/
+  - /okd/islenska/
+  - /okd/Islenska/
 ---
 
 Version: 1.0

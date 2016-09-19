@@ -6,7 +6,11 @@ layout: page
 slug: italiano
 title: Definizione di Conoscenza Aperta
 wordpress_id: 101
-redirect_from: /od/italiano/
+redirect_from:
+  - /od/italiano/
+  - /od/Italiano/
+  - /okd/italiano/
+  - /okd/Italiano/
 ---
 
 Version: 1.0

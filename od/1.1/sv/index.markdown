@@ -6,7 +6,11 @@ layout: page
 slug: svenska
 title: Definition av Öppen
 wordpress_id: 170
-redirect_from: /od/svenska/
+redirect_from:
+  - /od/svenska/
+  - /od/Svenska/
+  - /okd/svenska/
+  - /okd/Svenska/
 ---
 
 Version 1.1

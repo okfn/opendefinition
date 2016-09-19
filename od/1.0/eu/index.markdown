@@ -6,7 +6,11 @@ layout: page
 slug: euskara
 title: Jakintza Askearen Definizioa
 wordpress_id: 164
-redirect_from: /od/euskara/
+redirect_from:
+  - /od/euskara/
+  - /od/Euskara/
+  - /okd/euskara/
+  - /okd/Euskara/
 ---
 
 Version: 1.0

@@ -6,7 +6,11 @@ layout: page
 slug: polszczyzna
 title: 'Definicja Wiedzy Otwartej wersja '
 wordpress_id: 103
-redirect_from: /od/polszczyzna/
+redirect_from:
+  - /od/polszczyzna/
+  - /od/Polszczyzna/
+  - /okd/polszczyzna/
+  - /okd/Polszczyzna/
 ---
 
 Version: 1.0

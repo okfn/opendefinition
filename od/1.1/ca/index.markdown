@@ -6,7 +6,11 @@ layout: page
 slug: catala
 title: Definició de Coneixement Obert
 wordpress_id: 84
-redirect_from: /od/catala/
+redirect_from:
+  - /od/catala/
+  - /od/Catala/
+  - /okd/catala/
+  - /okd/Catala/
 ---
 
 ## Terminologia

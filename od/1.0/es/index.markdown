@@ -6,7 +6,11 @@ layout: page
 slug: espanol
 title: Definición de Conocimiento Abierto
 wordpress_id: 97
-redirect_from: /od/espanol/
+redirect_from:
+  - /od/espanol/
+  - /od/Espanol/
+  - /okd/espanol/
+  - /okd/Espanol/
 ---
 
 Version: 1.0

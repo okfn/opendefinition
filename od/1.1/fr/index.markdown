@@ -6,7 +6,11 @@ layout: page
 slug: francais
 title: Définition du Savoir Libre
 wordpress_id: 99
-redirect_from: /od/francais/
+redirect_from:
+  - /od/francais/
+  - /od/Francais/
+  - /okd/francais/
+  - /okd/Francais/
 ---
 
 Version: 1.1
