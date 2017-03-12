@@ -36,5 +36,5 @@
 <a href="/od/1.1/te/">తెలుగు</a> |
 <a href="/od/1.1/tr/">Türkçe</a> |
 <a href="/od/2.0/ua/">Українська</a> |
-<a href="/od/1.1/zh/">简化中国</a> |
-<a href="/od/2.0/zh-tw/">中文</a>
+<a href="/od/1.1/zh/">简体中文</a> |
+<a href="/od/2.0/zh-tw/">繁體中文</a>
