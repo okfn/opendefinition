@@ -12,7 +12,7 @@ wordpress_id: 133
 
 #### Full text 
 
-http://www.pentangle.net/python/dsl.php
+http://pentangle.net/python/dsl.html
 
 #### Comments 
 
