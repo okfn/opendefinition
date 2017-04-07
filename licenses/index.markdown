@@ -263,7 +263,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr >
-<td ><a href="/licenses/eff-open-audio-licenses">EFF Open Audio License</a>
+<td ><a href="/licenses/eff-open-audio-license">EFF Open Audio License</a>
 </td>
 <td >Content
 </td>
