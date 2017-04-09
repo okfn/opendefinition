@@ -11,7 +11,7 @@ The Open Definition makes precise the meaning of "open" with respect to knowledg
 
 This essential meaning matches that of "open" with respect to software as in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) and is synonymous with "free" or "libre" as in the [Free Software Definition](https://en.wikipedia.org/wiki/The_Free_Software_Definition) and [Definition of Free Cultural Works](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works).
 
-The term **work** will be used to denote the item or piece of knowledge being transferred.
+The term **work** refers to the item or piece of knowledge being transferred.
 
 The term **license** refers to the legal conditions under which the work is provided.
 
