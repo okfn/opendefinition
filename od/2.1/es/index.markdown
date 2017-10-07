@@ -9,7 +9,7 @@ La Definición de Conocimiento Abierto aporta precisión al significado del tér
 
 **Resumen:** *El conocimiento es abierto si cualquiera es libre de acceder a él, usarlo, modificarlo y compartirlo, estando sujeto a lo sumo a medidas que preserven su autoría y su apertura.*
 
-Este significado esencial se corresponde con el de «abierto» (open) cuando se refiere al software, como en la [Open Source Definition](http://opensource.org/docs/osd1), y es un sinónimo de «libre» (free) tal y como se usa en la [Definición de Software Libre](https://en.wikipedia.org/wiki/The_Free_Software_Definition) y en la [Definición de Obras Culturales libres](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works) .
+Este significado esencial se corresponde con el de «abierto» (open) cuando se refiere al software, como en la [Open Source Definition](https://es.wikipedia.org/wiki/Open_Source_Definition), y es un sinónimo de «libre» (free) tal y como se usa en la [Definición de Software Libre](https://es.wikipedia.org/wiki/Definici%C3%B3n_de_Software_Libre) y en la [Definición de Obras Culturales libres](https://es.wikipedia.org/wiki/Definici%C3%B3n_de_obras_culturales_libres) .
 
 
 El término **obra** se utilizará para denominar el ítem o porción de conocimiento a transferir.
