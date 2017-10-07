@@ -8,7 +8,7 @@
 <a href="/od/2.1/et/">Eesti</a> |
 <a href="/od/1.0/el/">Ελληνικά</a> |
 <a href="/od/{{site.od_current_version}}/en/">English</a> |
-<a href="/od/2.0/es/">Español</a> |
+<a href="/od/2.1/es/">Español</a> |
 <a href="/od/1.0/eu">Euskara</a> |
 <a href="/od/1.1/fi/">Suomi</a> |
 <a href="/od/1.1/fr/">Français</a> |
