@@ -263,7 +263,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr >
-<td ><a href="/licenses/eff-open-audio-licenses">EFF Open Audio License</a>
+<td ><a href="/licenses/eff-open-audio-license">EFF Open Audio License</a>
 </td>
 <td >Content
 </td>
@@ -328,7 +328,20 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </tr>
 
 <tr >
-<td >Open Government Licence United Kingdom <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">2.0</a> and 3.0
+<td ><a href="http://data.gov.tw/license">Open Government Data License Taiwan 1.0</a>
+</td>
+<td >Data
+</td>
+<td >Y
+</td>
+<td >N
+</td>
+<td ><b>Non-reusable.</b> For use by public sector licensors, governed by Taiwan law.
+</td>
+</tr>
+
+<tr >
+<td >Open Government Licence United Kingdom <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">2.0</a> and <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">3.0</a>
 </td>
 <td >Content, Data
 </td>

@@ -15,7 +15,7 @@ The term **work** will be used to denote the item or piece of knowledge being tr
 
 The term **license** refers to the legal conditions under which the work is provided.
 
-The term **public domain** denotes the abscence of copyright and similar
+The term **public domain** denotes the absence of copyright and similar
 restrictions, whether by default or waiver of all such conditions.
 
 The key words "must", "must not", "should", and "may"

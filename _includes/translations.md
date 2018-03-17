@@ -1,4 +1,4 @@
-<a href="/od/2.0/ar/">العربية</a> |
+<a href="/od/2.1/ar/">العربية</a> |
 <a href="/od/1.1/be/">Беларуская</a> |
 <a href="/od/1.1/bg/">Български</a> |
 <a href="/od/1.1/ca/">Català</a> |
@@ -8,11 +8,11 @@
 <a href="/od/2.1/et/">Eesti</a> |
 <a href="/od/1.0/el/">Ελληνικά</a> |
 <a href="/od/{{site.od_current_version}}/en/">English</a> |
-<a href="/od/2.0/es/">Español</a> |
+<a href="/od/2.1/es/">Español</a> |
 <a href="/od/1.0/eu">Euskara</a> |
 <a href="/od/1.1/fi/">Suomi</a> |
 <a href="/od/1.1/fr/">Français</a> |
-<a href="/od/1.0/gl/">Galego</a> |
+<a href="/od/2.1/gl/">Galego</a> |
 <a href="/od/1.1/he/">עברית</a> |
 <a href="/od/2.0/hi">हिन्दी</a> |
 <a href="/od/1.1/hr/">Croatian</a> |
@@ -36,5 +36,5 @@
 <a href="/od/1.1/te/">తెలుగు</a> |
 <a href="/od/1.1/tr/">Türkçe</a> |
 <a href="/od/2.0/ua/">Українська</a> |
-<a href="/od/1.1/zh/">简化中国</a> |
-<a href="/od/2.0/zh-tw/">中文</a>
+<a href="/od/1.1/zh/">简体中文</a> |
+<a href="/od/2.0/zh-tw/">繁體中文</a>
