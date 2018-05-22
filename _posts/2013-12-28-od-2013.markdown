@@ -8,19 +8,19 @@ title: 'Open Definition 2013: assessment and lessons'
 wordpress_id: 844
 ---
 
-Throughout 2013 fields such as open access, open data, open education, open government, and more saw unprecedented growth as policy and practice. The [Open Definition](http://opendefinition.org) played increasingly important and visible roles in fostering a shared understanding of "open" and helping increase interoperability and other best practices in implementation of open licenses.
+Throughout 2013 fields such as open access, open data, open education, open government, and more saw unprecedented growth as policy and practice. The [Open Definition](https://opendefinition.org) played increasingly important and visible roles in fostering a shared understanding of "open" and helping increase interoperability and other best practices in implementation of open licenses.
 
-The Open Definition is governed by an [Advisory Council](http://opendefinition.org/advisory-council/), which primarily conducts itself on the [public od-discuss mailing list](https://lists.okfn.org/mailman/listinfo/od-discuss). The council's 2014 chair is [Herb Lainchbury](http://www.herblainchbury.com/). Some thoughts on 2013 from [outgoing](http://opendefinition.org/2013/12/13/notes-from-open-definition-call-december-2013/) chair Mike Linksvayer...
+The Open Definition is governed by an [Advisory Council](https://opendefinition.org/advisory-council/), which primarily conducts itself on the [public od-discuss mailing list](https://lists.okfn.org/mailman/listinfo/od-discuss). The council's 2014 chair is [Herb Lainchbury](http://www.herblainchbury.com/). Some thoughts on 2013 from [outgoing](https://opendefinition.org/2013/12/13/notes-from-open-definition-call-december-2013/) chair Mike Linksvayer...
 
 ##Lessons
 
-1. The license approval process works much better when it is more than just assessing whether a license conforms with the Open Definition -- when license creators engage with the Advisory Council during license development. When a license is "thrown over the wall",  ambiguities not evident to the creators make approval difficult at best. This probably means the OD community needs to get help from the broader [Open Knowledge Foundation](http://okfn.org) (OKF) and other "open" communities to spread awareness of the OD. Nobody in these communities *wants* more questionably open and probably incompatible licenses. How can we, for example, increase the probability that local activists know about the OD and can educate public sector officials they might come into contact with, before new licenses are developed?
+1. The license approval process works much better when it is more than just assessing whether a license conforms with the Open Definition -- when license creators engage with the Advisory Council during license development. When a license is "thrown over the wall",  ambiguities not evident to the creators make approval difficult at best. This probably means the OD community needs to get help from the broader [Open Knowledge Foundation](https://okfn.org) (OKF) and other "open" communities to spread awareness of the OD. Nobody in these communities *wants* more questionably open and probably incompatible licenses. How can we, for example, increase the probability that local activists know about the OD and can educate public sector officials they might come into contact with, before new licenses are developed?
 2. We already knew that the OD ought be made explicit about some issues OD 1.1 only implied answers to, hence work on OD 1.2 beginning in 2012. In 2013 we learned (at least I did) that a more substantial rewrite could also make the OD more understandable, and help us grapple with areas of uncertainty about what is good for the open ecosystem, and how the OD and/or the license approval process might help. Thus OD 2.0, in progress.
 3. All recent AC members have been personally invited to join. To expand global representation on the AC (see last assessment item below), personal invitations will be needed.
 
 ##Assessment (and other notes)
 
-At the end of 2012 I identified [several important areas of work for the next yerar](http://opendefinition.org/2012/12/17/open-definition-forges-ahead-get-involved/):
+At the end of 2012 I identified [several important areas of work for the next yerar](https://opendefinition.org/2012/12/17/open-definition-forges-ahead-get-involved/):
 
 
 
@@ -28,7 +28,7 @@ At the end of 2012 I identified [several important areas of work for the next ye
 
 
 
-We decided to skip a clarifying OD 1.2 in favor of a rewrite, OD 2.0, in progress. 2.0 will not change the spirit of the definition, but will be even more clarifying, easy to understand (e.g., separating requirements for open licenses and open works), and provide guidance issues important to developing a healthy open ecosystem (e.g., interoperability and [proliferation](http://opendefinition.org/2013/12/04/open-definition-and-license-proliferation/)) in the most powerful and visible venue we have -- the definition text.
+We decided to skip a clarifying OD 1.2 in favor of a rewrite, OD 2.0, in progress. 2.0 will not change the spirit of the definition, but will be even more clarifying, easy to understand (e.g., separating requirements for open licenses and open works), and provide guidance issues important to developing a healthy open ecosystem (e.g., interoperability and [proliferation](https://opendefinition.org/2013/12/04/open-definition-and-license-proliferation/)) in the most powerful and visible venue we have -- the definition text.
 
 We did not meet this objective in 2013, but the result (OD 2.0) in 2014 should be more impactful than previously aspired to.
 
@@ -40,11 +40,11 @@ By the way, we dropped "Knowledge" from the name of the definition in deference 
 
 
 
-The biggest news in this department was probably the [approval of the new OGL UK 2.0](http://blog.okfn.org/2013/07/01/uk-open-government-license-is-now-compliant-with-the-open-definition/), which the OD community had given substantial feedback on over the course of two years. Kudos to the UK National Archives team!
+The biggest news in this department was probably the [approval of the new OGL UK 2.0](https://blog.okfn.org/2013/07/01/uk-open-government-license-is-now-compliant-with-the-open-definition/), which the OD community had given substantial feedback on over the course of two years. Kudos to the UK National Archives team!
 
-We also gave [feedback on OGL Canada](http://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/) and [approved](https://lists.okfn.org/pipermail/od-discuss/2013-July/000526.html) the license. While this was a positive development, we did not anticipate a proliferation of Canadian provincial and municipal licenses, each a variation on the federal license. We appreciate the engagement of federal and provincial staff and Canadian open data activists with the OD community and look forward to continuing this in 2014, particularly after OD 2.0 is finished.
+We also gave [feedback on OGL Canada](https://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/) and [approved](https://lists.okfn.org/pipermail/od-discuss/2013-July/000526.html) the license. While this was a positive development, we did not anticipate a proliferation of Canadian provincial and municipal licenses, each a variation on the federal license. We appreciate the engagement of federal and provincial staff and Canadian open data activists with the OD community and look forward to continuing this in 2014, particularly after OD 2.0 is finished.
 
-At the end of 2013 we [approved](https://lists.okfn.org/pipermail/od-discuss/2013-December/000770.html) the recently [released](https://creativecommons.org/weblog/entry/40768) CC-BY-4.0 and CC-BY-SA-4.0. This approval was expected (previous versions were approved), thus not the biggest news. But I'm happy that we took the new versions through the normal approval process rather than letting them slide through, potentially with rough edges we would not accept from a new license steward. And one potential problem was [raised](https://lists.okfn.org/pipermail/od-discuss/2013-September/000615.html) in discussion on the od-discuss list and [fixed](http://lists.ibiblio.org/pipermail/cc-licenses/2013-September/007450.html) by CC.
+At the end of 2013 we [approved](https://lists.okfn.org/pipermail/od-discuss/2013-December/000770.html) the recently [released](https://creativecommons.org/weblog/entry/40768) CC-BY-4.0 and CC-BY-SA-4.0. This approval was expected (previous versions were approved), thus not the biggest news. But I'm happy that we took the new versions through the normal approval process rather than letting them slide through, potentially with rough edges we would not accept from a new license steward. And one potential problem was [raised](https://lists.okfn.org/pipermail/od-discuss/2013-September/000615.html) in discussion on the od-discuss list and [fixed](https://lists.ibiblio.org/pipermail/cc-licenses/2013-September/007450.html) by CC.
 
 Some license conformance discussions have been outstanding for a long time, and probably will remain so. I'm fine with this: a bad decision is far worse than none in this context.
 
@@ -54,7 +54,7 @@ Some license conformance discussions have been outstanding for a long time, and 
 
 
 
-Done: current [instructions](http://opendefinition.org/participate/#translation). However, translations must be manually copied into WordPress, which is used to serve the OD site. 
+Done: current [instructions](https://opendefinition.org/participate/#translation). However, translations must be manually copied into WordPress, which is used to serve the OD site.
 
 For this and other reasons I would prefer the whole site be static, all content in a public source repository. But, such a migration would take some work, and wasn't on the agenda for 2013.
 
@@ -64,7 +64,7 @@ For this and other reasons I would prefer the whole site be static, all content 
 
 
 
-Not done at all, though rather important. If anyone wishes to take it up, the OD [buttons](http://opendefinition.org/buttons/) page has some material that could be used. Again, a static site might make collaboration on updates easier.
+Not done at all, though rather important. If anyone wishes to take it up, the OD [buttons](https://opendefinition.org/buttons/) page has some material that could be used. Again, a static site might make collaboration on updates easier.
 
 
 
@@ -77,7 +77,7 @@ and
 <blockquote>Develop a version git-based repository of license texts so they can be tracked over time.</blockquote>
 
 
-On one hand, almost no concrete progress was made extending [licenses.opendefinition.org](http://licenses.opendefiniton.org). On the other hand, I'm very pleased that we're progressing on working with [clipol.org](http://clipol.org/) (run by AC member Kent Mewhort) on common data needed for both sites, and about recent contributions by [Engel Nyst](https://github.com/enyst), who is very familiar with related work done for open source software licenses (e.g., [SPDX](https://spdx.org/licenses/)), and helping us build on that.
+On one hand, almost no concrete progress was made extending [licenses.opendefinition.org](https://licenses.opendefiniton.org). On the other hand, I'm very pleased that we're progressing on working with [clipol.org](http://clipol.org/) (run by AC member Kent Mewhort) on common data needed for both sites, and about recent contributions by [Engel Nyst](https://github.com/enyst), who is very familiar with related work done for open source software licenses (e.g., [SPDX](https://spdx.org/licenses/)), and helping us build on that.
 
 
 
@@ -85,13 +85,13 @@ On one hand, almost no concrete progress was made extending [licenses.opendefini
 
 
 
-In February I posted on the main OKF blog about the OD's role in [protecting the foundations of Open Knowledge](http://blog.okfn.org/2013/02/13/protecting-the-foundations-of-open-knowledge/) and in March on Open (per the OD of course) [and the 'next great copyright act'](http://blog.okfn.org/2013/03/20/open-and-the-next-great-copyright-act/).
+In February I posted on the main OKF blog about the OD's role in [protecting the foundations of Open Knowledge](https://blog.okfn.org/2013/02/13/protecting-the-foundations-of-open-knowledge/) and in March on Open (per the OD of course) [and the 'next great copyright act'](https://blog.okfn.org/2013/03/20/open-and-the-next-great-copyright-act/).
 
 In October OKF CEO Laura James posted a 3-part series about OD on the main OKF blog:
 
-* [Defining Open Data](http://blog.okfn.org/2013/10/03/defining-open-data/)
-* [Exploring openness and the Open Definition](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
-* [The Open Definition in context: putting open into practice](http://blog.okfn.org/2013/10/16/open-definition-in-context/)
+* [Defining Open Data](https://blog.okfn.org/2013/10/03/defining-open-data/)
+* [Exploring openness and the Open Definition](https://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+* [The Open Definition in context: putting open into practice](https://blog.okfn.org/2013/10/16/open-definition-in-context/)
 
 Highlighting the role of the OD on the main OKF blog is great, and ought continue at opportune junctures, we didn't do much more to provide updates to the wider community -- a few cross-posts to the [open-government list](https://lists.okfn.org/mailman/listinfo/open-government), and a previously linked announcement about OGL UK 2.0 conformance.
 
@@ -112,9 +112,9 @@ Each positive license conformance decision might also be posted to the main OKF 
 
 
 
-We [decided](https://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html) to keep the [OSSD](http://opendefinition.org/software-service/) on the site, but "on the back burner", keeping focus on the OD. I promised to clean up the messy OSSD page, but haven't gotten to it. I still intend to (and doubt anyone else will, but please do if you're inclined!), perhaps when I get around to writing an evaluation of the OSSD's "freedom" counterpart, the [Franklin Street Statement on Freedom and Network Services](http://autonomo.us/2008/07/14/franklin-street-statement/).
+We [decided](https://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html) to keep the [OSSD](https://opendefinition.org/software-service/) on the site, but "on the back burner", keeping focus on the OD. I promised to clean up the messy OSSD page, but haven't gotten to it. I still intend to (and doubt anyone else will, but please do if you're inclined!), perhaps when I get around to writing an evaluation of the OSSD's "freedom" counterpart, the [Franklin Street Statement on Freedom and Network Services](http://autonomo.us/2008/07/14/franklin-street-statement/).
 
-Whether the OSSD or similar eventually plays a defining (ahem) role, free/open source software and services are critially important for the futre of open data and other open knowledge (e.g., for collaboration, sustainibility, reproducibility, auditability for bias, safety, and more). This is one of my standard [critiques embedded in praise](http://gondwanaland.com/mlog/2013/02/13/open-knowledge-foundation/) and a recurrent topic in the OKF and other "open" communities, e.g., [last month](https://lists.okfn.org/pipermail/okfn-discuss/2013-November/thread.html#9977).
+Whether the OSSD or similar eventually plays a defining (ahem) role, free/open source software and services are critially important for the futre of open data and other open knowledge (e.g., for collaboration, sustainibility, reproducibility, auditability for bias, safety, and more). This is one of my standard [critiques embedded in praise](https://gondwanaland.com/mlog/2013/02/13/open-knowledge-foundation/) and a recurrent topic in the OKF and other "open" communities, e.g., [last month](https://lists.okfn.org/pipermail/okfn-discuss/2013-November/thread.html#9977).
 
 
 

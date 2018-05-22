@@ -16,7 +16,7 @@ Below is feedback submitted today on behalf of the Open Definition Advisory Coun
 
 Thank you for opportunity to provide feedback on the [Proposed Open Government Licence Agreement](http://www.data.gc.ca/default.asp?lang=En&n=0D3F42BD-1).
 
-The [Open Knowledge Definition](http://opendefinition.org/okd) (OKD) sets out principles to define ‘openness’ in relation to content and data such that the "open" in open access, data, education, and government remains meaningful and interoperable. The OKD is led by an international [Advisory Council](http://opendefinition.org/advisory-council).
+The [Open Knowledge Definition](https://opendefinition.org/okd) (OKD) sets out principles to define ‘openness’ in relation to content and data such that the "open" in open access, data, education, and government remains meaningful and interoperable. The OKD is led by an international [Advisory Council](https://opendefinition.org/advisory-council).
 
 We congratulate you for your excellent work. In particular we commend the absence of the two most problematic items found in the [OGL-UK](https://www.nationalarchives.gov.uk/doc/open-government-licence/) ("ensure that you do not mislead..." and "ensure that your use of the Information does not breach [data protection and privacy acts]"); such terms are redundant and harm interoperability.
 

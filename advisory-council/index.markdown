@@ -48,7 +48,7 @@ Herb Lainchbury is a consultant, a software developer and founder of the Open Da
 
 ### Mike Linksvayer
 
-Mike Linksvayer writes about open matters on his [blog](http://gondwanaland.com/mlog).
+Mike Linksvayer writes about open matters on his [blog](https://gondwanaland.com/mlog).
 
 ### Kent Mewhort
 

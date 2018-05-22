@@ -14,7 +14,7 @@ The **Open Definition (OD)** provides an answer to the question: what is open kn
 
 The concept of openness has already started to spread rapidly beyond its original roots in academia and software. We already have 'open access' journals, open genetics, open geodata, open content etc. As the concept spreads so we are seeing a proliferation of licenses and a potential blurring of what is open and what is not.
 
-In such circumstances it is important to preserve compatibility, guard against dilution of the concept, and provide a common thread to this multitude of activities across a variety of disciplines. The definition, by providing clear set of criteria for openness, is an essential tool in achieving these ends. 
+In such circumstances it is important to preserve compatibility, guard against dilution of the concept, and provide a common thread to this multitude of activities across a variety of disciplines. The definition, by providing clear set of criteria for openness, is an essential tool in achieving these ends.
 
 ## What the Definition is Not
 
@@ -25,11 +25,11 @@ It is worth noting a few things that the definition, and this project, are **not
 
 ## Who's Behind This
 
-The first version of the Open Definition was developed by [Open Knowledge](http://www.okfn.org) with substantial input from other interested parties (see acknowledgements section below). The project now has its own [Advisory Council](/advisory-council) who oversee the development of the definition and associated materials. However as detailed on the [participate](/participate) page the project is community-based and anyone can participate. Individuals and organizations who would be interested in becoming members of the 'Advisory Council' and help 'curate' the definition over the longer-term are especially welcome.
+The first version of the Open Definition was developed by [Open Knowledge](https://okfn.org) with substantial input from other interested parties (see acknowledgements section below). The project now has its own [Advisory Council](/advisory-council) who oversee the development of the definition and associated materials. However as detailed on the [participate](/participate) page the project is community-based and anyone can participate. Individuals and organizations who would be interested in becoming members of the 'Advisory Council' and help 'curate' the definition over the longer-term are especially welcome.
 
 ## Acknowledgments
 
-The idea of openness and its specific expression here owe a huge debt to Free and Open Source software groups, as well as the Open Access movement. In particular much of the definition draws directly from the [Open Source Definition](http://www.opensource.org/docs/definition.php).
+The idea of openness and its specific expression here owe a huge debt to Free and Open Source software groups, as well as the Open Access movement. In particular much of the definition draws directly from the [Open Source Definition](https://opensource.org/docs/definition.php).
 
 Similarly the various Open Access documents especially the Budapest, Bethseda and Berlin declarations have been very influential and, in that light, the definition presented here could also be summarized as: open access plus modifiability.
 

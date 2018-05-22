@@ -10,7 +10,7 @@ layout: page
 
 **Резюме:** *Знання є відкритим, якщо будь-хто має до нього вільний доступ, може вільно використовувати, змінювати та ділитися ним &#8211; у крайньому випадку, підлягає заходам, що зберігають походження й відкритість.*
 
-Це визначення відповідає значенню терміна &laquo;відкрите&raquo; стосовно програмного забезпечення ([Open Source Definition](http://www.opensource.org/docs/osd)) і є синонімом слова &laquo;вільно&raquo; у сенсі &laquo;свобода&raquo;, як і у [визначенні вільних творів культури (Definition of Free Cultural Works)](http://freedomdefined.org). Визначення відкритості було започатковане з Open Source Definition, яке, своєю чергою, є похідним від [Debian Free Software Guidelines](http://www.debian.org/social_contract).
+Це визначення відповідає значенню терміна &laquo;відкрите&raquo; стосовно програмного забезпечення ([Open Source Definition](https://opensource.org/docs/osd)) і є синонімом слова &laquo;вільно&raquo; у сенсі &laquo;свобода&raquo;, як і у [визначенні вільних творів культури (Definition of Free Cultural Works)](http://freedomdefined.org). Визначення відкритості було започатковане з Open Source Definition, яке, своєю чергою, є похідним від [Debian Free Software Guidelines](http://www.debian.org/social_contract).
 
 Термін **робота** буде використовуватися для позначення предмета або частини переданого знання.
 

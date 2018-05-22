@@ -11,13 +11,13 @@ wordpress_id: 262
 
 **This is a draft**. *We need your help to make it better. Get involved, learn more, and help us improve the Open Definition:* 
 
-- *To get started, [join the conversation](http://lists.okfn.org/mailman/listinfo/od-discuss), ask questions and suggest improvements on the Open Definition discussion list.*
+- *To get started, [join the conversation](https://lists.okfn.org/mailman/listinfo/od-discuss), ask questions and suggest improvements on the Open Definition discussion list.*
 - *Catch up on [past conversations](https://lists.okfn.org/pipermail/od-discuss/) and see what you’ve missed.*
 - *Dive in deep, [add an issue](https://github.com/okfn/opendefinition/issues) or a pull request to the Open Definition GitHub repository.*
 
 ## Introduction 
 
-The [Open Definition](http://opendefinition.org/od/{{site.od_current_version}}/en/) has three key requirements for a work to be open: an *open license*, *open access*, and an *open format*. This page focuses on the **open format**: 
+The [Open Definition](https://opendefinition.org/od/{{site.od_current_version}}/en/) has three key requirements for a work to be open: an *open license*, *open access*, and an *open format*. This page focuses on the **open format**: 
 
 1. quoting the Open Format section from the Open Definition, 
 2. exploring it’s intent,
@@ -174,7 +174,7 @@ The **work** *should* be published in a lossless and uncompressed open format so
 
 ### A common resource for tools to reference
 
-Tools like the [Open Data Census](http://census.okfn.org/) and [Open Data Certificates](https://certificates.theodi.org/) test to see if data is published using an open format. This [improvement idea](http://opendefinition.org/licenses/) seeks to harmonise the definition of the Open Format for data so that tools could all point to the Open Definition, in the same way the tools currently point to it for a definition of an open licence and a list of [conformant licenses](http://opendefinition.org/licenses/).
+Tools like the [Open Data Census](http://census.okfn.org/) and [Open Data Certificates](https://certificates.theodi.org/) test to see if data is published using an open format. This [improvement idea](https://opendefinition.org/licenses/) seeks to harmonise the definition of the Open Format for data so that tools could all point to the Open Definition, in the same way the tools currently point to it for a definition of an open licence and a list of [conformant licenses](https://opendefinition.org/licenses/).
 
 ## 6. Resources
 

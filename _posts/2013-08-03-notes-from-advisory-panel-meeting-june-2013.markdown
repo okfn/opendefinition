@@ -24,33 +24,33 @@ categories:
 
 ##Agenda
 
-1. Release of O[K]D 1.2; see [http://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html)
+1. Release of O[K]D 1.2; see [https://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html)
 
-2. OKD or OD for the main definition name; see [http://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html)
+2. OKD or OD for the main definition name; see [https://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html)
 
-3. Disposition of OSSD (software service); see [http://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html)
+3. Disposition of OSSD (software service); see [https://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html)
 
 4. Outstanding review/notice of existing licenses
 
     1. 3 very similar licenses:
 
-        1. UK OGLv2.0 with formal conformance request (live update on this if representative is on call) [http://lists.okfn.org/pipermail/od-discuss/2013-June/000424.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000424.html)
+        1. UK OGLv2.0 with formal conformance request (live update on this if representative is on call) [https://lists.okfn.org/pipermail/od-discuss/2013-June/000424.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000424.html)
 
-        2. OGL Canada 2.0 with formal request [http://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html) our feedback on an earlier draft at [http://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/](http://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/)
+        2. OGL Canada 2.0 with formal request [https://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html) our feedback on an earlier draft at [https://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/](https://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/)
 
-        3. OGL Alberta 2.0 informally forwarded to list for comments [http://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html)
+        3. OGL Alberta 2.0 informally forwarded to list for comments [https://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html)
 
-    2. Datenlizenz Deutschland; we sent feedback, Daniel can update on response if on call; see [http://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html](http://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html)
+    2. Datenlizenz Deutschland; we sent feedback, Daniel can update on response if on call; see [https://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html](https://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html)
 
-    3. City of Calgary Open Data License requested approval; discussion uncovered various problems; offer of more formal feedback not replied to [http://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html](http://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html) should we issue formal non-conformance notice?
+    3. City of Calgary Open Data License requested approval; discussion uncovered various problems; offer of more formal feedback not replied to [https://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html](https://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html) should we issue formal non-conformance notice?
 
 5. Enhancing the submission and review process for licenses (including publication of results)
 
-    4. Add proliferation policy? [http://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html](http://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html)
+    4. Add proliferation policy? [https://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html](https://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html)
 
     5. Other suggestions? Re publication, blog each accept/reject? Where?
 
-6. Does anyone want to work on licenses.opendefinition.org? See [http://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html) for some random thoughts.
+6. Does anyone want to work on licenses.opendefinition.org? See [https://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html) for some random thoughts.
 
 7. Future AC membership; zero members in global south unacceptable. Suggestions for invitation?
 
@@ -62,7 +62,7 @@ categories:
 
 ## Call Notes
 
-### 1. Release of O[K]D 1.2; see [http://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html)
+### 1. Release of O[K]D 1.2; see [https://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000428.html)
 
 * RP: +1 on this. Perfect world we will get a diff in github for review.
 
@@ -78,17 +78,17 @@ categories:
 
 * ACTION: HL to review 
 
-### 2. OKD or OD for the main definition name; see [http://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html)
+### 2. OKD or OD for the main definition name; see [https://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000427.html)
 
 * RP: Open Definition [for Data / Content / Knowledge] seems good.
 
-    * URL: [http://opendefinition.org/current/](http://opendefinition.org/current/)  (or latest)?
+    * URL: [https://opendefinition.org/current/](https://opendefinition.org/current/)  (or latest)?
 
 * Baden / Herb / Andrew: like breadth, simplicity of "Open Definition"
 
 **DECISION: Open Definition by default.**
 
-### 3. Disposition of OSSD (software service); see [http://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html)
+### 3. Disposition of OSSD (software service); see [https://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000429.html)
 
 Mike: In light of all this, how about this plan for the current term:
 * Continue with non-prominence of the OSSD on the site
@@ -103,7 +103,7 @@ Mike: In light of all this, how about this plan for the current term:
 
 ### 4. Outstanding review/notice of existing licenses
 
-*UK OGLv2.0 with formal conformance request (live update on this if representative is on call) **[http://lists.okfn.org/pipermail/od-discuss/2013-June/000424.htm*l](http://lists.okfn.org/pipermail/od-discuss/2013-June/000424.html)
+*UK OGLv2.0 with formal conformance request (live update on this if representative is on call) **[https://lists.okfn.org/pipermail/od-discuss/2013-June/000424.htm*l](https://lists.okfn.org/pipermail/od-discuss/2013-June/000424.html)
 
 * RP: special appreciation to the process the National Archives has gone through on this
 
@@ -111,9 +111,9 @@ Mike: In light of all this, how about this plan for the current term:
 
 * **DECISION: this will go to a final vote on list once we have an absolutely final version. Advice right now is this is conformant.**
 
-OGL Canada 2.0 with formal request [http://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html) our feedback on an earlier draft at [http://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/](http://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/)
+OGL Canada 2.0 with formal request [https://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000425.html) our feedback on an earlier draft at [https://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/](https://opendefinition.org/2013/01/31/ogl-canada-proposal-feedback/)
 
-OGL Alberta 2.0 informally forwarded to list for comments [http://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html)
+OGL Alberta 2.0 informally forwarded to list for comments [https://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000415.html)
 
 * HL: OGL Alberta being used in the wild
 
@@ -121,11 +121,11 @@ OGL Alberta 2.0 informally forwarded to list for comments [http://lists.okfn.org
 
 * **ACTION: HL you are going to review UK new version and compare with the OGL Canada + OGL Alberta and report to list**
 
-Datenlizenz Deutschland; we sent feedback, Daniel can update on response if on call; see [http://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html](http://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html)
+Datenlizenz Deutschland; we sent feedback, Daniel can update on response if on call; see [https://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html](https://lists.okfn.org/pipermail/od-discuss/2013-March/000382.html)
 
 * **ACTION: [ML] Ping Daniel on list. Short summary of where we are at and can we publish the formal letter on the site news.**
 
-City of Calgary Open Data License requested approval; discussion uncovered various problems; offer of more formal feedback not replied to [http://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html](http://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html) should we issue formal non-conformance notice?
+City of Calgary Open Data License requested approval; discussion uncovered various problems; offer of more formal feedback not replied to [https://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html](https://lists.okfn.org/pipermail/od-discuss/2013-March/000374.html) should we issue formal non-conformance notice?
 
 * RP: Let's do it
 
@@ -133,7 +133,7 @@ City of Calgary Open Data License requested approval; discussion uncovered vario
 
 ### 5. Enhancing the submission and review process for licenses (including publication of results)
 
-1. Add proliferation policy? [http://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html](http://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html)
+1. Add proliferation policy? [https://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html](https://lists.okfn.org/pipermail/od-discuss/2013-March/000373.html)
 
 * RP: strongly support this.
 
@@ -159,7 +159,7 @@ New process
 
     * If you really can't do either of these [opendefinition@okfn.org](mailto:opendefinition@okfn.org)
 
-ACTION: [ML] update [http://opendefinition.org/licenses/process/](http://opendefinition.org/licenses/process/) as per this
+ACTION: [ML] update [https://opendefinition.org/licenses/process/](https://opendefinition.org/licenses/process/) as per this
 
 	Also correct ref to open source definition
 
@@ -169,7 +169,7 @@ ACTION: [RP] - merge licenses repo - see [https://github.com/okfn/opendefinition
 
 ACTION: [RP] - plan for storing license texts - [https://github.com/okfn/opendefinition/issues/2](https://github.com/okfn/opendefinition/issues/2)
 
-### 6. Does anyone want to work on licenses.opendefinition.org? See [http://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html](http://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html) for some random thoughts.
+### 6. Does anyone want to work on licenses.opendefinition.org? See [https://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html](https://lists.okfn.org/pipermail/od-discuss/2013-June/000414.html) for some random thoughts.
 
 * Does anyone rely on the specific json published at
 licenses.opendefinition.org? This may say something about how careful
@@ -205,7 +205,7 @@ licenses.opendefinition.org? Right now, they aren't. If were used in
 building a chooser, as suggested on the site, what would choosing say
 
 * What are the 3 "other" licenses in
-[http://licenses.opendefinition.org/#all-licenses](http://licenses.opendefinition.org/#all-licenses) about? I can't figure
+[https://licenses.opendefinition.org/#all-licenses](https://licenses.opendefinition.org/#all-licenses) about? I can't figure
 out why their compliance statuses are listed as they are.
 
 * It seems a pity to not use the same short identifiers as
@@ -258,10 +258,10 @@ A: nearly; what I used for most recent invites, will send to Andrew, Rufus
 
 ### 9. Reminder to look over published bios
 
-[http://opendefinition.org/advisory-council/](http://opendefinition.org/advisory-council/)
+[https://opendefinition.org/advisory-council/](https://opendefinition.org/advisory-council/)
 
 this is a wordpress site
 
 ### 10. Other outreach/collaboration
 
-* Follow up with OpenSource.org + Luis - cf [http://opensource.org/minutes20130306](http://opensource.org/minutes20130306)
+* Follow up with OpenSource.org + Luis - cf [https://opensource.org/minutes20130306](https://opensource.org/minutes20130306)

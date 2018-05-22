@@ -42,10 +42,10 @@ To participate please add your name and Skype ID to the pad!
     * Introducing the Open Government Data timeline http://bit.ly/OGD-timeline as part of an wider attempt to map what is happening with release of open government data around the world (and initiatives related to it)
     See more at: https://docs.google.com/document/d/1Ji2pifZYSggdgp0Pe8s_vFNrZIvrgwB1OhYz0AdkGsc/edit#
 * OD license issues
-    * following the debate from; http://opendefinition.okfnpad.org/conferencecall-summary
+    * following the debate from; https://opendefinition.okfnpad.org/conferencecall-summary
     * Possible review & comments by the OD advisory council on a DRAFT german open government license
 * CC 4.0 license update (if people are interested)
-    * see http://blog.okfn.org/2012/08/15/cc-license-version-4-0-helping-meet-the-needs-of-open-data-publishers-and-users/
+    * see https://blog.okfn.org/2012/08/15/cc-license-version-4-0-helping-meet-the-needs-of-open-data-publishers-and-users/
     * http://wiki.creativecommons.org/4.0
 * OKFestival last preparations
     * http://okfestival.org/onlineschedule/

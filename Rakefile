@@ -7,5 +7,5 @@ task :test do
                               check_html: true,
                               validation: { ignore_script_embeds: true },
                               empty_alt_ignore: true,
-                              url_swap: { %r{http://opendefinition.org} => '' }).run
+                              url_swap: { %r{https://opendefinition.org} => '' }).run
 end

@@ -34,14 +34,14 @@ Confirmed:
 ## AGENDA
 
 * approval (or not) of UK OGL
-  * http://lists.okfn.org/pipermail/od-discuss/2011-December/000086.html may be last focused on UK OGL (subject then expands to OD clarification/update), also see previous in thread
-* non-conformance of Irish PSI license -- see http://lists.okfn.org/pipermail/od-discuss/2011-July/000047.html
+  * https://lists.okfn.org/pipermail/od-discuss/2011-December/000086.html may be last focused on UK OGL (subject then expands to OD clarification/update), also see previous in thread
+* non-conformance of Irish PSI license -- see https://lists.okfn.org/pipermail/od-discuss/2011-July/000047.html
 * Approval or not of Kenyan Open Data Policy (probably not conformant)
-  * See http://lists.okfn.org/pipermail/od-discuss/2011-November/000070.html
+  * See https://lists.okfn.org/pipermail/od-discuss/2011-November/000070.html
 * updating of the OD itself, which has been done before (1.0 to 1.1)
-  * See http://lists.okfn.org/pipermail/od-discuss/2012-January/000096.html
-* move EFF OAL from non-comformant/discontinued to conformant/deprecated as http://web.archive.org/web/20040603070029/http://www.eff.org/IP/Open_licenses/eff_oal_version1.php is clearly conformant and having it listed on non-conformant page is confusing. Or remove all mention from site.
-* http://licenses.opendefinition.org/ and associated repo
+  * See https://lists.okfn.org/pipermail/od-discuss/2012-January/000096.html
+* move EFF OAL from non-comformant/discontinued to conformant/deprecated as https://web.archive.org/web/20040603070029/http://www.eff.org/IP/Open_licenses/eff_oal_version1.php is clearly conformant and having it listed on non-conformant page is confusing. Or remove all mention from site.
+* https://licenses.opendefinition.org/ and associated repo
     * https://github.com/okfn/licenses
 * Update from David Eaves
 
@@ -84,7 +84,7 @@ As the OKD draws much from the OSD, which itself is based on the DFSG, I take li
 All agreed that this was non-compliant.
 
 * No Discrimination Against Fields of Endeavor - Restriction of commercial use.
-  * non-conformant because of non-commercial restrictions 
+  * non-conformant because of non-commercial restrictions
 
 ### Version 1.2 of Open Definition
 
@@ -96,7 +96,7 @@ All agreed that this was non-compliant.
 ### Move EFF OAL
 Unanimously agreed that:
 
-EFF OAL moved from non-conformant/discontinued to conformant/deprecated as http://web.archive.org/web/20040603070029/http://www.eff.org/IP/Open_licenses/eff_oal_version1.php is clearly conformant and having it listed on non-conformant page is confusing.
+EFF OAL moved from non-conformant/discontinued to conformant/deprecated as https://web.archive.org/web/20040603070029/http://www.eff.org/IP/Open_licenses/eff_oal_version1.php is clearly conformant and having it listed on non-conformant page is confusing.
 
 ### Irish
 
@@ -126,4 +126,3 @@ Andrew: if you perform the attribution requirement it would seem very hard for a
 * 72% of datasets on data.gov.nz are CC-By or better
 * 41% of datasets on data.gov.nz are CC-By or better (once one excludes geodata)
 * 34% ...
-

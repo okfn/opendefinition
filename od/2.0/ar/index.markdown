@@ -10,7 +10,7 @@ direction: rtl
 
 **ملخص**: *تعد المعرفة مفتوحة إذا كان لأي شخص حرية النفاذ إليها و استعمالها وتعديلها ومشاركتها - رهنا، كحد أقصى، بالتدابير التي تحفظ الأصولية  والانفتاح.*
 
-هذا المعنى الأساسي يطابق معنى "open" بالنسبة للبرمجيات كما هو في "تعريف المصدر المفتوح" ([Open Source Definition](http://www.opensource.org/docs/osd))  وهو مرادف لـ "free" أو "libre" كما هو في "تعريف المصنفات الثقافية الحرة" ([Definition of Free Cultural Works](http://freedomdefined.org/)). اشتق "تعريف مفتوح" (Open Definition) مبدئياً من "تعريف المصدر المفتوح" (Open Source Definition)، والذي بدوره قد اشتق من "قواعد ديبيان للبرمجيات المفتوحة" ([Debian Free Software Guidelines](http://www.debian.org/social_contract)).
+هذا المعنى الأساسي يطابق معنى "open" بالنسبة للبرمجيات كما هو في "تعريف المصدر المفتوح" ([Open Source Definition](https://opensource.org/docs/osd))  وهو مرادف لـ "free" أو "libre" كما هو في "تعريف المصنفات الثقافية الحرة" ([Definition of Free Cultural Works](http://freedomdefined.org/)). اشتق "تعريف مفتوح" (Open Definition) مبدئياً من "تعريف المصدر المفتوح" (Open Source Definition)، والذي بدوره قد اشتق من "قواعد ديبيان للبرمجيات المفتوحة" ([Debian Free Software Guidelines](http://www.debian.org/social_contract)).
 
 سوف يتم استعمال مصطلح **مصنف** للإشارة إلى بند أو جزء من المعرفة يتم نقلها.
 

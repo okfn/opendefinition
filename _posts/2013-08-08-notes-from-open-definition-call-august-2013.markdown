@@ -10,7 +10,7 @@ categories:
 - Meetings
 ---
 
-Previous call [notes](http://opendefinition.org/2013/08/03/notes-from-advisory-panel-meeting-june-2013/). Next call October 10 (2nd Thursday of even months) at 15:00 UTC.
+Previous call [notes](https://opendefinition.org/2013/08/03/notes-from-advisory-panel-meeting-june-2013/). Next call October 10 (2nd Thursday of even months) at 15:00 UTC.
 
 # Participants
 
@@ -44,7 +44,7 @@ Previous call [notes](http://opendefinition.org/2013/08/03/notes-from-advisory-p
 * Datalizenz  
     * DD at Wikimania; deferred to October
 * Open Game License  
-    * [Proposed on-list](http://lists.okfn.org/pipermail/od-discuss/2013-July/000525.html), discuss
+    * [Proposed on-list](https://lists.okfn.org/pipermail/od-discuss/2013-July/000525.html), discuss
     * Feeling outside of OD expertise, perhaps scope. We will probably not address OGL unless additional case made to do so on-list.
     * ACTION: ML to say above on-thread
 * Others?  

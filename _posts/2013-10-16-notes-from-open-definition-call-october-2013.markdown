@@ -10,7 +10,7 @@ categories:
 - Meetings
 ---
 
-Previous call [notes](http://opendefinition.org/2013/08/08/notes-from-open-definition-call-august-2013/). Next call December 12 (2nd Thursday of even months) at 15:00 UTC.
+Previous call [notes](https://opendefinition.org/2013/08/08/notes-from-open-definition-call-august-2013/). Next call December 12 (2nd Thursday of even months) at 15:00 UTC.
 
 #Participants
 
@@ -89,7 +89,7 @@ The Australian Government Solictor Public Access Licences.   (The AGS is not par
 
 ## Open Definition 1.2
 
-Next steps, if any, before making 1.2 final/current, or alternate strategy http://lists.okfn.org/pipermail/od-discuss/2013-October/000635.html
+Next steps, if any, before making 1.2 final/current, or alternate strategy https://lists.okfn.org/pipermail/od-discuss/2013-October/000635.html
 
 **ACTION: split out minor changes from major substantive change (section 12)**
 

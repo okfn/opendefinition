@@ -12,7 +12,7 @@ wordpress_id: 119
 
 #### Full text 
 
-http://web.archive.org/web/20060612204158/http://www.freecreations.org/Against_DRM2.html
+https://web.archive.org/web/20060612204158/http://www.freecreations.org/Against_DRM2.html
 
 Spanish, French, and Italian translations are available:
 

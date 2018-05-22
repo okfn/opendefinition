@@ -25,7 +25,7 @@ categories:
   * approval process and license category proposed update (ideally live with 2.0 as it addresses best practices we decided to not address in definition), see https://lists.okfn.org/pipermail/od-discuss/2014-April/000841.html
   * Non-open OGL + terms license for some UK gov-related data (https://github.com/okfn/opendefinition/issues/44)
   * Migration of opendefinition.org to static site/gh-pages https://github.com/okfn/opendefinition/issues/5#issuecomment-51871836
-  * Badges / buttons: http://opendefinition.org/buttons/ - updating these - https://github.com/okfn/opendefinition/issues/46
+  * Badges / buttons: https://opendefinition.org/buttons/ - updating these - https://github.com/okfn/opendefinition/issues/46
 
 # Summary
 

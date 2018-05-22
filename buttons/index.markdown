@@ -36,7 +36,7 @@ There are a variety of colours and shapes and you can check out the full range o
 ### Open Knowledge Button
 
 ```
-<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png" alt="This material is Open Knowledge"/></a>
+<a href="https://opendefinition.org/"><img src="https://opendefinition.org/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png" alt="This material is Open Knowledge"/></a>
 ```
 
 
@@ -46,27 +46,27 @@ The result should look similar to:
 
 [
   ![This material is Open Knowledge](/assets.okfn.org/images/ok_buttons/ok_80x15_blue.png)
-](http://opendefinition.org/)
+](https://opendefinition.org/)
 
 
 ### Open Data Button
 
 ```
-<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="This material is Open Data"/></a>
+<a href="https://opendefinition.org/"><img src="https://opendefinition.org/assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="This material is Open Data"/></a>
 ```
 
 The result should look similar to:
 
 [
   ![This material is Open Data](/assets.okfn.org/images/ok_buttons/od_80x15_blue.png)
-](http://opendefinition.org/)
+](https://opendefinition.org/)
 
 
 ### Open Content Button
 
 
 ```
-<a href="http://opendefinition.org/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="This material is Open Content"/></a>
+<a href="https://opendefinition.org/"><img src="https://opendefinition.org/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="This material is Open Content"/></a>
 ```
 
 
@@ -74,6 +74,6 @@ Which should look similar to:
 
 
 [
-  ![This material is Open Content](/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png)](http://opendefinition.org/)
+  ![This material is Open Content](/assets.okfn.org/images/ok_buttons/oc_80x15_blue.png)](https://opendefinition.org/)
 
 

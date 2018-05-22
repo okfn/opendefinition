@@ -32,14 +32,14 @@ An open software service is one:
 
 1. The Open Definition requires technological openness. Thus, for example, the data shouldn't be restricted by technological means such as access control and should be available in an open format.
 2. The Open Definition also requires that data should be accessible in some machine automatable manner (e.g. through a standardized open API or via download from a standard specified location).
-3. The OSI approved list is available at:  <http://opensource.org/licenses/> and the FSF list is at: <https://www.gnu.org/philosophy/license-list.html>
+3. The OSI approved list is available at:  <https://opensource.org/licenses/> and the FSF list is at: <https://www.gnu.org/philosophy/license-list.html>
 4. For an online-service simply using an F/OSS licence is insufficient since the fact that users only interact with the service and never obtain the software renders many traditional F/OSS licences inoperative. Hence the need for the second requirement that the source code is made publicly available.
 5. APIs: all APIs associated with the service will be assumed to be open (that is their form may be copied freely by others). This would naturally follow from the fact that the code and data underlying any of the APIs are open.
 6. It is important that the service's code need only be made available to its users so as not to impose excessive obligations on providers of open software services.
 
 ### Acknowledgements
 
-This definition was originally drafted thanks on the [open definition discussiong mailing list](http://lists.okfn.org/mailman/listinfo/od-discuss). A variety of people contributed to that effort as well as subsequent improvements and amendments including (in alphabetical order):
+This definition was originally drafted thanks on the [open definition discussiong mailing list](https://lists.okfn.org/mailman/listinfo/od-discuss). A variety of people contributed to that effort as well as subsequent improvements and amendments including (in alphabetical order):
 
 * Dave Crossland
 * Francis Irving
@@ -63,14 +63,14 @@ To add a button to your site just copy and paste the following bit of html into 
 
 
 ```
-<a href="http://opendefinition.org/ossd/"><img src="http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_blue.png" alt="This is an Open Service"/></a>
+<a href="https://opendefinition.org/ossd/"><img src="https://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_blue.png" alt="This is an Open Service"/></a>
 ```
 
 To use a different button (other than the blue one used in the example) just change the 'src' attribute to point to one of the other buttons:
 
-* http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_blue.png
-* http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_red_green.png
-* http://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png
+* https://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_blue.png
+* https://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_red_green.png
+* https://opendefinition.org/assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png
 
 
 
@@ -122,9 +122,9 @@ welcome to [this topic](http://rizzoma.com/topic/a5a8bfa0ced5ab2611cf5e365673a55
 * v0.2: (first version on this site): 2007-07
 * v0.1: 2006-10
 
-This particular formulation originates from discussions taking place originally on the [okfn-discuss mailing list](http://lists.okfn.org/mailman/listinfo/okfn-discuss) in September and October 2006 (see in particular [this post](http://lists.okfn.org/pipermail/okfn-discuss/2006-October/000177.html)) but owes much to [more recent (Summer 2007) discussions](http://lists.okfn.org/pipermail/okfn-discuss/2007-July/000475.html) precipitated by activities at GUADEC 2007 (see [1], [2], [3], [4]).
+This particular formulation originates from discussions taking place originally on the [okfn-discuss mailing list](https://lists.okfn.org/mailman/listinfo/okfn-discuss) in September and October 2006 (see in particular [this post](https://lists.okfn.org/pipermail/okfn-discuss/2006-October/000177.html)) but owes much to [more recent (Summer 2007) discussions](https://lists.okfn.org/pipermail/okfn-discuss/2007-July/000475.html) precipitated by activities at GUADEC 2007 (see [1], [2], [3], [4]).
 
-1. [We Need an Open Service Definition](http://blog.okfn.org/2007/07/18/we-need-an-open-service-definition/) -- blog post on the OKFN blog by Francis Irving which references [a post on Havoc Pennington's blog](http://log.ometer.com/2007-07.html#18)
+1. [We Need an Open Service Definition](https://blog.okfn.org/2007/07/18/we-need-an-open-service-definition/) -- blog post on the OKFN blog by Francis Irving which references [a post on Havoc Pennington's blog](http://log.ometer.com/2007-07.html#18)
 2. [Evaluating a Free/Open Service Definition (rough draft)](http://tieguy.org/blog/2007/07/22/evaluating-a-freeopen-service-definition-rough-draft/) posted by Luis Villa
-3. [This ongoing thread on okfn-discuss](http://lists.okfn.org/pipermail/okfn-discuss/2007-July/000475.html) -- this includes comments from a variety of people including Luis Villa, Mike Linksvayer, Rufus Pollock, Francis Irving and Saul Albert.
+3. [This ongoing thread on okfn-discuss](https://lists.okfn.org/pipermail/okfn-discuss/2007-July/000475.html) -- this includes comments from a variety of people including Luis Villa, Mike Linksvayer, Rufus Pollock, Francis Irving and Saul Albert.
 4. [Free/Open Services Definition draft/discussion page](https://wiki.gnome.org/Attic/FreeOpenServicesDefinition) -- this is a draft definition put together by Luis Villa and posted on the GNOME 'live' wiki. In addition to the definition there is also an excellent listing on existing work and writing on this issue.

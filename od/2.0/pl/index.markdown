@@ -11,7 +11,7 @@ którego każdy może czerpać i uczestniczyć w jego rozwoju. Definicja służy
 wymogom co najwyżej oznaczania źródeł jej pochodzenia lub zachowania jej otwartości.*
 
 Określona powyżej istota Definicji Otwartej Wiedzy odpowiada definicji “otwartości” przyjętej przez [Open Source Definition]
-(http://www.opensource.org/docs/osd) oraz tego, co “wolne” wedle [Definition of Free Cultural Works]
+(https://opensource.org/docs/osd) oraz tego, co “wolne” wedle [Definition of Free Cultural Works]
 (http://freedomdefined.org). Pierwotnie, Open 
 Definition została wywiedziona z Open Source Definition, która z kolei została wywiedziona z [*Debian Free Software Guidelines*]
 (http://www.debian.org/social_contract).
