@@ -47,14 +47,14 @@ without being authorised to do so by its licensors.
 
 R_E_F_E_R_E_N_C_E_S_:_
 ① also at http://mirbsd.de/MirOS-Licence
-② http://www.opensource.org/licenses/historical.php
+② https://opensource.org/licenses/historical.php
 ③ http://www.debian.org/social_contract#guidelines
-④ http://www.opendefinition.org/1.0
-⑤ http://www.opensource.org/docs/osd
+④ https://opendefinition.org/1.0
+⑤ https://opensource.org/docs/osd
 ⑥ http://www.gnu.org/philosophy/free-sw.html
 ⑦ http://www.gnu.org/philosophy/free-doc.html
 ⑧ http://www.ifross.de/ifross_html/lizenzcenter.html
-⑨ http://www.opendefinition.org/licenses
-⑩ http://opensource.org/licenses/miros.html
+⑨ https://opendefinition.org/licenses
+⑩ https://opensource.org/licenses/miros.html
 
 </pre>

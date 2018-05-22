@@ -10,7 +10,7 @@ wordpress_id: 255
 
 ##  Introduction 
 
-This a guide to licensing data aimed particularly at those who want to make their data [open](http://www.opendefinition.org/).
+This a guide to licensing data aimed particularly at those who want to make their data [open](https://opendefinition.org/).
 
 The first section deals with the practical question of how to license your data. The second section discusses what kinds of rights (intellectual property or other) exist in data in various jurisdictions.
 
@@ -27,9 +27,9 @@ In addition to the disclaimer in the license linked at the bottom of the page pl
 
 ## Licensing your Data
 
-In most jurisdictions there are intellectual property rights in data that prevent third-parties from using, reusing and redistributing data without explicit permission. Even in places where the existence of rights is uncertain, it is important to apply a license simply for the sake of clarity. Thus, **if you are planning to make your data available you should put a license on it** -- and if you want your data to be [open](http://opendefinition.org/) the license matters, because it makes it open for those users in jurisdictions where their use may be otherwise restricted.
+In most jurisdictions there are intellectual property rights in data that prevent third-parties from using, reusing and redistributing data without explicit permission. Even in places where the existence of rights is uncertain, it is important to apply a license simply for the sake of clarity. Thus, **if you are planning to make your data available you should put a license on it** -- and if you want your data to be [open](https://opendefinition.org/) the license matters, because it makes it open for those users in jurisdictions where their use may be otherwise restricted.
 
-What licenses can you use? We recommend for 'open' data you use one of the licenses conformant with the [Open Definition ](http://www.opendefinition.org/) and marked as suitable for data. This list (along with instructions for usage) can be found at:
+What licenses can you use? We recommend for 'open' data you use one of the licenses conformant with the [Open Definition ](https://opendefinition.org/) and marked as suitable for data. This list (along with instructions for usage) can be found at:
 
 * [Open Licenses](/licenses/)
 
@@ -151,7 +151,7 @@ OpenStreetMap keeps a wiki page with [case law](http://wiki.openstreetmap.org/wi
 See:
 
 * [Copyright or database right... Does it matter?](http://www.journalofmaps.com/cgi-bin/blosxom.cgi/GIS/GRADE_Waelde.html)
-* [Copyright not applicable to geodata?](http://blog.okfn.org/2007/04/01/copyright-not-applicable-to-geodata/)
+* [Copyright not applicable to geodata?](https://blog.okfn.org/2007/04/01/copyright-not-applicable-to-geodata/)
 * Email thread [Copyright not applicable to geodata?](https://lists.okfn.org/pipermail/okfn-discuss/2007-April/000389.html)
 
 ### OWL Ontology for Use with Geodata
@@ -179,8 +179,8 @@ In addition we'd like to acknowledge the excellent Creative Commons FAQ, origina
 ##  References 
 
 [^1]: Cornish and Llewelyn, Intellectual Property, 5th Edition (Sweet and Maxwell)]
-[^2]: [Blog entry on CCH Canadian Ltd. v. Law Society of Upper Canada](http://web.archive.org/web/20070629163851/http://ansuz.sooke.bc.ca/lawpoli/cases/2004030401.php)
-[^3]: [Open Library Catalog Data](http://web.archive.org/web/20070527071114/http://www.tomkeays.com/blog/archives/2006/12/18/004216.php) (blog entry)
+[^2]: [Blog entry on CCH Canadian Ltd. v. Law Society of Upper Canada](https://web.archive.org/web/20070629163851/http://ansuz.sooke.bc.ca/lawpoli/cases/2004030401.php)
+[^3]: [Open Library Catalog Data](https://web.archive.org/web/20070527071114/http://www.tomkeays.com/blog/archives/2006/12/18/004216.php) (blog entry)
 [^4]: [Creative Commons FAQ on Databases](https://wiki.creativecommons.org/wiki/Data#Frequently_asked_questions_about_data.2C_generally)
 [^5]: [Ius Mentis Crash course on database rights](http://www.iusmentis.com/databases/crashcourse/)
 [^5a]: [Ius Mentis: Database protection in the US](http://www.iusmentis.com/databases/us/)

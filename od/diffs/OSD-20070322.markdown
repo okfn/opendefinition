@@ -53,4 +53,4 @@ No provision of the license may be predicated on any individual technology or st
 
 ___
 
-*Copy of <http://opensource.org/docs/osd> licensed under <http://creativecommons.org/licenses/by/4.0/>.*
+*Copy of <https://opensource.org/docs/osd> licensed under <http://creativecommons.org/licenses/by/4.0/>.*

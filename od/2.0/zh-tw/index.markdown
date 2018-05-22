@@ -9,7 +9,7 @@ layout: page
 
 **簡介：** *當知識是任何人都可以自由存取、使用、修改，以及分享，且最多僅受限於註引出處及保持開放的尺度時，它才是開放的。*
 
-本定義的重要元素與軟體相較，同於[開放源碼定義](http://www.opensource.org/docs/osd)下之「開放」一詞，並與[自由文化作品定義](http://freedomdefined.org)裡「自由」一詞為同義。開放定義初始是由開放源碼定義衍生而來，就像開放源碼定義亦是依序由 [Debian 自由軟體指導方針](http://www.debian.org/social_contract)衍生而來。
+本定義的重要元素與軟體相較，同於[開放源碼定義](https://opensource.org/docs/osd)下之「開放」一詞，並與[自由文化作品定義](http://freedomdefined.org)裡「自由」一詞為同義。開放定義初始是由開放源碼定義衍生而來，就像開放源碼定義亦是依序由 [Debian 自由軟體指導方針](http://www.debian.org/social_contract)衍生而來。
 
 **作品**指的是知識被傳遞時的項目或片段。
 

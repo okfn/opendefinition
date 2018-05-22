@@ -64,7 +64,7 @@ categories:
 
  * open data and APIs
    - OD could try to keep up with this issue
-   - open software services definition - http://opendefinition.org/ossd/ 
+   - open software services definition - https://opendefinition.org/ossd/ 
    - could have general discussion of challenges/problems; focus on government use case
    - Herb will follow-up after OD 2.1 is done
 

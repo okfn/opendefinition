@@ -48,7 +48,7 @@ Luis: will send some suggestions based on experience at OSI
 Rufus: +1
 Rufus: Idea of using git and github ...
 * would prefer decisions on-line/public email for documentation/transparency/legitimacy; calls for strategy/input/discussion. Maybe this has been the case anyway...
-* Current process is described at http://opendefinition.org/licenses/process/
+* Current process is described at https://opendefinition.org/licenses/process/
 * Luis will send some comments based on OSI experience
 * Email list about outstanding license conformance decisions + rationale; give 2 weeks for +1 or objection (non-comformant: UK OGL, Ireland, Kenya, ?)
 ## Advisory Council participants

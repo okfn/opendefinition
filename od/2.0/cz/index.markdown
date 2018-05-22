@@ -9,7 +9,7 @@ Otevřená definice (definice "otevřených znalostí") přináší zpřesnění
 
 **Shrnutí:** *Znalosti jsou otevřené, pokud k nim může kdokoliv volně přistupovat, používat je, upravovat a sdílet je -- za podmínek, které nejvíce zabezpečí zachování původu, tedy vlastnictví, a otevřenosti.*
 
-Tento zásadní význam se shoduje s pojmem "otevřený" ve smyslu software tak, jak je uvedeno v [Open Source Definition](http://www.opensource.org/docs/osd) a je synonymem pro výraz "svobodný" (free, libre) ve smyslu [Definition of Free Cultural Works](http://freedomdefined.org) (Definice svobodných kulturních děl)). Otevřená definice byla původně odvozena z Open Source Definition, která byla odvozena z [Debian Free Software Guidelines](http://www.debian.org/social_contract) (Zásad svobodného software systému Debian).
+Tento zásadní význam se shoduje s pojmem "otevřený" ve smyslu software tak, jak je uvedeno v [Open Source Definition](https://opensource.org/docs/osd) a je synonymem pro výraz "svobodný" (free, libre) ve smyslu [Definition of Free Cultural Works](http://freedomdefined.org) (Definice svobodných kulturních děl)). Otevřená definice byla původně odvozena z Open Source Definition, která byla odvozena z [Debian Free Software Guidelines](http://www.debian.org/social_contract) (Zásad svobodného software systému Debian).
 
 Termín **dílo** je určen k označení vložené části znalosti nebo znalosti jako celku.
 

@@ -10,7 +10,7 @@ categories:
 - Meetings
 ---
 
-Previous call [notes](http://opendefinition.org/2013/10/16/notes-from-open-definition-call-october-2013/). Next call 2014-02-13 (2nd Thursday of even months) at 15:00 UTC.
+Previous call [notes](https://opendefinition.org/2013/10/16/notes-from-open-definition-call-october-2013/). Next call 2014-02-13 (2nd Thursday of even months) at 15:00 UTC.
 
 #Participants
 
@@ -43,8 +43,8 @@ Walkthrough and structure of [current draft](https://github.com/okfn/opendefinit
     * ACTION: Herb to attempt bringing all to consistent, prescriptive state.
 * Suggestion from Karl Fogel for an explicit statement about what permissions a license must require in order to protect licensee privacy. Discussion of whether this in practice is a license issue, or deployment/access/work issue. Registration/identification requirements seen in government data portals and their ToS, not quite the same thing.
     * ACTION: Mike to start discussion on-list, invite Karl to elaborate.
-* Discussion of how to address [license proliferation](http://opendefinition.org/2013/12/04/open-definition-and-license-proliferation/) in Open Definition 2.0, which is most powerful place to make a statement. We want to encourage only licenses that are good for the ecosystem, but not go so far as saying that a redundant license that is unambiguously open is not Open. How do we encourage folks developing indended-to-be-open licenses to engage early in their policy thinking -- before the actual policy is established?
-    * IDEA: Add a before-license-completed section to the [approval process](http://opendefinition.org/licenses/process/), encouraging would-be stewards of new licenses to consult with the Advisory Council.
+* Discussion of how to address [license proliferation](https://opendefinition.org/2013/12/04/open-definition-and-license-proliferation/) in Open Definition 2.0, which is most powerful place to make a statement. We want to encourage only licenses that are good for the ecosystem, but not go so far as saying that a redundant license that is unambiguously open is not Open. How do we encourage folks developing indended-to-be-open licenses to engage early in their policy thinking -- before the actual policy is established?
+    * IDEA: Add a before-license-completed section to the [approval process](https://opendefinition.org/licenses/process/), encouraging would-be stewards of new licenses to consult with the Advisory Council.
     * IDEA: Outreach to potential license stewards, such that they learn of the Open Definition process before they have completed their licenses. Nobody in the "open" community wants more redundant licenses, each with own problems. What can OKFN and other organizations do to inform local activists and other networks that potential stewards might come in contact with early?
     * ACTION: Mike to start a thread on the list about non-proliferation of license(s) and how we might encourage the "right thing" in the OD.
     * ACTION: Herb to propose pre-completion process addition.

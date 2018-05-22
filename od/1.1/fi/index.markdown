@@ -97,7 +97,7 @@ Lisenssi ei saa asettaa rajoituksia muihin aineistoihin, joita jaellaan yhdessä
 
 
 -----
-[1] Open Source Definition -määritelmää http://opensource.org/docs/osd ei ole sanatarkasti suomennettu, mutta COSS ry:n sivuilta löytyy lyhennetty suomennos http://coss.fi/avoimuus/avoin-lahdekoodi/
+[1] Open Source Definition -määritelmää https://opensource.org/docs/osd ei ole sanatarkasti suomennettu, mutta COSS ry:n sivuilta löytyy lyhennetty suomennos http://coss.fi/avoimuus/avoin-lahdekoodi/
 
 
 

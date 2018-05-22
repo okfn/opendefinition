@@ -10,27 +10,27 @@ wordpress_id: 76
 
 ## History of the Open Definition
 
-### [v2.1](http://opendefinition.org/od/2.1/en/): 2015-11
+### [v2.1](https://opendefinition.org/od/2.1/en/): 2015-11
 
-[Announcement](http://blog.okfn.org/2015/11/10/announcement-open-definition-2-1/)
+[Announcement](https://blog.okfn.org/2015/11/10/announcement-open-definition-2-1/)
 
 [2.0-2.1 diff](/od/diffs/2.0-2.1-en-wdiff.html)
 
-### [v2.0](http://opendefinition.org/od/2.0/en/): 2014-10
+### [v2.0](https://opendefinition.org/od/2.0/en/): 2014-10
 
-[Announcement](http://blog.okfn.org/2014/10/07/open-definition-v2-0-released-major-update-of-essential-standard-for-open-data-and-open-content/)
+[Announcement](https://blog.okfn.org/2014/10/07/open-definition-v2-0-released-major-update-of-essential-standard-for-open-data-and-open-content/)
 
 [1.1-2.0 diff](/od/diffs/1.1-2.0-en-wdiff.html)
 
-### [v1.1](http://opendefinition.org/od/1.1/en/): 2009-11
+### [v1.1](https://opendefinition.org/od/1.1/en/): 2009-11
 
 Very minor corrections and emendations to the text. Merge annotated and simple versions of the definition.
 
 [1.0-1.1 diff](/od/diffs/1.0-1.1-en-wdiff.html)
 
-### [v1.0](http://opendefinition.org/od/1.0/en/): 2006-07
+### [v1.0](https://opendefinition.org/od/1.0/en/): 2006-07
 
-After a final period in which to solicit feedback version 1.0 was released in July 2006. At the same time the project was moved from http://www.okfn.org/okd/ to http://opendefinition.org/okd/
+After a final period in which to solicit feedback version 1.0 was released in July 2006. At the same time the project was moved from http://www.okfn.org/okd/ to https://opendefinition.org/okd/
 
 ### v0.2.1:2006-05
 
@@ -47,7 +47,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
 
 ### News Items
 
-  **Autumn 2009 onwards:** please see [Open Definition Updates](http://opendefinition.org/update) and the [Open Definition category](http://blog.okfn.org/category/open-definition/) of the Open Knowledge blog.
+  **Autumn 2009 onwards:** please see [Open Definition Updates](https://opendefinition.org/update) and the [Open Definition category](https://blog.okfn.org/category/open-definition/) of the Open Knowledge blog.
   
   * **2009-09-30**: [Macedonian](/okd/Makedonski_jazik) translation of the Open Knowledge Definition thanks to Ljube Babunski
   * **2009-09-22**: [Swedish](/okd/Svenska) translation of the Open Knowledge Definition thanks to [Peter Krantz](http://www.peterkrantz.com) and [Staffan Malmgren](http://lagen.nu)
@@ -68,7 +68,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
   * **2008-03-03**: [ Spanish](/okd/Espanol) and [ Catalan](/okd/Catala) translations of the Definition courtesy of Ignasi Labastida i Juan.
   * **2008-02-29**: [Polish translation of the Definition](/okd/Polszczyzna) courtesy of Jarosław LIpszyc
   * **2008-02-28**: [Danish translation of the Definition](/okd/Dansk) courtesy of Peter Froberg
-  * **2008-02-11**: New [ Advisory Council](/advisory-council/) for managing http://opendefinition.org and its associated material.
+  * **2008-02-11**: New [ Advisory Council](/advisory-council/) for managing https://opendefinition.org and its associated material.
   * **2007-12-17**: Science Commons announce [Protocol for Implementing Open Access Data](http://sciencecommons.org/projects/publishing/open-access-data-protocol/) which is compatible with the Open Knowledge/Data Definition.
   * **2007-12-12**: [Prelinger Archives at archive.org](http://www.archive.org/details/prelinger) are using the Open Knowledge web button.
   * **2007-1/okd9**: [Languages of the World (Multilingual RDF Descriptions)](http://www.lingvoj.org/) using the Open Data web button.

@@ -21,7 +21,7 @@ categories:
 # Agenda
 
   * Authentication and Openness (and Open APIs)
-    * this is http://opendefinition.org/ossd/index.html related
+    * this is https://opendefinition.org/ossd/index.html related
   * license review process logistics
   * KOGL
   * Scottish Parliament Open License v2.0

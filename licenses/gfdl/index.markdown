@@ -29,7 +29,7 @@ The GFDL is **only** considered conformant if you
 Please see for more information:
 
 * [Debian legal summary](http://people.debian.org/~srivasta/Position_Statement.xhtml)
-* [ Nathanael Nerode on Why You Shouldn't Use the GNU FDL](http://web.archive.org/web/20080515215935/http://home.twcny.rr.com/nerode/neroden/fdl.html)
+* [ Nathanael Nerode on Why You Shouldn't Use the GNU FDL](https://web.archive.org/web/20080515215935/http://home.twcny.rr.com/nerode/neroden/fdl.html)
 
 
 #### How to apply 

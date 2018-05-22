@@ -24,7 +24,7 @@ Ancillary information from the Office of Public Sector Information can be found 
 
 Was also known as the core licence. Below we provide an excerpted version that includes the relevant sections.
 
-This license is **[not open](http://lists.okfn.org/pipermail/od-discuss/2012-December/000239.html)**. A probably incomplete list of clauses that make it so:
+This license is **[not open](https://lists.okfn.org/pipermail/od-discuss/2012-December/000239.html)**. A probably incomplete list of clauses that make it so:
 
     6. How the Material may be reproduced
 

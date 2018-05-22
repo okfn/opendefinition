@@ -32,8 +32,8 @@ Word-wrapped at column 72 for convenience.
     [INSERT NAME HERE]
     
     [1]: [INSERT LINK HERE]
-    [2]: http://www.opendefinition.org/1.0/
-    [3]: http://www.opendefinition.org/licenses/
+    [2]: https://opendefinition.org/1.0/
+    [3]: https://opendefinition.org/licenses/
     
 
 `
@@ -57,8 +57,8 @@ Word-wrapped at column 72 for convenience.
     [INSERT NAME HERE]
     
     [1]: [INSERT LINK HERE]
-    [2]: http://www.opendefinition.org/1.0/
-    [3]: http://www.opendefinition.org/licenses/
+    [2]: https://opendefinition.org/1.0/
+    [3]: https://opendefinition.org/licenses/
     
 
 `
@@ -77,7 +77,7 @@ Word-wrapped at 72 characters for convenience.
     At the Open Knowledge Foundation (http://www.okfn.org/) we work to
     promote open knowledge wherever we can. As one part of that we have
     developed an 'open knowledge definition':
-    [http://www.opendefinition.org/](http://www.opendefinition.org/)
+    [https://opendefinition.org/](https://opendefinition.org/)
     
     This is very similar to the open source definition but it adapted to the
     case of 'knowledge' -- be that data, content or any other kind of
@@ -87,7 +87,7 @@ Word-wrapped at 72 characters for convenience.
     As part of the work in developing the Definition we've produced some
     open knowledge/open data web buttons which people can use to indicate
     that the work they are producing is 'open':
-    [http://www.opendefinition.org/buttons/](http://www.opendefinition.org/buttons/)
+    [https://opendefinition.org/buttons/](https://opendefinition.org/buttons/)
     
     Your project clearly shares exactly the concept of openness set out in
     the Open Knowledge Definition. I was therefore wondering whether you

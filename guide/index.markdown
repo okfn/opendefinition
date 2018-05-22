@@ -14,7 +14,7 @@ In addition to this general guide there is also a detailed [Guide focused on Ope
 
 ## What is an open license? 
 
-A license is a document that specifies what can and cannot be done with a work (whether sound, text, image or multimedia). It grants permissions and states restrictions. Broadly speaking, an open license is one which grants permission to access, re-use and redistribute a work with few or no restrictions. (A full set of conditions which must be met in order for a license to be open is available in the [Open Knowledge Definition 1.0](http://www.opendefinition.org/1.0).)
+A license is a document that specifies what can and cannot be done with a work (whether sound, text, image or multimedia). It grants permissions and states restrictions. Broadly speaking, an open license is one which grants permission to access, re-use and redistribute a work with few or no restrictions. (A full set of conditions which must be met in order for a license to be open is available in the [Open Knowledge Definition 1.0](https://opendefinition.org/1.0).)
 
 For example, a piece of writing on a website made available under an open license would be free for anyone to: 
 
@@ -29,7 +29,7 @@ Openly licensed works are hence free to be shared, improved and built upon!
 
 The exact permissions granted depend on the full text of the open license that is applied. Different projects may require slightly different sets of permissions, or restrictions - and there are a range of different licenses available to cater to these different purposes. Some open licenses stipulate that the work may be freely re-used or re-distributed as long as the original author is appropriately credited. Some licenses state that any derivative works - or works that incorporate all or parts of the original work - are made available under the same license as the original work.
 
-For a list of the most common open licenses, see the [Open Knowledge Licenses page](http://www.opendefinition.org/licenses).
+For a list of the most common open licenses, see the [Open Knowledge Licenses page](https://opendefinition.org/licenses).
 
 ## Why use an open license? 
 
@@ -50,7 +50,7 @@ Applying an open license to a work can be very straightforward. The procedure ma
    2. Decide which open license best suits your purposes.
    3. Display a notice somewhere prominent on your work stating that your work is made available under the open license you have chosen. Include a copy of, or a link to, the full text of your chosen license in your work.
 
-More detailed instructions on how to apply specific licenses are available on the [licenses page](http://www.opendefinition.org/licenses).
+More detailed instructions on how to apply specific licenses are available on the [licenses page](https://opendefinition.org/licenses).
 
 ## Data  
 
@@ -59,7 +59,7 @@ This guide has primarily focused on "content" -- texts, images etc. The situatio
 
 ## Further information  
 
-For further information about specific open licenses, please see their respective websites. These are listed on the [Open Knowledge licenses page](http://www.opendefinition.org/licenses).
+For further information about specific open licenses, please see their respective websites. These are listed on the [Open Knowledge licenses page](https://opendefinition.org/licenses).
 
 The following is a list of articles and posts about open licenses and open licensing:
 

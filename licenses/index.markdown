@@ -16,7 +16,7 @@ This section of the site lists licenses that are conformant with the principles 
 
 The following licenses are conformant with the principles set forth in the Open Definition.
 
-* Domain = Domain of application, i.e. what type of material this license should/can be applied to. Note if you are looking for an open license for software, please see [Open Source Definition conformant licenses](http://opensource.org/licenses/).
+* Domain = Domain of application, i.e. what type of material this license should/can be applied to. Note if you are looking for an open license for software, please see [Open Source Definition conformant licenses](https://opensource.org/licenses/).
 * BY = requires attribution
 * SA = require share-alike
 
