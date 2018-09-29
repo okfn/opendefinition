@@ -162,7 +162,7 @@ These licenses conform to the Open Definition **and** are:
 ### Other conformant licenses
 
 
-These licenses conform to the Open Defintion, but do not meet reusability or compatibililty requirements for recommended licenses, or have been superceded by newer license versions or newer licenses with similar use cases, or are little-used. These licenses may be reasonable for the particular organization they were crafted for to use, or to use for legacy reasons. Projects outside such contexts are strongly advised to use a recommended conformant license from the list above.
+These licenses conform to the Open Definition, but do not meet reusability or compatibility requirements for recommended licenses, or have been superseded by newer license versions or newer licenses with similar use cases, or are little-used. These licenses may be reasonable for the particular organization they were crafted for to use, or to use for legacy reasons. Projects outside such contexts are strongly advised to use a recommended conformant license from the list above.
 
 <table cellpadding="5" cellspacing="0" border="1" >
 <tbody >
@@ -206,7 +206,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >N
 </td>
-<td>Includes all jurisdiction "ports"; <b>Superceded</b> by CC-BY-4.0.
+<td>Includes all jurisdiction "ports"; <b>Superseded</b> by CC-BY-4.0.
 </td>
 </tr>
 
@@ -219,7 +219,7 @@ These licenses conform to the Open Defintion, but do not meet reusability or com
 </td>
 <td >Y
 </td>
-<td>Includes all jurisdiction "ports"; <b>Superceded</b> by CC-BY-SA-4.0. Additionally, CC-BY-SA-1.0 is <b>Incompatible</b> with any other license.
+<td>Includes all jurisdiction "ports"; <b>Superseded</b> by CC-BY-SA-4.0. Additionally, CC-BY-SA-1.0 is <b>Incompatible</b> with any other license.
 </td>
 </tr>
 
