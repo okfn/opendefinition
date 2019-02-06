@@ -9,11 +9,7 @@ Die Offen-Definition präzisiert die Bedeutung von „offen” in Bezug auf Wiss
 
 **Zusammenfassung:** *Wissen ist offen, wenn jedeR darauf frei zugreifen, es nutzen, verändern und teilen kann – eingeschränkt höchstens durch Maßnahmen, die Ursprung und Offenheit des Wissens bewahren.*
 
-Diese grundlegende Bedeutung entspricht der von „offen” in Bezug auf Software, wie in der [Open-Source-Definition](https://opensource.org/docs/osd), und steht synonym für 
-
-„frei” oder „libre” wie in den [Debian-Freie-Software-Richtlinien](http://www.debian.org/social*contract) und der [Definition freier kultureller Werke]
-
-(https://de.wikipedia.org/wiki/Definition*freier*kultureller*Werke).
+Diese grundlegende Bedeutung entspricht der von „offen” in Bezug auf Software, wie in der [Open-Source-Definition](https://opensource.org/docs/osd), und steht synonym für „frei” oder „libre” wie in den [Debian-Freie-Software-Richtlinien](http://www.debian.org/social*contract) und der [Definition freier kultureller Werke](https://de.wikipedia.org/wiki/Definition*freier*kultureller*Werke).
 
 Der Begriff **Werk** wird im Folgenden verwendet, um ein Element oder ein Stück von Wissen, das übermittelt wird, zu bezeichnen.
 
@@ -91,9 +87,7 @@ Die **Lizenz** *darf keine* Honorarvereinbarung, Lizenzgebühren oder andere Ent
 
 ### 2.2 Akzeptable Bedingungen
 
-Die **Lizenz** *darf nicht* die in Abschnitt 2.1 geforderten Genehmigungen einschränken, untergraben, oder anderweitig schwächen, außer unter den folgenden erlaubten 
-
-Bedingungen:
+Die **Lizenz** *darf nicht* die in Abschnitt 2.1 geforderten Genehmigungen einschränken, untergraben, oder anderweitig schwächen, außer unter den folgenden erlaubten Bedingungen:
 
 #### 2.2.1 Zuschreibung
 
@@ -101,9 +95,7 @@ Die **Lizenz** *kann* verlangen, dass die Verbreitung des Werkes die Nennung der
 
 #### 2.2.2 Integrität
 
-Die **Lizenz** *kann* verlangen, dass modifizierte Versionen einer lizenzierten Arbeit einen anderen Namen oder Versionsnummer als das ursprüngliche Werk tragen, oder auf 
-
-andere Weise hervorheben, welche Änderungen vorgenommen wurden.
+Die **Lizenz** *kann* verlangen, dass modifizierte Versionen einer lizenzierten Arbeit einen anderen Namen oder Versionsnummer als das ursprüngliche Werk tragen, oder auf andere Weise hervorheben, welche Änderungen vorgenommen wurden.
 
 #### 2.2.3 Teilen unter gleichen Bedingungen
 
