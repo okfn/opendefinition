@@ -9,7 +9,7 @@ layout: page
 
 **簡介：** *當知識是任何人都可以自由存取、使用、修改，以及分享，且最多僅受限於註引出處及保持開放的尺度時，它才是開放的。*
 
-本定義的重要元素與軟體相較，同於[開放源碼定義](https://en.wikipedia.org/wiki/The_Open_Source_Definition)下之「開放」一詞，並與[自由軟體定義](https://en.wikipedia.org/wiki/The_Free_Software_Definition)和[自由文化作品定義](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works)裡的「自由」一詞為同義。
+本定義的重要元素與軟體相較，同於[開放源碼定義](https://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90%E5%AE%9A%E4%B9%89)下之「開放」一詞，並與[自由軟體定義](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94%E5%AE%9A%E7%BE%A9)和[自由文化作品定義](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%96%87%E5%8C%96%E4%BD%9C%E5%93%81%E5%AE%9A%E7%BE%A9)裡的「自由」一詞為同義。
 
 **作品**指的是知識被傳遞時的項目或片段。
 
