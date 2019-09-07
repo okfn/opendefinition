@@ -17,7 +17,7 @@ layout: page
 
 **公眾領域**意指無著作權或其他類似條件限制，無論是預設不受保護、或已聲明揚棄所有此類條件。
 
-本文件中，「必須」、「不得 」、「建議」、「得」 等辭彙，各以 [RFC2119](https://tools.ietf.org/html/rfc2119) 中的「must」、「must not」、「should」及「may定義解釋之。
+本文件中，「必須」、「不得 」、「建議」、「得」 等辭彙，各以 [RFC2119](https://tools.ietf.org/html/rfc2119) 中的「must」、「must not」、「should」及「may」定義解釋之。
 
 ## 1. 開放作品
 
