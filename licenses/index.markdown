@@ -354,6 +354,19 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
+<td ><a href="https://github.com/microsoft/Open-Use-of-Data-Agreement/blob/v1.0/O-UDA-1.0.md">Open Use of Data Agreement 1.0</a>
+</td>
+<td >Data
+</td>
+<td >Y
+</td>
+<td >N
+</td>
+<td ><b>Little used.</b>
+</td>
+</tr>
+
+<tr >
 <td ><a href="/licenses/tcl">Talis Community License</a>
 </td>
 <td >Data
