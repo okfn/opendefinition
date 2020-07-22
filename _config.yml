@@ -8,7 +8,7 @@ od_current_version: '2.1'
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-github-metadata
