@@ -5,6 +5,8 @@ repository: okfn/opendefinition
 url: https://opendefinition.org
 permalink: /:year/:month/:day/:title/
 od_current_version: '2.1'
+sass:
+  style: compressed
 
 gems:
   - jekyll-sitemap

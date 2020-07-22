@@ -1,0 +1,137 @@
+$footer-background: $dark-grey;
+$footer-color: white;
+$footer-link-color: transparentize($footer-color, .4);
+$footer-disclaimer-color: transparentize($footer-color, .6);
+
+html {
+    background: $footer-background;
+}
+/* footer */
+.site-footer {
+  background: $footer-background;
+  width: 100%;
+  position:relative;
+  z-index:99;
+  color:$footer-color;
+
+  .wrapper {
+    padding: 2em;
+    @include clearfix;
+
+    .footer-logo {
+      margin-right: 1em;
+      margin-bottom: 1em;
+      margin-top:-4px;
+
+      @media (min-width: $large-screen) {
+        float: left;
+        margin-bottom: 0;
+      }
+
+        img {
+            opacity: .7;
+        }
+    }
+
+    .footer-logo img {
+      height: 2em;
+    }
+
+    ul {
+      font-size: 0.88em;
+      margin-bottom: 1em;
+
+      @media (min-width: $large-screen) {
+        float: left;
+        margin-left: 1em;
+        margin-bottom: 0;
+      }
+    }
+
+    ul li {
+      padding-right: 1em;
+      list-style-type: none;
+
+      @media (min-width: $large-screen) {
+        display: inline;
+        text-align: left;
+      }
+    }
+
+    a {
+      color: $footer-link-color;
+
+      &:hover {
+        color: transparentize($footer-color, 0);
+      }
+
+      &[rel~="external"]:after {
+        display:none;
+      }
+    }
+
+    svg {
+        fill: currentColor;
+    }
+
+    .footer-secondary-links {
+
+      ul {
+        padding-left: 0;
+      }
+
+      li {
+        font-size: .8em;
+        font-weight: 400;
+      }
+
+      ul.footer-social {
+        margin-top: 1em;
+        padding-left: 0;
+        @include clearfix;
+
+        @media (min-width: $large-screen) {
+          margin-top: 0;
+        }
+
+        li {
+          float: left;
+          font-size: 0.9em;
+          padding-right: .45em;
+          display: inline-block;
+
+          &:last-child {
+            padding-right: 0;
+          }
+
+          a {
+            &:hover {
+              opacity: 1;
+            }
+          }
+        }
+
+        img {
+          opacity: .7;
+          height: 1.6em;
+          padding: 1px;
+
+          &:hover {
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+
+  hr {
+    border-color:$footer-disclaimer-color;
+    clear: both;
+    margin: 2.5em 0 1em 0;
+  }
+
+  p {
+    font-size:0.65em;
+    color:$footer-disclaimer-color;
+  }
+}

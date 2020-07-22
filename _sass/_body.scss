@@ -1,0 +1,152 @@
+a.contents-toggle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 1em;
+  width: 26px;
+  height: 26px;
+  padding: 7px;
+  background-color: $okf-blue;
+  color: #fff;
+  overflow: hidden;
+  border-radius: 2px;
+
+  &,
+  &:hover,
+  &:active,
+  &:focus {
+    outline: 0;
+  }
+
+  & > span {
+    margin-top: -2px;
+    top: 50%;
+
+    span {
+      @include hide-text;
+    }
+  }
+
+  & > span,
+  & > span:before,
+  & > span:after {
+    height: 4px;
+    background-color: #fff;
+    display: block;
+    border-radius: 1px;
+    position: relative;
+  }
+
+  & > span:before,
+  & > span:after {
+    content: '';
+  }
+
+  & > span:before {
+    top: -9px;
+  }
+
+  & > span:after {
+    top: 5px;
+  }
+}
+
+body.mm-wrapper_opened {
+  a.contents-toggle {
+    & > span {
+      height: 0;
+      transition: none 0.5s ease;
+      transition-property: transform, top;
+
+      &:before {
+        transform: rotate( 45deg );
+        top: 1px;
+      }
+
+      &:after {
+        transform: rotate( -45deg );
+        top: -3px;
+      }
+    }
+  }
+
+  a.mm-slideout {
+    display: none;
+  }
+
+  @media (min-width: 550px) {
+    a.mm-slideout {
+      display: block;
+    }
+  }
+}
+
+.mm-listview {
+  font: inherit;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+#contents {
+  background-color: #fff;
+}
+
+#page {
+  background-color: #fff;
+
+  & > .intro {
+    background-color: $okf-blue;
+    color: #fff;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+
+    .logo {
+      display: block;
+      width: 6em;
+      margin-top: -2.5em;
+      margin-bottom: 2em;
+      padding: 1em;
+
+      svg {
+        fill: darken($okf-blue, 5%);
+      }
+    }
+
+    h1 {
+      margin-bottom: 0.1em;
+    }
+
+    .description {
+      text-transform: uppercase;
+      font-size: 1.1em;
+    }
+  }
+
+  & > section {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+
+    :first-child {
+      margin-top: 0;
+    }
+
+    :last-child {
+      margin-bottom: 0;
+    }
+
+    &:nth-child(odd) {
+      background-color: $light-grey;
+    }
+
+  }
+}
+
+@media (max-width: 575px) {
+  #page > .intro .logo {
+    display: none;
+  }
+
+  h1 {
+    padding-top: 1.5em;
+  }
+}
