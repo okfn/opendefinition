@@ -77,7 +77,7 @@ and
 <blockquote>Develop a version git-based repository of license texts so they can be tracked over time.</blockquote>
 
 
-On one hand, almost no concrete progress was made extending [licenses.opendefinition.org](https://licenses.opendefiniton.org). On the other hand, I'm very pleased that we're progressing on working with [clipol.org](http://clipol.org/) (run by AC member Kent Mewhort) on common data needed for both sites, and about recent contributions by [Engel Nyst](https://github.com/enyst), who is very familiar with related work done for open source software licenses (e.g., [SPDX](https://spdx.org/licenses/)), and helping us build on that.
+On one hand, almost no concrete progress was made extending [licenses.opendefinition.org](https://licenses.opendefinition.org/). On the other hand, I'm very pleased that we're progressing on working with [clipol.org](http://clipol.org/) (run by AC member Kent Mewhort) on common data needed for both sites, and about recent contributions by [Engel Nyst](https://github.com/enyst), who is very familiar with related work done for open source software licenses (e.g., [SPDX](https://spdx.org/licenses/)), and helping us build on that.
 
 
 

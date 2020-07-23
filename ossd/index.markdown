@@ -54,9 +54,9 @@ This definition was originally drafted thanks on the [open definition discussion
 If you're providing an online service that's compliant with the Definition let people know by using an 'Open Service' web button:
 
 
-![](http://m.okfn.org/images/ok_buttons/os_80x15_blue.png)
-![](http://m.okfn.org/images/ok_buttons/os_80x15_red_green.png)
-![](http://m.okfn.org/images/ok_buttons/os_80x15_orange_grey.png)
+![](/assets.okfn.org/images/ok_buttons/os_80x15_blue.png)
+![](/assets.okfn.org/images/ok_buttons/os_80x15_red_green.png)
+![](/assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png)
 
 
 To add a button to your site just copy and paste the following bit of html into the relevant page on your site (or into the general footer or sidebar):
