@@ -1,0 +1,39 @@
+<nav id="contents">
+  <ul>
+    <li>
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a href="/od/{{site.od_current_version}}/en/">The Definition</a>
+    </li>
+    <li>
+      <a href="/licenses/">Conformant Licenses</a>
+    </li>
+    <li>
+      <a href="/participate/">Participate</a>
+    </li>
+    <li>
+      <a href="/update/">News</a>
+    </li>
+
+    <li>
+      <a>The Open Definition in Your Language</a>
+      <ul>
+        {% include translations.html %}
+      </ul>
+    </li>
+
+  </ul>
+</nav>
+
+<script src="/assets.okfn.org/mmenu-js/mmenu.polyfills.js"></script>
+<script src="/assets.okfn.org/mmenu-js/mmenu.js"></script>
+<script>
+  document.addEventListener(
+    "DOMContentLoaded", function() {
+      new Mmenu("#contents", {
+        navbar: { title: '{{site.title}}' }
+      });
+    }
+  );
+</script>

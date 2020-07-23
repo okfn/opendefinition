@@ -1,0 +1,15 @@
+---
+# Main scss file
+---
+
+@charset "utf-8";
+
+@import
+  'normalize',
+  'variables',
+  'mixins',
+  'solo',
+  'syntax',
+  'footer',
+  'body',
+  'ok-ribbon';
