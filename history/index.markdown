@@ -82,7 +82,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
   * **2007-05-02**: [Crystal Eye (Open Crystallography Data)](http://wwmm.ch.cam.ac.uk/crystaleye/) using the Open Data web buttons (see e.g.  [this page](http://wwmm.ch.cam.ac.uk/crystaleye/summary/acta/b/2007/02-00/data/bk5043/bk5043sup1_2-F-PCB3/bk5043sup1_2-F-PCB3.cif.summary.html) which provides summary data on C12H8ClF).
   * **2007-04-09**: [Planning Alerts](http://www.planningalerts.com/apihowto.php) using an Open Data web button.
   * **2007-03-22**: [Open Access News](http://www.earlham.edu/~peters/fos/fosblog.html) using an Open Knowledge web button
-  * **2007-02-23**: [The Public Whip](http://www.publicwhip.org/) using the new Open Data web button
+  * **2007-02-23**: [The Public Whip](http://www.publicwhip.org.uk/) using the new Open Data web button
   * **2007-02-06**: Open Knowledge and Open Data 'web buttons' available on the [buttons](/buttons/) page
   * **2007-01-22**: Update front page with 'distilled' version of the definition
   * **2006-09-27**: [Serbian Translation](http://gnulinuxcentar.org/index.php?option#com_content&task;=category&sectionid;=5&id;=30&Itemid41;) courtesy of Vedran Vucic and the [GNULinux Centar](http://gnulinuxcentar.org)
