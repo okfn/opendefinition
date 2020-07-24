@@ -315,7 +315,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="http://data.gc.ca/eng/open-government-licence-canada">Open Government Licence Canada 2.0</a>
+<td ><a href="https://open.canada.ca/en/open-government-licence-canada">Open Government Licence Canada 2.0</a>
 </td>
 <td >Content, Data
 </td>
