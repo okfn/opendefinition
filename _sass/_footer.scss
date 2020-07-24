@@ -44,7 +44,7 @@ html {
       @media (min-width: $large-screen) {
         float: left;
         margin-left: 1em;
-        margin-bottom: 0;
+        margin-bottom: 1em;
       }
     }
 
@@ -120,6 +120,17 @@ html {
             opacity: 1;
           }
         }
+      }
+    }
+
+    .footer-language-links {
+      ul {
+        padding-left: 0;
+      }
+      li {
+        font-size: .8em;
+        font-weight: 400;
+        display: inline;
       }
     }
   }
