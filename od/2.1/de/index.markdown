@@ -9,7 +9,7 @@ Die Offen-Definition präzisiert die Bedeutung von „offen” in Bezug auf Wiss
 
 **Zusammenfassung:** *Wissen ist offen, wenn jedeR darauf frei zugreifen, es nutzen, verändern und teilen kann – eingeschränkt höchstens durch Maßnahmen, die Ursprung und Offenheit des Wissens bewahren.*
 
-Diese grundlegende Bedeutung entspricht der von „offen” in Bezug auf Software, wie in der [Open-Source-Definition](https://opensource.org/docs/osd), und steht synonym für „frei” oder „libre” wie in den [Debian-Freie-Software-Richtlinien](http://www.debian.org/social_contract) und der [Definition freier kultureller Werke](https://de.wikipedia.org/wiki/Definition_freier_kultureller_Werke).
+Diese grundlegende Bedeutung entspricht der von „offen” in Bezug auf Software, wie in der [Open-Source-Definition](https://opensource.org/docs/osd), und steht synonym für „frei” oder „libre” wie in den [Debian-Freie-Software-Richtlinien](https://www.debian.org/social_contract) und der [Definition freier kultureller Werke](https://de.wikipedia.org/wiki/Definition_freier_kultureller_Werke).
 
 Der Begriff **Werk** wird im Folgenden verwendet, um ein Element oder ein Stück von Wissen, das übermittelt wird, zu bezeichnen.
 
