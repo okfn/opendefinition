@@ -33,10 +33,6 @@ What licenses can you use? We recommend for 'open' data you use one of the licen
 
 * [Open Licenses](/licenses/)
 
-A short 1-page instruction guide to applying an open data license can be found on the Open Data Commons site:
-
-* [Making Your Data Open](http://opendatacommons.org/guide/)
-
 ## What Legal (IP) Rights Are There in Data (and Databases)
 
 When talking about databases we first need to distinguish between the structure and the content of a database (when we use the term 'data' we shall mean the content of the database itself). As explained in detail in the FAQ prepared by Creative Commons[^4]:
