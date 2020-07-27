@@ -16,5 +16,4 @@ Definition Revision Approval Process _- draft_
 
 7. Chair calls for formal approval of release candidate by Advisory Council on the forum.
 
-8. If after two weeks at least three Advisory Council members approve the consensus summary on the forum, and at least 75% of Advisory Council members expressing an opinion on the summary if any dissent, the website will be updated, and announcements made to public and wider lists as appropriate. Wider lists includes the okfn-discuss@lists.okfn.org and local@lists.okfn.org lists.  If the motion does not pass the chair notifies the list and steps the process back to step 2.
-
+8. If after two weeks at least three Advisory Council members approve the consensus summary on the forum, and at least 75% of Advisory Council members expressing an opinion on the summary if any dissent, the website will be updated, and announcements made to public and wider forums as appropriate. If the motion does not pass the chair notifies the list and steps the process back to step 2.

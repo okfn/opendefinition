@@ -39,7 +39,7 @@ An open software service is one:
 
 ### Acknowledgements
 
-This definition was originally drafted thanks on the [open definition discussiong mailing list](https://lists.okfn.org/mailman/listinfo/od-discuss). A variety of people contributed to that effort as well as subsequent improvements and amendments including (in alphabetical order):
+This definition was originally drafted thanks on the [open definition discussiong mailing list](https://lists-archive.okfn.org/pipermail/od-discuss/). A variety of people contributed to that effort as well as subsequent improvements and amendments including (in alphabetical order):
 
 * Dave Crossland
 * Francis Irving
@@ -122,7 +122,7 @@ welcome to [this topic](http://rizzoma.com/topic/a5a8bfa0ced5ab2611cf5e365673a55
 * v0.2: (first version on this site): 2007-07
 * v0.1: 2006-10
 
-This particular formulation originates from discussions taking place originally on the [okfn-discuss mailing list](https://lists.okfn.org/mailman/listinfo/okfn-discuss) in September and October 2006 (see in particular [this post](https://lists.okfn.org/pipermail/okfn-discuss/2006-October/000177.html)) but owes much to [more recent (Summer 2007) discussions](https://lists.okfn.org/pipermail/okfn-discuss/2007-July/000475.html) precipitated by activities at GUADEC 2007 (see [1], [2], [3], [4]).
+This particular formulation originates from discussions taking place originally on the [okfn-discuss mailing list](https://lists-archive.okfn.org/pipermail/od-discuss/) in September and October 2006 (see in particular [this post](https://lists.okfn.org/pipermail/okfn-discuss/2006-October/000177.html)) but owes much to [more recent (Summer 2007) discussions](https://lists.okfn.org/pipermail/okfn-discuss/2007-July/000475.html) precipitated by activities at GUADEC 2007 (see [1], [2], [3], [4]).
 
 1. [We Need an Open Service Definition](https://blog.okfn.org/2007/07/18/we-need-an-open-service-definition/) -- blog post on the OKFN blog by Francis Irving which references [a post on Havoc Pennington's blog](http://log.ometer.com/2007-07.html#18)
 2. [Evaluating a Free/Open Service Definition (rough draft)](http://tieguy.org/blog/2007/07/22/evaluating-a-freeopen-service-definition-rough-draft/) posted by Luis Villa
