@@ -35,7 +35,7 @@ Text-wrapped at 72 characters for convenience:
 
 #### Comments 
 
-This license is straight-forward mod of the [MIT Open Source License](https://opensource.org/licenses/mit-license.php) developed as part of the [Guide to Open Data Licensing](http://wiki.okfn.org/Open_Data_Licensing).
+This license is straight-forward mod of the [MIT Open Source License](https://opensource.org/licenses/mit-license.php).
 
 #### How to Apply 
 
