@@ -17,5 +17,5 @@ wordpress_id: 388
 
   * [Open Bibliography Principles](http://openbiblio.net/principles/)
   * [OpenBiblio.net - Open Bibliographic Projects and Discussion and home of the Open Bibliographic Data Working Group](http://openbiblio.net/)
-  * [Open Bibliographic Data mailing list](https://lists.okfn.org/mailman/listinfo/open-bibliography)
+  * [Open Bibliographic Data mailing list](https://lists-archive.okfn.org/pipermail/open-bibliography/)
 

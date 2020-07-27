@@ -16,5 +16,4 @@ wordpress_id: 264
 ### More information
 
   * [Open Government Data website](http://opengovernmentdata.org/)
-  * [Open Knowledge Foundation Working Group on Open Government Data](http://wiki.okfn.org/wg/government)
-  * [Open Government (open-government) mailing list](https://lists.okfn.org/mailman/listinfo/open-government)
+  * [Open Government (open-government) mailing list](https://lists-archive.okfn.org/pipermail/open-government/)
