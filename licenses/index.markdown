@@ -35,7 +35,7 @@ These licenses conform to the Open Definition **and** are:
 <tbody >
 <tr >
 
-<th >License (SPDX IDs)
+<th >License (<a href="https://spdx.org/licenses/">SPDX IDs</a>)
 </th>
 
 <th >Domain
