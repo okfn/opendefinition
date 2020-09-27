@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
 require 'json'
@@ -10,5 +12,5 @@ group :test do
   gem 'html-proofer', '~> 3.0'
   gem 'rake'
   gem 'rspec'
-  gem 'nokogiri'
+  gem 'rubocop'
 end
