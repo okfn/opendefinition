@@ -35,7 +35,7 @@ These licenses conform to the Open Definition **and** are:
 <tbody >
 <tr >
 
-<th >License
+<th >License (SPDX IDs)
 </th>
 
 <th >Domain
@@ -52,7 +52,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td ><a href="/licenses/cc-zero">Creative Commons CCZero</a> (CC0)
+<td ><a href="/licenses/cc-zero">Creative Commons CCZero</a> (CC0-1.0)
 </td>
 
 <td >Content, Data
@@ -69,7 +69,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 <tr >
 
-<td ><a href="/licenses/odc-pddl">Open Data Commons Public Domain Dedication and Licence</a> (PDDL)
+<td ><a href="/licenses/odc-pddl">Open Data Commons Public Domain Dedication and Licence</a> (PDDL-1.0)
 </td>
 
 <td >Data
@@ -103,7 +103,7 @@ These licenses conform to the Open Definition **and** are:
 </tr>
 
 <tr >
-<td ><a href="/licenses/odc-by">Open Data Commons Attribution License</a> (ODC-BY)
+<td ><a href="/licenses/odc-by">Open Data Commons Attribution License</a> (ODC-By-1.0)
 </td>
 
 <td >Data
@@ -138,7 +138,7 @@ These licenses conform to the Open Definition **and** are:
 
 <tr >
 
-<td ><a href="/licenses/odc-odbl">Open Data Commons Open Database License</a> (ODbL)
+<td ><a href="/licenses/odc-odbl">Open Data Commons Open Database License</a> (ODbL-1.0)
 </td>
 
 <td >Data
@@ -185,7 +185,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/against-drm">Against DRM</a>
+<td ><a href="/licenses/against-drm">Against DRM</a> (missing SPDX ID)
 </td>
 <td >Content
 </td>
@@ -198,7 +198,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/cc-by">Creative Commons Attribution</a> versions 1.0-3.0
+<td ><a href="/licenses/cc-by">Creative Commons Attribution</a> 1.0-3.0 (CC-BY-{version})
 </td>
 <td >Content
 </td>
@@ -211,7 +211,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution-ShareAlike</a> versions 1.0-3.0
+<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution-ShareAlike</a> 1.0-3.0 (CC-BY-{version})
 </td>
 <td >Content
 </td>
@@ -224,7 +224,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr>
-<td ><a href="https://www.govdata.de/dl-de/by-2-0">Data licence Germany – attribution – version 2.0</a>
+<td ><a href="https://www.govdata.de/dl-de/by-2-0">Data licence Germany – attribution – version 2.0</a> (missing SPDX ID)
 </td>
 <td >Data
 </td>
@@ -237,7 +237,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr>
-<td ><a href="https://www.govdata.de/dl-de/zero-2-0">Data licence Germany – Zero – version 2.0</a>
+<td ><a href="https://www.govdata.de/dl-de/zero-2-0">Data licence Germany – Zero – version 2.0</a> (missing SPDX ID)
 </td>
 <td >Data
 </td>
@@ -250,7 +250,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr>
-<td ><a href="/licenses/dsl">Design Science License</a>
+<td ><a href="/licenses/dsl">Design Science License</a> (missing SPDX ID)
 </td>
 <td >Content
 </td>
@@ -263,7 +263,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/eff-open-audio-license">EFF Open Audio License</a>
+<td ><a href="/licenses/eff-open-audio-license">EFF Open Audio License</a> (missing SPDX ID)
 </td>
 <td >Content
 </td>
@@ -276,7 +276,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/fal">Free Art License</a> (FAL)
+<td ><a href="/licenses/fal">Free Art License</a> 1.2 and 1.3 (LAL-{version})
 </td>
 <td >Content
 </td>
@@ -289,7 +289,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/gfdl">GNU Free Documentation License</a> (GNU FDL)
+<td ><a href="/licenses/gfdl">GNU Free Documentation License</a> 1.1, 1.2, and 1.3 (GFDL-{version})
 </td>
 <td >Content
 </td>
@@ -302,7 +302,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/miros">MirOS License</a>
+<td ><a href="/licenses/miros">MirOS License</a> (MirOS)
 </td>
 <td >Code, Content
 </td>
@@ -315,7 +315,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="https://open.canada.ca/en/open-government-licence-canada">Open Government Licence Canada 2.0</a>
+<td ><a href="https://open.canada.ca/en/open-government-licence-canada">Open Government Licence Canada 2.0</a> (OGL-Canada-2.0)
 </td>
 <td >Content, Data
 </td>
@@ -328,7 +328,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="http://data.gov.tw/license">Open Government Data License Taiwan 1.0</a>
+<td ><a href="http://data.gov.tw/license">Open Government Data License Taiwan 1.0</a> (missing SPDX ID)
 </td>
 <td >Data
 </td>
@@ -341,7 +341,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td >Open Government Licence United Kingdom <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">2.0</a> and <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">3.0</a>
+<td >Open Government Licence United Kingdom <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/">2.0</a> and <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">3.0</a> (OGL-UK-{version})
 </td>
 <td >Content, Data
 </td>
@@ -354,7 +354,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="https://github.com/microsoft/Open-Use-of-Data-Agreement/blob/v1.0/O-UDA-1.0.md">Open Use of Data Agreement 1.0</a>
+<td ><a href="https://github.com/microsoft/Open-Use-of-Data-Agreement/blob/v1.0/O-UDA-1.0.md">Open Use of Data Agreement 1.0</a> (O-UDA-1.0)
 </td>
 <td >Data
 </td>
@@ -367,7 +367,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/tcl">Talis Community License</a>
+<td ><a href="/licenses/tcl">Talis Community License</a> (missing SPDX ID)
 </td>
 <td >Data
 </td>
