@@ -26,6 +26,7 @@ To do this:
   5. Explain the benefit the new license brings over already approved OD-conformant licenses which would outweigh the costs of [license proliferation](https://opensource.org/proliferation-report)? (Link is re software licenses, but the same principles and costs apply.)
   6. Identify which recommended conformant licenses the new license is compatible with, and how -- by alignment (permissions identical or a superset of existing license, conditions identical or a subset) and/or express permission to license the original and/or adaptations of the licensed work under an existing license.
   7. Provide a link to any public drafting process (e.g., conducted on a public communication forum of some sort; multiple drafts presented to that forum) for the license.
+  8. Provide a link to any submission of this license (including previous versions) to other license approval or cataloging venues, e.g. OSI or SPDX.
 
 
 ## What Will Happen
