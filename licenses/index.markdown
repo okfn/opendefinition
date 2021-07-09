@@ -328,7 +328,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="http://data.gov.tw/license">Open Government Data License Taiwan 1.0</a> (missing SPDX ID)
+<td ><a href="http://data.gov.tw/license">Open Government Data License Taiwan 1.0</a> (OGDL-Taiwan-1.0)
 </td>
 <td >Data
 </td>
