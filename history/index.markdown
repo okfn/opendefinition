@@ -8,7 +8,9 @@ title: History
 wordpress_id: 76
 ---
 
-## History of the Open Definition
+_Also see a [Wikipedia article about the Open Definition](https://en.wikipedia.org/wiki/The_Open_Definition)._
+
+## Versions of the Open Definition
 
 ### [v2.1](https://opendefinition.org/od/2.1/en/): 2015-11
 
