@@ -69,7 +69,7 @@ The first version (v0.1) of the definition was drafted in August 2005 and was ci
   * **2008-02-29**: [Polish translation of the Definition](/okd/Polszczyzna) courtesy of Jarosław LIpszyc
   * **2008-02-28**: [Danish translation of the Definition](/okd/Dansk) courtesy of Peter Froberg
   * **2008-02-11**: [Launch](https://blog.okfn.org/2008/02/15/open-definition-advisory-council-launched/) of new [Advisory Council](/advisory-council/) for managing <https://opendefinition.org> and its associated material.
-  * **2007-12-17**: Science Commons announce [Protocol for Implementing Open Access Data](http://sciencecommons.org/projects/publishing/open-access-data-protocol/) which is compatible with the Open Knowledge/Data Definition.
+  * **2007-12-17**: Science Commons [announce](https://web.archive.org/web/20080621061343/http://sciencecommons.org/weblog/archives/2007/12/16/announcing-protocol-for-oa-data/) the [Protocol for Implementing Open Access Data](https://web.archive.org/web/20071218085537/http://sciencecommons.org:80/projects/publishing/open-access-data-protocol/) which is compatible with the Open Knowledge/Data Definition.
   * **2007-12-12**: [Prelinger Archives at archive.org](http://www.archive.org/details/prelinger) are using the Open Knowledge web button.
   * **2007-1/okd9**: [Languages of the World (Multilingual RDF Descriptions)](http://www.lingvoj.org/) using the Open Data web button.
   * **2007-10-17**: [New Popular Edition Maps](http://www.npemap.org.uk/) are using the Open Data web button
