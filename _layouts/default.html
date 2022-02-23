@@ -17,14 +17,7 @@
   <link rel="stylesheet" href="/assets.okfn.org/mmenu-js/mmenu.css">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/index.xml" />
-  {% if site.googleanalytics %}
-    <script>
-      var okiConsent = {
-        analyticsTrackingID: '{{ site.googleanalytics }}'
-      }
-    </script>
-    <script src="https://a.okfn.org/html/oki/consent/assets/js/consent.js"></script>
-  {% endif %}
+  <script defer data-domain="{{ site.host }}" src="https://plausible.io/js/plausible.js"></script>
 </head>
 
 <body>
