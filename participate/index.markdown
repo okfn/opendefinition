@@ -3,7 +3,7 @@ layout: page
 title: Participate
 ---
 
-The work of the Open Definition project is done in an open manner and everyone is welcome to participate. Conversations are encouraged on the [Open Knowledge Forum](https://discuss.okfn.org/c/projects/OpenDefinition). (Old discussions have previously taken place on the [od-discuss mailing list](https://lists-archive.okfn.org/pipermail/od-discuss/)).
+The work of the Open Definition project is done in an open manner and everyone is welcome to participate. Conversations are encouraged on the [Open Knowledge Forum](https://discuss.okfn.org/c/opendefinition/66). (Old discussions have previously taken place on the [od-discuss mailing list](https://lists-archive.okfn.org/pipermail/od-discuss/)).
 
 Also see our [issue tracker](https://github.com/okfn/opendefinition/issues) and [blog](/update/) for other opportunites.
 
