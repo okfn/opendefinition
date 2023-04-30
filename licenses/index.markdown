@@ -211,7 +211,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr >
-<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution-ShareAlike</a> 1.0-3.0 (CC-BY-{version})
+<td ><a href="/licenses/cc-by-sa">Creative Commons Attribution-ShareAlike</a> 1.0-3.0 (CC-BY-SA-{version})
 </td>
 <td >Content
 </td>
