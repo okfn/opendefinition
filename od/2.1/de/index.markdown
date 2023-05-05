@@ -31,7 +31,7 @@ Das **Werk** *muss* **gemeinfrei** oder unter einer offenen **Lizenz** verfügba
 
 Das **Werk** *soll* als Ganzes und zu nicht mehr als angemessenen, einmaligen Reproduktionskosten verfügbar sein, vorzugsweise als kostenloser Download über das Internet. Jegliche weitere Informationen, die zur Einhaltung von Lizenzbestimmungen benötigt werden (etwa die Namen der Mitwirkenden, welche für die Einhaltung von Namensnennungs-Anforderungen benötigt werden), *müssen* das Werk ebenfalls begleiten.
 
-### 1.4 Maschinenlesbarkeit
+### 1.3 Maschinenlesbarkeit
 
 Das **Werk** *muss* in einer Form bereitgestellt werden, die von einem Computer leicht zu verarbeiten ist und in der die einzelnen Elemente des Werks leicht zugänglich und veränderbar sind.
 
