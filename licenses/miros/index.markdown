@@ -12,10 +12,10 @@ wordpress_id: 141
 
 #### Full Text 
 
-See http://mirbsd.de/MirOS-Licence
+See http://www.mirbsd.org/MirOS-Licence
 
 #### How to Apply 
 
-See http://mirbsd.de/MirOS-Licence
+See http://www.mirbsd.org/MirOS-Licence
 
 
