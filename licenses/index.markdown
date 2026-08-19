@@ -224,7 +224,7 @@ These licenses conform to the Open Definition, but do not meet reusability or co
 </tr>
 
 <tr>
-<td ><a href="https://www.govdata.de/dl-de/by-2-0">Data licence Germany – attribution – version 2.0</a> (missing SPDX ID)
+<td ><a href="https://www.govdata.de/dl-de/by-2-0">Data licence Germany – attribution – version 2.0</a> (DL-DE-BY-2.0)
 </td>
 <td >Data
 </td>
