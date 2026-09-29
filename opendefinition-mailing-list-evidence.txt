@@ -1,0 +1,21 @@
+=== 000089 ARCHIVE EVIDENCE ===
+URL: https://lists-archive.okfn.org/pipermail/od-discuss/2011-December/000089.html
+Retrieved UTC:
+Tue, Sep 29, 2026  1:31:25 AM
+
+SIZE:
+8848 /tmp/od-discuss-000089.html
+
+SHA256:
+09d41dc15637f42ac18fc128c4810fb2e613a7197e0315683e41fcccf72f94fa */tmp/od-discuss-000089.html
+
+=== 000096 ARCHIVE EVIDENCE ===
+URL: https://lists-archive.okfn.org/pipermail/od-discuss/2012-January/000096.html
+Retrieved UTC:
+Tue, Sep 29, 2026  1:31:25 AM
+
+SIZE:
+24414 /tmp/od-discuss-000096.html
+
+SHA256:
+06bba799fdaef11ed288745c1ab13fedb0a882913f531499e6b8d57553472033 */tmp/od-discuss-000096.html

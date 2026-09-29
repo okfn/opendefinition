@@ -1,0 +1,36 @@
+=== REPOSITORY ===
+origin	https://github.com/GeneXisD/opendefinition.git (fetch)
+origin	https://github.com/GeneXisD/opendefinition.git (push)
+upstream	https://github.com/okfn/opendefinition.git (fetch)
+upstream	https://github.com/okfn/opendefinition.git (push)
+
+=== HEAD ===
+a0257a0199a7093576de71300a96534c5bb4577d
+
+=== ORIGIN/UPSTREAM ===
+a0257a0199a7093576de71300a96534c5bb4577d
+a0257a0199a7093576de71300a96534c5bb4577d
+
+=== ROOT ===
+commit c187e9bc6c7076fafadf1f60c6478b5fb6d2e3f3
+Author:     Rufus Pollock <rufus.pollock@okfn.org>
+AuthorDate: Mon Apr 2 18:36:27 2012 +0100
+Commit:     Rufus Pollock <rufus.pollock@okfn.org>
+CommitDate: Mon Apr 2 18:36:27 2012 +0100
+
+    [source][m]: add current (v1.1) of the Open (Knowledge) Definition as found at http://opendefinition.org/okd/.
+    
+    * plus v basic README.
+
+=== ROOT FILES ===
+100644 blob 9b272228a988a1aeb27b052e47f3a7b0fc56e37c	README.markdown
+100644 blob d43d424f17d376c7273fff0e2cade6aa2a8adcb1	source/open-definition.markdown
+
+=== ORIGINAL FILE SHA256 ===
+468b1ac0f15297bff624a583f51c6989c47fffbe58d7583219c014dc5b439ca0 */tmp/open-definition-v1.1.markdown
+
+=== INTERMEDIATE SHA256 ===
+3bff039a9065cf71bd2dffb397b1ba39a27ccc7b9acdbe4ad7ce20e1084d9509 */tmp/od-1.1-index.markdown
+
+=== FINAL SHA256 ===
+b2646f712dd44603125a7d2bb2390c7c9e2bc8c76154dcdf2d70346057d75e06 */tmp/od-1.1-en-index.markdown
